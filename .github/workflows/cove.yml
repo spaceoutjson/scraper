@@ -1,0 +1,25 @@
+name: Scrape cove data
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '21 * * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v2
+    - name: Fetch latest data
+      run: |-
+        curl -sSLG "https://www.staging11.system.cove.sg/wp-json/custom/v1/listings-search?access_token=cahjsuxitf3cra0rqyxi855axhjruihlkbm5y00k" -H "User-Agent: Mozilla/5.0" -o cove_sg.json
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest cove listings: ${timestamp}" || exit 0
+        git push
