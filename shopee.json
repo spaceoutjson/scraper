@@ -1,5 +1,5 @@
 {
-  "version": "ba069374a65b7e34732ae1eae08dc903",
+  "version": "9f060934bd2b58d23b920f6abd26ab6b",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -43,8 +43,8 @@
           "price_before_discount": 27800000,
           "is_category_failed": false,
           "show_discount": 8,
-          "cmt_count": 1473,
-          "view_count": 14176,
+          "cmt_count": 1474,
+          "view_count": 14402,
           "catid": 8,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -70,16 +70,16 @@
           "price": 25500000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.945689,
+            "rating_star": 4.945726,
             "rating_count": [
-              1473,
+              1474,
               2,
               1,
               7,
               55,
-              1408
+              1409
             ],
-            "rcount_with_image": 640,
+            "rcount_with_image": 641,
             "rcount_with_context": 1061
           },
           "show_official_shop_label_in_title": false,
@@ -116,17 +116,17 @@
           "item_type": 0,
           "shipping_icon_type": null,
           "label_ids": [
+            1000012,
             1000035,
             1000031,
             13,
             1000092,
             1000058,
-            1000055,
-            1000012
+            1000055
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 2872,
+          "historical_sold": 2873,
           "transparent_background_image": "7a7562b40b25ab25f878b6d006906e88"
         },
         {
@@ -162,8 +162,8 @@
           "price_before_discount": 79900000,
           "is_category_failed": false,
           "show_discount": 43,
-          "cmt_count": 250,
-          "view_count": 7986,
+          "cmt_count": 251,
+          "view_count": 8222,
           "catid": 20153,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -189,17 +189,17 @@
           "price": 45900000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.948,
+            "rating_star": 4.948207,
             "rating_count": [
-              250,
+              251,
               1,
               0,
               1,
               7,
-              241
+              242
             ],
             "rcount_with_image": 105,
-            "rcount_with_context": 156
+            "rcount_with_context": 157
           },
           "show_official_shop_label_in_title": false,
           "tier_variations": [
@@ -237,13 +237,13 @@
           "item_type": 0,
           "shipping_icon_type": null,
           "label_ids": [
-            1000012,
-            1000055,
-            1000066,
             1000031,
             1000035,
             13,
-            1000092
+            1000092,
+            1000012,
+            1000055,
+            1000066
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
@@ -278,13 +278,13 @@
           "is_category_failed": false,
           "show_discount": 18,
           "cmt_count": 234,
-          "view_count": 5437,
+          "view_count": 5795,
           "catid": 169,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
           "brand": "NIKKA",
           "price_min": 12200000,
-          "liked_count": 234,
+          "liked_count": 235,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -336,18 +336,18 @@
           "shipping_icon_type": null,
           "label_ids": [
             1000052,
+            1000031,
             13,
-            1000092,
-            1000055,
-            1000035,
-            1000056,
+            1000066,
             1000067,
-            1000018,
             21,
             1000019,
+            1000092,
+            1000055,
+            1000056,
+            1000018,
             1000030,
-            1000031,
-            1000066
+            1000035
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
@@ -387,14 +387,14 @@
           "price_before_discount": 29900000,
           "is_category_failed": false,
           "show_discount": 13,
-          "cmt_count": 895,
-          "view_count": 34346,
+          "cmt_count": 897,
+          "view_count": 34439,
           "catid": 2414,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
           "brand": "Xiaomi",
           "price_min": 26000000,
-          "liked_count": 2141,
+          "liked_count": 2142,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -414,17 +414,17 @@
           "price": 26000000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.939665,
+            "rating_star": 4.939799,
             "rating_count": [
-              895,
+              897,
               2,
               2,
               6,
               28,
-              857
+              859
             ],
-            "rcount_with_image": 352,
-            "rcount_with_context": 577
+            "rcount_with_image": 353,
+            "rcount_with_context": 578
           },
           "show_official_shop_label_in_title": false,
           "tier_variations": [],
@@ -449,15 +449,15 @@
           "item_type": 0,
           "shipping_icon_type": null,
           "label_ids": [
-            1000088,
             1000092,
             1000031,
             1000035,
-            1000055
+            1000055,
+            1000088
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 1778,
+          "historical_sold": 1779,
           "transparent_background_image": ""
         },
         {
@@ -488,7 +488,7 @@
           "is_category_failed": false,
           "show_discount": 66,
           "cmt_count": 42,
-          "view_count": 5273,
+          "view_count": 5305,
           "catid": 4,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -557,19 +557,19 @@
           "item_type": 0,
           "shipping_icon_type": null,
           "label_ids": [
-            1000070,
+            1000066,
+            1000035,
             1000031,
+            1000013,
+            22,
+            1000010,
+            1000055,
+            1000070,
+            1000100,
             1000110,
             1000094,
             1000012,
-            1000057,
-            1000055,
-            1000066,
-            1000100,
-            1000035,
-            1000013,
-            22,
-            1000010
+            1000057
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
@@ -606,13 +606,13 @@
           "is_category_failed": false,
           "show_discount": 4,
           "cmt_count": 21,
-          "view_count": 61484,
+          "view_count": 61558,
           "catid": 8,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
           "brand": "Apple",
           "price_min": 206900000,
-          "liked_count": 323,
+          "liked_count": 322,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -692,15 +692,15 @@
           "item_type": 0,
           "shipping_icon_type": null,
           "label_ids": [
-            1000031,
             1000035,
             1000058,
             1000055,
-            1000012
+            1000012,
+            1000031
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 52,
+          "historical_sold": 53,
           "transparent_background_image": ""
         },
         {
@@ -737,7 +737,7 @@
           "is_category_failed": false,
           "show_discount": 7,
           "cmt_count": 15,
-          "view_count": 2927,
+          "view_count": 2950,
           "catid": 9,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -810,17 +810,17 @@
           "item_type": 0,
           "shipping_icon_type": null,
           "label_ids": [
-            1000067,
-            1000031,
             1000090,
             1000110,
-            1000058,
             1000066,
-            1000041,
+            1000067,
             1000035,
             13,
+            1000031,
             1000012,
-            1000055
+            1000058,
+            1000055,
+            1000041
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
@@ -861,7 +861,7 @@
           "is_category_failed": false,
           "show_discount": 8,
           "cmt_count": 45,
-          "view_count": 5331,
+          "view_count": 5366,
           "catid": 2,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -874,7 +874,7 @@
           "price_min_before_discount": 12900000,
           "cb_option": 0,
           "sold": 55,
-          "stock": 100,
+          "stock": 98,
           "status": 1,
           "price_max": 12900000,
           "add_on_deal_info": null,
@@ -948,11 +948,11 @@
           "item_type": 0,
           "shipping_icon_type": null,
           "label_ids": [
+            1000057,
             1000055,
             13,
             1000031,
-            1000035,
-            1000057
+            1000035
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
@@ -993,13 +993,13 @@
           "is_category_failed": false,
           "show_discount": 21,
           "cmt_count": 192,
-          "view_count": 1597,
+          "view_count": 1621,
           "catid": 20212,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
           "brand": "Digi-Cabi",
           "price_min": 8900000,
-          "liked_count": 355,
+          "liked_count": 357,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -1064,12 +1064,12 @@
           "item_type": 0,
           "shipping_icon_type": null,
           "label_ids": [
+            1000031,
             1000012,
             1000055,
             1000088,
             13,
-            1000035,
-            1000031
+            1000035
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
