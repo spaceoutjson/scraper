@@ -1,0 +1,25 @@
+name: Scrape Qoo10 data
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '2,32 * * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v2
+    - name: Fetch latest data
+      run: |-
+        curl -sSLG "http://www.qoo10.sg" -H "User-Agent: Mozilla/5.0" -o qoo10_sg.html 
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest Qoo10 Homepage: ${timestamp}" || exit 0
+        git push
