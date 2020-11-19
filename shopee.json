@@ -1,5 +1,5 @@
 {
-  "version": "83458834a89a48cbc93b365fc68ab34d",
+  "version": "98d05c1c633f4ba0b08ec63e015c3b4f",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -47,7 +47,7 @@
           "is_category_failed": false,
           "show_discount": 15,
           "cmt_count": 681,
-          "view_count": 10450,
+          "view_count": 10497,
           "catid": 8,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -172,8 +172,8 @@
           "price_before_discount": 19500000,
           "is_category_failed": false,
           "show_discount": 13,
-          "cmt_count": 2449,
-          "view_count": 50641,
+          "cmt_count": 2450,
+          "view_count": 50712,
           "catid": 8,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -195,14 +195,14 @@
           "price": 17900000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.906901,
+            "rating_star": 4.906939,
             "rating_count": [
-              2449,
+              2450,
               11,
               8,
               22,
               116,
-              2292
+              2293
             ],
             "rcount_with_image": 927,
             "rcount_with_context": 1418
@@ -253,7 +253,7 @@
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 5896,
+          "historical_sold": 5898,
           "transparent_background_image": ""
         },
         {
@@ -288,13 +288,13 @@
           "is_category_failed": false,
           "show_discount": 39,
           "cmt_count": 744,
-          "view_count": 10865,
+          "view_count": 10923,
           "catid": 20153,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
           "brand": "Nintendo",
           "price_min": 45900000,
-          "liked_count": 2473,
+          "liked_count": 2474,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -413,7 +413,7 @@
           "is_category_failed": false,
           "show_discount": 10,
           "cmt_count": 124,
-          "view_count": 15729,
+          "view_count": 15757,
           "catid": 9,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -541,7 +541,7 @@
           "is_category_failed": false,
           "show_discount": 46,
           "cmt_count": 485,
-          "view_count": 18557,
+          "view_count": 18564,
           "catid": 2414,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -657,7 +657,7 @@
           "is_category_failed": false,
           "show_discount": 7,
           "cmt_count": 2266,
-          "view_count": 20094,
+          "view_count": 20108,
           "catid": 2414,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -782,7 +782,7 @@
           "is_category_failed": false,
           "show_discount": 6,
           "cmt_count": 126,
-          "view_count": 11124,
+          "view_count": 11126,
           "catid": 2414,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -898,8 +898,8 @@
           "price_before_discount": 4250000,
           "is_category_failed": false,
           "show_discount": 9,
-          "cmt_count": 2693,
-          "view_count": 13956,
+          "cmt_count": 2694,
+          "view_count": 13957,
           "catid": 12,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -925,17 +925,17 @@
           "price": 3850000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.916048,
+            "rating_star": 4.916079,
             "rating_count": [
-              2693,
+              2694,
               17,
               11,
               27,
               75,
-              2563
+              2564
             ],
             "rcount_with_image": 1049,
-            "rcount_with_context": 1688
+            "rcount_with_context": 1689
           },
           "show_official_shop_label_in_title": false,
           "tier_variations": [
@@ -985,7 +985,7 @@
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 7320,
+          "historical_sold": 7321,
           "transparent_background_image": ""
         },
         {
@@ -1017,7 +1017,7 @@
           "is_category_failed": false,
           "show_discount": 65,
           "cmt_count": 3,
-          "view_count": 798,
+          "view_count": 818,
           "catid": 5,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -1121,7 +1121,7 @@
           "is_category_failed": false,
           "show_discount": 25,
           "cmt_count": 591,
-          "view_count": 20687,
+          "view_count": 20701,
           "catid": 11,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
