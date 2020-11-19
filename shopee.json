@@ -1,5 +1,5 @@
 {
-  "version": "1237ebbbe4079f0ab6ad499d0043470e",
+  "version": "7e46aa7e820fd9dd6d7146cf54f0805a",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -46,14 +46,14 @@
           "price_before_discount": 40800000,
           "is_category_failed": false,
           "show_discount": 15,
-          "cmt_count": 680,
-          "view_count": 10270,
+          "cmt_count": 681,
+          "view_count": 10326,
           "catid": 8,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
           "brand": "Samsung",
           "price_min": 34500000,
-          "liked_count": 973,
+          "liked_count": 974,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -73,14 +73,14 @@
           "price": 34500000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.913235,
+            "rating_star": 4.913363,
             "rating_count": [
-              680,
+              681,
               3,
               0,
               10,
               27,
-              640
+              641
             ],
             "rcount_with_image": 286,
             "rcount_with_context": 489
@@ -140,7 +140,7 @@
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 1306,
+          "historical_sold": 1307,
           "transparent_background_image": ""
         },
         {
@@ -172,21 +172,21 @@
           "price_before_discount": 19500000,
           "is_category_failed": false,
           "show_discount": 13,
-          "cmt_count": 2447,
-          "view_count": 50379,
+          "cmt_count": 2448,
+          "view_count": 50490,
           "catid": 8,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
           "brand": "Apple",
           "price_min": 17900000,
-          "liked_count": 6205,
+          "liked_count": 6206,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
           "price_min_before_discount": 19500000,
           "cb_option": 0,
           "sold": 849,
-          "stock": 95,
+          "stock": 94,
           "status": 1,
           "price_max": 27900000,
           "add_on_deal_info": null,
@@ -195,14 +195,14 @@
           "price": 17900000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.906825,
+            "rating_star": 4.906863,
             "rating_count": [
-              2447,
+              2448,
               11,
               8,
               22,
               116,
-              2290
+              2291
             ],
             "rcount_with_image": 926,
             "rcount_with_context": 1417
@@ -253,7 +253,7 @@
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 5892,
+          "historical_sold": 5895,
           "transparent_background_image": ""
         },
         {
@@ -288,7 +288,7 @@
           "is_category_failed": false,
           "show_discount": 39,
           "cmt_count": 744,
-          "view_count": 10632,
+          "view_count": 10707,
           "catid": 20153,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -414,13 +414,13 @@
           "is_category_failed": false,
           "show_discount": 10,
           "cmt_count": 124,
-          "view_count": 15586,
+          "view_count": 15630,
           "catid": 9,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
           "brand": "Apple",
           "price_min": 129900000,
-          "liked_count": 1184,
+          "liked_count": 1185,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -542,7 +542,7 @@
           "is_category_failed": false,
           "show_discount": 46,
           "cmt_count": 485,
-          "view_count": 18523,
+          "view_count": 18536,
           "catid": 2414,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -658,7 +658,7 @@
           "is_category_failed": false,
           "show_discount": 7,
           "cmt_count": 2266,
-          "view_count": 20052,
+          "view_count": 20068,
           "catid": 2414,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -747,7 +747,7 @@
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 4570,
+          "historical_sold": 4571,
           "transparent_background_image": "def64bf20ccfb7375e9aba1569709d17"
         },
         {
@@ -782,8 +782,8 @@
           "price_before_discount": 52990000,
           "is_category_failed": false,
           "show_discount": 6,
-          "cmt_count": 125,
-          "view_count": 11113,
+          "cmt_count": 126,
+          "view_count": 11116,
           "catid": 2414,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -805,17 +805,17 @@
           "price": 49990000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.952,
+            "rating_star": 4.952381,
             "rating_count": [
-              125,
+              126,
               1,
               0,
               0,
               2,
-              122
+              123
             ],
             "rcount_with_image": 57,
-            "rcount_with_context": 93
+            "rcount_with_context": 94
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -900,7 +900,7 @@
           "is_category_failed": false,
           "show_discount": 9,
           "cmt_count": 2693,
-          "view_count": 13943,
+          "view_count": 13950,
           "catid": 12,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -1023,7 +1023,7 @@
           "is_category_failed": false,
           "show_discount": 25,
           "cmt_count": 590,
-          "view_count": 20639,
+          "view_count": 20658,
           "catid": 11,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -1112,7 +1112,7 @@
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 1257,
+          "historical_sold": 1258,
           "transparent_background_image": ""
         }
       ],
