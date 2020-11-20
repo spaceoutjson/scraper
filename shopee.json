@@ -1,5 +1,5 @@
 {
-  "version": "a4f5e2d031af6e25883213df2f9bcba9",
+  "version": "6427832e679af71c449280c418808826",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -43,7 +43,7 @@
           "is_category_failed": false,
           "show_discount": 32,
           "cmt_count": 102,
-          "view_count": 17039,
+          "view_count": 17090,
           "catid": 8,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -173,7 +173,7 @@
           "is_category_failed": false,
           "show_discount": 8,
           "cmt_count": 28,
-          "view_count": 57564,
+          "view_count": 57678,
           "catid": 8,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -269,7 +269,7 @@
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 61,
+          "historical_sold": 62,
           "transparent_background_image": ""
         },
         {
@@ -308,13 +308,13 @@
           "is_category_failed": false,
           "show_discount": 35,
           "cmt_count": 701,
-          "view_count": 15306,
+          "view_count": 15391,
           "catid": 2414,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
           "brand": "FANCO",
           "price_min": 18900000,
-          "liked_count": 1211,
+          "liked_count": 1213,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -440,7 +440,7 @@
           "is_category_failed": false,
           "show_discount": 3,
           "cmt_count": 17,
-          "view_count": 2179,
+          "view_count": 2210,
           "catid": 2414,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -551,7 +551,7 @@
           "is_category_failed": false,
           "show_discount": 44,
           "cmt_count": 168,
-          "view_count": 1020,
+          "view_count": 1023,
           "catid": 12,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -675,7 +675,7 @@
           "is_category_failed": false,
           "show_discount": 38,
           "cmt_count": 1299,
-          "view_count": 8946,
+          "view_count": 8949,
           "catid": 20153,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -771,13 +771,13 @@
           "is_category_failed": false,
           "show_discount": 11,
           "cmt_count": 146,
-          "view_count": 9511,
+          "view_count": 9526,
           "catid": 8,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
           "brand": "Samsung",
           "price_min": 89900000,
-          "liked_count": 456,
+          "liked_count": 457,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -906,7 +906,7 @@
           "is_category_failed": false,
           "show_discount": 15,
           "cmt_count": 1400,
-          "view_count": 19836,
+          "view_count": 19842,
           "catid": 12,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -990,7 +990,7 @@
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 5765,
+          "historical_sold": 5767,
           "transparent_background_image": ""
         },
         {
@@ -1022,8 +1022,8 @@
           "price_before_discount": 8070000,
           "is_category_failed": false,
           "show_discount": 34,
-          "cmt_count": 1654,
-          "view_count": 14508,
+          "cmt_count": 1656,
+          "view_count": 14516,
           "catid": 16997,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -1045,17 +1045,17 @@
           "price": 5300000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.960097,
+            "rating_star": 4.960145,
             "rating_count": [
-              1654,
+              1656,
               3,
               1,
               9,
               33,
-              1608
+              1610
             ],
-            "rcount_with_image": 789,
-            "rcount_with_context": 1078
+            "rcount_with_image": 790,
+            "rcount_with_context": 1080
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -1142,8 +1142,8 @@
           "price_before_discount": 7500000,
           "is_category_failed": false,
           "show_discount": 27,
-          "cmt_count": 1263,
-          "view_count": 13586,
+          "cmt_count": 1264,
+          "view_count": 13589,
           "catid": 169,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -1165,17 +1165,17 @@
           "price": 5500000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.900158,
+            "rating_star": 4.900238,
             "rating_count": [
-              1263,
+              1264,
               9,
               2,
               17,
               50,
-              1185
+              1186
             ],
-            "rcount_with_image": 533,
-            "rcount_with_context": 759
+            "rcount_with_image": 534,
+            "rcount_with_context": 760
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -1227,7 +1227,7 @@
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 3035,
+          "historical_sold": 3036,
           "transparent_background_image": ""
         }
       ],
