@@ -1,5 +1,5 @@
 {
-  "version": "1cb3c2e9d5d410f3690162f7745d0f72",
+  "version": "cd172f97133b50b6d7cd253ab1e39dc2",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -46,7 +46,7 @@
           "is_category_failed": false,
           "show_discount": 17,
           "cmt_count": 764,
-          "view_count": 17762,
+          "view_count": 17795,
           "catid": 8,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -181,13 +181,13 @@
           "is_category_failed": false,
           "show_discount": 7,
           "cmt_count": 92,
-          "view_count": 10865,
+          "view_count": 10902,
           "catid": 8,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
           "brand": "OnePlus",
           "price_min": 64900000,
-          "liked_count": 241,
+          "liked_count": 242,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -315,8 +315,8 @@
           "price_before_discount": 34800000,
           "is_category_failed": false,
           "show_discount": 20,
-          "cmt_count": 406,
-          "view_count": 11482,
+          "cmt_count": 407,
+          "view_count": 11515,
           "catid": 8,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -342,17 +342,17 @@
           "price": 27900000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.926108,
+            "rating_star": 4.923833,
             "rating_count": [
-              406,
+              407,
               1,
               1,
               4,
-              15,
+              16,
               385
             ],
             "rcount_with_image": 193,
-            "rcount_with_context": 288
+            "rcount_with_context": 289
           },
           "show_official_shop_label_in_title": false,
           "tier_variations": [
@@ -412,7 +412,7 @@
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 840,
+          "historical_sold": 841,
           "transparent_background_image": ""
         },
         {
@@ -448,7 +448,7 @@
           "is_category_failed": false,
           "show_discount": 12,
           "cmt_count": 31,
-          "view_count": 11159,
+          "view_count": 11177,
           "catid": 9,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -558,7 +558,7 @@
           "is_category_failed": false,
           "show_discount": 14,
           "cmt_count": 105,
-          "view_count": 3078,
+          "view_count": 3080,
           "catid": 20212,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -673,7 +673,7 @@
           "is_category_failed": false,
           "show_discount": 8,
           "cmt_count": 21,
-          "view_count": 6941,
+          "view_count": 6947,
           "catid": 9,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -787,7 +787,7 @@
           "is_category_failed": false,
           "show_discount": 41,
           "cmt_count": 146,
-          "view_count": 8703,
+          "view_count": 8705,
           "catid": 2414,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -908,8 +908,8 @@
           "price_before_discount": 2050000,
           "is_category_failed": false,
           "show_discount": 37,
-          "cmt_count": 6565,
-          "view_count": 17256,
+          "cmt_count": 6566,
+          "view_count": 17257,
           "catid": 12,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -922,7 +922,7 @@
           "price_min_before_discount": 2050000,
           "cb_option": 0,
           "sold": 1759,
-          "stock": 785,
+          "stock": 784,
           "status": 1,
           "price_max": 2900000,
           "add_on_deal_info": null,
@@ -931,14 +931,14 @@
           "price": 1290000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.944529,
+            "rating_star": 4.944538,
             "rating_count": [
-              6565,
+              6566,
               6,
               16,
               53,
               192,
-              6298
+              6299
             ],
             "rcount_with_image": 2650,
             "rcount_with_context": 4058
@@ -995,7 +995,7 @@
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 14549,
+          "historical_sold": 14550,
           "transparent_background_image": ""
         },
         {
@@ -1026,7 +1026,7 @@
           "is_category_failed": false,
           "show_discount": 14,
           "cmt_count": 410,
-          "view_count": 2122,
+          "view_count": 2123,
           "catid": 12,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
