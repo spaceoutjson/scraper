@@ -137,32 +137,6 @@
         ]
       },
       {
-        "id": 45,
-        "name": "\nPrivate transport",
-        "enable": true,
-        "children": [
-          {
-            "id": 46,
-            "name": "Airport transfer",
-            "enable": true,
-            "children": null
-          }
-        ]
-      },
-      {
-        "id": 48,
-        "name": "Public transport",
-        "enable": true,
-        "children": [
-          {
-            "id": 49,
-            "name": "Airport trains & buses",
-            "enable": true,
-            "children": null
-          }
-        ]
-      },
-      {
         "id": 52,
         "name": "Scooter & motorbike rentals",
         "enable": true,
@@ -547,6 +521,53 @@
     ],
     "activities": [
       {
+        "id": 51772,
+        "template_id": 2,
+        "title": "Chinatown Instawalk - A Coolie’s Life",
+        "subtitle": "",
+        "url_seo": "chinatown-join-instawalk-tour",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "asfwnclkuiprmhclldf6.jpg",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "55.00",
+        "sell_price": "55.00",
+        "from_price": "55.00",
+        "to_price": "55.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2020-11-28 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "hot_state": "new",
+        "discount": 0,
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/asfwnclkuiprmhclldf6.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.283018,103.851337",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 0,
+        "country_name": "",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "package_id": 0,
+        "tags": null,
+        "need_hide_review": true,
+        "what_we_love": ""
+      },
+      {
         "id": 50774,
         "template_id": 3,
         "title": "Hotel Boss Staycation with F&B Dining Options, Early Check-In and Late Check-Out ",
@@ -758,8 +779,8 @@
         "start_time": "2020-12-08 20:30:00",
         "sold_out": false,
         "published": true,
-        "participate": 99,
-        "participants_format": "50+ Booked",
+        "participate": 103,
+        "participants_format": "100+ Booked",
         "hot_state": "normal",
         "discount": 17,
         "review_total": 0,
@@ -2848,56 +2869,9 @@
         "tags": null,
         "need_hide_review": false,
         "what_we_love": ""
-      },
-      {
-        "id": 50884,
-        "template_id": 4,
-        "title": "La Brasserie at The Fullerton Bay Hotel Singapore",
-        "subtitle": "",
-        "url_seo": "la-brasserie-fullerton-bay-hotel",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "qwas2uvfmjdd7r3ijfwy.jpg",
-        "video_url": "",
-        "score": 5,
-        "currency": "SGD",
-        "market_price": "103.59",
-        "sell_price": "88.05",
-        "from_price": "88.05",
-        "to_price": "138.09",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2020-11-27 18:30:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 15,
-        "participants_format": "New Activity",
-        "hot_state": "new",
-        "discount": 15,
-        "review_total": 1,
-        "image_url_host": "https://res.klook.com/image/upload/activities/qwas2uvfmjdd7r3ijfwy.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.284076,103.853565",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 0,
-        "country_name": "",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "package_id": 0,
-        "tags": null,
-        "need_hide_review": false,
-        "what_we_love": ""
       }
     ],
-    "total": 802,
+    "total": 803,
     "price": {
       "from": "0",
       "to": "520"
