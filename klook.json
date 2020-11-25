@@ -758,7 +758,7 @@
         "start_time": "2020-12-08 20:30:00",
         "sold_out": false,
         "published": true,
-        "participate": 91,
+        "participate": 97,
         "participants_format": "50+ Booked",
         "hot_state": "normal",
         "discount": 17,
@@ -2306,7 +2306,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-11-27 18:00:00",
+        "start_time": "2020-11-28 10:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2494,7 +2494,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-11-26 00:00:00",
+        "start_time": "2020-11-27 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 1,
@@ -2635,7 +2635,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-11-27 00:00:00",
+        "start_time": "2020-11-28 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 1,
@@ -2897,7 +2897,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 804,
+    "total": 802,
     "price": {
       "from": "0",
       "to": "520"
