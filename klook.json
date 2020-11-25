@@ -826,7 +826,7 @@
         "start_time": "2020-12-08 20:30:00",
         "sold_out": false,
         "published": true,
-        "participate": 103,
+        "participate": 106,
         "participants_format": "100+ Booked",
         "hot_state": "normal",
         "discount": 17,
@@ -870,7 +870,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-11-29 00:00:00",
+        "start_time": "2020-11-30 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -917,7 +917,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-11-25 00:00:00",
+        "start_time": "2020-11-26 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1387,7 +1387,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-11-26 00:00:00",
+        "start_time": "2020-11-27 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1716,7 +1716,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-11-25 00:00:00",
+        "start_time": "2020-11-26 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2468,7 +2468,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-11-25 00:00:00",
+        "start_time": "2020-11-26 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 2,
@@ -2797,7 +2797,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-11-29 00:00:00",
+        "start_time": "2020-11-30 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 12,
@@ -2844,7 +2844,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-11-27 00:00:00",
+        "start_time": "2020-11-29 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 6,
@@ -2874,7 +2874,7 @@
     "total": 804,
     "price": {
       "from": "0",
-      "to": "520"
+      "to": "519"
     },
     "stat": null,
     "template_tag_mapping": [
