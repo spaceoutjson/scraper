@@ -758,7 +758,7 @@
         "start_time": "2020-12-08 20:30:00",
         "sold_out": false,
         "published": true,
-        "participate": 97,
+        "participate": 99,
         "participants_format": "50+ Booked",
         "hot_state": "normal",
         "discount": 17,
@@ -1066,7 +1066,7 @@
       {
         "id": 51605,
         "template_id": 2,
-        "title": "Rediscover Chinatown in Singapore",
+        "title": "Rediscover Chinatown",
         "subtitle": "",
         "url_seo": "rediscover-chinatown-join-guided-tour",
         "city_id": 6,
@@ -1178,7 +1178,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-11-26 00:00:00",
+        "start_time": "2020-11-27 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1225,7 +1225,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-11-26 00:00:00",
+        "start_time": "2020-11-27 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1695,7 +1695,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-11-27 00:00:00",
+        "start_time": "2020-11-28 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 1,
