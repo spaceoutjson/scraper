@@ -137,6 +137,32 @@
         ]
       },
       {
+        "id": 45,
+        "name": "\nPrivate transport",
+        "enable": true,
+        "children": [
+          {
+            "id": 46,
+            "name": "Airport transfer",
+            "enable": true,
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 48,
+        "name": "Public transport",
+        "enable": true,
+        "children": [
+          {
+            "id": 49,
+            "name": "Airport trains & buses",
+            "enable": true,
+            "children": null
+          }
+        ]
+      },
+      {
         "id": 52,
         "name": "Scooter & motorbike rentals",
         "enable": true,
@@ -517,7 +543,8 @@
       "2021-11-22T00:00:00Z",
       "2021-11-23T00:00:00Z",
       "2021-11-24T00:00:00Z",
-      "2021-11-25T00:00:00Z"
+      "2021-11-25T00:00:00Z",
+      "2021-11-26T00:00:00Z"
     ],
     "activities": [
       {
@@ -695,6 +722,53 @@
         "icons": null,
         "min_trip": 0,
         "latlng": "1.283018,103.851337",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 0,
+        "country_name": "",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "package_id": 0,
+        "tags": null,
+        "need_hide_review": true,
+        "what_we_love": ""
+      },
+      {
+        "id": 51613,
+        "template_id": 1,
+        "title": "[Klook Exclusive] HydroDash Admission",
+        "subtitle": "",
+        "url_seo": "1-hour-hydrodash-admission-singapore",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "xsbej00i5glikqv2wcdu.jpg",
+        "video_url": "https://res.klook.com/video/upload/fl_lossy.progressive,q_85,f_auto/c_fill,,/c_scale,h_540,vc_auto/c_scale,g_north_west,h_20,l_whitelogo_hz5dq1,o_30,x_70,y_480/c_scale,f_mp4,fl_splice,h_540,l_video:ending_trgtvv/v1606295717/activities/hh30bfevjmjjub9ofpa6.mp4",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "20.00",
+        "sell_price": "20.00",
+        "from_price": "20.00",
+        "to_price": "20.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2020-11-27 10:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "hot_state": "new",
+        "discount": 0,
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/xsbej00i5glikqv2wcdu.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.249838,103.821574",
         "activity_type": "",
         "ysim_info": null,
         "country_id": 0,
@@ -1340,7 +1414,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-11-27 00:00:00",
+        "start_time": "2020-11-28 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1387,7 +1461,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-11-27 00:00:00",
+        "start_time": "2020-11-28 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1622,7 +1696,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-11-27 19:00:00",
+        "start_time": "2020-12-02 19:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1857,7 +1931,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-11-28 00:00:00",
+        "start_time": "2020-11-29 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 1,
@@ -2656,7 +2730,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-11-27 00:00:00",
+        "start_time": "2020-11-28 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 1,
@@ -2797,7 +2871,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-11-28 00:00:00",
+        "start_time": "2020-11-29 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 1,
@@ -2810,53 +2884,6 @@
         "icons": null,
         "min_trip": 0,
         "latlng": "1.277564,103.844372",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 0,
-        "country_name": "",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "package_id": 0,
-        "tags": null,
-        "need_hide_review": true,
-        "what_we_love": ""
-      },
-      {
-        "id": 51353,
-        "template_id": 3,
-        "title": "Create Your Own Miniature Garden! Capitol Singapore Christmas Workshop",
-        "subtitle": "",
-        "url_seo": "create-your-own-miniature-garden-workshop-pass",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 4,
-        "image_url": "uwlxcrnnkye7dkzshvka.jpg",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "65.00",
-        "sell_price": "65.00",
-        "from_price": "65.00",
-        "to_price": "65.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2020-12-04 12:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 1,
-        "participants_format": "New Activity",
-        "hot_state": "new",
-        "discount": 0,
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/uwlxcrnnkye7dkzshvka.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.354186,103.818316",
         "activity_type": "",
         "ysim_info": null,
         "country_id": 0,
@@ -2885,6 +2912,11 @@
           "disable": false
         },
         "tags": [
+          {
+            "id": 170,
+            "name": "Sports",
+            "disable": false
+          },
           {
             "id": 33,
             "name": "Theme Parks",
