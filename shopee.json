@@ -1,5 +1,5 @@
 {
-  "version": "44e133082356b42189c2f0ad2af0726b",
+  "version": "43d15e3e6ed796762cb08e5995a7fe37",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -55,7 +55,7 @@
           "is_category_failed": false,
           "show_discount": 39,
           "cmt_count": 30,
-          "view_count": 15127,
+          "view_count": 15177,
           "catid": 8,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -68,7 +68,7 @@
           "price_min_before_discount": 129800000,
           "cb_option": 0,
           "sold": 38,
-          "stock": 85,
+          "stock": 84,
           "status": 1,
           "price_max": 119800000,
           "add_on_deal_info": null,
@@ -180,7 +180,7 @@
           "is_category_failed": false,
           "show_discount": 40,
           "cmt_count": 10,
-          "view_count": 2530,
+          "view_count": 2647,
           "catid": 13,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -316,13 +316,13 @@
           "is_category_failed": false,
           "show_discount": 50,
           "cmt_count": 32,
-          "view_count": 8073,
+          "view_count": 8287,
           "catid": 13,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
           "brand": null,
           "price_min": 2950000,
-          "liked_count": 51,
+          "liked_count": 52,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -443,7 +443,7 @@
           "is_category_failed": false,
           "show_discount": 0,
           "cmt_count": 35,
-          "view_count": 4425,
+          "view_count": 4441,
           "catid": 2414,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -560,7 +560,7 @@
           "is_category_failed": false,
           "show_discount": 22,
           "cmt_count": 122,
-          "view_count": 2328,
+          "view_count": 2333,
           "catid": 2414,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -683,14 +683,14 @@
           "price_before_discount": 9700000,
           "is_category_failed": false,
           "show_discount": 13,
-          "cmt_count": 122,
-          "view_count": 6763,
+          "cmt_count": 123,
+          "view_count": 6784,
           "catid": 20212,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
           "brand": "Fujifilm",
           "price_min": 8400000,
-          "liked_count": 486,
+          "liked_count": 487,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -710,17 +710,17 @@
           "price": 8400000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.991803,
+            "rating_star": 4.99187,
             "rating_count": [
-              122,
+              123,
               0,
               0,
               0,
               1,
-              121
+              122
             ],
             "rcount_with_image": 43,
-            "rcount_with_context": 58
+            "rcount_with_context": 59
           },
           "show_official_shop_label_in_title": false,
           "tier_variations": [
@@ -791,7 +791,7 @@
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 264,
+          "historical_sold": 265,
           "transparent_background_image": ""
         },
         {
@@ -821,7 +821,7 @@
           "is_category_failed": false,
           "show_discount": 28,
           "cmt_count": 393,
-          "view_count": 7938,
+          "view_count": 7949,
           "catid": 9,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -955,8 +955,8 @@
           "price_before_discount": 14900000,
           "is_category_failed": false,
           "show_discount": 18,
-          "cmt_count": 256,
-          "view_count": 6843,
+          "cmt_count": 257,
+          "view_count": 6858,
           "catid": 169,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -978,17 +978,17 @@
           "price": 12200000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.96748,
+            "rating_star": 4.967611,
             "rating_count": [
-              256,
+              257,
               0,
               0,
               2,
               4,
-              250
+              251
             ],
             "rcount_with_image": 102,
-            "rcount_with_context": 155
+            "rcount_with_context": 156
           },
           "show_official_shop_label_in_title": false,
           "tier_variations": [
@@ -1038,7 +1038,7 @@
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 737,
+          "historical_sold": 738,
           "transparent_background_image": ""
         },
         {
@@ -1073,7 +1073,7 @@
           "is_category_failed": false,
           "show_discount": 21,
           "cmt_count": 729,
-          "view_count": 10294,
+          "view_count": 10299,
           "catid": 12,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -1202,13 +1202,13 @@
           "is_category_failed": false,
           "show_discount": 30,
           "cmt_count": 1730,
-          "view_count": 22361,
+          "view_count": 22370,
           "catid": 16997,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
           "brand": "Kinohimitsu",
           "price_min": 4200000,
-          "liked_count": 1437,
+          "liked_count": 1438,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -1295,7 +1295,7 @@
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 4440,
+          "historical_sold": 4441,
           "transparent_background_image": "3dc613a9ded1c67afc524c9c1d076bb6"
         }
       ],
