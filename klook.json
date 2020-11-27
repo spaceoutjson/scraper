@@ -1138,7 +1138,7 @@
         "start_time": "2020-11-27 15:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 12,
+        "participate": 14,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -1997,9 +1997,9 @@
         "score": 0,
         "currency": "SGD",
         "market_price": "200.00",
-        "sell_price": "117.70",
-        "from_price": "117.70",
-        "to_price": "181.29",
+        "sell_price": "94.19",
+        "from_price": "94.19",
+        "to_price": "157.75",
         "spec_price": {
           "type": 0,
           "desc": ""
@@ -2010,7 +2010,7 @@
         "participate": 0,
         "participants_format": "New Activity",
         "hot_state": "new",
-        "discount": 41,
+        "discount": 53,
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
         },
