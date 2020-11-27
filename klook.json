@@ -574,6 +574,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/a965f3oicb0mdhdzechb.jpg",
         "icon": null,
@@ -589,7 +592,14 @@
         "detail_hotel": null,
         "real_lang": "",
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "what_we_love": ""
       },
@@ -621,6 +631,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/lxckpdollzqw8pwnw4d2.jpg",
         "icon": null,
@@ -636,7 +649,14 @@
         "detail_hotel": null,
         "real_lang": "",
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "what_we_love": ""
       },
@@ -661,13 +681,16 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-11-29 00:00:00",
+        "start_time": "2020-11-30 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/tb64xe0zacgbkcyja6hb.jpg",
         "icon": null,
@@ -683,7 +706,14 @@
         "detail_hotel": null,
         "real_lang": "",
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "what_we_love": ""
       },
@@ -708,13 +738,16 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-11-29 00:00:00",
+        "start_time": "2020-11-30 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/i5btqhmxcg9jl9yn8t4t.jpg",
         "icon": null,
@@ -730,7 +763,14 @@
         "detail_hotel": null,
         "real_lang": "",
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "what_we_love": ""
       },
@@ -856,6 +896,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 25,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/rjayakpkywqsqjnlxi0w.jpg",
         "icon": null,
@@ -871,7 +914,14 @@
         "detail_hotel": null,
         "real_lang": "",
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "what_we_love": ""
       },
@@ -990,7 +1040,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-11-27 11:00:00",
+        "start_time": "2020-11-27 13:00:00",
         "sold_out": false,
         "published": true,
         "participate": 4,
@@ -1084,7 +1134,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-11-27 00:00:00",
+        "start_time": "2020-11-28 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1138,6 +1188,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/htx4s4k9ekdb3cbqyr9r.jpg",
         "icon": null,
@@ -1153,7 +1206,14 @@
         "detail_hotel": null,
         "real_lang": "",
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "what_we_love": ""
       },
@@ -1170,10 +1230,10 @@
         "video_url": "",
         "score": 0,
         "currency": "SGD",
-        "market_price": "333.59",
-        "sell_price": "256.60",
-        "from_price": "256.60",
-        "to_price": "333.49",
+        "market_price": "313.69",
+        "sell_price": "241.30",
+        "from_price": "241.30",
+        "to_price": "300.10",
         "spec_price": {
           "type": 0,
           "desc": ""
@@ -1228,7 +1288,7 @@
         "start_time": "2020-12-08 20:30:00",
         "sold_out": false,
         "published": true,
-        "participate": 121,
+        "participate": 123,
         "participants_format": "100+ Booked",
         "hot_state": "normal",
         "discount": 17,
@@ -1420,6 +1480,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/v7ovanm9nywwvzkvyikt.jpg",
         "icon": null,
@@ -1435,7 +1498,14 @@
         "detail_hotel": null,
         "real_lang": "",
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "what_we_love": ""
       },
@@ -1467,6 +1537,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/vzdmnhccayrxvvdbqaiv.jpg",
         "icon": null,
@@ -1482,7 +1555,14 @@
         "detail_hotel": null,
         "real_lang": "",
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "what_we_love": ""
       },
@@ -1514,6 +1594,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/ewofluwb1zt9h7t6fweg.jpg",
         "icon": null,
@@ -1529,7 +1612,14 @@
         "detail_hotel": null,
         "real_lang": "",
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "what_we_love": ""
       },
@@ -1561,6 +1651,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/hxz7rrdfprt6slyautmg.jpg",
         "icon": null,
@@ -1576,7 +1669,14 @@
         "detail_hotel": null,
         "real_lang": "",
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "what_we_love": ""
       },
@@ -1655,6 +1755,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/bcqfkvtx8jhhdgppy01w.jpg",
         "icon": null,
@@ -1670,7 +1773,14 @@
         "detail_hotel": null,
         "real_lang": "",
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "what_we_love": ""
       },
@@ -1702,6 +1812,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/qtysfowjtabb4pplf8qu.jpg",
         "icon": null,
@@ -1717,7 +1830,14 @@
         "detail_hotel": null,
         "real_lang": "",
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "what_we_love": ""
       },
@@ -1796,6 +1916,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 41,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/wbysgmylmili4q0luamo.jpg",
         "icon": null,
@@ -1811,7 +1934,14 @@
         "detail_hotel": null,
         "real_lang": "",
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "what_we_love": ""
       },
@@ -1977,7 +2107,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-02 00:00:00",
+        "start_time": "2020-12-03 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 7,
@@ -2219,6 +2349,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 59,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/uanjimtrbpltsqelgxcf.jpg",
         "icon": null,
@@ -2234,7 +2367,14 @@
         "detail_hotel": null,
         "real_lang": "",
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "what_we_love": ""
       },
@@ -2783,6 +2923,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 25,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/eaa8ixoidxhvc3f0lmcy.jpg",
         "icon": null,
@@ -2798,7 +2941,14 @@
         "detail_hotel": null,
         "real_lang": "",
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "what_we_love": ""
       },
@@ -2823,7 +2973,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-11-29 00:00:00",
+        "start_time": "2020-11-30 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
