@@ -544,7 +544,8 @@
       "2021-11-23T00:00:00Z",
       "2021-11-24T00:00:00Z",
       "2021-11-25T00:00:00Z",
-      "2021-11-26T00:00:00Z"
+      "2021-11-26T00:00:00Z",
+      "2021-11-27T00:00:00Z"
     ],
     "activities": [
       {
@@ -1574,7 +1575,7 @@
         "start_time": "2020-11-28 10:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 14,
+        "participate": 15,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -3098,7 +3099,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 820,
+    "total": 821,
     "price": {
       "from": "0",
       "to": "518"
