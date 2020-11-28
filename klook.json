@@ -1571,7 +1571,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-11-28 13:00:00",
+        "start_time": "2020-11-28 14:00:00",
         "sold_out": false,
         "published": true,
         "participate": 21,
@@ -1631,7 +1631,7 @@
         "start_time": "2020-12-02 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 1,
+        "participate": 2,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 15,
@@ -2376,7 +2376,7 @@
         "start_time": "2020-11-28 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 9,
+        "participate": 11,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 22,
@@ -3421,10 +3421,7 @@
         ]
       }
     ],
-    "srv_filter_option": {
-      "srv_act_content": "Eligible for SingapoRediscovers Vouchers",
-      "is_selected": 0
-    }
+    "srv_filter_option": null
   },
   "success": true
 }
