@@ -1461,7 +1461,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-11-29 13:00:00",
+        "start_time": "2020-11-29 14:00:00",
         "sold_out": false,
         "published": true,
         "participate": 35,
@@ -1840,7 +1840,7 @@
         "start_time": "2020-11-29 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 1,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 10,
