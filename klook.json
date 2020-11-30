@@ -634,7 +634,7 @@
         "start_time": "2020-12-04 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 2,
+        "participate": 3,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 5,
@@ -691,7 +691,7 @@
         "start_time": "2020-12-10 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 4,
+        "participate": 5,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 20,
@@ -1261,7 +1261,7 @@
         "start_time": "2020-12-05 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 10,
+        "participate": 11,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 36,
@@ -1375,7 +1375,7 @@
         "start_time": "2020-12-01 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 9,
+        "participate": 11,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 23,
@@ -2800,7 +2800,7 @@
         "start_time": "2020-12-06 09:45:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 2,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -2971,7 +2971,7 @@
         "start_time": "2020-12-07 10:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 4,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -3179,7 +3179,7 @@
         "start_time": "2020-12-05 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 21,
+        "participate": 24,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 56,
@@ -3384,7 +3384,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 863,
+    "total": 864,
     "price": {
       "from": "0",
       "to": "518"
@@ -3707,10 +3707,7 @@
         ]
       }
     ],
-    "srv_filter_option": {
-      "srv_act_content": "Eligible for SingapoRediscovers Vouchers",
-      "is_selected": 0
-    }
+    "srv_filter_option": null
   },
   "success": true
 }
