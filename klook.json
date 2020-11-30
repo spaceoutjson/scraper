@@ -634,7 +634,7 @@
         "start_time": "2020-12-04 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 3,
+        "participate": 5,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 5,
@@ -3384,7 +3384,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 864,
+    "total": 863,
     "price": {
       "from": "0",
       "to": "518"
@@ -3707,7 +3707,10 @@
         ]
       }
     ],
-    "srv_filter_option": null
+    "srv_filter_option": {
+      "srv_act_content": "Eligible for SingapoRediscovers Vouchers",
+      "is_selected": 0
+    }
   },
   "success": true
 }
