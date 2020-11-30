@@ -149,12 +149,6 @@
         ]
       },
       {
-        "id": 52,
-        "name": "Scooter & motorbike rentals",
-        "enable": true,
-        "children": null
-      },
-      {
         "id": 102,
         "name": "Airport transfer",
         "enable": true,
@@ -172,6 +166,12 @@
             "children": null
           }
         ]
+      },
+      {
+        "id": 52,
+        "name": "Scooter & motorbike rentals",
+        "enable": true,
+        "children": null
       },
       {
         "id": 54,
