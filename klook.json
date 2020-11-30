@@ -756,7 +756,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-07 09:00:00",
+        "start_time": "2020-12-08 09:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1699,7 +1699,7 @@
         "start_time": "2020-12-04 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 6,
+        "participate": 7,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 56,
@@ -2404,7 +2404,7 @@
         "start_time": "2020-12-08 20:30:00",
         "sold_out": false,
         "published": true,
-        "participate": 180,
+        "participate": 182,
         "participants_format": "100+ Booked",
         "hot_state": "normal",
         "discount": 17,
@@ -2898,7 +2898,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 837,
+    "total": 836,
     "price": {
       "from": "0",
       "to": "518"
