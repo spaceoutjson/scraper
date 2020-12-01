@@ -1116,7 +1116,7 @@
         "start_time": "2020-12-06 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 9,
+        "participate": 11,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 5,
@@ -1230,7 +1230,7 @@
         "start_time": "2020-12-03 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 2,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -1743,7 +1743,7 @@
         "start_time": "2020-12-05 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 26,
+        "participate": 29,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 36,
@@ -1800,7 +1800,7 @@
         "start_time": "2020-12-01 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 2,
+        "participate": 5,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 29,
@@ -1857,7 +1857,7 @@
         "start_time": "2020-12-01 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 26,
+        "participate": 28,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 23,
@@ -3696,7 +3696,10 @@
         ]
       }
     ],
-    "srv_filter_option": null
+    "srv_filter_option": {
+      "srv_act_content": "Eligible for SingapoRediscovers Vouchers",
+      "is_selected": 0
+    }
   },
   "success": true
 }
