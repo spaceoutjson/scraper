@@ -669,7 +669,7 @@
         "start_time": "2020-12-09 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 45,
+        "participate": 46,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -783,7 +783,7 @@
         "start_time": "2020-12-09 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 10,
+        "participate": 11,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -1722,7 +1722,7 @@
         "start_time": "2020-12-07 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 20,
+        "participate": 21,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 5,
@@ -1779,7 +1779,7 @@
         "start_time": "2020-12-10 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 45,
+        "participate": 47,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 20,
@@ -2178,7 +2178,7 @@
         "start_time": "2020-12-09 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 3,
+        "participate": 4,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -3352,7 +3352,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 883,
+    "total": 882,
     "price": {
       "from": "0",
       "to": "519"
