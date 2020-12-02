@@ -1,5 +1,5 @@
 {
-  "version": "c99754df4e48d156ac19d08aff04aca9",
+  "version": "dff6e4fab89b97ff41aeaddd9b466e87",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -57,20 +57,20 @@
           "is_category_failed": false,
           "show_discount": 51,
           "cmt_count": 578,
-          "view_count": 21888,
+          "view_count": 21949,
           "catid": 6,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
           "brand": "Oral-B",
           "price_min": 16990000,
-          "liked_count": 707,
+          "liked_count": 708,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
           "price_min_before_discount": 34900000,
           "cb_option": 0,
           "sold": 390,
-          "stock": 216,
+          "stock": 215,
           "status": 1,
           "price_max": 16990000,
           "add_on_deal_info": {
@@ -184,7 +184,7 @@
           "is_category_failed": false,
           "show_discount": 10,
           "cmt_count": 550,
-          "view_count": 3786,
+          "view_count": 3861,
           "catid": 6,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -301,7 +301,7 @@
           "is_category_failed": false,
           "show_discount": 15,
           "cmt_count": 733,
-          "view_count": 14858,
+          "view_count": 14928,
           "catid": 8,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -426,7 +426,7 @@
           "is_category_failed": false,
           "show_discount": 16,
           "cmt_count": 154,
-          "view_count": 1967,
+          "view_count": 2010,
           "catid": 169,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -542,14 +542,14 @@
           "price_before_discount": 19500000,
           "is_category_failed": false,
           "show_discount": 13,
-          "cmt_count": 2560,
-          "view_count": 49280,
+          "cmt_count": 2561,
+          "view_count": 49299,
           "catid": 8,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
           "brand": "Apple",
           "price_min": 17900000,
-          "liked_count": 6351,
+          "liked_count": 6350,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -565,17 +565,17 @@
           "price": 17900000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.905041,
+            "rating_star": 4.905078,
             "rating_count": [
-              2560,
+              2561,
               13,
               9,
               23,
               121,
-              2394
+              2395
             ],
-            "rcount_with_image": 971,
-            "rcount_with_context": 1482
+            "rcount_with_image": 972,
+            "rcount_with_context": 1483
           },
           "show_official_shop_label_in_title": false,
           "tier_variations": [
@@ -626,7 +626,7 @@
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 6235,
+          "historical_sold": 6237,
           "transparent_background_image": ""
         },
         {
@@ -661,7 +661,7 @@
           "is_category_failed": false,
           "show_discount": 35,
           "cmt_count": 90,
-          "view_count": 5836,
+          "view_count": 5851,
           "catid": 8,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -780,7 +780,7 @@
           "is_category_failed": false,
           "show_discount": 33,
           "cmt_count": 136,
-          "view_count": 21150,
+          "view_count": 21167,
           "catid": 8,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -905,7 +905,7 @@
           "is_category_failed": false,
           "show_discount": 17,
           "cmt_count": 97,
-          "view_count": 15844,
+          "view_count": 15851,
           "catid": 9,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -1027,8 +1027,8 @@
           "price_before_discount": 22000000,
           "is_category_failed": false,
           "show_discount": 38,
-          "cmt_count": 1340,
-          "view_count": 30136,
+          "cmt_count": 1341,
+          "view_count": 30140,
           "catid": 6,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -1050,14 +1050,14 @@
           "price": 15900000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.92009,
+            "rating_star": 4.920149,
             "rating_count": [
-              1340,
+              1341,
               7,
               1,
               9,
               61,
-              1262
+              1263
             ],
             "rcount_with_image": 587,
             "rcount_with_context": 889
@@ -1115,7 +1115,7 @@
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 3220,
+          "historical_sold": 3221,
           "transparent_background_image": ""
         },
         {
@@ -1143,8 +1143,8 @@
           "price_before_discount": 5890000,
           "is_category_failed": false,
           "show_discount": 8,
-          "cmt_count": 2726,
-          "view_count": 6402,
+          "cmt_count": 2729,
+          "view_count": 6406,
           "catid": 16997,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -1166,17 +1166,17 @@
           "price": 5400000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.911193,
+            "rating_star": 4.91129,
             "rating_count": [
-              2727,
+              2730,
               9,
               7,
               39,
               114,
-              2558
+              2561
             ],
-            "rcount_with_image": 772,
-            "rcount_with_context": 1538
+            "rcount_with_image": 775,
+            "rcount_with_context": 1541
           },
           "show_official_shop_label_in_title": false,
           "tier_variations": [
@@ -1221,7 +1221,7 @@
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 7751,
+          "historical_sold": 7756,
           "transparent_background_image": "79d1878bbb6c4d4180e24f2501310821"
         }
       ],
