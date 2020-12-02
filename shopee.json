@@ -1,5 +1,5 @@
 {
-  "version": "50a11c888830e80278d12eefafe90ed5",
+  "version": "16dae0a6a9817e5d1ff25e9a2296f206",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -57,7 +57,7 @@
           "is_category_failed": false,
           "show_discount": 51,
           "cmt_count": 578,
-          "view_count": 22107,
+          "view_count": 22232,
           "catid": 6,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -70,7 +70,7 @@
           "price_min_before_discount": 34900000,
           "cb_option": 0,
           "sold": 390,
-          "stock": 213,
+          "stock": 212,
           "status": 1,
           "price_max": 16990000,
           "add_on_deal_info": {
@@ -184,7 +184,7 @@
           "is_category_failed": false,
           "show_discount": 10,
           "cmt_count": 550,
-          "view_count": 4025,
+          "view_count": 4135,
           "catid": 6,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -197,7 +197,7 @@
           "price_min_before_discount": 3500000,
           "cb_option": 0,
           "sold": 129,
-          "stock": 82,
+          "stock": 81,
           "status": 1,
           "price_max": 3150000,
           "add_on_deal_info": null,
@@ -301,7 +301,7 @@
           "is_category_failed": false,
           "show_discount": 15,
           "cmt_count": 733,
-          "view_count": 15074,
+          "view_count": 15187,
           "catid": 8,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -426,7 +426,7 @@
           "is_category_failed": false,
           "show_discount": 16,
           "cmt_count": 154,
-          "view_count": 2077,
+          "view_count": 2139,
           "catid": 169,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -542,14 +542,14 @@
           "price_before_discount": 19500000,
           "is_category_failed": false,
           "show_discount": 13,
-          "cmt_count": 2562,
-          "view_count": 49354,
+          "cmt_count": 2563,
+          "view_count": 49405,
           "catid": 8,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
           "brand": "Apple",
           "price_min": 17900000,
-          "liked_count": 6350,
+          "liked_count": 6353,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -565,17 +565,17 @@
           "price": 17900000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.905115,
+            "rating_star": 4.905152,
             "rating_count": [
-              2562,
+              2563,
               13,
               9,
               23,
               121,
-              2396
+              2397
             ],
-            "rcount_with_image": 973,
-            "rcount_with_context": 1484
+            "rcount_with_image": 974,
+            "rcount_with_context": 1485
           },
           "show_official_shop_label_in_title": false,
           "tier_variations": [
@@ -626,7 +626,7 @@
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 6241,
+          "historical_sold": 6242,
           "transparent_background_image": ""
         },
         {
@@ -661,7 +661,7 @@
           "is_category_failed": false,
           "show_discount": 35,
           "cmt_count": 90,
-          "view_count": 5896,
+          "view_count": 5927,
           "catid": 8,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -780,7 +780,7 @@
           "is_category_failed": false,
           "show_discount": 33,
           "cmt_count": 136,
-          "view_count": 21212,
+          "view_count": 21232,
           "catid": 8,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -793,7 +793,7 @@
           "price_min_before_discount": 189800000,
           "cb_option": 0,
           "sold": 108,
-          "stock": 11,
+          "stock": 13,
           "status": 1,
           "price_max": 126900000,
           "add_on_deal_info": {
@@ -905,13 +905,13 @@
           "is_category_failed": false,
           "show_discount": 17,
           "cmt_count": 97,
-          "view_count": 15873,
+          "view_count": 15884,
           "catid": 9,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
           "brand": "Huawei",
           "price_min": 82900000,
-          "liked_count": 293,
+          "liked_count": 294,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -1027,8 +1027,8 @@
           "price_before_discount": 22000000,
           "is_category_failed": false,
           "show_discount": 38,
-          "cmt_count": 1341,
-          "view_count": 30165,
+          "cmt_count": 1343,
+          "view_count": 30193,
           "catid": 6,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -1050,17 +1050,17 @@
           "price": 15900000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.920149,
+            "rating_star": 4.920268,
             "rating_count": [
-              1341,
+              1343,
               7,
               1,
               9,
               61,
-              1263
+              1265
             ],
-            "rcount_with_image": 587,
-            "rcount_with_context": 889
+            "rcount_with_image": 588,
+            "rcount_with_context": 891
           },
           "show_official_shop_label_in_title": false,
           "tier_variations": [
@@ -1115,7 +1115,7 @@
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 3224,
+          "historical_sold": 3226,
           "transparent_background_image": ""
         },
         {
@@ -1143,8 +1143,8 @@
           "price_before_discount": 5890000,
           "is_category_failed": false,
           "show_discount": 8,
-          "cmt_count": 2731,
-          "view_count": 6426,
+          "cmt_count": 2733,
+          "view_count": 6434,
           "catid": 16997,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -1157,7 +1157,7 @@
           "price_min_before_discount": 5890000,
           "cb_option": 0,
           "sold": 703,
-          "stock": 3429,
+          "stock": 3428,
           "status": 1,
           "price_max": 5400000,
           "add_on_deal_info": null,
@@ -1166,17 +1166,17 @@
           "price": 5400000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.911355,
+            "rating_star": 4.91142,
             "rating_count": [
-              2732,
+              2734,
               9,
               7,
               39,
               114,
-              2563
+              2565
             ],
-            "rcount_with_image": 775,
-            "rcount_with_context": 1541
+            "rcount_with_image": 776,
+            "rcount_with_context": 1542
           },
           "show_official_shop_label_in_title": false,
           "tier_variations": [
@@ -1221,7 +1221,7 @@
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 7760,
+          "historical_sold": 7764,
           "transparent_background_image": "79d1878bbb6c4d4180e24f2501310821"
         }
       ],
