@@ -741,6 +741,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/otorlxwstbf3tun5ohfo.jpg",
         "icon": null,
@@ -756,7 +759,14 @@
         "detail_hotel": null,
         "real_lang": "",
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "what_we_love": ""
       },
@@ -1130,6 +1140,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/wshnocvgtr2hydrvwcjx.jpg",
         "icon": null,
@@ -1145,7 +1158,14 @@
         "detail_hotel": null,
         "real_lang": "",
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "what_we_love": ""
       },
@@ -1485,7 +1505,7 @@
         "start_time": "2020-12-07 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 4,
+        "participate": 5,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -1884,7 +1904,7 @@
         "start_time": "2020-12-09 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 200,
+        "participate": 208,
         "participants_format": "200+ Booked",
         "hot_state": "normal",
         "discount": 0,
@@ -1998,7 +2018,7 @@
         "start_time": "2020-12-09 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 242,
+        "participate": 260,
         "participants_format": "200+ Booked",
         "hot_state": "normal",
         "discount": 0,
@@ -2565,7 +2585,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-05 21:00:00",
+        "start_time": "2020-12-08 12:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2669,7 +2689,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-03 00:00:00",
+        "start_time": "2020-12-04 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2947,7 +2967,7 @@
         "start_time": "2020-12-05 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 3,
+        "participate": 4,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 29,
@@ -3061,7 +3081,7 @@
         "start_time": "2020-12-03 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 50,
+        "participate": 53,
         "participants_format": "50+ Booked",
         "hot_state": "normal",
         "discount": 38,
@@ -3232,7 +3252,7 @@
         "start_time": "2020-12-10 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 65,
+        "participate": 66,
         "participants_format": "50+ Booked",
         "hot_state": "normal",
         "discount": 20,
@@ -3289,7 +3309,7 @@
         "start_time": "2020-12-05 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 24,
+        "participate": 29,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
