@@ -454,6 +454,7 @@
       "2021-08-12T00:00:00Z",
       "2021-08-13T00:00:00Z",
       "2021-08-14T00:00:00Z",
+      "2021-08-15T00:00:00Z",
       "2021-08-16T00:00:00Z",
       "2021-08-17T00:00:00Z",
       "2021-08-18T00:00:00Z",
@@ -548,7 +549,8 @@
       "2021-11-30T00:00:00Z",
       "2021-12-01T00:00:00Z",
       "2021-12-02T00:00:00Z",
-      "2021-12-03T00:00:00Z"
+      "2021-12-03T00:00:00Z",
+      "2021-12-04T00:00:00Z"
     ],
     "activities": [
       {
@@ -1229,7 +1231,7 @@
         "start_time": "2020-12-11 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 3,
+        "participate": 4,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -1598,7 +1600,7 @@
         "start_time": "2020-12-08 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 7,
+        "participate": 8,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -2091,7 +2093,7 @@
         "start_time": "2020-12-09 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 270,
+        "participate": 271,
         "participants_format": "200+ Booked",
         "hot_state": "normal",
         "discount": 0,
@@ -2148,7 +2150,7 @@
         "start_time": "2020-12-09 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 30,
+        "participate": 31,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -2205,7 +2207,7 @@
         "start_time": "2020-12-09 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 325,
+        "participate": 329,
         "participants_format": "300+ Booked",
         "hot_state": "normal",
         "discount": 0,
@@ -3302,7 +3304,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 904,
+    "total": 903,
     "price": {
       "from": "0",
       "to": "516"
