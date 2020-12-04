@@ -1,5 +1,5 @@
 {
-  "version": "aff4f5c9b90c1365912abaf78f3e8102",
+  "version": "d137f34fe92380d301afb94e05bde659",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -46,7 +46,7 @@
           "is_category_failed": false,
           "show_discount": 10,
           "cmt_count": 15,
-          "view_count": 3909,
+          "view_count": 3953,
           "catid": 166,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -160,7 +160,7 @@
           "is_category_failed": false,
           "show_discount": 10,
           "cmt_count": 24,
-          "view_count": 5173,
+          "view_count": 5242,
           "catid": 166,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -282,13 +282,13 @@
           "is_category_failed": false,
           "show_discount": 5,
           "cmt_count": 44,
-          "view_count": 8471,
+          "view_count": 8489,
           "catid": 8,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
           "brand": "Samsung",
           "price_min": 104800000,
-          "liked_count": 143,
+          "liked_count": 144,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -406,7 +406,7 @@
           "is_category_failed": false,
           "show_discount": 45,
           "cmt_count": 9,
-          "view_count": 9375,
+          "view_count": 9403,
           "catid": 166,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -521,7 +521,7 @@
           "is_category_failed": false,
           "show_discount": 9,
           "cmt_count": 368,
-          "view_count": 9320,
+          "view_count": 9327,
           "catid": 11,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -640,7 +640,7 @@
           "is_category_failed": false,
           "show_discount": 20,
           "cmt_count": 1575,
-          "view_count": 18104,
+          "view_count": 18111,
           "catid": 11,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -769,7 +769,7 @@
           "is_category_failed": false,
           "show_discount": 0,
           "cmt_count": 172,
-          "view_count": 14644,
+          "view_count": 14645,
           "catid": 2414,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -889,7 +889,7 @@
           "is_category_failed": false,
           "show_discount": 4,
           "cmt_count": 27,
-          "view_count": 8445,
+          "view_count": 8446,
           "catid": 9,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -1002,8 +1002,8 @@
           "price_before_discount": 26100000,
           "is_category_failed": false,
           "show_discount": 26,
-          "cmt_count": 531,
-          "view_count": 17809,
+          "cmt_count": 532,
+          "view_count": 17812,
           "catid": 6,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -1029,17 +1029,17 @@
           "price": 19200000,
           "shop_location": "Hong Kong",
           "item_rating": {
-            "rating_star": 4.847458,
+            "rating_star": 4.847744,
             "rating_count": [
-              531,
+              532,
               7,
               4,
               7,
               27,
-              486
+              487
             ],
-            "rcount_with_image": 255,
-            "rcount_with_context": 347
+            "rcount_with_image": 256,
+            "rcount_with_context": 348
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -1096,7 +1096,7 @@
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 1360,
+          "historical_sold": 1361,
           "transparent_background_image": ""
         },
         {
@@ -1128,8 +1128,8 @@
           "price_before_discount": 179900000,
           "is_category_failed": false,
           "show_discount": 2,
-          "cmt_count": 58,
-          "view_count": 59864,
+          "cmt_count": 59,
+          "view_count": 59871,
           "catid": 8,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -1155,17 +1155,17 @@
           "price": 176900000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.913793,
+            "rating_star": 4.881356,
             "rating_count": [
-              58,
+              59,
               1,
               0,
-              0,
+              1,
               1,
               56
             ],
-            "rcount_with_image": 25,
-            "rcount_with_context": 41
+            "rcount_with_image": 26,
+            "rcount_with_context": 42
           },
           "show_official_shop_label_in_title": false,
           "tier_variations": [
