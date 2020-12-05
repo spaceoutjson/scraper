@@ -1,5 +1,5 @@
 {
-  "version": "76223bd692147e2c3463705d3a1c9bcd",
+  "version": "3ff8b3cf929220f8db60a7e0bf299b53",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -50,13 +50,13 @@
           "is_category_failed": false,
           "show_discount": 39,
           "cmt_count": 103,
-          "view_count": 11182,
+          "view_count": 11325,
           "catid": 11,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
           "brand": "SINGGATE",
           "price_min": 36800000,
-          "liked_count": 1022,
+          "liked_count": 1026,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -166,13 +166,13 @@
           "is_category_failed": false,
           "show_discount": 50,
           "cmt_count": 63,
-          "view_count": 4805,
+          "view_count": 4977,
           "catid": 11,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
           "brand": "Tefal",
           "price_min": 5500000,
-          "liked_count": 301,
+          "liked_count": 303,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -252,7 +252,7 @@
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 140,
+          "historical_sold": 141,
           "transparent_background_image": ""
         },
         {
@@ -296,7 +296,7 @@
           "is_category_failed": false,
           "show_discount": 48,
           "cmt_count": 111,
-          "view_count": 2812,
+          "view_count": 2895,
           "catid": 11,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -309,7 +309,7 @@
           "price_min_before_discount": 15800000,
           "cb_option": 0,
           "sold": 51,
-          "stock": 86,
+          "stock": 85,
           "status": 1,
           "price_max": 10620000,
           "add_on_deal_info": null,
@@ -415,8 +415,8 @@
           "price_before_discount": 3790000,
           "is_category_failed": false,
           "show_discount": 8,
-          "cmt_count": 11078,
-          "view_count": 43398,
+          "cmt_count": 11080,
+          "view_count": 43464,
           "catid": 12,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -429,7 +429,7 @@
           "price_min_before_discount": 3790000,
           "cb_option": 0,
           "sold": 5647,
-          "stock": 1101,
+          "stock": 1096,
           "status": 1,
           "price_max": 3550000,
           "add_on_deal_info": {
@@ -442,17 +442,17 @@
           "price": 3550000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.937438,
+            "rating_star": 4.937449,
             "rating_count": [
-              11080,
+              11082,
               59,
               37,
               70,
               216,
-              10698
+              10700
             ],
             "rcount_with_image": 3685,
-            "rcount_with_context": 6274
+            "rcount_with_context": 6275
           },
           "show_official_shop_label_in_title": false,
           "tier_variations": [
@@ -510,7 +510,7 @@
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 40973,
+          "historical_sold": 40975,
           "transparent_background_image": ""
         },
         {
@@ -542,8 +542,8 @@
           "price_before_discount": 88900000,
           "is_category_failed": false,
           "show_discount": 19,
-          "cmt_count": 771,
-          "view_count": 14290,
+          "cmt_count": 772,
+          "view_count": 14313,
           "catid": 8,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -569,14 +569,14 @@
           "price": 71900000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.919585,
+            "rating_star": 4.919689,
             "rating_count": [
-              771,
+              772,
               3,
               3,
               5,
               31,
-              729
+              730
             ],
             "rcount_with_image": 309,
             "rcount_with_context": 523
@@ -674,7 +674,7 @@
           "is_category_failed": false,
           "show_discount": 38,
           "cmt_count": 307,
-          "view_count": 17800,
+          "view_count": 17834,
           "catid": 8,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -687,7 +687,7 @@
           "price_min_before_discount": 129800000,
           "cb_option": 0,
           "sold": 140,
-          "stock": 4,
+          "stock": 5,
           "status": 1,
           "price_max": 92500000,
           "add_on_deal_info": {
@@ -808,13 +808,13 @@
           "is_category_failed": false,
           "show_discount": 6,
           "cmt_count": 52,
-          "view_count": 5884,
+          "view_count": 5896,
           "catid": 20445,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
           "brand": "NUX",
           "price_min": 76900000,
-          "liked_count": 299,
+          "liked_count": 300,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -930,8 +930,8 @@
           "price_before_discount": 41940000,
           "is_category_failed": false,
           "show_discount": 38,
-          "cmt_count": 166,
-          "view_count": 4795,
+          "cmt_count": 168,
+          "view_count": 4798,
           "catid": 16997,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -953,17 +953,17 @@
           "price": 26000000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.957831,
+            "rating_star": 4.958333,
             "rating_count": [
-              166,
+              168,
               0,
               0,
               1,
               5,
-              160
+              162
             ],
-            "rcount_with_image": 93,
-            "rcount_with_context": 113
+            "rcount_with_image": 94,
+            "rcount_with_context": 114
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -1029,7 +1029,7 @@
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 351,
+          "historical_sold": 354,
           "transparent_background_image": ""
         },
         {
@@ -1063,7 +1063,7 @@
           "is_category_failed": false,
           "show_discount": 3,
           "cmt_count": 31,
-          "view_count": 42065,
+          "view_count": 42090,
           "catid": 8,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
