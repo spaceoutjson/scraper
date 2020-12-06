@@ -573,7 +573,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-09 00:00:00",
+        "start_time": "2020-12-10 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -620,7 +620,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-09 00:00:00",
+        "start_time": "2020-12-10 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -667,7 +667,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-09 00:00:00",
+        "start_time": "2020-12-10 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -714,7 +714,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-09 00:00:00",
+        "start_time": "2020-12-10 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -761,7 +761,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-09 00:00:00",
+        "start_time": "2020-12-10 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -808,7 +808,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-09 00:00:00",
+        "start_time": "2020-12-10 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -855,7 +855,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-09 00:00:00",
+        "start_time": "2020-12-10 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -902,7 +902,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-09 00:00:00",
+        "start_time": "2020-12-10 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1616,7 +1616,7 @@
         "start_time": "2020-12-11 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 4,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -1985,7 +1985,7 @@
         "start_time": "2020-12-12 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 254,
+        "participate": 264,
         "participants_format": "200+ Booked",
         "hot_state": "normal",
         "discount": 0,
@@ -2639,7 +2639,7 @@
         "start_time": "2020-12-10 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 8,
+        "participate": 9,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -2753,9 +2753,9 @@
         "start_time": "2020-12-10 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 49,
-        "participants_format": "New Activity",
-        "hot_state": "new",
+        "participate": 53,
+        "participants_format": "50+ Booked",
+        "hot_state": "normal",
         "discount": 0,
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
