@@ -552,6 +552,63 @@
     ],
     "activities": [
       {
+        "id": 52343,
+        "template_id": 2,
+        "title": "Experience the Different Singapore Island",
+        "subtitle": "",
+        "url_seo": "experience-different-singapore-island-tour",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "wl8iytmguq9avzccyfkb.jpg",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "39.90",
+        "sell_price": "39.90",
+        "from_price": "39.90",
+        "to_price": "59.90",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2020-12-10 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "hot_state": "new",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/wl8iytmguq9avzccyfkb.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.293076,103.852068",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 0,
+        "country_name": "",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "what_we_love": ""
+      },
+      {
         "id": 52288,
         "template_id": 4,
         "title": "Tiffany Café & Restaurant at Furama City Centre",
@@ -1273,7 +1330,7 @@
         "start_time": "2020-12-09 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 7,
+        "participate": 9,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 23,
@@ -1974,7 +2031,7 @@
         "start_time": "2020-12-12 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 371,
+        "participate": 374,
         "participants_format": "300+ Booked",
         "hot_state": "normal",
         "discount": 0,
@@ -2031,7 +2088,7 @@
         "start_time": "2020-12-14 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 35,
+        "participate": 36,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 23,
@@ -3153,66 +3210,9 @@
         ],
         "need_hide_review": true,
         "what_we_love": ""
-      },
-      {
-        "id": 52145,
-        "template_id": 3,
-        "title": "ST Signature - Jalan Besar Staycation with Bento Breakfast and Limited Edition Gift for Couples (Klook Exclusive)",
-        "subtitle": "",
-        "url_seo": "1-night-stay-st-signatures-jalan-besar",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "bgp2dmjqqga7n7d8ukgj.jpg",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "150.00",
-        "sell_price": "129.00",
-        "from_price": "129.00",
-        "to_price": "129.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2020-12-11 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 3,
-        "participants_format": "New Activity",
-        "hot_state": "new",
-        "discount": 14,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/bgp2dmjqqga7n7d8ukgj.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.305473,103.85485",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 0,
-        "country_name": "",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "what_we_love": ""
       }
     ],
-    "total": 926,
+    "total": 927,
     "price": {
       "from": "0",
       "to": "517"
