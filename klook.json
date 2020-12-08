@@ -902,7 +902,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-11 09:00:00",
+        "start_time": "2020-12-12 09:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -949,7 +949,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-11 09:00:00",
+        "start_time": "2020-12-12 09:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1006,7 +1006,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-11 00:00:00",
+        "start_time": "2020-12-12 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1053,7 +1053,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-08 00:00:00",
+        "start_time": "2020-12-09 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1603,7 +1603,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-12 00:00:00",
+        "start_time": "2020-12-13 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1831,10 +1831,10 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-09 00:00:00",
+        "start_time": "2020-12-10 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 20,
+        "participate": 21,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 23,
@@ -1888,7 +1888,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-16 00:00:00",
+        "start_time": "2020-12-17 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2277,7 +2277,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-08 00:00:00",
+        "start_time": "2020-12-09 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2324,7 +2324,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-08 00:00:00",
+        "start_time": "2020-12-09 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 3,
@@ -2535,7 +2535,7 @@
         "start_time": "2020-12-12 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 519,
+        "participate": 525,
         "participants_format": "500+ Booked",
         "hot_state": "normal",
         "discount": 0,
@@ -2589,10 +2589,10 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-10 00:00:00",
+        "start_time": "2020-12-11 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 43,
+        "participate": 45,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 23,
@@ -2646,7 +2646,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-11 00:00:00",
+        "start_time": "2020-12-12 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2703,7 +2703,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-11 00:00:00",
+        "start_time": "2020-12-12 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2931,7 +2931,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-11 00:00:00",
+        "start_time": "2020-12-12 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 9,
@@ -3226,7 +3226,7 @@
     "total": 935,
     "price": {
       "from": "0",
-      "to": "517"
+      "to": "519"
     },
     "stat": null,
     "template_tag_mapping": [
