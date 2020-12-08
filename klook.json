@@ -548,7 +548,8 @@
       "2021-12-03T00:00:00Z",
       "2021-12-04T00:00:00Z",
       "2021-12-06T00:00:00Z",
-      "2021-12-07T00:00:00Z"
+      "2021-12-07T00:00:00Z",
+      "2021-12-08T00:00:00Z"
     ],
     "activities": [
       {
@@ -648,7 +649,7 @@
       {
         "id": 52423,
         "template_id": 1,
-        "title": "Glamping Movie Night in Historical Capitol Theater",
+        "title": "Glamping Movie Night in Historical Capitol Theatre",
         "subtitle": "",
         "url_seo": "glamping-movie-night-historical-capitol-theater-pass",
         "city_id": 6,
@@ -861,9 +862,6 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/ck2l6bjs5tqpqplxckrk.jpg",
         "icon": null,
@@ -879,14 +877,7 @@
         "detail_hotel": null,
         "real_lang": "",
         "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
+        "tags": null,
         "need_hide_review": true,
         "what_we_love": ""
       },
@@ -975,9 +966,6 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/wl8iytmguq9avzccyfkb.jpg",
         "icon": null,
@@ -993,14 +981,7 @@
         "detail_hotel": null,
         "real_lang": "",
         "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
+        "tags": null,
         "need_hide_review": true,
         "what_we_love": ""
       },
@@ -1632,7 +1613,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-11 00:00:00",
+        "start_time": "2020-12-12 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1689,7 +1670,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-11 00:00:00",
+        "start_time": "2020-12-12 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1746,7 +1727,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-11 00:00:00",
+        "start_time": "2020-12-12 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1907,7 +1888,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-11 09:00:00",
+        "start_time": "2020-12-12 09:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2081,7 +2062,7 @@
         "start_time": "2020-12-12 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 41,
+        "participate": 43,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -2507,7 +2488,7 @@
         "start_time": "2020-12-12 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 488,
+        "participate": 491,
         "participants_format": "400+ Booked",
         "hot_state": "normal",
         "discount": 0,
@@ -2895,10 +2876,10 @@
         "video_url": "",
         "score": 0,
         "currency": "SGD",
-        "market_price": "434.00",
-        "sell_price": "434.00",
-        "from_price": "434.00",
-        "to_price": "623.00",
+        "market_price": "299.00",
+        "sell_price": "299.00",
+        "from_price": "299.00",
+        "to_price": "434.00",
         "spec_price": {
           "type": 0,
           "desc": ""
@@ -3161,7 +3142,7 @@
         "start_time": "2020-12-11 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 16,
+        "participate": 17,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -3218,7 +3199,7 @@
         "start_time": "2020-12-10 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 32,
+        "participate": 33,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
