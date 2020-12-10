@@ -1917,7 +1917,7 @@
         "instance": 1,
         "image_url": "vrzctxbqmv8dnmmpg9xv.jpg",
         "video_url": "",
-        "score": 0,
+        "score": 5,
         "currency": "SGD",
         "market_price": "80.00",
         "sell_price": "80.00",
@@ -1937,7 +1937,7 @@
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
         },
-        "review_total": 0,
+        "review_total": 3,
         "image_url_host": "https://res.klook.com/image/upload/activities/vrzctxbqmv8dnmmpg9xv.jpg",
         "icon": null,
         "icons": null,
@@ -1960,7 +1960,7 @@
             "text": "Eligible for SingapoRediscovers Vouchers"
           }
         ],
-        "need_hide_review": true,
+        "need_hide_review": false,
         "what_we_love": ""
       },
       {
