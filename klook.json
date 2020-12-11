@@ -141,6 +141,12 @@
             "children": null
           },
           {
+            "id": 12,
+            "name": "Private tours",
+            "enable": true,
+            "children": null
+          },
+          {
             "id": 11,
             "name": "Sightseeing",
             "enable": true,
@@ -951,7 +957,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-14 00:00:00",
+        "start_time": "2020-12-15 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1712,7 +1718,7 @@
         "start_time": "2020-12-16 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 1,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 33,
@@ -1815,9 +1821,9 @@
         "video_url": "",
         "score": 0,
         "currency": "SGD",
-        "market_price": "619.00",
-        "sell_price": "619.00",
-        "from_price": "619.00",
+        "market_price": "636.00",
+        "sell_price": "636.00",
+        "from_price": "636.00",
         "to_price": "749.00",
         "spec_price": {
           "type": 0,
@@ -2467,7 +2473,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-14 00:00:00",
+        "start_time": "2020-12-15 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 1,
@@ -2809,7 +2815,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-14 00:00:00",
+        "start_time": "2020-12-15 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
