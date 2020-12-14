@@ -632,9 +632,6 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/qe5oznhhjzigplqtr0nw.jpg",
         "icon": null,
@@ -650,14 +647,7 @@
         "detail_hotel": null,
         "real_lang": "",
         "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
+        "tags": null,
         "need_hide_review": true,
         "what_we_love": ""
       },
@@ -2047,7 +2037,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-14 00:00:00",
+        "start_time": "2020-12-15 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 60,
@@ -2154,7 +2144,7 @@
         "start_time": "2020-12-19 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 43,
+        "participate": 45,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
