@@ -559,6 +559,120 @@
     ],
     "activities": [
       {
+        "id": 52405,
+        "template_id": 3,
+        "title": "Hotel NuVe Elements Couples Staycation",
+        "subtitle": "",
+        "url_seo": "2-days-1-night-stay-hotel-nuve-elements",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "nhbqyt8gvbqde9ttj2jx.jpg",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "105.00",
+        "sell_price": "105.00",
+        "from_price": "105.00",
+        "to_price": "160.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2020-12-20 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "hot_state": "new",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/nhbqyt8gvbqde9ttj2jx.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.28738,103.847527",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 0,
+        "country_name": "",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "what_we_love": ""
+      },
+      {
+        "id": 52409,
+        "template_id": 3,
+        "title": "Hotel NuVe Heritage Couples Staycation",
+        "subtitle": "",
+        "url_seo": "overnight-stay-hotel-nuve-heritage-bento-breakfast",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "l65ymdzrjcskzhpk0jir.jpg",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "160.00",
+        "sell_price": "160.00",
+        "from_price": "160.00",
+        "to_price": "185.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2020-12-20 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "hot_state": "new",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/l65ymdzrjcskzhpk0jir.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.296474,103.855301",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 0,
+        "country_name": "",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "what_we_love": ""
+      },
+      {
         "id": 52854,
         "template_id": 2,
         "title": "SG Walk Southern Coastal Trail by X-Trekkers",
@@ -921,7 +1035,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-19 00:00:00",
+        "start_time": "2020-12-22 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2326,7 +2440,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-18 10:00:00",
+        "start_time": "2020-12-25 10:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2913,7 +3027,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-18 10:45:00",
+        "start_time": "2020-12-20 10:45:00",
         "sold_out": false,
         "published": true,
         "participate": 12,
@@ -3213,123 +3327,9 @@
         "tags": null,
         "need_hide_review": false,
         "what_we_love": ""
-      },
-      {
-        "id": 52222,
-        "template_id": 2,
-        "title": "Discover Russia in SG",
-        "subtitle": "",
-        "url_seo": "discover-russia-in-singapore-walking-tour-from-north-bridge-road",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "vrzctxbqmv8dnmmpg9xv.jpg",
-        "video_url": "",
-        "score": 5,
-        "currency": "SGD",
-        "market_price": "80.00",
-        "sell_price": "80.00",
-        "from_price": "80.00",
-        "to_price": "80.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2020-12-23 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 19,
-        "participants_format": "New Activity",
-        "hot_state": "new",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 3,
-        "image_url_host": "https://res.klook.com/image/upload/activities/vrzctxbqmv8dnmmpg9xv.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.293076,103.852068",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 0,
-        "country_name": "",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": false,
-        "what_we_love": ""
-      },
-      {
-        "id": 52336,
-        "template_id": 2,
-        "title": "Day Walk To Nature With a Buddhism Twist",
-        "subtitle": "",
-        "url_seo": "day-walk-nature-buddhism-twist-tour",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "wr8zwggqzkli6brgge9w.jpg",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "100.00",
-        "sell_price": "100.00",
-        "from_price": "100.00",
-        "to_price": "100.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2020-12-19 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 60,
-        "participants_format": "50+ Booked",
-        "hot_state": "normal",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/wr8zwggqzkli6brgge9w.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.425227,103.762028",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 0,
-        "country_name": "",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "what_we_love": ""
       }
     ],
-    "total": 979,
+    "total": 980,
     "price": {
       "from": "0",
       "to": "516"
