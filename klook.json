@@ -574,7 +574,7 @@
         "market_price": "530.00",
         "sell_price": "350.00",
         "from_price": "350.00",
-        "to_price": "600.00",
+        "to_price": "570.00",
         "spec_price": {
           "type": 0,
           "desc": ""
@@ -582,7 +582,7 @@
         "start_time": "2020-12-18 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 1,
+        "participate": 2,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 34,
@@ -750,7 +750,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-18 08:30:00",
+        "start_time": "2020-12-19 08:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -807,7 +807,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-18 08:30:00",
+        "start_time": "2020-12-19 08:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -864,7 +864,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-18 08:30:00",
+        "start_time": "2020-12-19 08:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1598,7 +1598,7 @@
         "start_time": "2020-12-19 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 8,
+        "participate": 12,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -3144,7 +3144,7 @@
         "start_time": "2020-12-18 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 36,
+        "participate": 39,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
