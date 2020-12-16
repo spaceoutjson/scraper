@@ -968,13 +968,16 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-27 00:00:00",
+        "start_time": "2020-12-26 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/xpffvagr4yfxvwsycnfh.jpg",
         "icon": null,
@@ -990,7 +993,14 @@
         "detail_hotel": null,
         "real_lang": "",
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "what_we_love": ""
       },
@@ -1022,6 +1032,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/p8tjynw18unk8bwl3emx.jpg",
         "icon": null,
@@ -1037,7 +1050,14 @@
         "detail_hotel": null,
         "real_lang": "",
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "what_we_love": ""
       },
@@ -2772,7 +2792,7 @@
         "start_time": "2020-12-18 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 35,
+        "participate": 36,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -2930,7 +2950,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-17 00:00:00",
+        "start_time": "2020-12-18 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2987,7 +3007,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-16 00:00:00",
+        "start_time": "2020-12-24 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 69,
@@ -3094,7 +3114,7 @@
         "start_time": "2020-12-19 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 59,
+        "participate": 60,
         "participants_format": "50+ Booked",
         "hot_state": "normal",
         "discount": 0,
