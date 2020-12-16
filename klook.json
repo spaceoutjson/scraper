@@ -582,7 +582,7 @@
         "start_time": "2020-12-19 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 3,
+        "participate": 4,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 34,
@@ -3017,7 +3017,7 @@
         "instance": 1,
         "image_url": "iaiihtgn8ezbxsjeqspi.jpg",
         "video_url": "",
-        "score": 0,
+        "score": 5,
         "currency": "SGD",
         "market_price": "150.00",
         "sell_price": "100.00",
@@ -3037,7 +3037,7 @@
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
         },
-        "review_total": 0,
+        "review_total": 1,
         "image_url_host": "https://res.klook.com/image/upload/activities/iaiihtgn8ezbxsjeqspi.jpg",
         "icon": null,
         "icons": null,
@@ -3060,7 +3060,7 @@
             "text": "Eligible for SingapoRediscovers Vouchers"
           }
         ],
-        "need_hide_review": true,
+        "need_hide_review": false,
         "what_we_love": ""
       },
       {
@@ -3131,7 +3131,7 @@
         "instance": 1,
         "image_url": "gsa8lhu0wc33rxl3ifal.jpg",
         "video_url": "",
-        "score": 0,
+        "score": 5,
         "currency": "SGD",
         "market_price": "518.00",
         "sell_price": "518.00",
@@ -3151,7 +3151,7 @@
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
         },
-        "review_total": 0,
+        "review_total": 1,
         "image_url_host": "https://res.klook.com/image/upload/activities/gsa8lhu0wc33rxl3ifal.jpg",
         "icon": null,
         "icons": null,
@@ -3174,7 +3174,7 @@
             "text": "Eligible for SingapoRediscovers Vouchers"
           }
         ],
-        "need_hide_review": true,
+        "need_hide_review": false,
         "what_we_love": ""
       },
       {
