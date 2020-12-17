@@ -1,5 +1,5 @@
 {
-  "version": "0f3d9040766ea61e55894e6405d318d0",
+  "version": "da1b49aea05b7dff11ceed2e321f9f5d",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -50,7 +50,7 @@
           "is_category_failed": false,
           "show_discount": 6,
           "cmt_count": 72,
-          "view_count": 7082,
+          "view_count": 7172,
           "catid": 2414,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -163,7 +163,7 @@
           "is_category_failed": false,
           "show_discount": 7,
           "cmt_count": 101,
-          "view_count": 9598,
+          "view_count": 9729,
           "catid": 8,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -189,14 +189,14 @@
           "price": 64900000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.909091,
+            "rating_star": 4.91,
             "rating_count": [
-              100,
+              101,
               1,
               0,
               3,
               3,
-              93
+              94
             ],
             "rcount_with_image": 37,
             "rcount_with_context": 64
@@ -305,20 +305,20 @@
           "is_category_failed": false,
           "show_discount": 19,
           "cmt_count": 1516,
-          "view_count": 17988,
+          "view_count": 18105,
           "catid": 2414,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
           "brand": "Airbot",
           "price_min": 8590000,
-          "liked_count": 4749,
+          "liked_count": 4751,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
           "price_min_before_discount": 10549000,
           "cb_option": 0,
           "sold": 234,
-          "stock": 574,
+          "stock": 572,
           "status": 1,
           "price_max": 8590000,
           "add_on_deal_info": null,
@@ -399,7 +399,7 @@
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 2721,
+          "historical_sold": 2722,
           "transparent_background_image": ""
         },
         {
@@ -434,7 +434,7 @@
           "is_category_failed": false,
           "show_discount": 21,
           "cmt_count": 840,
-          "view_count": 7545,
+          "view_count": 7621,
           "catid": 12,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -567,8 +567,8 @@
           "price_before_discount": 48900000,
           "is_category_failed": false,
           "show_discount": 8,
-          "cmt_count": 2128,
-          "view_count": 71808,
+          "cmt_count": 2129,
+          "view_count": 71860,
           "catid": 20153,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -594,17 +594,17 @@
           "price": 44900000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.967545,
+            "rating_star": 4.96756,
             "rating_count": [
-              2127,
+              2128,
               2,
               5,
               6,
               37,
-              2077
+              2078
             ],
-            "rcount_with_image": 490,
-            "rcount_with_context": 805
+            "rcount_with_image": 491,
+            "rcount_with_context": 806
           },
           "show_official_shop_label_in_title": false,
           "tier_variations": [
@@ -660,7 +660,7 @@
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 4944,
+          "historical_sold": 4945,
           "transparent_background_image": ""
         },
         {
@@ -696,7 +696,7 @@
           "is_category_failed": false,
           "show_discount": 15,
           "cmt_count": 93,
-          "view_count": 6139,
+          "view_count": 6168,
           "catid": 1,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -829,7 +829,7 @@
           "is_category_failed": false,
           "show_discount": 0,
           "cmt_count": 5,
-          "view_count": 519,
+          "view_count": 523,
           "catid": 6,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -940,7 +940,7 @@
           "is_category_failed": false,
           "show_discount": 38,
           "cmt_count": 199,
-          "view_count": 13969,
+          "view_count": 13983,
           "catid": 2414,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -1058,13 +1058,13 @@
           "is_category_failed": false,
           "show_discount": 13,
           "cmt_count": 37,
-          "view_count": 2580,
+          "view_count": 2596,
           "catid": 8,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
           "brand": "FItbit",
           "price_min": 32800000,
-          "liked_count": 70,
+          "liked_count": 71,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -1139,7 +1139,7 @@
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 71,
+          "historical_sold": 72,
           "transparent_background_image": ""
         },
         {
@@ -1176,7 +1176,7 @@
           "is_category_failed": false,
           "show_discount": 18,
           "cmt_count": 247,
-          "view_count": 7801,
+          "view_count": 7807,
           "catid": 10161,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -1267,7 +1267,7 @@
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 579,
+          "historical_sold": 580,
           "transparent_background_image": ""
         }
       ],
