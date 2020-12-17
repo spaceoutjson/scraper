@@ -600,7 +600,7 @@
         "start_time": "2020-12-18 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 10,
+        "participate": 12,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 34,
@@ -621,6 +621,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -678,6 +679,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -735,6 +737,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -792,6 +795,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -849,6 +853,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -906,6 +911,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -939,7 +945,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-20 00:00:00",
+        "start_time": "2020-12-23 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -963,6 +969,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -996,7 +1003,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-20 00:00:00",
+        "start_time": "2020-12-22 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1020,6 +1027,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -1053,7 +1061,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-20 00:00:00",
+        "start_time": "2020-12-23 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1077,6 +1085,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -1134,6 +1143,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -1191,6 +1201,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -1248,6 +1259,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -1302,6 +1314,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": null,
         "need_hide_review": true,
@@ -1352,6 +1365,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -1409,6 +1423,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -1466,6 +1481,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -1523,6 +1539,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -1580,6 +1597,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -1616,7 +1634,7 @@
         "start_time": "2020-12-19 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 30,
+        "participate": 32,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -1637,6 +1655,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -1694,6 +1713,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -1751,6 +1771,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -1808,6 +1829,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -1865,6 +1887,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -1901,7 +1924,7 @@
         "start_time": "2020-12-21 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 1,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 64,
@@ -1922,6 +1945,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -1979,6 +2003,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -2036,6 +2061,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -2093,6 +2119,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -2150,6 +2177,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -2204,6 +2232,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": null,
         "need_hide_review": true,
@@ -2254,6 +2283,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -2287,7 +2317,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-20 00:00:00",
+        "start_time": "2020-12-21 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2311,6 +2341,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -2368,6 +2399,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -2425,6 +2457,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -2482,6 +2515,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -2539,6 +2573,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -2593,6 +2628,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": null,
         "need_hide_review": false,
@@ -2640,6 +2676,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": null,
         "need_hide_review": false,
@@ -2690,6 +2727,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -2747,6 +2785,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -2804,6 +2843,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -2858,6 +2898,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": null,
         "need_hide_review": false,
@@ -2905,6 +2946,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": null,
         "need_hide_review": true,
@@ -2955,6 +2997,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -3012,6 +3055,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -3069,6 +3113,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -3126,6 +3171,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -3183,6 +3229,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -3237,6 +3284,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": null,
         "need_hide_review": true,
@@ -3287,6 +3335,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
@@ -3344,6 +3393,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
+        "leaf_category": 0,
         "package_id": 0,
         "tags": [
           {
