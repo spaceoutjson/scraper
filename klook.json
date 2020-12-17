@@ -187,6 +187,19 @@
         ]
       },
       {
+        "id": 48,
+        "name": "Public transport",
+        "enable": true,
+        "children": [
+          {
+            "id": 51,
+            "name": "Shared transfers",
+            "enable": true,
+            "children": null
+          }
+        ]
+      },
+      {
         "id": 52,
         "name": "Scooter & motorbike rentals",
         "enable": true,
