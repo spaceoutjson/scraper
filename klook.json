@@ -905,9 +905,9 @@
         "start_time": "2020-12-21 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 48,
-        "participants_format": "New Activity",
-        "hot_state": "new",
+        "participate": 50,
+        "participants_format": "50+ Booked",
+        "hot_state": "normal",
         "discount": 34,
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
