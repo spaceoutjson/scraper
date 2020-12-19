@@ -1,5 +1,5 @@
 {
-  "version": "82a294d053ba79f1ff26ed6fadfb6c17",
+  "version": "9b844ecc6c70774aec63ef3eba8c0b6c",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -56,7 +56,7 @@
           "is_category_failed": false,
           "show_discount": 49,
           "cmt_count": 547,
-          "view_count": 19951,
+          "view_count": 20004,
           "catid": 2414,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -172,7 +172,7 @@
           "is_category_failed": false,
           "show_discount": 23,
           "cmt_count": 796,
-          "view_count": 16649,
+          "view_count": 16702,
           "catid": 8,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -310,7 +310,7 @@
           "is_category_failed": false,
           "show_discount": 8,
           "cmt_count": 96,
-          "view_count": 7923,
+          "view_count": 7980,
           "catid": 11,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -433,7 +433,7 @@
           "is_category_failed": false,
           "show_discount": 30,
           "cmt_count": 11,
-          "view_count": 4702,
+          "view_count": 4757,
           "catid": 168,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -564,7 +564,7 @@
           "is_category_failed": false,
           "show_discount": 20,
           "cmt_count": 2,
-          "view_count": 291,
+          "view_count": 318,
           "catid": 13,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -686,7 +686,7 @@
           "is_category_failed": false,
           "show_discount": 28,
           "cmt_count": 2805,
-          "view_count": 15134,
+          "view_count": 15152,
           "catid": 9,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -769,7 +769,7 @@
           ],
           "service_by_shopee_flag": 11,
           "badge_icon_type": 11,
-          "historical_sold": 6802,
+          "historical_sold": 6804,
           "transparent_background_image": ""
         },
         {
@@ -825,17 +825,17 @@
           "price": 27200000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.96729,
+            "rating_star": 4.967442,
             "rating_count": [
-              214,
+              215,
               0,
               0,
               1,
               5,
-              208
+              209
             ],
-            "rcount_with_image": 116,
-            "rcount_with_context": 142
+            "rcount_with_image": 117,
+            "rcount_with_context": 143
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -902,7 +902,7 @@
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 457,
+          "historical_sold": 459,
           "transparent_background_image": ""
         },
         {
@@ -937,7 +937,7 @@
           "is_category_failed": false,
           "show_discount": 6,
           "cmt_count": 84,
-          "view_count": 11538,
+          "view_count": 11547,
           "catid": 11,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
@@ -1053,7 +1053,7 @@
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 243,
+          "historical_sold": 244,
           "transparent_background_image": ""
         },
         {
@@ -1090,7 +1090,7 @@
           "is_category_failed": false,
           "show_discount": 40,
           "cmt_count": 473,
-          "view_count": 3576,
+          "view_count": 3580,
           "catid": 6,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
@@ -1205,8 +1205,8 @@
           "price_before_discount": 7990000,
           "is_category_failed": false,
           "show_discount": 13,
-          "cmt_count": 241,
-          "view_count": 4151,
+          "cmt_count": 242,
+          "view_count": 4168,
           "catid": 8,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
