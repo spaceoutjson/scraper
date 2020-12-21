@@ -591,6 +591,64 @@
     ],
     "activities": [
       {
+        "id": 53004,
+        "template_id": 2,
+        "title": "Marina Night Walk and River Cruise Experience",
+        "subtitle": "",
+        "url_seo": "marina-night-walk-river-cruise-experience-tour",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "t1ha4gtssxywjmlcx0oa.jpg",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "90.00",
+        "sell_price": "90.00",
+        "from_price": "90.00",
+        "to_price": "90.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2020-12-25 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "hot_state": "new",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/t1ha4gtssxywjmlcx0oa.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.288471,103.846738",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 0,
+        "country_name": "",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 0,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "what_we_love": ""
+      },
+      {
         "id": 52994,
         "template_id": 2,
         "title": "Discover Singapore Countryside ",
@@ -599,7 +657,7 @@
         "city_id": 6,
         "city_name": "",
         "instance": 1,
-        "image_url": "sjiyax7fefrllz2zaidg.jpg",
+        "image_url": "byrmfdokrqjz05bqlrm4.jpg",
         "video_url": "",
         "score": 0,
         "currency": "SGD",
@@ -618,8 +676,11 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/sjiyax7fefrllz2zaidg.jpg",
+        "image_url_host": "https://res.klook.com/image/upload/activities/byrmfdokrqjz05bqlrm4.jpg",
         "icon": null,
         "icons": null,
         "min_trip": 0,
@@ -634,7 +695,14 @@
         "real_lang": "",
         "leaf_category": 0,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "what_we_love": ""
       },
@@ -666,6 +734,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/qbe5hgpewmchtjmk3ggc.jpg",
         "icon": null,
@@ -682,7 +753,14 @@
         "real_lang": "",
         "leaf_category": 0,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "what_we_love": ""
       },
@@ -1055,7 +1133,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-24 00:00:00",
+        "start_time": "2020-12-26 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3381,57 +3459,9 @@
         "tags": null,
         "need_hide_review": false,
         "what_we_love": ""
-      },
-      {
-        "id": 51993,
-        "template_id": 5,
-        "title": "Private Yacht Rental Singapore - Valencia Yacht",
-        "subtitle": "",
-        "url_seo": "singapore-yacht-charter-valencia-yacht",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 3,
-        "image_url": "t27nf3cxbzbqoqmo959z.jpg",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "1284.00",
-        "sell_price": "1284.00",
-        "from_price": "1284.00",
-        "to_price": "1712.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-01-01 10:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "hot_state": "new",
-        "discount": 0,
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/t27nf3cxbzbqoqmo959z.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.245558,103.839889",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 0,
-        "country_name": "",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 0,
-        "package_id": 0,
-        "tags": null,
-        "need_hide_review": false,
-        "what_we_love": ""
       }
     ],
-    "total": 976,
+    "total": 975,
     "price": {
       "from": "0",
       "to": "515"
