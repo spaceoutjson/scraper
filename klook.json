@@ -591,6 +591,64 @@
     ],
     "activities": [
       {
+        "id": 53136,
+        "template_id": 2,
+        "title": "Peranakan Heritage Tour with Peranakan Tile Painting (4.5 hour Tour with Lunch)",
+        "subtitle": "",
+        "url_seo": "singapore-peranakan-heritage-tour-peranakan-tile-painting-lunch",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "xaho6t2hjceciekrwmka.jpg",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "130.00",
+        "sell_price": "130.00",
+        "from_price": "130.00",
+        "to_price": "130.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2020-12-26 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "hot_state": "new",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/xaho6t2hjceciekrwmka.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.318161,103.893144",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 0,
+        "country_name": "",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 0,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "what_we_love": ""
+      },
+      {
         "id": 52849,
         "template_id": 2,
         "title": "Explore St John's Island By Land & Sea (For Certified Divers)",
@@ -618,6 +676,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/xmqeebbwecswvj5mygf0.jpg",
         "icon": null,
@@ -634,7 +695,14 @@
         "real_lang": "",
         "leaf_category": 0,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "what_we_love": ""
       },
@@ -2031,7 +2099,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-25 00:00:00",
+        "start_time": "2020-12-26 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2092,7 +2160,7 @@
         "start_time": "2020-12-25 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 184,
+        "participate": 185,
         "participants_format": "100+ Booked",
         "hot_state": "normal",
         "discount": 28,
@@ -2611,7 +2679,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-26 00:00:00",
+        "start_time": "2020-12-29 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2669,7 +2737,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-26 00:00:00",
+        "start_time": "2020-12-29 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3126,7 +3194,7 @@
         "start_time": "2020-12-26 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 163,
+        "participate": 164,
         "participants_format": "100+ Booked",
         "hot_state": "normal",
         "discount": 0,
@@ -3391,67 +3459,9 @@
         ],
         "need_hide_review": true,
         "what_we_love": ""
-      },
-      {
-        "id": 52466,
-        "template_id": 3,
-        "title": "SO/ Sofitel Singapore Staycation with F&B Dining",
-        "subtitle": "",
-        "url_seo": "so-sofitel-singapore",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "slg19ypsivipd3whdxmi.jpg",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "800.00",
-        "sell_price": "288.00",
-        "from_price": "288.00",
-        "to_price": "598.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2020-12-27 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 55,
-        "participants_format": "50+ Booked",
-        "hot_state": "normal",
-        "discount": 64,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/slg19ypsivipd3whdxmi.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.280017,103.849814",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 0,
-        "country_name": "",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 0,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "what_we_love": ""
       }
     ],
-    "total": 985,
+    "total": 986,
     "price": {
       "from": "0",
       "to": "517"
