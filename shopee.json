@@ -1,18 +1,8 @@
 {
-  "version": "f1fea295b47e466e3baf258c792bfef5",
+  "version": "b7879150de757e71edf73a485e57360b",
   "data": {
     "featured_shops": null,
-    "campaign_bottom_visual": {
-      "start": 1607788800,
-      "end": 1639323300,
-      "banner_image": "6dad4c16147302aadff9af2accce45fa",
-      "data": {
-        "image_mobile": "6dad4c16147302aadff9af2accce45fa",
-        "image_ratio_pc": 75,
-        "image_ratio": 26.666667,
-        "image_pc": "caac7a687a91bac9d2619b406a7d3a70"
-      }
-    },
+    "campaign_bottom_visual": null,
     "featured_products": {
       "header_text_color": "#ffffff",
       "items": [
@@ -51,7 +41,7 @@
           "is_category_failed": false,
           "show_discount": 57,
           "cmt_count": 14,
-          "view_count": 3667,
+          "view_count": 3733,
           "catid": 168,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -178,7 +168,7 @@
           "is_category_failed": false,
           "show_discount": 13,
           "cmt_count": 133,
-          "view_count": 10239,
+          "view_count": 10271,
           "catid": 8,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -325,7 +315,7 @@
           "is_category_failed": false,
           "show_discount": 21,
           "cmt_count": 57,
-          "view_count": 3158,
+          "view_count": 3202,
           "catid": 2414,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -450,8 +440,8 @@
           "price_before_discount": 6990000,
           "is_category_failed": false,
           "show_discount": 31,
-          "cmt_count": 2158,
-          "view_count": 12184,
+          "cmt_count": 2159,
+          "view_count": 12206,
           "catid": 16997,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -474,17 +464,17 @@
           "price": 4790000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.926716,
+            "rating_star": 4.92675,
             "rating_count": [
-              2158,
+              2159,
               5,
               2,
               28,
               76,
-              2047
+              2048
             ],
-            "rcount_with_image": 725,
-            "rcount_with_context": 1131
+            "rcount_with_image": 726,
+            "rcount_with_context": 1132
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -539,7 +529,7 @@
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 6950,
+          "historical_sold": 6951,
           "transparent_background_image": "324d2540bc9283c2d14fe49d24bf8ec1"
         },
         {
@@ -568,7 +558,7 @@
           "is_category_failed": false,
           "show_discount": 8,
           "cmt_count": 12,
-          "view_count": 3048,
+          "view_count": 3060,
           "catid": 8,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -685,7 +675,7 @@
           "is_category_failed": false,
           "show_discount": 31,
           "cmt_count": 118,
-          "view_count": 20718,
+          "view_count": 20728,
           "catid": 9,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -790,14 +780,14 @@
           "is_category_failed": false,
           "show_discount": 57,
           "cmt_count": 5127,
-          "view_count": 17072,
+          "view_count": 17083,
           "catid": 169,
           "voucher_info": null,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
           "brand": "xiangyenonyadumpling",
           "price_min": 1290000,
-          "liked_count": 1746,
+          "liked_count": 1747,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -917,7 +907,7 @@
           "is_category_failed": false,
           "show_discount": 47,
           "cmt_count": 492,
-          "view_count": 9088,
+          "view_count": 9092,
           "catid": 20212,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -1039,7 +1029,7 @@
           "is_category_failed": false,
           "show_discount": 46,
           "cmt_count": 175,
-          "view_count": 4322,
+          "view_count": 4325,
           "catid": 2414,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -1171,7 +1161,7 @@
           "is_category_failed": false,
           "show_discount": 8,
           "cmt_count": 517,
-          "view_count": 6458,
+          "view_count": 6462,
           "catid": 2414,
           "voucher_info": null,
           "upcoming_flash_sale": null,
