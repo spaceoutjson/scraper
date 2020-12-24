@@ -1144,7 +1144,7 @@
         "start_time": "2020-12-29 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 9,
+        "participate": 10,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -2173,7 +2173,7 @@
         "instance": 1,
         "image_url": "ih0cguimxysvgr5zzmme.jpg",
         "video_url": "",
-        "score": 4,
+        "score": 4.7,
         "currency": "SGD",
         "market_price": "530.00",
         "sell_price": "380.00",
@@ -2193,7 +2193,7 @@
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
         },
-        "review_total": 2,
+        "review_total": 6,
         "image_url_host": "https://res.klook.com/image/upload/activities/ih0cguimxysvgr5zzmme.jpg",
         "icon": null,
         "icons": null,
