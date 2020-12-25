@@ -238,7 +238,6 @@
       }
     ],
     "start_time": [
-      "2020-12-24T00:00:00Z",
       "2020-12-25T00:00:00Z",
       "2020-12-26T00:00:00Z",
       "2020-12-27T00:00:00Z",
@@ -493,6 +492,7 @@
       "2021-09-02T00:00:00Z",
       "2021-09-03T00:00:00Z",
       "2021-09-04T00:00:00Z",
+      "2021-09-05T00:00:00Z",
       "2021-09-06T00:00:00Z",
       "2021-09-07T00:00:00Z",
       "2021-09-08T00:00:00Z",
@@ -1085,7 +1085,7 @@
         "start_time": "2021-01-04 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 5,
+        "participate": 6,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -2137,7 +2137,7 @@
         "start_time": "2020-12-28 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 211,
+        "participate": 212,
         "participants_format": "200+ Booked",
         "hot_state": "normal",
         "discount": 34,
@@ -3484,7 +3484,7 @@
         "start_time": "2020-12-27 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 95,
+        "participate": 96,
         "participants_format": "50+ Booked",
         "hot_state": "normal",
         "discount": 64,
@@ -3520,7 +3520,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 979,
+    "total": 977,
     "price": {
       "from": "0",
       "to": "514"
