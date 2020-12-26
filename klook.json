@@ -238,7 +238,6 @@
       }
     ],
     "start_time": [
-      "2020-12-25T00:00:00Z",
       "2020-12-26T00:00:00Z",
       "2020-12-27T00:00:00Z",
       "2020-12-28T00:00:00Z",
@@ -1234,6 +1233,55 @@
             "text": "Eligible for SingapoRediscovers Vouchers"
           }
         ],
+        "need_hide_review": true,
+        "deeplink": "",
+        "what_we_love": ""
+      },
+      {
+        "id": 52760,
+        "template_id": 3,
+        "title": "Great World - Experience Japan Locally",
+        "subtitle": "",
+        "url_seo": "great-world-city-mall-singapore",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "bljcuyfjriui4w2kbers.jpg",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "10.00",
+        "sell_price": "5.00",
+        "from_price": "5.00",
+        "to_price": "5.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2020-12-27 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 30,
+        "participants_format": "New Activity",
+        "hot_state": "new",
+        "discount": 50,
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/bljcuyfjriui4w2kbers.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.293984,103.832088",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 0,
+        "country_name": "",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 0,
+        "package_id": 0,
+        "tags": null,
         "need_hide_review": true,
         "deeplink": "",
         "what_we_love": ""
@@ -3459,68 +3507,9 @@
         "need_hide_review": true,
         "deeplink": "",
         "what_we_love": ""
-      },
-      {
-        "id": 52466,
-        "template_id": 3,
-        "title": "SO/ Sofitel Singapore Staycation with F&B Dining",
-        "subtitle": "",
-        "url_seo": "so-sofitel-singapore",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "slg19ypsivipd3whdxmi.jpg",
-        "video_url": "",
-        "score": 5,
-        "currency": "SGD",
-        "market_price": "800.00",
-        "sell_price": "288.00",
-        "from_price": "288.00",
-        "to_price": "598.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2020-12-28 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 101,
-        "participants_format": "100+ Booked",
-        "hot_state": "normal",
-        "discount": 64,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 2,
-        "image_url_host": "https://res.klook.com/image/upload/activities/slg19ypsivipd3whdxmi.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.280017,103.849814",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 0,
-        "country_name": "",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 0,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": false,
-        "deeplink": "",
-        "what_we_love": ""
       }
     ],
-    "total": 977,
+    "total": 970,
     "price": {
       "from": "0",
       "to": "515"
