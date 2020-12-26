@@ -1144,7 +1144,7 @@
         "start_time": "2021-01-01 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 39,
+        "participate": 40,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -2124,7 +2124,7 @@
         "instance": 1,
         "image_url": "ih0cguimxysvgr5zzmme.jpg",
         "video_url": "",
-        "score": 4.8,
+        "score": 4.6,
         "currency": "SGD",
         "market_price": "530.00",
         "sell_price": "350.00",
@@ -2144,7 +2144,7 @@
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
         },
-        "review_total": 8,
+        "review_total": 9,
         "image_url_host": "https://res.klook.com/image/upload/activities/ih0cguimxysvgr5zzmme.jpg",
         "icon": null,
         "icons": null,
@@ -3471,7 +3471,7 @@
         "instance": 1,
         "image_url": "slg19ypsivipd3whdxmi.jpg",
         "video_url": "",
-        "score": 0,
+        "score": 5,
         "currency": "SGD",
         "market_price": "800.00",
         "sell_price": "288.00",
@@ -3491,7 +3491,7 @@
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
         },
-        "review_total": 0,
+        "review_total": 2,
         "image_url_host": "https://res.klook.com/image/upload/activities/slg19ypsivipd3whdxmi.jpg",
         "icon": null,
         "icons": null,
@@ -3515,7 +3515,7 @@
             "text": "Eligible for SingapoRediscovers Vouchers"
           }
         ],
-        "need_hide_review": true,
+        "need_hide_review": false,
         "deeplink": "",
         "what_we_love": ""
       }
