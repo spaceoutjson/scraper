@@ -63,6 +63,12 @@
             "name": "Water activities",
             "enable": true,
             "children": null
+          },
+          {
+            "id": 19,
+            "name": "Camping & glamping",
+            "enable": true,
+            "children": null
           }
         ]
       },
@@ -238,8 +244,6 @@
       }
     ],
     "start_time": [
-      "2020-12-27T00:00:00Z",
-      "2020-12-28T00:00:00Z",
       "2020-12-29T00:00:00Z",
       "2020-12-30T00:00:00Z",
       "2020-12-31T00:00:00Z",
@@ -585,7 +589,8 @@
       "2021-12-21T00:00:00Z",
       "2021-12-22T00:00:00Z",
       "2021-12-23T00:00:00Z",
-      "2021-12-27T00:00:00Z"
+      "2021-12-27T00:00:00Z",
+      "2021-12-28T00:00:00Z"
     ],
     "activities": [
       {
@@ -1408,7 +1413,7 @@
         "start_time": "2021-01-04 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 12,
+        "participate": 13,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -3479,7 +3484,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 970,
+    "total": 957,
     "price": {
       "from": "0",
       "to": "515"
