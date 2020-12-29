@@ -1673,7 +1673,7 @@
         "participants_format": "50+ Booked",
         "hot_state": "normal",
         "discount": 50,
-        "review_total": 2,
+        "review_total": 3,
         "image_url_host": "https://res.klook.com/image/upload/activities/bljcuyfjriui4w2kbers.jpg",
         "icon": null,
         "icons": null,
@@ -2403,7 +2403,7 @@
         "instance": 1,
         "image_url": "cox7nr4vnbbj9fow9dor.jpg",
         "video_url": "",
-        "score": 5,
+        "score": 4.5,
         "currency": "SGD",
         "market_price": "95.00",
         "sell_price": "95.00",
@@ -2423,7 +2423,7 @@
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
         },
-        "review_total": 1,
+        "review_total": 4,
         "image_url_host": "https://res.klook.com/image/upload/activities/cox7nr4vnbbj9fow9dor.jpg",
         "icon": null,
         "icons": null,
@@ -2639,7 +2639,7 @@
         "instance": 1,
         "image_url": "nhbqyt8gvbqde9ttj2jx.jpg",
         "video_url": "",
-        "score": 0,
+        "score": 5,
         "currency": "SGD",
         "market_price": "105.00",
         "sell_price": "105.00",
@@ -2659,7 +2659,7 @@
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
         },
-        "review_total": 0,
+        "review_total": 1,
         "image_url_host": "https://res.klook.com/image/upload/activities/nhbqyt8gvbqde9ttj2jx.jpg",
         "icon": null,
         "icons": null,
@@ -2683,7 +2683,7 @@
             "text": "Eligible for SingapoRediscovers Vouchers"
           }
         ],
-        "need_hide_review": true,
+        "need_hide_review": false,
         "deeplink": "",
         "what_we_love": ""
       },
