@@ -1551,7 +1551,7 @@
         "start_time": "2021-01-02 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 65,
+        "participate": 66,
         "participants_format": "50+ Booked",
         "hot_state": "normal",
         "discount": 0,
@@ -1666,7 +1666,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-29 00:00:00",
+        "start_time": "2020-12-30 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 53,
@@ -2246,7 +2246,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-29 00:00:00",
+        "start_time": "2020-12-30 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 9,
@@ -2582,21 +2582,21 @@
         "video_url": "",
         "score": 4.6,
         "currency": "SGD",
-        "market_price": "530.00",
-        "sell_price": "350.00",
-        "from_price": "350.00",
+        "market_price": "341.35",
+        "sell_price": "250.00",
+        "from_price": "250.00",
         "to_price": "570.00",
         "spec_price": {
           "type": 0,
           "desc": ""
         },
-        "start_time": "2020-12-31 00:00:00",
+        "start_time": "2021-01-01 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 268,
+        "participate": 273,
         "participants_format": "200+ Booked",
         "hot_state": "normal",
-        "discount": 34,
+        "discount": 27,
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
         },
@@ -2652,7 +2652,7 @@
         "start_time": "2021-01-01 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 31,
+        "participate": 32,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -3507,7 +3507,7 @@
     "total": 958,
     "price": {
       "from": "0",
-      "to": "515"
+      "to": "514"
     },
     "stat": null,
     "template_tag_mapping": [
