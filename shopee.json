@@ -1,5 +1,5 @@
 {
-  "version": "0d0cbeff2ce4d24fda4ea0839488be4a",
+  "version": "c73d9d4f986a5b042f1f6d07ac39f812",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -53,14 +53,14 @@
           "is_category_failed": false,
           "show_discount": 50,
           "cmt_count": 35,
-          "view_count": 2633,
+          "view_count": 2775,
           "catid": 13,
           "voucher_info": null,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
           "brand": "Adidas",
           "price_min": 5500000,
-          "liked_count": 53,
+          "liked_count": 54,
           "can_use_bundle_deal": true,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -172,14 +172,14 @@
           "is_category_failed": false,
           "show_discount": 10,
           "cmt_count": 335,
-          "view_count": 14660,
+          "view_count": 14800,
           "catid": 166,
           "voucher_info": null,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
           "brand": "Chope",
           "price_min": 4500000,
-          "liked_count": 593,
+          "liked_count": 594,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -265,7 +265,7 @@
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 1186,
+          "historical_sold": 1187,
           "transparent_background_image": ""
         },
         {
@@ -305,7 +305,7 @@
           "is_category_failed": false,
           "show_discount": 25,
           "cmt_count": 45,
-          "view_count": 3819,
+          "view_count": 4010,
           "catid": 2,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -433,15 +433,15 @@
           "price_before_discount": 10990000,
           "is_category_failed": false,
           "show_discount": 7,
-          "cmt_count": 600,
-          "view_count": 7216,
+          "cmt_count": 601,
+          "view_count": 7291,
           "catid": 20153,
           "voucher_info": null,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
           "brand": "Nintendo",
           "price_min": 10200000,
-          "liked_count": 467,
+          "liked_count": 468,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -457,14 +457,14 @@
           "price": 10200000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.916667,
+            "rating_star": 4.916805,
             "rating_count": [
-              600,
+              601,
               4,
               2,
               6,
               16,
-              572
+              573
             ],
             "rcount_with_image": 208,
             "rcount_with_context": 327
@@ -520,7 +520,7 @@
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 1260,
+          "historical_sold": 1261,
           "transparent_background_image": ""
         },
         {
@@ -555,7 +555,7 @@
           "is_category_failed": false,
           "show_discount": 9,
           "cmt_count": 42,
-          "view_count": 2856,
+          "view_count": 2865,
           "catid": 9,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -679,7 +679,7 @@
           "is_category_failed": false,
           "show_discount": 33,
           "cmt_count": 73,
-          "view_count": 8620,
+          "view_count": 8643,
           "catid": 2414,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -693,7 +693,7 @@
           "price_min_before_discount": 59900000,
           "cb_option": 0,
           "sold": 51,
-          "stock": 128,
+          "stock": 127,
           "status": 1,
           "price_max": 39900000,
           "add_on_deal_info": null,
@@ -790,8 +790,8 @@
           "price_before_discount": 5350000,
           "is_category_failed": false,
           "show_discount": 14,
-          "cmt_count": 1671,
-          "view_count": 4022,
+          "cmt_count": 1672,
+          "view_count": 4031,
           "catid": 169,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -805,7 +805,7 @@
           "price_min_before_discount": 5350000,
           "cb_option": 0,
           "sold": 365,
-          "stock": 54,
+          "stock": 52,
           "status": 1,
           "price_max": 4580000,
           "add_on_deal_info": {
@@ -818,17 +818,17 @@
           "price": 4580000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.908273,
+            "rating_star": 4.908328,
             "rating_count": [
-              1671,
+              1672,
               18,
               11,
               11,
               37,
-              1594
+              1595
             ],
             "rcount_with_image": 643,
-            "rcount_with_context": 913
+            "rcount_with_context": 914
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -919,7 +919,7 @@
           "is_category_failed": false,
           "show_discount": 0,
           "cmt_count": 161,
-          "view_count": 4023,
+          "view_count": 4028,
           "catid": 9,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -1036,8 +1036,8 @@
           "price_before_discount": 9990000,
           "is_category_failed": false,
           "show_discount": 38,
-          "cmt_count": 1595,
-          "view_count": 7298,
+          "cmt_count": 1596,
+          "view_count": 7308,
           "catid": 20153,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -1060,14 +1060,14 @@
           "price": 6190000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.963591,
+            "rating_star": 4.963614,
             "rating_count": [
-              1595,
+              1596,
               5,
               2,
               6,
               24,
-              1558
+              1559
             ],
             "rcount_with_image": 700,
             "rcount_with_context": 922
@@ -1118,7 +1118,7 @@
           ],
           "service_by_shopee_flag": 0,
           "badge_icon_type": 0,
-          "historical_sold": 3016,
+          "historical_sold": 3017,
           "transparent_background_image": ""
         },
         {
@@ -1150,7 +1150,7 @@
           "is_category_failed": false,
           "show_discount": 27,
           "cmt_count": 716,
-          "view_count": 3674,
+          "view_count": 3678,
           "catid": 16997,
           "voucher_info": null,
           "upcoming_flash_sale": null,
