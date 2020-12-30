@@ -595,6 +595,65 @@
     ],
     "activities": [
       {
+        "id": 53089,
+        "template_id": 3,
+        "title": "Hotel Fort Canning Staycation with Daily Breakfast",
+        "subtitle": "",
+        "url_seo": "couples-stay-hotel-fort-canning",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "h5ngrjewj6xlddgekb7y.jpg",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "440.69",
+        "sell_price": "339.00",
+        "from_price": "339.00",
+        "to_price": "701.49",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-01-01 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "hot_state": "new",
+        "discount": 23,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/h5ngrjewj6xlddgekb7y.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.296193,103.845389",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 0,
+        "country_name": "",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 0,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "",
+        "what_we_love": ""
+      },
+      {
         "id": 51535,
         "template_id": 3,
         "title": "Royal Plaza on Scotts Couples Staycation with Breakfast at Carousel",
@@ -1198,7 +1257,7 @@
         "start_time": "2021-01-01 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 41,
+        "participate": 42,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -2296,7 +2355,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-02 00:00:00",
+        "start_time": "2021-01-05 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 26,
@@ -3444,68 +3503,9 @@
         "need_hide_review": true,
         "deeplink": "",
         "what_we_love": ""
-      },
-      {
-        "id": 52330,
-        "template_id": 2,
-        "title": "Chinatown Tour with Opera Dinner",
-        "subtitle": "",
-        "url_seo": "chinatown-tour-opera-dinner",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "zrcm7a2t7culnvvbe2h1.jpg",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "128.00",
-        "sell_price": "128.00",
-        "from_price": "128.00",
-        "to_price": "128.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-02-05 16:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "hot_state": "new",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/zrcm7a2t7culnvvbe2h1.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.284788,103.843932",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 0,
-        "country_name": "",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 0,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "",
-        "what_we_love": ""
       }
     ],
-    "total": 945,
+    "total": 946,
     "price": {
       "from": "0",
       "to": "514"
