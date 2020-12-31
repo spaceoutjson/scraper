@@ -893,7 +893,7 @@
         "start_time": "2021-01-01 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 1,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 23,
@@ -3223,7 +3223,7 @@
         "start_time": "2021-01-01 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 312,
+        "participate": 313,
         "participants_format": "300+ Booked",
         "hot_state": "normal",
         "discount": 27,
@@ -3397,7 +3397,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-02 08:30:00",
+        "start_time": "2021-01-03 08:30:00",
         "sold_out": false,
         "published": true,
         "participate": 2,
@@ -3456,7 +3456,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-02 08:30:00",
+        "start_time": "2021-01-03 08:30:00",
         "sold_out": false,
         "published": true,
         "participate": 1,
@@ -3495,7 +3495,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 935,
+    "total": 936,
     "price": {
       "from": "0",
       "to": "513"
