@@ -575,6 +575,65 @@
     ],
     "activities": [
       {
+        "id": 52950,
+        "template_id": 3,
+        "title": "Hotel Re! Singapore Staycation",
+        "subtitle": "",
+        "url_seo": "2-days-1-night-stay-hotel-re-singapore-dinner-couples",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "pmj5ktkzcsezzgwtx8sm.jpg",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "152.10",
+        "sell_price": "117.70",
+        "from_price": "117.70",
+        "to_price": "117.70",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-01-01 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "hot_state": "new",
+        "discount": 23,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/pmj5ktkzcsezzgwtx8sm.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.285391,103.838383",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 0,
+        "country_name": "",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 0,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "",
+        "what_we_love": ""
+      },
+      {
         "id": 52799,
         "template_id": 2,
         "title": "Meet the Villagers of the Last Surviving Kampong in Singapore - Lorong Buangkok",
@@ -654,7 +713,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-02 13:00:00",
+        "start_time": "2021-01-08 16:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -713,7 +772,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-02 00:00:00",
+        "start_time": "2021-01-04 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -772,7 +831,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-02 00:00:00",
+        "start_time": "2021-01-04 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1470,7 +1529,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-01 00:00:00",
+        "start_time": "2021-01-03 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 42,
@@ -1709,7 +1768,7 @@
         "start_time": "2021-01-15 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 33,
+        "participate": 35,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -3434,68 +3493,9 @@
         "need_hide_review": true,
         "deeplink": "",
         "what_we_love": ""
-      },
-      {
-        "id": 52819,
-        "template_id": 2,
-        "title": "Kampong Buangkok Tour PLUS Nostalgic Snacks and Goodie Bag ",
-        "subtitle": "",
-        "url_seo": "kampong-buangkok-tour-nostalgic-snacks-goodie-bag",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "so5kmcewelprhiv285wn.jpg",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "49.00",
-        "sell_price": "49.00",
-        "from_price": "49.00",
-        "to_price": "49.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-01-05 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "hot_state": "new",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/so5kmcewelprhiv285wn.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.383405,103.878158",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 0,
-        "country_name": "",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 0,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "",
-        "what_we_love": ""
       }
     ],
-    "total": 931,
+    "total": 932,
     "price": {
       "from": "0",
       "to": "513"
