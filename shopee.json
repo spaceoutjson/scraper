@@ -1,5 +1,5 @@
 {
-  "version": "3da94e797e4019f759880ed3ada0a8a1",
+  "version": "c1d59794e1a9014ebdee461e395e0a80",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -42,7 +42,7 @@
           "is_category_failed": false,
           "show_discount": 12,
           "cmt_count": 33,
-          "view_count": 3068,
+          "view_count": 3096,
           "catid": 2414,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -179,8 +179,8 @@
           "price_before_discount": 49900000,
           "is_category_failed": false,
           "show_discount": 58,
-          "cmt_count": 2826,
-          "view_count": 22638,
+          "cmt_count": 2827,
+          "view_count": 22659,
           "catid": 2414,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -203,14 +203,14 @@
           "price": 20900000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.924628,
+            "rating_star": 4.924655,
             "rating_count": [
-              2826,
+              2827,
               11,
               8,
               27,
               91,
-              2689
+              2690
             ],
             "rcount_with_image": 1285,
             "rcount_with_context": 1670
@@ -306,8 +306,8 @@
           "price_before_discount": 15000000,
           "is_category_failed": false,
           "show_discount": 75,
-          "cmt_count": 2744,
-          "view_count": 23731,
+          "cmt_count": 2745,
+          "view_count": 23786,
           "catid": 6,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -330,14 +330,14 @@
           "price": 3790000,
           "shop_location": "Korea",
           "item_rating": {
-            "rating_star": 4.909555,
+            "rating_star": 4.909588,
             "rating_count": [
-              2744,
+              2745,
               12,
               10,
               28,
               121,
-              2573
+              2574
             ],
             "rcount_with_image": 1224,
             "rcount_with_context": 1657
@@ -434,7 +434,7 @@
           "is_category_failed": false,
           "show_discount": 21,
           "cmt_count": 326,
-          "view_count": 10030,
+          "view_count": 10070,
           "catid": 6,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -557,7 +557,7 @@
           "is_category_failed": false,
           "show_discount": 52,
           "cmt_count": 2057,
-          "view_count": 17060,
+          "view_count": 17062,
           "catid": 16997,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -683,7 +683,7 @@
           "is_category_failed": false,
           "show_discount": 29,
           "cmt_count": 26,
-          "view_count": 684,
+          "view_count": 688,
           "catid": 13,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -817,7 +817,7 @@
           "is_category_failed": false,
           "show_discount": 7,
           "cmt_count": 18,
-          "view_count": 2920,
+          "view_count": 2923,
           "catid": 13,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -929,7 +929,7 @@
           "is_category_failed": false,
           "show_discount": 23,
           "cmt_count": 399,
-          "view_count": 10732,
+          "view_count": 10739,
           "catid": 8,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -1067,7 +1067,7 @@
           "is_category_failed": false,
           "show_discount": 35,
           "cmt_count": 887,
-          "view_count": 11641,
+          "view_count": 11662,
           "catid": 2414,
           "voucher_info": null,
           "upcoming_flash_sale": null,
