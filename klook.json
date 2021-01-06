@@ -1119,7 +1119,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-09 08:30:00",
+        "start_time": "2021-01-10 08:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1237,7 +1237,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-08 00:00:00",
+        "start_time": "2021-01-09 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 2,
@@ -1653,7 +1653,7 @@
         "start_time": "2021-01-08 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 33,
+        "participate": 34,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 23,
@@ -2587,9 +2587,9 @@
         "start_time": "2021-01-08 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 49,
-        "participants_format": "New Activity",
-        "hot_state": "new",
+        "participate": 50,
+        "participants_format": "50+ Booked",
+        "hot_state": "normal",
         "discount": 0,
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
@@ -3174,7 +3174,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-09 00:00:00",
+        "start_time": "2021-01-10 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3295,7 +3295,7 @@
         "start_time": "2021-01-06 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 54,
+        "participate": 55,
         "participants_format": "50+ Booked",
         "hot_state": "normal",
         "discount": 0,
@@ -3400,7 +3400,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-08 00:00:00",
+        "start_time": "2021-01-09 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3498,7 +3498,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 909,
+    "total": 910,
     "price": {
       "from": "0",
       "to": "511"
