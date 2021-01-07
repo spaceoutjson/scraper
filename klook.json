@@ -608,6 +608,65 @@
     ],
     "activities": [
       {
+        "id": 53288,
+        "template_id": 2,
+        "title": "Sungei Buloh Nature Tour",
+        "subtitle": "",
+        "url_seo": "sungei-buloh-nature-tour",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "x1ltlvca3yypxd0swbof.jpg",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "158.00",
+        "sell_price": "158.00",
+        "from_price": "158.00",
+        "to_price": "158.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-01-13 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "hot_state": "new",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/x1ltlvca3yypxd0swbof.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.447048,103.724065",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 0,
+        "country_name": "",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 0,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "",
+        "what_we_love": ""
+      },
+      {
         "id": 53276,
         "template_id": 2,
         "title": "Battlefield of Singapore",
@@ -635,6 +694,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/hqjelm6bzwiwd7dummqj.jpg",
         "icon": null,
@@ -651,7 +713,14 @@
         "real_lang": "",
         "leaf_category": 0,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "",
         "what_we_love": ""
@@ -684,6 +753,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/zqgh0k0zw7bqj2r49qqx.jpg",
         "icon": null,
@@ -700,7 +772,14 @@
         "real_lang": "",
         "leaf_category": 0,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "",
         "what_we_love": ""
@@ -900,6 +979,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 17,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/msewxzbgfj5aef2nfx0l.jpg",
         "icon": null,
@@ -916,7 +998,14 @@
         "real_lang": "",
         "leaf_category": 0,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "",
         "what_we_love": ""
@@ -2754,7 +2843,7 @@
         "start_time": "2021-01-10 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 56,
+        "participate": 57,
         "participants_format": "50+ Booked",
         "hot_state": "normal",
         "discount": 0,
@@ -2813,7 +2902,7 @@
         "start_time": "2021-01-11 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 139,
+        "participate": 140,
         "participants_format": "100+ Booked",
         "hot_state": "normal",
         "discount": 0,
@@ -3437,58 +3526,9 @@
         "need_hide_review": true,
         "deeplink": "",
         "what_we_love": ""
-      },
-      {
-        "id": 53026,
-        "template_id": 3,
-        "title": "Rilakkuma Virtual Run 2021",
-        "subtitle": "",
-        "url_seo": "rilakkuma-virtual-run-2021-pass",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "hjflcyyzwhetp0jjtxfj.jpg",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "22.00",
-        "sell_price": "22.00",
-        "from_price": "22.00",
-        "to_price": "56.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-01-07 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 72,
-        "participants_format": "50+ Booked",
-        "hot_state": "normal",
-        "discount": 0,
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/hjflcyyzwhetp0jjtxfj.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.354186,103.818316",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 0,
-        "country_name": "",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 0,
-        "package_id": 0,
-        "tags": null,
-        "need_hide_review": true,
-        "deeplink": "",
-        "what_we_love": ""
       }
     ],
-    "total": 917,
+    "total": 918,
     "price": {
       "from": "0",
       "to": "510"
