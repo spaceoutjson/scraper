@@ -240,6 +240,12 @@
             "name": "Services",
             "enable": true,
             "children": null
+          },
+          {
+            "id": 68,
+            "name": "Travel gear rental",
+            "enable": true,
+            "children": null
           }
         ]
       }
@@ -1029,7 +1035,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-10 00:00:00",
+        "start_time": "2021-01-09 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 5,
@@ -1612,7 +1618,7 @@
         "start_time": "2021-01-09 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 16,
+        "participate": 17,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 23,
@@ -3526,7 +3532,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 919,
+    "total": 920,
     "price": {
       "from": "0",
       "to": "514"
@@ -3810,6 +3816,11 @@
           {
             "id": 83,
             "name": "Lounges & Airport Services",
+            "disable": false
+          },
+          {
+            "id": 88,
+            "name": "Equipment Rental",
             "disable": false
           },
           {
