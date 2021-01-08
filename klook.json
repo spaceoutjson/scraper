@@ -251,7 +251,6 @@
       }
     ],
     "start_time": [
-      "2021-01-08T00:00:00Z",
       "2021-01-09T00:00:00Z",
       "2021-01-10T00:00:00Z",
       "2021-01-11T00:00:00Z",
@@ -611,6 +610,55 @@
       "2021-12-31T00:00:00Z"
     ],
     "activities": [
+      {
+        "id": 53358,
+        "template_id": 4,
+        "title": "[Delivery] CNY Season Confectionery & Bakery in Singapore by Pickupp",
+        "subtitle": "",
+        "url_seo": "season-confectionery-bakery-singapore",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "c1margp716rddmfcnopi.jpg",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "19.80",
+        "sell_price": "17.80",
+        "from_price": "17.80",
+        "to_price": "17.80",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-01-13 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "hot_state": "new",
+        "discount": 10,
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/c1margp716rddmfcnopi.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.338376,103.941512",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 0,
+        "country_name": "",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 0,
+        "package_id": 0,
+        "tags": null,
+        "need_hide_review": false,
+        "deeplink": "",
+        "what_we_love": ""
+      },
       {
         "id": 53288,
         "template_id": 2,
@@ -3471,65 +3519,6 @@
         "need_hide_review": true,
         "deeplink": "",
         "what_we_love": ""
-      },
-      {
-        "id": 52948,
-        "template_id": 2,
-        "title": "Air & Sea Immersive Dining Experience",
-        "subtitle": "",
-        "url_seo": "air-sea-immersive-dining-experience-tour-singapore",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "lzkdommza3b7ppwfp7dr.jpg",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "250.00",
-        "sell_price": "250.00",
-        "from_price": "250.00",
-        "to_price": "250.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-01-19 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "hot_state": "new",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/lzkdommza3b7ppwfp7dr.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.25733,103.817013",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 0,
-        "country_name": "",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 0,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "",
-        "what_we_love": ""
       }
     ],
     "total": 922,
@@ -3752,11 +3741,6 @@
           {
             "id": 23,
             "name": "Dive & Snorkel ",
-            "disable": false
-          },
-          {
-            "id": 29,
-            "name": "Skiing & Snow Sports",
             "disable": false
           },
           {
