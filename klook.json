@@ -1030,7 +1030,7 @@
         "market_price": "100.00",
         "sell_price": "80.00",
         "from_price": "80.00",
-        "to_price": "80.00",
+        "to_price": "100.00",
         "spec_price": {
           "type": 0,
           "desc": ""
@@ -1038,7 +1038,7 @@
         "start_time": "2021-01-09 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 5,
+        "participate": 6,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 20,
@@ -2906,7 +2906,7 @@
         "start_time": "2021-01-12 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 145,
+        "participate": 146,
         "participants_format": "100+ Booked",
         "hot_state": "normal",
         "discount": 0,
