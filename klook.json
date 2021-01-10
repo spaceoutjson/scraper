@@ -798,7 +798,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-18 00:00:00",
+        "start_time": "2021-01-19 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2600,7 +2600,7 @@
         "start_time": "2021-01-16 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 51,
+        "participate": 53,
         "participants_format": "50+ Booked",
         "hot_state": "normal",
         "discount": 0,
@@ -2882,7 +2882,7 @@
         "instance": 1,
         "image_url": "nm1dyxalddnvydsifzz4.jpg",
         "video_url": "",
-        "score": 0,
+        "score": 5,
         "currency": "SGD",
         "market_price": "295.00",
         "sell_price": "295.00",
@@ -2895,14 +2895,14 @@
         "start_time": "2021-01-15 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 72,
+        "participate": 73,
         "participants_format": "50+ Booked",
         "hot_state": "normal",
         "discount": 0,
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
         },
-        "review_total": 0,
+        "review_total": 1,
         "image_url_host": "https://res.klook.com/image/upload/activities/nm1dyxalddnvydsifzz4.jpg",
         "icon": null,
         "icons": null,
@@ -2926,7 +2926,7 @@
             "text": "Eligible for SingapoRediscovers Vouchers"
           }
         ],
-        "need_hide_review": true,
+        "need_hide_review": false,
         "deeplink": "",
         "what_we_love": ""
       },
@@ -2941,7 +2941,7 @@
         "instance": 1,
         "image_url": "tlxbtbivnksbh3iibtnz.jpg",
         "video_url": "",
-        "score": 4.5,
+        "score": 4.6,
         "currency": "SGD",
         "market_price": "150.00",
         "sell_price": "150.00",
@@ -2961,7 +2961,7 @@
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
         },
-        "review_total": 10,
+        "review_total": 12,
         "image_url_host": "https://res.klook.com/image/upload/activities/tlxbtbivnksbh3iibtnz.jpg",
         "icon": null,
         "icons": null,
