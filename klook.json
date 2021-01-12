@@ -608,6 +608,65 @@
     ],
     "activities": [
       {
+        "id": 52544,
+        "template_id": 3,
+        "title": "Amara Sanctuary Resort Sentosa Staycation ",
+        "subtitle": "",
+        "url_seo": "1-night-stay-amara-sanctuary-resort-sentosa",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "erjqujalijmnxhbhq0uf.jpg",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "379.29",
+        "sell_price": "379.29",
+        "from_price": "379.29",
+        "to_price": "379.29",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-01-15 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "hot_state": "new",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/erjqujalijmnxhbhq0uf.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.251632,103.822819",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 0,
+        "country_name": "",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 0,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "",
+        "what_we_love": ""
+      },
+      {
         "id": 53319,
         "template_id": 2,
         "title": "2.5Hrs Singapore Southern Island Yacht Guided Tour",
@@ -2715,7 +2774,7 @@
         "start_time": "2021-01-14 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 53,
+        "participate": 54,
         "participants_format": "50+ Booked",
         "hot_state": "normal",
         "discount": 23,
@@ -3447,68 +3506,9 @@
         "need_hide_review": true,
         "deeplink": "",
         "what_we_love": ""
-      },
-      {
-        "id": 52897,
-        "template_id": 2,
-        "title": "Taste of Tour @ Singapore 1-Day Tour",
-        "subtitle": "",
-        "url_seo": "singapore-1-day-taste-join-in-tour",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "hb4yqrcmzb8q4mq797va.jpg",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "148.00",
-        "sell_price": "148.00",
-        "from_price": "148.00",
-        "to_price": "148.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-01-29 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "hot_state": "new",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/hb4yqrcmzb8q4mq797va.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.284195,103.842554",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 0,
-        "country_name": "",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 0,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "",
-        "what_we_love": ""
       }
     ],
-    "total": 932,
+    "total": 933,
     "price": {
       "from": "0",
       "to": "516"
