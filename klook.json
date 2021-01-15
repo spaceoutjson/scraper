@@ -606,6 +606,55 @@
     ],
     "activities": [
       {
+        "id": 53520,
+        "template_id": 3,
+        "title": "Naumi Singapore Wine to Unwind Staycay",
+        "subtitle": "",
+        "url_seo": "one-night-stay-naumi-hotel-singapore-staycation",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "se4aqompgcavmdksmnti.jpg",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "412.00",
+        "sell_price": "330.00",
+        "from_price": "330.00",
+        "to_price": "330.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-01-18 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "hot_state": "new",
+        "discount": 20,
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/se4aqompgcavmdksmnti.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.29592,103.855164",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 0,
+        "country_name": "",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 0,
+        "package_id": 0,
+        "tags": null,
+        "need_hide_review": true,
+        "deeplink": "",
+        "what_we_love": ""
+      },
+      {
         "id": 53109,
         "template_id": 3,
         "title": "3D2N Heritage Collection on Seah Singapore Staycation",
@@ -731,6 +780,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/jt6k9lurlm0zips9wnlr.jpg",
         "icon": null,
@@ -747,7 +799,14 @@
         "real_lang": "",
         "leaf_category": 0,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "",
         "what_we_love": ""
@@ -755,7 +814,7 @@
       {
         "id": 53311,
         "template_id": 2,
-        "title": "Visit Flower Dome (tickets own account) & Supertree Grove Observatory @ Garden By The Bay",
+        "title": "Visit Flower Dome (tickets own account) & Supertree Grove Observatory @ Garden By The Bay (Wheelchair Friendly)",
         "subtitle": "",
         "url_seo": "visit-flower-dome-supertree-grove-observatory-tour",
         "city_id": 6,
@@ -814,7 +873,7 @@
       {
         "id": 53307,
         "template_id": 2,
-        "title": "Visit Canopy Park & Shiseido Forest Valley HSBC Rain Vortex @ JEWEL CHANGI",
+        "title": "Visit Canopy Park & Shiseido Forest Valley HSBC Rain Vortex @ JEWEL CHANGI (Wheelchair Friendly)",
         "subtitle": "",
         "url_seo": "visit-canopy-park-shiseido-forest-valley-hsbc-rain-vortex-tour",
         "city_id": 6,
@@ -2476,7 +2535,7 @@
         "start_time": "2021-01-22 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 7,
+        "participate": 8,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -3385,68 +3444,9 @@
         "need_hide_review": true,
         "deeplink": "",
         "what_we_love": ""
-      },
-      {
-        "id": 52818,
-        "template_id": 2,
-        "title": "Black & White Heritage Houses - A Historical Architecture Tour through the Alexander Park Estate with Home Visit ",
-        "subtitle": "",
-        "url_seo": "alexandra-park-estate-private-walking-tour",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "gcfotxkcunrggu4j1w9b.jpg",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "95.00",
-        "sell_price": "95.00",
-        "from_price": "95.00",
-        "to_price": "95.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-01-18 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "hot_state": "new",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/gcfotxkcunrggu4j1w9b.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.278879,103.80186",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 0,
-        "country_name": "",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 0,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "",
-        "what_we_love": ""
       }
     ],
-    "total": 954,
+    "total": 955,
     "price": {
       "from": "0",
       "to": "514"
