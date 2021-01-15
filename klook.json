@@ -251,7 +251,6 @@
       }
     ],
     "start_time": [
-      "2021-01-14T00:00:00Z",
       "2021-01-15T00:00:00Z",
       "2021-01-16T00:00:00Z",
       "2021-01-17T00:00:00Z",
@@ -2968,7 +2967,7 @@
         "start_time": "2021-01-16 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 40,
+        "participate": 41,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 20,
@@ -3466,7 +3465,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 968,
+    "total": 967,
     "price": {
       "from": "0",
       "to": "515"
