@@ -1688,10 +1688,10 @@
         "video_url": "",
         "score": 0,
         "currency": "SGD",
-        "market_price": "427.80",
-        "sell_price": "427.80",
-        "from_price": "427.80",
-        "to_price": "427.80",
+        "market_price": "372.89",
+        "sell_price": "372.89",
+        "from_price": "372.89",
+        "to_price": "372.89",
         "spec_price": {
           "type": 0,
           "desc": ""
@@ -2967,7 +2967,7 @@
         "start_time": "2021-01-16 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 41,
+        "participate": 42,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 20,
