@@ -1531,7 +1531,7 @@
         "start_time": "2021-01-21 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 1,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -1813,7 +1813,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-20 08:30:00",
+        "start_time": "2021-01-21 08:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1872,7 +1872,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-20 10:00:00",
+        "start_time": "2021-01-21 10:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1931,7 +1931,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-20 14:00:00",
+        "start_time": "2021-01-21 14:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1990,7 +1990,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-20 09:30:00",
+        "start_time": "2021-01-21 09:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2334,7 +2334,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-20 00:00:00",
+        "start_time": "2021-01-21 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 4,
@@ -2904,7 +2904,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-20 00:00:00",
+        "start_time": "2021-01-22 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3307,7 +3307,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-20 09:30:00",
+        "start_time": "2021-01-21 09:30:00",
         "sold_out": false,
         "published": true,
         "participate": 18,
@@ -3366,7 +3366,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-20 09:30:00",
+        "start_time": "2021-01-21 09:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3425,7 +3425,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-19 00:00:00",
+        "start_time": "2021-01-20 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 2,
