@@ -251,7 +251,6 @@
       }
     ],
     "start_time": [
-      "2021-01-18T00:00:00Z",
       "2021-01-19T00:00:00Z",
       "2021-01-20T00:00:00Z",
       "2021-01-21T00:00:00Z",
@@ -3442,7 +3441,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 972,
+    "total": 971,
     "price": {
       "from": "0",
       "to": "515"
@@ -3580,13 +3579,13 @@
             "disable": false
           },
           {
-            "id": 52,
-            "name": "Adrenaline Junkies",
+            "id": 178,
+            "name": "Camping",
             "disable": false
           },
           {
-            "id": 53,
-            "name": "Nature & Wildlife",
+            "id": 52,
+            "name": "Adrenaline Junkies",
             "disable": false
           },
           {
