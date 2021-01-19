@@ -251,7 +251,6 @@
       }
     ],
     "start_time": [
-      "2021-01-19T00:00:00Z",
       "2021-01-20T00:00:00Z",
       "2021-01-21T00:00:00Z",
       "2021-01-22T00:00:00Z",
@@ -3661,6 +3660,11 @@
           {
             "id": 23,
             "name": "Dive & Snorkel ",
+            "disable": false
+          },
+          {
+            "id": 29,
+            "name": "Skiing & Snow Sports",
             "disable": false
           },
           {
