@@ -849,7 +849,7 @@
         "start_time": "2021-01-24 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 4,
+        "participate": 5,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -1193,7 +1193,7 @@
         "start_time": "2021-02-04 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 1,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -1416,7 +1416,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-21 16:30:00",
+        "start_time": "2021-01-23 16:30:00",
         "sold_out": false,
         "published": true,
         "participate": 2,
@@ -2084,7 +2084,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-23 00:00:00",
+        "start_time": "2021-01-24 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2143,7 +2143,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-23 08:30:00",
+        "start_time": "2021-01-24 08:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2202,7 +2202,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-23 10:00:00",
+        "start_time": "2021-01-24 10:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2261,7 +2261,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-23 14:00:00",
+        "start_time": "2021-01-24 14:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2320,7 +2320,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-23 09:30:00",
+        "start_time": "2021-01-24 09:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
