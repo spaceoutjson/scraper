@@ -699,7 +699,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-24 09:00:00",
+        "start_time": "2021-01-24 11:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1292,7 +1292,7 @@
         "start_time": "2021-01-25 12:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 9,
+        "participate": 13,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -2735,10 +2735,10 @@
         "video_url": "",
         "score": 0,
         "currency": "SGD",
-        "market_price": "379.29",
-        "sell_price": "379.29",
-        "from_price": "379.29",
-        "to_price": "379.29",
+        "market_price": "372.89",
+        "sell_price": "372.89",
+        "from_price": "372.89",
+        "to_price": "372.89",
         "spec_price": {
           "type": 0,
           "desc": ""
