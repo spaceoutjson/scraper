@@ -238,7 +238,6 @@
       }
     ],
     "start_time": [
-      "2021-01-22T00:00:00Z",
       "2021-01-23T00:00:00Z",
       "2021-01-24T00:00:00Z",
       "2021-01-25T00:00:00Z",
@@ -603,7 +602,8 @@
       "2022-01-19T00:00:00Z",
       "2022-01-20T00:00:00Z",
       "2022-01-21T00:00:00Z",
-      "2022-01-22T00:00:00Z"
+      "2022-01-22T00:00:00Z",
+      "2022-01-23T00:00:00Z"
     ],
     "activities": [
       {
@@ -2425,55 +2425,6 @@
         "what_we_love": ""
       },
       {
-        "id": 53454,
-        "template_id": 2,
-        "title": "HawkerWalk@CNY Edition - Chinatown Complex",
-        "subtitle": "",
-        "url_seo": "chinatown-complex-hawker-walk-tour-chinese-new-year-edition",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "tyjwtx4q2sbjrjpcyqyr.jpg",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "",
-        "sell_price": "",
-        "from_price": "",
-        "to_price": "",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "",
-        "sold_out": true,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "hot_state": "new",
-        "discount": 0,
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/tyjwtx4q2sbjrjpcyqyr.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.2829,103.843314",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 0,
-        "country_name": "",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 0,
-        "package_id": 0,
-        "tags": null,
-        "need_hide_review": true,
-        "deeplink": "",
-        "what_we_love": ""
-      },
-      {
         "id": 53489,
         "template_id": 1,
         "title": "[Klook Exclusive] The Rishi Report Comedy Show at Gateway Theatre Black Box ",
@@ -3435,9 +3386,68 @@
         "need_hide_review": true,
         "deeplink": "",
         "what_we_love": ""
+      },
+      {
+        "id": 53326,
+        "template_id": 2,
+        "title": "Charms Of Singapore",
+        "subtitle": "",
+        "url_seo": "charms-singapore-tour",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "b5oxfjy5nqeitcd3mbsr.jpg",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "100.00",
+        "sell_price": "100.00",
+        "from_price": "100.00",
+        "to_price": "100.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-01-29 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "hot_state": "new",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/b5oxfjy5nqeitcd3mbsr.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.31191,103.839304",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 0,
+        "country_name": "",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 0,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "",
+        "what_we_love": ""
       }
     ],
-    "total": 991,
+    "total": 990,
     "price": {
       "from": "0",
       "to": "515"
