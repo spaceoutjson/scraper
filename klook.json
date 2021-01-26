@@ -835,9 +835,9 @@
         "score": 0,
         "currency": "SGD",
         "market_price": "90.90",
-        "sell_price": "90.90",
-        "from_price": "90.90",
-        "to_price": "90.90",
+        "sell_price": "78.90",
+        "from_price": "78.90",
+        "to_price": "78.90",
         "spec_price": {
           "type": 0,
           "desc": ""
@@ -848,7 +848,7 @@
         "participate": 1,
         "participants_format": "New Activity",
         "hot_state": "new",
-        "discount": 0,
+        "discount": 13,
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/vp0j1p6yui9nqgqlghup.jpg",
         "icon": null,
@@ -1038,7 +1038,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-28 10:00:00",
+        "start_time": "2021-01-28 13:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1097,7 +1097,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-28 11:00:00",
+        "start_time": "2021-01-28 13:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
