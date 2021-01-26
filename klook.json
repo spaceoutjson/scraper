@@ -212,12 +212,6 @@
         "children": null
       },
       {
-        "id": 54,
-        "name": "Hotels & more",
-        "enable": true,
-        "children": null
-      },
-      {
         "id": 66,
         "name": "Traveler essentials",
         "enable": true,
@@ -747,7 +741,7 @@
         "start_time": "2021-03-17 20:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 5,
+        "participate": 7,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -2653,7 +2647,7 @@
         "start_time": "2021-01-28 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 2,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -2987,7 +2981,7 @@
         "start_time": "2021-02-01 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 46,
+        "participate": 47,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 23,
@@ -3426,7 +3420,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 999,
+    "total": 1001,
     "price": {
       "from": "0",
       "to": "515"
