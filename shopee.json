@@ -1,5 +1,5 @@
 {
-  "version": "627270ce377406fd9068053a1cdb9046",
+  "version": "455f4ff5c1e07ef78c8b2cc6f8c5211d",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -45,14 +45,14 @@
           "is_category_failed": false,
           "show_discount": 24,
           "cmt_count": 228,
-          "view_count": 3593,
+          "view_count": 3654,
           "catid": 169,
           "voucher_info": null,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
           "brand": "Hoegaarden",
           "price_min": 8880000,
-          "liked_count": 118,
+          "liked_count": 119,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -160,8 +160,8 @@
           "price_before_discount": 5350000,
           "is_category_failed": false,
           "show_discount": 29,
-          "cmt_count": 182,
-          "view_count": 10614,
+          "cmt_count": 183,
+          "view_count": 10760,
           "catid": 169,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -175,7 +175,7 @@
           "price_min_before_discount": 5350000,
           "cb_option": 0,
           "sold": 313,
-          "stock": 39,
+          "stock": 30,
           "status": 1,
           "price_max": 3795000,
           "add_on_deal_info": {
@@ -188,14 +188,14 @@
           "price": 3795000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.906593,
+            "rating_star": 4.907104,
             "rating_count": [
-              182,
+              183,
               0,
               1,
               7,
               0,
-              174
+              175
             ],
             "rcount_with_image": 65,
             "rcount_with_context": 81
@@ -249,7 +249,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 11,
-          "historical_sold": 370,
+          "historical_sold": 371,
           "transparent_background_image": "cf3a38e7e0b8f79d799b43d69eee9a4f"
         },
         {
@@ -277,15 +277,15 @@
           "price_before_discount": 14800000,
           "is_category_failed": false,
           "show_discount": 16,
-          "cmt_count": 459,
-          "view_count": 4842,
+          "cmt_count": 460,
+          "view_count": 4934,
           "catid": 8,
           "voucher_info": null,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
           "brand": "Huawei",
           "price_min": 12500000,
-          "liked_count": 371,
+          "liked_count": 373,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -301,17 +301,17 @@
           "price": 12500000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.941176,
+            "rating_star": 4.941304,
             "rating_count": [
-              459,
+              460,
               1,
               1,
               1,
               18,
-              438
+              439
             ],
-            "rcount_with_image": 210,
-            "rcount_with_context": 310
+            "rcount_with_image": 211,
+            "rcount_with_context": 311
           },
           "show_official_shop_label_in_title": false,
           "tier_variations": [
@@ -372,7 +372,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 938,
+          "historical_sold": 939,
           "transparent_background_image": "cec630244d41938f8f550b700ab7440b"
         },
         {
@@ -403,21 +403,21 @@
           "is_category_failed": false,
           "show_discount": 31,
           "cmt_count": 633,
-          "view_count": 6259,
+          "view_count": 6342,
           "catid": 169,
           "voucher_info": null,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
           "brand": "Heineken",
           "price_min": 5140000,
-          "liked_count": 147,
+          "liked_count": 149,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
           "price_min_before_discount": 7460000,
           "cb_option": 0,
           "sold": 348,
-          "stock": 40,
+          "stock": 38,
           "status": 1,
           "price_max": 5140000,
           "add_on_deal_info": {
@@ -529,7 +529,7 @@
           "is_category_failed": false,
           "show_discount": 26,
           "cmt_count": 19,
-          "view_count": 4392,
+          "view_count": 4398,
           "catid": 169,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -636,8 +636,8 @@
           "price_before_discount": 5500000,
           "is_category_failed": false,
           "show_discount": 29,
-          "cmt_count": 12464,
-          "view_count": 54523,
+          "cmt_count": 12466,
+          "view_count": 54825,
           "catid": 169,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -651,7 +651,7 @@
           "price_min_before_discount": 5500000,
           "cb_option": 0,
           "sold": 5542,
-          "stock": 343,
+          "stock": 278,
           "status": 1,
           "price_max": 3880000,
           "add_on_deal_info": null,
@@ -660,17 +660,17 @@
           "price": 3880000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.948569,
+            "rating_star": 4.948578,
             "rating_count": [
-              12464,
+              12466,
               35,
               32,
               92,
               227,
-              12078
+              12080
             ],
-            "rcount_with_image": 5230,
-            "rcount_with_context": 6967
+            "rcount_with_image": 5231,
+            "rcount_with_context": 6968
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -725,7 +725,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 11,
-          "historical_sold": 44316,
+          "historical_sold": 44335,
           "transparent_background_image": "4c35c97a4347aa437f110090a25aaf5c"
         },
         {
@@ -756,7 +756,7 @@
           "is_category_failed": false,
           "show_discount": 33,
           "cmt_count": 2,
-          "view_count": 367,
+          "view_count": 371,
           "catid": 169,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -770,7 +770,7 @@
           "price_min_before_discount": 4200000,
           "cb_option": 0,
           "sold": 1,
-          "stock": 110,
+          "stock": 109,
           "status": 1,
           "price_max": 2800000,
           "add_on_deal_info": {
@@ -872,7 +872,7 @@
           "is_category_failed": false,
           "show_discount": 28,
           "cmt_count": 2063,
-          "view_count": 6857,
+          "view_count": 6861,
           "catid": 16997,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -996,7 +996,7 @@
           "is_category_failed": false,
           "show_discount": 2,
           "cmt_count": 348,
-          "view_count": 4092,
+          "view_count": 4103,
           "catid": 169,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -1105,7 +1105,7 @@
           "is_category_failed": false,
           "show_discount": 0,
           "cmt_count": 1671,
-          "view_count": 3373,
+          "view_count": 3383,
           "catid": 20153,
           "voucher_info": null,
           "upcoming_flash_sale": null,
