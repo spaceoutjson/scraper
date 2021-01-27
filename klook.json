@@ -607,6 +607,55 @@
     ],
     "activities": [
       {
+        "id": 53532,
+        "template_id": 3,
+        "title": "Dual Core Jelly Lipstick Workshop",
+        "subtitle": "",
+        "url_seo": "dual-core-jelly-lipstick-making-class-singapore",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 3,
+        "image_url": "amoej7chsms1wi8o3r2g.jpg",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "55.00",
+        "sell_price": "55.00",
+        "from_price": "55.00",
+        "to_price": "65.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-01-31 10:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "hot_state": "new",
+        "discount": 0,
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/amoej7chsms1wi8o3r2g.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.309149,103.7687",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 0,
+        "country_name": "",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 0,
+        "package_id": 0,
+        "tags": null,
+        "need_hide_review": true,
+        "deeplink": "",
+        "what_we_love": ""
+      },
+      {
         "id": 53537,
         "template_id": 2,
         "title": "Welcome to Singapore Podcast Walking Tour",
@@ -683,6 +732,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/qwafdcsvustqmjaqv9wg.jpg",
         "icon": null,
@@ -699,7 +751,14 @@
         "real_lang": "",
         "leaf_category": 0,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "",
         "what_we_love": ""
@@ -732,6 +791,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/v29yrphaywxbu3oekfuy.jpg",
         "icon": null,
@@ -748,7 +810,14 @@
         "real_lang": "",
         "leaf_category": 0,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "",
         "what_we_love": ""
@@ -823,7 +892,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-29 09:00:00",
+        "start_time": "2021-01-30 09:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -882,7 +951,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-29 09:00:00",
+        "start_time": "2021-01-30 09:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -941,7 +1010,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-29 09:00:00",
+        "start_time": "2021-01-30 09:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1000,7 +1069,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-29 00:00:00",
+        "start_time": "2021-01-30 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1059,7 +1128,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-28 00:00:00",
+        "start_time": "2021-01-29 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1432,7 +1501,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-02-01 00:00:00",
+        "start_time": "2021-02-02 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2123,7 +2192,7 @@
         "start_time": "2021-01-27 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 18,
+        "participate": 19,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 58,
@@ -2179,7 +2248,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-30 12:00:00",
+        "start_time": "2021-01-31 12:00:00",
         "sold_out": false,
         "published": true,
         "participate": 77,
@@ -2336,7 +2405,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-02-03 13:00:00",
+        "start_time": "2021-02-04 13:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3024,7 +3093,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-28 16:30:00",
+        "start_time": "2021-01-30 16:30:00",
         "sold_out": false,
         "published": true,
         "participate": 20,
@@ -3145,7 +3214,7 @@
         "start_time": "2021-01-29 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 3,
+        "participate": 4,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -3250,7 +3319,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-29 10:00:00",
+        "start_time": "2021-02-01 10:00:00",
         "sold_out": false,
         "published": true,
         "participate": 1,
@@ -3299,7 +3368,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-30 00:00:00",
+        "start_time": "2021-02-05 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3336,68 +3405,9 @@
         "need_hide_review": true,
         "deeplink": "",
         "what_we_love": ""
-      },
-      {
-        "id": 53312,
-        "template_id": 2,
-        "title": "Peranakan Tour + Pohpiah Making",
-        "subtitle": "",
-        "url_seo": "peranakan-tour-pohpiah-making",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "ei4ztipvhefnbf734m5o.jpg",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "58.00",
-        "sell_price": "58.00",
-        "from_price": "58.00",
-        "to_price": "58.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-01-31 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "hot_state": "new",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/ei4ztipvhefnbf734m5o.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.314006,103.899276",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 0,
-        "country_name": "",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 0,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "",
-        "what_we_love": ""
       }
     ],
-    "total": 1011,
+    "total": 1012,
     "price": {
       "from": "0",
       "to": "513"
