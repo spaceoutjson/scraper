@@ -1118,6 +1118,65 @@
         "what_we_love": ""
       },
       {
+        "id": 48647,
+        "template_id": 3,
+        "title": "Marina Bay Sands Staycation (Exclusive)",
+        "subtitle": "",
+        "url_seo": "3d2n-stay-marina-bay-sands",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "lt3zbohfhncs1ebmr4fz.jpg",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "1010.00",
+        "sell_price": "1010.00",
+        "from_price": "1010.00",
+        "to_price": "1057.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-02-01 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "hot_state": "new",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/lt3zbohfhncs1ebmr4fz.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.283661,103.859271",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 0,
+        "country_name": "",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 0,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "",
+        "what_we_love": ""
+      },
+      {
         "id": 53685,
         "template_id": 2,
         "title": "Shopping Tour with Lunch in Singapore",
@@ -1305,7 +1364,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-01-31 11:00:00",
+        "start_time": "2021-01-31 18:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3224,7 +3283,7 @@
         "start_time": "2021-02-06 18:30:00",
         "sold_out": false,
         "published": true,
-        "participate": 48,
+        "participate": 49,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 13,
@@ -3356,68 +3415,9 @@
         "need_hide_review": true,
         "deeplink": "",
         "what_we_love": ""
-      },
-      {
-        "id": 53312,
-        "template_id": 2,
-        "title": "Peranakan Tour + Pohpiah Making",
-        "subtitle": "",
-        "url_seo": "peranakan-tour-pohpiah-making",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "ei4ztipvhefnbf734m5o.jpg",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "58.00",
-        "sell_price": "58.00",
-        "from_price": "58.00",
-        "to_price": "58.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-01-31 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "hot_state": "new",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/ei4ztipvhefnbf734m5o.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.314006,103.899276",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 0,
-        "country_name": "",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 0,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "",
-        "what_we_love": ""
       }
     ],
-    "total": 1024,
+    "total": 1025,
     "price": {
       "from": "0",
       "to": "515"
