@@ -2006,10 +2006,10 @@
         "video_url": "",
         "score": 0,
         "currency": "SGD",
-        "market_price": "90.00",
-        "sell_price": "90.00",
-        "from_price": "90.00",
-        "to_price": "90.00",
+        "market_price": "80.00",
+        "sell_price": "80.00",
+        "from_price": "80.00",
+        "to_price": "80.00",
         "spec_price": {
           "type": 0,
           "desc": ""
@@ -3065,7 +3065,7 @@
         "instance": 1,
         "image_url": "lhq5v8peotwo3dtmwe09.jpg",
         "video_url": "",
-        "score": 0,
+        "score": 4.5,
         "currency": "SGD",
         "market_price": "72.79",
         "sell_price": "72.79",
@@ -3082,7 +3082,7 @@
         "participants_format": "50+ Booked",
         "hot_state": "normal",
         "discount": 0,
-        "review_total": 0,
+        "review_total": 2,
         "image_url_host": "https://res.klook.com/image/upload/activities/lhq5v8peotwo3dtmwe09.jpg",
         "icon": null,
         "icons": null,
@@ -3099,7 +3099,7 @@
         "leaf_category": 0,
         "package_id": 0,
         "tags": null,
-        "need_hide_review": true,
+        "need_hide_review": false,
         "deeplink": "",
         "what_we_love": ""
       },
@@ -3360,7 +3360,7 @@
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
         },
-        "review_total": 4,
+        "review_total": 5,
         "image_url_host": "https://res.klook.com/image/upload/activities/fbyevxuxnaupddahkwsv.jpg",
         "icon": null,
         "icons": null,
