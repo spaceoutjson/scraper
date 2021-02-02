@@ -239,9 +239,6 @@
     ],
     "start_time": [
       "2021-01-28T00:00:00Z",
-      "2021-01-29T00:00:00Z",
-      "2021-01-30T00:00:00Z",
-      "2021-01-31T00:00:00Z",
       "2021-02-01T00:00:00Z",
       "2021-02-02T00:00:00Z",
       "2021-02-03T00:00:00Z",
@@ -607,7 +604,8 @@
       "2022-01-29T00:00:00Z",
       "2022-01-30T00:00:00Z",
       "2022-01-31T00:00:00Z",
-      "2022-02-01T00:00:00Z"
+      "2022-02-01T00:00:00Z",
+      "2022-02-02T00:00:00Z"
     ],
     "activities": [
       {
@@ -1615,7 +1613,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-02-03 09:00:00",
+        "start_time": "2021-02-04 09:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1719,7 +1717,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-02-03 09:00:00",
+        "start_time": "2021-02-04 09:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2165,7 +2163,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-02-04 09:00:00",
+        "start_time": "2021-02-05 09:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2227,7 +2225,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-02-04 09:00:00",
+        "start_time": "2021-02-05 09:00:00",
         "sold_out": false,
         "published": true,
         "participate": 1,
@@ -2351,7 +2349,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-02-03 00:00:00",
+        "start_time": "2021-02-04 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2807,7 +2805,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-02-07 00:00:00",
+        "start_time": "2021-02-08 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3511,7 +3509,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1039,
+    "total": 1004,
     "price": {
       "from": "0",
       "to": "516"
