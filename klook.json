@@ -1065,7 +1065,7 @@
         "start_time": "2021-02-06 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 1,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -1880,7 +1880,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-02-04 09:00:00",
+        "start_time": "2021-02-05 09:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1932,7 +1932,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-02-04 09:00:00",
+        "start_time": "2021-02-05 09:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2326,7 +2326,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-02-05 09:00:00",
+        "start_time": "2021-02-06 09:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2388,7 +2388,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-02-05 09:00:00",
+        "start_time": "2021-02-06 09:00:00",
         "sold_out": false,
         "published": true,
         "participate": 1,
@@ -2450,7 +2450,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-02-05 00:00:00",
+        "start_time": "2021-02-06 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2968,7 +2968,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-02-08 00:00:00",
+        "start_time": "2021-02-09 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3486,7 +3486,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1004,
+    "total": 1003,
     "price": {
       "from": "0",
       "to": "516"
