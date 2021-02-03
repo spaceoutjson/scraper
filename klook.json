@@ -633,6 +633,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/jqmaq4pj1olffw9o6g6w.jpg",
         "icon": null,
@@ -649,7 +652,14 @@
         "real_lang": "",
         "leaf_category": 0,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": false,
         "deeplink": "",
         "deep_link": "",
@@ -2202,7 +2212,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-02-04 11:00:00",
+        "start_time": "2021-02-05 11:00:00",
         "sold_out": false,
         "published": true,
         "participate": 1,
@@ -2254,7 +2264,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-02-05 09:00:00",
+        "start_time": "2021-02-06 09:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2502,7 +2512,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-02-04 00:00:00",
+        "start_time": "2021-02-05 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
