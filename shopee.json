@@ -1,5 +1,5 @@
 {
-  "version": "1c1c826c0d859bde97893ef66a7e3cf7",
+  "version": "517cac1cc5516b3241a0f00642b85582",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -49,21 +49,21 @@
           "is_category_failed": false,
           "show_discount": 50,
           "cmt_count": 135,
-          "view_count": 14286,
+          "view_count": 14447,
           "catid": 2414,
           "voucher_info": null,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
           "brand": "PowerPac",
           "price_min": 2990000,
-          "liked_count": 282,
+          "liked_count": 284,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
           "price_min_before_discount": 5990000,
           "cb_option": 0,
           "sold": 148,
-          "stock": 93,
+          "stock": 92,
           "status": 1,
           "price_max": 2990000,
           "add_on_deal_info": {
@@ -152,7 +152,7 @@
           "group_buy_info": null,
           "reference_item_id": "",
           "currency": "SGD",
-          "raw_discount": 42,
+          "raw_discount": 44,
           "show_free_shipping": true,
           "video_info_list": [],
           "images": [
@@ -169,15 +169,15 @@
           "is_preferred_plus_seller": false,
           "price_before_discount": 4990000,
           "is_category_failed": false,
-          "show_discount": 42,
+          "show_discount": 44,
           "cmt_count": 255,
-          "view_count": 2035,
+          "view_count": 2128,
           "catid": 2414,
           "voucher_info": null,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
           "brand": "None",
-          "price_min": 2890000,
+          "price_min": 2790000,
           "liked_count": 469,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
@@ -185,9 +185,9 @@
           "price_min_before_discount": 4990000,
           "cb_option": 0,
           "sold": 25,
-          "stock": 32,
+          "stock": 19,
           "status": 1,
-          "price_max": 2890000,
+          "price_max": 2790000,
           "add_on_deal_info": {
             "add_on_deal_id": 1953805,
             "add_on_deal_label": "Free Gift",
@@ -195,7 +195,7 @@
           },
           "is_group_buy_item": null,
           "flash_sale": null,
-          "price": 2890000,
+          "price": 2790000,
           "shop_location": null,
           "item_rating": {
             "rating_star": 4.741176,
@@ -223,7 +223,7 @@
             }
           ],
           "is_adult": false,
-          "discount": "42%",
+          "discount": "44%",
           "flag": 2,
           "is_non_cc_installment_payment_eligible": false,
           "has_lowest_price_guarantee": false,
@@ -291,8 +291,8 @@
           "price_before_discount": 5350000,
           "is_category_failed": false,
           "show_discount": 20,
-          "cmt_count": 2099,
-          "view_count": 89419,
+          "cmt_count": 2102,
+          "view_count": 89507,
           "catid": 169,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -306,7 +306,7 @@
           "price_min_before_discount": 5350000,
           "cb_option": 0,
           "sold": 5420,
-          "stock": 393,
+          "stock": 387,
           "status": 1,
           "price_max": 4280000,
           "add_on_deal_info": {
@@ -319,17 +319,17 @@
           "price": 4280000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.888249,
+            "rating_star": 4.888356,
             "rating_count": [
-              2099,
+              2101,
               22,
               14,
               33,
               37,
-              1993
+              1995
             ],
-            "rcount_with_image": 787,
-            "rcount_with_context": 971
+            "rcount_with_image": 789,
+            "rcount_with_context": 973
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -378,7 +378,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 11,
-          "historical_sold": 5776,
+          "historical_sold": 5787,
           "transparent_background_image": "2170031fcff46645ed5246cde5abd953"
         },
         {
@@ -409,7 +409,7 @@
           "is_category_failed": false,
           "show_discount": 14,
           "cmt_count": 1,
-          "view_count": 874,
+          "view_count": 923,
           "catid": 4,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -540,22 +540,22 @@
           "price_before_discount": 19900000,
           "is_category_failed": false,
           "show_discount": 56,
-          "cmt_count": 798,
-          "view_count": 44195,
+          "cmt_count": 799,
+          "view_count": 44254,
           "catid": 2414,
           "voucher_info": null,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
           "brand": "Cornell",
           "price_min": 8800000,
-          "liked_count": 3016,
+          "liked_count": 3018,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
           "price_min_before_discount": 19900000,
           "cb_option": 0,
           "sold": 494,
-          "stock": 114,
+          "stock": 112,
           "status": 1,
           "price_max": 8800000,
           "add_on_deal_info": null,
@@ -564,17 +564,17 @@
           "price": 8800000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.918546,
+            "rating_star": 4.918648,
             "rating_count": [
-              798,
+              799,
               1,
               0,
               9,
               43,
-              745
+              746
             ],
-            "rcount_with_image": 381,
-            "rcount_with_context": 523
+            "rcount_with_image": 382,
+            "rcount_with_context": 524
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -624,7 +624,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 1677,
+          "historical_sold": 1679,
           "transparent_background_image": "8d7e760512f6c20c294dff9e1f0626d7"
         },
         {
@@ -660,8 +660,8 @@
           "price_before_discount": 6990000,
           "is_category_failed": false,
           "show_discount": 29,
-          "cmt_count": 234,
-          "view_count": 1141,
+          "cmt_count": 235,
+          "view_count": 1152,
           "catid": 2414,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -688,17 +688,17 @@
           "price": 4990000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.892704,
+            "rating_star": 4.893617,
             "rating_count": [
-              233,
+              235,
               1,
               1,
               1,
               16,
-              214
+              216
             ],
-            "rcount_with_image": 88,
-            "rcount_with_context": 143
+            "rcount_with_image": 89,
+            "rcount_with_context": 144
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -751,7 +751,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 404,
+          "historical_sold": 405,
           "transparent_background_image": ""
         },
         {
@@ -788,7 +788,7 @@
           "is_category_failed": false,
           "show_discount": 31,
           "cmt_count": 21,
-          "view_count": 1159,
+          "view_count": 1165,
           "catid": 11,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -921,14 +921,14 @@
           "is_category_failed": false,
           "show_discount": 7,
           "cmt_count": 642,
-          "view_count": 6333,
+          "view_count": 6361,
           "catid": 20212,
           "voucher_info": null,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
           "brand": "Kodak",
           "price_min": 3050000,
-          "liked_count": 2219,
+          "liked_count": 2218,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -1060,8 +1060,8 @@
           "price_before_discount": 5800000,
           "is_category_failed": false,
           "show_discount": 57,
-          "cmt_count": 348,
-          "view_count": 55599,
+          "cmt_count": 349,
+          "view_count": 55653,
           "catid": 169,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -1075,7 +1075,7 @@
           "price_min_before_discount": 5800000,
           "cb_option": 0,
           "sold": 1911,
-          "stock": 111,
+          "stock": 86,
           "status": 1,
           "price_max": 2480000,
           "add_on_deal_info": null,
@@ -1137,7 +1137,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 2032,
+          "historical_sold": 2037,
           "transparent_background_image": "e60dede30a9d9d95235ce3c97cc87e07"
         },
         {
@@ -1174,14 +1174,14 @@
           "is_category_failed": false,
           "show_discount": 16,
           "cmt_count": 1081,
-          "view_count": 4242,
+          "view_count": 4257,
           "catid": 10161,
           "voucher_info": null,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
           "brand": "Xiaomi",
           "price_min": 4290000,
-          "liked_count": 1171,
+          "liked_count": 1172,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -1197,14 +1197,14 @@
           "price": 4290000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.960185,
+            "rating_star": 4.960222,
             "rating_count": [
-              1080,
+              1081,
               0,
               0,
               6,
               31,
-              1043
+              1044
             ],
             "rcount_with_image": 392,
             "rcount_with_context": 676
