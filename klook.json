@@ -606,6 +606,68 @@
     ],
     "activities": [
       {
+        "id": 53877,
+        "template_id": 2,
+        "title": "Re-discovery Tour to Chinatown Heritage Trail",
+        "subtitle": "",
+        "url_seo": "re-discovery-tour-chinatown-heritage-trail-walking-tour",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "d5m4uvehgy2akbfzwloh.jpg",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "100.00",
+        "sell_price": "100.00",
+        "from_price": "100.00",
+        "to_price": "100.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-02-07 09:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "hot_state": "new",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/d5m4uvehgy2akbfzwloh.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.280936,103.84763",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 0,
+        "country_name": "",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 0,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": false,
+        "deeplink": "",
+        "deep_link": "",
+        "vertical_type": 100,
+        "vertical_id": 53877,
+        "what_we_love": ""
+      },
+      {
         "id": 54071,
         "template_id": 1,
         "title": "[Klook Exclusive - V Day Special] A Springtime Love Affair at CHIJMES Domes",
@@ -2264,7 +2326,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-02-05 11:00:00",
+        "start_time": "2021-02-06 11:00:00",
         "sold_out": false,
         "published": true,
         "participate": 1,
@@ -2316,7 +2378,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-02-06 09:00:00",
+        "start_time": "2021-02-07 09:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2564,7 +2626,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-02-05 00:00:00",
+        "start_time": "2021-02-06 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2815,7 +2877,7 @@
         "start_time": "2021-03-17 20:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 28,
+        "participate": 32,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -3412,71 +3474,9 @@
         "vertical_type": 100,
         "vertical_id": 53482,
         "what_we_love": ""
-      },
-      {
-        "id": 53475,
-        "template_id": 2,
-        "title": "Kampong Glam Heritage Tour",
-        "subtitle": "",
-        "url_seo": "kampong-glam-heritage-tour",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "ej8oqbfjqx2uehspuolm.jpg",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "50.00",
-        "sell_price": "50.00",
-        "from_price": "50.00",
-        "to_price": "50.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-02-09 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "hot_state": "new",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/ej8oqbfjqx2uehspuolm.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.300662,103.855862",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 0,
-        "country_name": "",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 0,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": false,
-        "deeplink": "",
-        "deep_link": "",
-        "vertical_type": 100,
-        "vertical_id": 53475,
-        "what_we_love": ""
       }
     ],
-    "total": 1003,
+    "total": 1004,
     "price": {
       "from": "0",
       "to": "517"
