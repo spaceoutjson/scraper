@@ -1,5 +1,5 @@
 {
-  "version": "7ec74fc469700e1c9381e23a9aadf7f5",
+  "version": "98f85f3d68f84d6b7ea23bc73d933457",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -46,7 +46,7 @@
           "is_category_failed": false,
           "show_discount": 32,
           "cmt_count": 569,
-          "view_count": 35117,
+          "view_count": 35154,
           "catid": 169,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -161,16 +161,16 @@
           "is_category_failed": false,
           "show_discount": 15,
           "cmt_count": 26,
-          "view_count": 780,
+          "view_count": 786,
           "catid": 169,
           "voucher_info": null,
           "upcoming_flash_sale": null,
-          "is_official_shop": null,
+          "is_official_shop": true,
           "brand": "New Moon",
           "price_min": 12800000,
           "liked_count": 15,
           "can_use_bundle_deal": false,
-          "show_official_shop_label": null,
+          "show_official_shop_label": true,
           "coin_earn_label": null,
           "price_min_before_discount": 15120000,
           "cb_option": 0,
@@ -196,7 +196,7 @@
             "rcount_with_image": 12,
             "rcount_with_context": 16
           },
-          "show_official_shop_label_in_title": null,
+          "show_official_shop_label_in_title": true,
           "tier_variations": [
             {
               "images": [],
@@ -208,7 +208,7 @@
               ]
             }
           ],
-          "is_adult": null,
+          "is_adult": false,
           "discount": "15%",
           "flag": 0,
           "is_non_cc_installment_payment_eligible": false,
@@ -220,7 +220,7 @@
           "name": "[Bundle of 8] New Moon Essence of Chicken (6s + 2s x 68ml)",
           "ctime": 1595151937,
           "wholesale_tier_list": [],
-          "show_shopee_verified_label": null,
+          "show_shopee_verified_label": false,
           "show_official_shop_label_in_normal_position": null,
           "item_status": "normal",
           "shopee_verified": false,
@@ -277,16 +277,16 @@
           "is_category_failed": false,
           "show_discount": 16,
           "cmt_count": 1,
-          "view_count": 2106,
+          "view_count": 2154,
           "catid": 11,
           "voucher_info": null,
           "upcoming_flash_sale": null,
-          "is_official_shop": null,
+          "is_official_shop": true,
           "brand": "FarEastFlora",
           "price_min": 51900000,
-          "liked_count": 10,
+          "liked_count": 11,
           "can_use_bundle_deal": false,
-          "show_official_shop_label": null,
+          "show_official_shop_label": true,
           "coin_earn_label": null,
           "price_min_before_discount": 62049000,
           "cb_option": 0,
@@ -312,7 +312,7 @@
             "rcount_with_image": 0,
             "rcount_with_context": 1
           },
-          "show_official_shop_label_in_title": null,
+          "show_official_shop_label_in_title": true,
           "tier_variations": [
             {
               "images": [],
@@ -330,7 +330,7 @@
               ]
             }
           ],
-          "is_adult": null,
+          "is_adult": false,
           "discount": "16%",
           "flag": 524288,
           "is_non_cc_installment_payment_eligible": false,
@@ -342,7 +342,7 @@
           "name": "[Shopee Exclusive] FarEastFlora.com - Fresh Flower Bouquet - NRY07 Passionately Yours - 99 Red Roses",
           "ctime": 1582101429,
           "wholesale_tier_list": [],
-          "show_shopee_verified_label": null,
+          "show_shopee_verified_label": false,
           "show_official_shop_label_in_normal_position": null,
           "item_status": "normal",
           "shopee_verified": false,
@@ -395,16 +395,16 @@
           "is_category_failed": false,
           "show_discount": 9,
           "cmt_count": 21,
-          "view_count": 1897,
+          "view_count": 1904,
           "catid": 11,
           "voucher_info": null,
           "upcoming_flash_sale": null,
-          "is_official_shop": null,
+          "is_official_shop": false,
           "brand": "Samsung SDS",
           "price_min": 81000000,
           "liked_count": 104,
           "can_use_bundle_deal": false,
-          "show_official_shop_label": null,
+          "show_official_shop_label": false,
           "coin_earn_label": null,
           "price_min_before_discount": 89000000,
           "cb_option": 0,
@@ -430,7 +430,7 @@
             "rcount_with_image": 5,
             "rcount_with_context": 17
           },
-          "show_official_shop_label_in_title": null,
+          "show_official_shop_label_in_title": false,
           "tier_variations": [
             {
               "images": [],
@@ -442,7 +442,7 @@
               ]
             }
           ],
-          "is_adult": null,
+          "is_adult": false,
           "discount": "9%",
           "flag": 524288,
           "is_non_cc_installment_payment_eligible": false,
@@ -454,10 +454,10 @@
           "name": "CNY Samsung SHP-DP609 PUSH PULL WIFI APP Digital Smart Lock",
           "ctime": 1596647683,
           "wholesale_tier_list": [],
-          "show_shopee_verified_label": null,
+          "show_shopee_verified_label": true,
           "show_official_shop_label_in_normal_position": null,
           "item_status": "normal",
-          "shopee_verified": false,
+          "shopee_verified": true,
           "hidden_price_display": null,
           "size_chart": null,
           "item_type": 0,
@@ -504,16 +504,16 @@
           "is_category_failed": false,
           "show_discount": 14,
           "cmt_count": 350,
-          "view_count": 10309,
+          "view_count": 10317,
           "catid": 169,
           "voucher_info": null,
           "upcoming_flash_sale": null,
-          "is_official_shop": null,
+          "is_official_shop": true,
           "brand": "Flying Wheel",
           "price_min": 4990000,
           "liked_count": 179,
           "can_use_bundle_deal": false,
-          "show_official_shop_label": null,
+          "show_official_shop_label": true,
           "coin_earn_label": null,
           "price_min_before_discount": 5790000,
           "cb_option": 0,
@@ -539,7 +539,7 @@
             "rcount_with_image": 176,
             "rcount_with_context": 234
           },
-          "show_official_shop_label_in_title": null,
+          "show_official_shop_label_in_title": true,
           "tier_variations": [
             {
               "images": [],
@@ -551,7 +551,7 @@
               ]
             }
           ],
-          "is_adult": null,
+          "is_adult": false,
           "discount": "14%",
           "flag": 0,
           "is_non_cc_installment_payment_eligible": false,
@@ -563,7 +563,7 @@
           "name": "[Bundle of 3] Flying Wheel Braised Abalone 425g (10 pcs per can)",
           "ctime": 1577107770,
           "wholesale_tier_list": [],
-          "show_shopee_verified_label": null,
+          "show_shopee_verified_label": false,
           "show_official_shop_label_in_normal_position": null,
           "item_status": "normal",
           "shopee_verified": false,
@@ -626,12 +626,12 @@
           "catid": 12,
           "voucher_info": null,
           "upcoming_flash_sale": null,
-          "is_official_shop": null,
+          "is_official_shop": true,
           "brand": "Kendamil",
           "price_min": 8590000,
           "liked_count": 37,
           "can_use_bundle_deal": false,
-          "show_official_shop_label": null,
+          "show_official_shop_label": true,
           "coin_earn_label": null,
           "price_min_before_discount": 9390000,
           "cb_option": 0,
@@ -657,7 +657,7 @@
             "rcount_with_image": 61,
             "rcount_with_context": 100
           },
-          "show_official_shop_label_in_title": null,
+          "show_official_shop_label_in_title": true,
           "tier_variations": [
             {
               "images": [],
@@ -669,7 +669,7 @@
               ]
             }
           ],
-          "is_adult": null,
+          "is_adult": false,
           "discount": "9%",
           "flag": 0,
           "is_non_cc_installment_payment_eligible": false,
@@ -681,7 +681,7 @@
           "name": "Kendamil Organic Toddler Milk (12-36 Months) 800g x 2",
           "ctime": 1592889232,
           "wholesale_tier_list": [],
-          "show_shopee_verified_label": null,
+          "show_shopee_verified_label": false,
           "show_official_shop_label_in_normal_position": null,
           "item_status": "normal",
           "shopee_verified": false,
@@ -734,16 +734,16 @@
           "is_category_failed": false,
           "show_discount": 59,
           "cmt_count": 23,
-          "view_count": 1078,
+          "view_count": 1080,
           "catid": 6,
           "voucher_info": null,
           "upcoming_flash_sale": null,
-          "is_official_shop": null,
+          "is_official_shop": true,
           "brand": "Burberry",
           "price_min": 6900000,
           "liked_count": 90,
           "can_use_bundle_deal": false,
-          "show_official_shop_label": null,
+          "show_official_shop_label": true,
           "coin_earn_label": null,
           "price_min_before_discount": 15100000,
           "cb_option": 0,
@@ -769,7 +769,7 @@
             "rcount_with_image": 8,
             "rcount_with_context": 12
           },
-          "show_official_shop_label_in_title": null,
+          "show_official_shop_label_in_title": true,
           "tier_variations": [
             {
               "images": [],
@@ -783,7 +783,7 @@
               ]
             }
           ],
-          "is_adult": null,
+          "is_adult": false,
           "discount": "59%",
           "flag": 0,
           "is_non_cc_installment_payment_eligible": false,
@@ -795,7 +795,7 @@
           "name": "BURBERRY My Burberry Blush for Women EDP 30ml | 50ml | 90ml Retail Packaging",
           "ctime": 1594683003,
           "wholesale_tier_list": [],
-          "show_shopee_verified_label": null,
+          "show_shopee_verified_label": false,
           "show_official_shop_label_in_normal_position": null,
           "item_status": "normal",
           "shopee_verified": false,
@@ -979,12 +979,12 @@
           "catid": 6,
           "voucher_info": null,
           "upcoming_flash_sale": null,
-          "is_official_shop": null,
+          "is_official_shop": false,
           "brand": "Estee Lauder",
           "price_min": 6490000,
           "liked_count": 155,
           "can_use_bundle_deal": false,
-          "show_official_shop_label": null,
+          "show_official_shop_label": false,
           "coin_earn_label": null,
           "price_min_before_discount": 13000000,
           "cb_option": 0,
@@ -1010,7 +1010,7 @@
             "rcount_with_image": 32,
             "rcount_with_context": 46
           },
-          "show_official_shop_label_in_title": null,
+          "show_official_shop_label_in_title": false,
           "tier_variations": [
             {
               "images": [],
@@ -1022,7 +1022,7 @@
               ]
             }
           ],
-          "is_adult": null,
+          "is_adult": false,
           "discount": "50%",
           "flag": 0,
           "is_non_cc_installment_payment_eligible": false,
@@ -1034,10 +1034,10 @@
           "name": "[Original] Estee Lauder  Pleasures Lady EDP 100ml | By: Fragrance Hub | FragranceHUB| 100% Authentic |",
           "ctime": 1552548817,
           "wholesale_tier_list": [],
-          "show_shopee_verified_label": null,
+          "show_shopee_verified_label": true,
           "show_official_shop_label_in_normal_position": null,
           "item_status": "normal",
-          "shopee_verified": false,
+          "shopee_verified": true,
           "hidden_price_display": null,
           "size_chart": null,
           "item_type": 0,
