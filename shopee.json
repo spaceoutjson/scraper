@@ -1,5 +1,5 @@
 {
-  "version": "b6357a14f2362d4e627980d43941d949",
+  "version": "0d94405ac6a4a81d1c02fe73b4b7a049",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -48,7 +48,7 @@
           "is_category_failed": false,
           "show_discount": 37,
           "cmt_count": 2330,
-          "view_count": 15418,
+          "view_count": 15627,
           "catid": 16997,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -62,7 +62,7 @@
           "price_min_before_discount": 5985000,
           "cb_option": 0,
           "sold": 386,
-          "stock": 126,
+          "stock": 122,
           "status": 1,
           "price_max": 3800000,
           "add_on_deal_info": {
@@ -175,21 +175,21 @@
           "is_category_failed": false,
           "show_discount": 64,
           "cmt_count": 480,
-          "view_count": 63234,
+          "view_count": 63440,
           "catid": 169,
           "voucher_info": null,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
           "brand": "Shangri-La",
           "price_min": 2080000,
-          "liked_count": 333,
+          "liked_count": 335,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
           "price_min_before_discount": 5800000,
           "cb_option": 0,
           "sold": 2615,
-          "stock": 131,
+          "stock": 113,
           "status": 1,
           "price_max": 2080000,
           "add_on_deal_info": null,
@@ -251,7 +251,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 2737,
+          "historical_sold": 2738,
           "transparent_background_image": "e60dede30a9d9d95235ce3c97cc87e07"
         },
         {
@@ -294,16 +294,16 @@
           "is_category_failed": false,
           "show_discount": 54,
           "cmt_count": 259,
-          "view_count": 5701,
+          "view_count": 5759,
           "catid": 2414,
           "voucher_info": null,
           "upcoming_flash_sale": null,
-          "is_official_shop": true,
+          "is_official_shop": null,
           "brand": "Ecovacs",
           "price_min": 50900000,
           "liked_count": 529,
           "can_use_bundle_deal": false,
-          "show_official_shop_label": true,
+          "show_official_shop_label": null,
           "coin_earn_label": null,
           "price_min_before_discount": 109900000,
           "cb_option": 0,
@@ -333,7 +333,7 @@
             "rcount_with_image": 116,
             "rcount_with_context": 174
           },
-          "show_official_shop_label_in_title": true,
+          "show_official_shop_label_in_title": null,
           "tier_variations": [
             {
               "images": [],
@@ -345,7 +345,7 @@
               ]
             }
           ],
-          "is_adult": false,
+          "is_adult": null,
           "discount": "54%",
           "flag": 524288,
           "is_non_cc_installment_payment_eligible": false,
@@ -357,7 +357,7 @@
           "name": "ECOVACS OZMO950 Robot Vacuum Cleaner With Powerful Full Coverage Cleaning /Smart Navi 3.0TM /5200 m(A)h battery",
           "ctime": 1588756567,
           "wholesale_tier_list": [],
-          "show_shopee_verified_label": false,
+          "show_shopee_verified_label": null,
           "show_official_shop_label_in_normal_position": null,
           "item_status": "normal",
           "shopee_verified": false,
@@ -418,16 +418,16 @@
           "is_category_failed": false,
           "show_discount": 8,
           "cmt_count": 127,
-          "view_count": 8543,
+          "view_count": 8575,
           "catid": 11,
           "voucher_info": null,
           "upcoming_flash_sale": null,
-          "is_official_shop": false,
+          "is_official_shop": null,
           "brand": "Samsung SDS",
           "price_min": 68200000,
           "liked_count": 467,
           "can_use_bundle_deal": false,
-          "show_official_shop_label": false,
+          "show_official_shop_label": null,
           "coin_earn_label": null,
           "price_min_before_discount": 74000000,
           "cb_option": 0,
@@ -453,7 +453,7 @@
             "rcount_with_image": 48,
             "rcount_with_context": 96
           },
-          "show_official_shop_label_in_title": false,
+          "show_official_shop_label_in_title": null,
           "tier_variations": [
             {
               "images": [
@@ -469,7 +469,7 @@
               ]
             }
           ],
-          "is_adult": false,
+          "is_adult": null,
           "discount": "8%",
           "flag": 524288,
           "is_non_cc_installment_payment_eligible": false,
@@ -481,10 +481,10 @@
           "name": "CNY PROMO SAMSUNG SHP-DR708 MOBILE APP ~ Digital Lock Iot Wifi Smart Lock",
           "ctime": 1573022219,
           "wholesale_tier_list": [],
-          "show_shopee_verified_label": true,
+          "show_shopee_verified_label": null,
           "show_official_shop_label_in_normal_position": null,
           "item_status": "normal",
-          "shopee_verified": true,
+          "shopee_verified": false,
           "hidden_price_display": null,
           "size_chart": null,
           "item_type": 0,
@@ -531,7 +531,7 @@
           "is_category_failed": false,
           "show_discount": 73,
           "cmt_count": 2550,
-          "view_count": 10768,
+          "view_count": 10781,
           "catid": 2414,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -619,7 +619,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 5234,
+          "historical_sold": 5236,
           "transparent_background_image": "def64bf20ccfb7375e9aba1569709d17"
         },
         {
@@ -653,16 +653,16 @@
           "is_category_failed": false,
           "show_discount": 5,
           "cmt_count": 393,
-          "view_count": 6116,
+          "view_count": 6143,
           "catid": 8,
           "voucher_info": null,
           "upcoming_flash_sale": null,
-          "is_official_shop": false,
+          "is_official_shop": null,
           "brand": "Samsung",
           "price_min": 23500000,
-          "liked_count": 762,
+          "liked_count": 763,
           "can_use_bundle_deal": false,
-          "show_official_shop_label": false,
+          "show_official_shop_label": null,
           "coin_earn_label": null,
           "price_min_before_discount": 24800000,
           "cb_option": 0,
@@ -688,7 +688,7 @@
             "rcount_with_image": 178,
             "rcount_with_context": 269
           },
-          "show_official_shop_label_in_title": false,
+          "show_official_shop_label_in_title": null,
           "tier_variations": [
             {
               "images": [],
@@ -713,7 +713,7 @@
               ]
             }
           ],
-          "is_adult": false,
+          "is_adult": null,
           "discount": "5%",
           "flag": 524288,
           "is_non_cc_installment_payment_eligible": false,
@@ -725,10 +725,10 @@
           "name": "Galaxy Watch Active 2 (Bluetooth) | 1 year warranty by Samsung Singapore",
           "ctime": 1569578188,
           "wholesale_tier_list": [],
-          "show_shopee_verified_label": true,
+          "show_shopee_verified_label": null,
           "show_official_shop_label_in_normal_position": null,
           "item_status": "normal",
-          "shopee_verified": true,
+          "shopee_verified": false,
           "hidden_price_display": null,
           "size_chart": null,
           "item_type": 0,
@@ -777,16 +777,16 @@
           "is_category_failed": false,
           "show_discount": 22,
           "cmt_count": 80,
-          "view_count": 1915,
+          "view_count": 1919,
           "catid": 16997,
           "voucher_info": null,
           "upcoming_flash_sale": null,
-          "is_official_shop": true,
+          "is_official_shop": null,
           "brand": "GLAM.D",
           "price_min": 8190000,
           "liked_count": 88,
           "can_use_bundle_deal": false,
-          "show_official_shop_label": true,
+          "show_official_shop_label": null,
           "coin_earn_label": null,
           "price_min_before_discount": 10500000,
           "cb_option": 0,
@@ -816,7 +816,7 @@
             "rcount_with_image": 33,
             "rcount_with_context": 42
           },
-          "show_official_shop_label_in_title": true,
+          "show_official_shop_label_in_title": null,
           "tier_variations": [
             {
               "images": [],
@@ -828,7 +828,7 @@
               ]
             }
           ],
-          "is_adult": false,
+          "is_adult": null,
           "discount": "22%",
           "flag": 0,
           "is_non_cc_installment_payment_eligible": false,
@@ -840,7 +840,7 @@
           "name": "[Glam.D Official] Super Shake Set (3 Boxes)",
           "ctime": 1604998679,
           "wholesale_tier_list": [],
-          "show_shopee_verified_label": false,
+          "show_shopee_verified_label": null,
           "show_official_shop_label_in_normal_position": null,
           "item_status": "normal",
           "shopee_verified": false,
@@ -896,8 +896,8 @@
           "price_before_discount": 2050000,
           "is_category_failed": false,
           "show_discount": 45,
-          "cmt_count": 8441,
-          "view_count": 14446,
+          "cmt_count": 8442,
+          "view_count": 14470,
           "catid": 12,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -911,7 +911,7 @@
           "price_min_before_discount": 2050000,
           "cb_option": 0,
           "sold": 1653,
-          "stock": 1419,
+          "stock": 1417,
           "status": 1,
           "price_max": 2390000,
           "add_on_deal_info": null,
@@ -920,17 +920,17 @@
           "price": 1150000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.949396,
+            "rating_star": 4.949402,
             "rating_count": [
-              8441,
+              8442,
               7,
               17,
               62,
               230,
-              8125
+              8126
             ],
-            "rcount_with_image": 3361,
-            "rcount_with_context": 5132
+            "rcount_with_image": 3362,
+            "rcount_with_context": 5133
           },
           "show_official_shop_label_in_title": false,
           "tier_variations": [
@@ -1017,16 +1017,16 @@
           "is_category_failed": false,
           "show_discount": 25,
           "cmt_count": 4225,
-          "view_count": 8825,
+          "view_count": 8839,
           "catid": 6,
           "voucher_info": null,
           "upcoming_flash_sale": null,
-          "is_official_shop": true,
+          "is_official_shop": null,
           "brand": "Medicube",
           "price_min": 5550000,
           "liked_count": 2329,
           "can_use_bundle_deal": false,
-          "show_official_shop_label": true,
+          "show_official_shop_label": null,
           "coin_earn_label": null,
           "price_min_before_discount": 7400000,
           "cb_option": 0,
@@ -1056,7 +1056,7 @@
             "rcount_with_image": 2004,
             "rcount_with_context": 2794
           },
-          "show_official_shop_label_in_title": true,
+          "show_official_shop_label_in_title": null,
           "tier_variations": [
             {
               "images": [],
@@ -1068,7 +1068,7 @@
               ]
             }
           ],
-          "is_adult": false,
+          "is_adult": null,
           "discount": "25%",
           "flag": 0,
           "is_non_cc_installment_payment_eligible": false,
@@ -1080,7 +1080,7 @@
           "name": "[Medicube Official] NEW  Zero Pore Pad 2.0  DUO SET [Bundle of 2]",
           "ctime": 1590844913,
           "wholesale_tier_list": [],
-          "show_shopee_verified_label": false,
+          "show_shopee_verified_label": null,
           "show_official_shop_label_in_normal_position": null,
           "item_status": "normal",
           "shopee_verified": false,
@@ -1105,7 +1105,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 9129,
+          "historical_sold": 9130,
           "transparent_background_image": "9d07ef35f9e5081e57202008ae658731"
         }
       ],
