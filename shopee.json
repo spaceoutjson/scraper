@@ -1,5 +1,5 @@
 {
-  "version": "9a43eec4def478280be965aa6e512998",
+  "version": "c0752bf4bf48f1123cc6522ceb692c4c",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -43,7 +43,7 @@
           "is_category_failed": false,
           "show_discount": 16,
           "cmt_count": 245,
-          "view_count": 11191,
+          "view_count": 11220,
           "catid": 8,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -181,7 +181,7 @@
           "is_category_failed": false,
           "show_discount": 58,
           "cmt_count": 3141,
-          "view_count": 23935,
+          "view_count": 23952,
           "catid": 2414,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -273,7 +273,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 5795,
+          "historical_sold": 5796,
           "transparent_background_image": "78e9f3a9b7a0dd13912a95d93d20c4e8"
         },
         {
@@ -307,16 +307,16 @@
           "is_category_failed": false,
           "show_discount": 17,
           "cmt_count": 59,
-          "view_count": 8001,
+          "view_count": 8049,
           "catid": 8,
           "voucher_info": null,
           "upcoming_flash_sale": null,
-          "is_official_shop": null,
+          "is_official_shop": false,
           "brand": "Apple",
           "price_min": 94900000,
           "liked_count": 248,
           "can_use_bundle_deal": false,
-          "show_official_shop_label": null,
+          "show_official_shop_label": false,
           "coin_earn_label": null,
           "price_min_before_discount": 114900000,
           "cb_option": 0,
@@ -346,7 +346,7 @@
             "rcount_with_image": 32,
             "rcount_with_context": 41
           },
-          "show_official_shop_label_in_title": null,
+          "show_official_shop_label_in_title": false,
           "tier_variations": [
             {
               "images": [
@@ -379,7 +379,7 @@
               ]
             }
           ],
-          "is_adult": null,
+          "is_adult": false,
           "discount": "17%",
           "flag": 524288,
           "is_non_cc_installment_payment_eligible": false,
@@ -391,10 +391,10 @@
           "name": "2020 Apple iPhone 12 mini 64GB | 128GB | 256GB",
           "ctime": 1602673758,
           "wholesale_tier_list": [],
-          "show_shopee_verified_label": null,
+          "show_shopee_verified_label": true,
           "show_official_shop_label_in_normal_position": null,
           "item_status": "normal",
-          "shopee_verified": false,
+          "shopee_verified": true,
           "hidden_price_display": null,
           "size_chart": null,
           "item_type": 0,
@@ -442,8 +442,8 @@
           "price_before_discount": 9590000,
           "is_category_failed": false,
           "show_discount": 8,
-          "cmt_count": 6443,
-          "view_count": 39399,
+          "cmt_count": 6445,
+          "view_count": 39420,
           "catid": 2414,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -466,17 +466,17 @@
           "price": 8790000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.921155,
+            "rating_star": 4.921179,
             "rating_count": [
-              6443,
+              6445,
               10,
               10,
               61,
               316,
-              6046
+              6048
             ],
-            "rcount_with_image": 2460,
-            "rcount_with_context": 3913
+            "rcount_with_image": 2461,
+            "rcount_with_context": 3915
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -537,7 +537,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 12725,
+          "historical_sold": 12728,
           "transparent_background_image": "058a7c77b0a60a59e2335e2cbb8b07fe"
         },
         {
@@ -581,7 +581,7 @@
           "is_category_failed": false,
           "show_discount": 25,
           "cmt_count": 891,
-          "view_count": 13275,
+          "view_count": 13283,
           "catid": 11,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -719,7 +719,7 @@
           "is_category_failed": false,
           "show_discount": 16,
           "cmt_count": 20,
-          "view_count": 4973,
+          "view_count": 4979,
           "catid": 11,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -848,7 +848,7 @@
           "is_category_failed": false,
           "show_discount": 21,
           "cmt_count": 2751,
-          "view_count": 26192,
+          "view_count": 26197,
           "catid": 20153,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -1082,16 +1082,16 @@
           "is_category_failed": false,
           "show_discount": 48,
           "cmt_count": 210,
-          "view_count": 6334,
+          "view_count": 6342,
           "catid": 8,
           "voucher_info": null,
           "upcoming_flash_sale": null,
-          "is_official_shop": null,
+          "is_official_shop": false,
           "brand": "P40 Pro",
           "price_min": 63500000,
           "liked_count": 360,
           "can_use_bundle_deal": false,
-          "show_official_shop_label": null,
+          "show_official_shop_label": false,
           "coin_earn_label": null,
           "price_min_before_discount": 104800000,
           "cb_option": 0,
@@ -1121,7 +1121,7 @@
             "rcount_with_image": 73,
             "rcount_with_context": 139
           },
-          "show_official_shop_label_in_title": null,
+          "show_official_shop_label_in_title": false,
           "tier_variations": [
             {
               "images": [
@@ -1152,7 +1152,7 @@
               ]
             }
           ],
-          "is_adult": null,
+          "is_adult": false,
           "discount": "48%",
           "flag": 524288,
           "is_non_cc_installment_payment_eligible": false,
@@ -1164,10 +1164,10 @@
           "name": "Huawei P40 5G | P40 Pro 5G | P40 Pro+ Plus 5G | Free Gift | 2 Years Huawei Warranty | SG Local",
           "ctime": 1586625466,
           "wholesale_tier_list": [],
-          "show_shopee_verified_label": null,
+          "show_shopee_verified_label": true,
           "show_official_shop_label_in_normal_position": null,
           "item_status": "normal",
-          "shopee_verified": false,
+          "shopee_verified": true,
           "hidden_price_display": null,
           "size_chart": null,
           "item_type": 0,
@@ -1220,7 +1220,7 @@
           "is_category_failed": false,
           "show_discount": 62,
           "cmt_count": 1947,
-          "view_count": 8945,
+          "view_count": 8948,
           "catid": 8,
           "voucher_info": null,
           "upcoming_flash_sale": null,
