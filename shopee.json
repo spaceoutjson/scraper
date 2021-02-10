@@ -1,5 +1,5 @@
 {
-  "version": "55594329afe9a092b1cac3822c4c84c6",
+  "version": "9a43eec4def478280be965aa6e512998",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -43,21 +43,21 @@
           "is_category_failed": false,
           "show_discount": 16,
           "cmt_count": 245,
-          "view_count": 11155,
+          "view_count": 11191,
           "catid": 8,
           "voucher_info": null,
           "upcoming_flash_sale": null,
-          "is_official_shop": null,
+          "is_official_shop": false,
           "brand": "Samsung",
           "price_min": 42000000,
           "liked_count": 324,
           "can_use_bundle_deal": false,
-          "show_official_shop_label": null,
+          "show_official_shop_label": false,
           "coin_earn_label": null,
           "price_min_before_discount": 49900000,
           "cb_option": 0,
           "sold": 89,
-          "stock": 68,
+          "stock": 67,
           "status": 1,
           "price_max": 42000000,
           "add_on_deal_info": {
@@ -82,7 +82,7 @@
             "rcount_with_image": 124,
             "rcount_with_context": 175
           },
-          "show_official_shop_label_in_title": null,
+          "show_official_shop_label_in_title": false,
           "tier_variations": [
             {
               "images": [],
@@ -104,7 +104,7 @@
               ]
             }
           ],
-          "is_adult": null,
+          "is_adult": false,
           "discount": "16%",
           "flag": 524288,
           "is_non_cc_installment_payment_eligible": false,
@@ -116,10 +116,10 @@
           "name": "Samsung Galaxy A42 5G | 1 Year Samsung Warranty",
           "ctime": 1605697416,
           "wholesale_tier_list": [],
-          "show_shopee_verified_label": null,
+          "show_shopee_verified_label": true,
           "show_official_shop_label_in_normal_position": null,
           "item_status": "normal",
-          "shopee_verified": false,
+          "shopee_verified": true,
           "hidden_price_display": null,
           "size_chart": null,
           "item_type": 0,
@@ -181,7 +181,7 @@
           "is_category_failed": false,
           "show_discount": 58,
           "cmt_count": 3141,
-          "view_count": 23888,
+          "view_count": 23935,
           "catid": 2414,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -307,7 +307,7 @@
           "is_category_failed": false,
           "show_discount": 17,
           "cmt_count": 59,
-          "view_count": 7878,
+          "view_count": 8001,
           "catid": 8,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -442,15 +442,15 @@
           "price_before_discount": 9590000,
           "is_category_failed": false,
           "show_discount": 8,
-          "cmt_count": 6442,
-          "view_count": 39351,
+          "cmt_count": 6443,
+          "view_count": 39399,
           "catid": 2414,
           "voucher_info": null,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
           "brand": "Airbot",
           "price_min": 8790000,
-          "liked_count": 9512,
+          "liked_count": 9513,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -466,17 +466,17 @@
           "price": 8790000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.921143,
+            "rating_star": 4.921155,
             "rating_count": [
-              6442,
+              6443,
               10,
               10,
               61,
               316,
-              6045
+              6046
             ],
             "rcount_with_image": 2460,
-            "rcount_with_context": 3912
+            "rcount_with_context": 3913
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -537,7 +537,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 12723,
+          "historical_sold": 12725,
           "transparent_background_image": "058a7c77b0a60a59e2335e2cbb8b07fe"
         },
         {
@@ -580,8 +580,8 @@
           "price_before_discount": 7900000,
           "is_category_failed": false,
           "show_discount": 25,
-          "cmt_count": 890,
-          "view_count": 13262,
+          "cmt_count": 891,
+          "view_count": 13275,
           "catid": 11,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -604,17 +604,17 @@
           "price": 5900000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.865169,
+            "rating_star": 4.86532,
             "rating_count": [
-              890,
+              891,
               6,
               4,
               16,
               52,
-              812
+              813
             ],
             "rcount_with_image": 288,
-            "rcount_with_context": 573
+            "rcount_with_context": 574
           },
           "show_official_shop_label_in_title": false,
           "tier_variations": [
@@ -683,7 +683,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 2007,
+          "historical_sold": 2008,
           "transparent_background_image": "1181201ffc89bf1e00a170d63065f943"
         },
         {
@@ -719,7 +719,7 @@
           "is_category_failed": false,
           "show_discount": 16,
           "cmt_count": 20,
-          "view_count": 4940,
+          "view_count": 4973,
           "catid": 11,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -848,21 +848,21 @@
           "is_category_failed": false,
           "show_discount": 21,
           "cmt_count": 2751,
-          "view_count": 26174,
+          "view_count": 26192,
           "catid": 20153,
           "voucher_info": null,
           "upcoming_flash_sale": null,
-          "is_official_shop": null,
+          "is_official_shop": false,
           "brand": "Nintendo Switch",
           "price_min": 42500000,
           "liked_count": 4585,
           "can_use_bundle_deal": false,
-          "show_official_shop_label": null,
+          "show_official_shop_label": false,
           "coin_earn_label": null,
           "price_min_before_discount": 48900000,
           "cb_option": 0,
           "sold": 408,
-          "stock": 681,
+          "stock": 679,
           "status": 1,
           "price_max": 42500000,
           "add_on_deal_info": {
@@ -887,7 +887,7 @@
             "rcount_with_image": 657,
             "rcount_with_context": 1040
           },
-          "show_official_shop_label_in_title": null,
+          "show_official_shop_label_in_title": false,
           "tier_variations": [
             {
               "images": [
@@ -909,7 +909,7 @@
               ]
             }
           ],
-          "is_adult": null,
+          "is_adult": false,
           "discount": "21%",
           "flag": 524288,
           "is_non_cc_installment_payment_eligible": false,
@@ -921,10 +921,10 @@
           "name": "Nintendo Switch Console System Gen 2 Latest Model (1 Year Local Singapore Warranty)",
           "ctime": 1573381544,
           "wholesale_tier_list": [],
-          "show_shopee_verified_label": null,
+          "show_shopee_verified_label": true,
           "show_official_shop_label_in_normal_position": null,
           "item_status": "normal",
-          "shopee_verified": false,
+          "shopee_verified": true,
           "hidden_price_display": null,
           "size_chart": null,
           "item_type": 0,
@@ -972,21 +972,21 @@
           "is_category_failed": false,
           "show_discount": 38,
           "cmt_count": 21,
-          "view_count": 11504,
+          "view_count": 11506,
           "catid": 169,
           "voucher_info": null,
           "upcoming_flash_sale": null,
-          "is_official_shop": null,
+          "is_official_shop": false,
           "brand": "New Moon",
           "price_min": 20800000,
           "liked_count": 37,
           "can_use_bundle_deal": false,
-          "show_official_shop_label": null,
+          "show_official_shop_label": false,
           "coin_earn_label": null,
           "price_min_before_discount": 33480000,
           "cb_option": 0,
           "sold": 43,
-          "stock": 759,
+          "stock": 758,
           "status": 1,
           "price_max": 20800000,
           "add_on_deal_info": {
@@ -1011,7 +1011,7 @@
             "rcount_with_image": 14,
             "rcount_with_context": 16
           },
-          "show_official_shop_label_in_title": null,
+          "show_official_shop_label_in_title": false,
           "tier_variations": [
             {
               "images": [],
@@ -1023,7 +1023,7 @@
               ]
             }
           ],
-          "is_adult": null,
+          "is_adult": false,
           "discount": "38%",
           "flag": 524288,
           "is_non_cc_installment_payment_eligible": false,
@@ -1035,7 +1035,7 @@
           "name": "[Bundle of 6 Cans] New Moon Australia Abalone 425G [ 2024 Expiry, 1.5 PC Abalone]",
           "ctime": 1611129035,
           "wholesale_tier_list": [],
-          "show_shopee_verified_label": null,
+          "show_shopee_verified_label": false,
           "show_official_shop_label_in_normal_position": null,
           "item_status": "normal",
           "shopee_verified": false,
@@ -1082,7 +1082,7 @@
           "is_category_failed": false,
           "show_discount": 48,
           "cmt_count": 210,
-          "view_count": 6325,
+          "view_count": 6334,
           "catid": 8,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -1220,21 +1220,21 @@
           "is_category_failed": false,
           "show_discount": 62,
           "cmt_count": 1947,
-          "view_count": 8934,
+          "view_count": 8945,
           "catid": 8,
           "voucher_info": null,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
           "brand": "Xiaomi",
           "price_min": 3790000,
-          "liked_count": 1348,
+          "liked_count": 1349,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
           "price_min_before_discount": 9900000,
           "cb_option": 0,
           "sold": 432,
-          "stock": 2451,
+          "stock": 2448,
           "status": 1,
           "price_max": 4100000,
           "add_on_deal_info": {
