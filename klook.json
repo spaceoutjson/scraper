@@ -606,6 +606,68 @@
     ],
     "activities": [
       {
+        "id": 54257,
+        "template_id": 2,
+        "title": "Marina Bay Sands Plus Sampan Ride and Lunch With A Panoramic View",
+        "subtitle": "",
+        "url_seo": "marina-bay-sands-plus-sampan-ride-lunch-panoramic-view-tour",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "pnvxmvag8sztdhxqwapg.jpg",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "100.00",
+        "sell_price": "100.00",
+        "from_price": "100.00",
+        "to_price": "100.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-02-15 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "hot_state": "new",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/pnvxmvag8sztdhxqwapg.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.300559,103.841828",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 0,
+        "country_name": "",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 0,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": false,
+        "deeplink": "",
+        "deep_link": "",
+        "vertical_type": 100,
+        "vertical_id": 54257,
+        "what_we_love": ""
+      },
+      {
         "id": 53949,
         "template_id": 2,
         "title": "Singapore Southern Islands Hopping (3 Or 4 Islands)",
@@ -688,7 +750,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-02-11 00:00:00",
+        "start_time": "2021-02-12 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2780,7 +2842,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-02-10 00:00:00",
+        "start_time": "2021-02-11 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 6,
@@ -3432,71 +3494,9 @@
         "vertical_type": 100,
         "vertical_id": 53612,
         "what_we_love": ""
-      },
-      {
-        "id": 53606,
-        "template_id": 2,
-        "title": "Indian Cuisine, Costume and Indian Heritage Centre",
-        "subtitle": "",
-        "url_seo": "indian-cuisine-costume-indian-heritage-centre-tour",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "v29yrphaywxbu3oekfuy.jpg",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "50.00",
-        "sell_price": "50.00",
-        "from_price": "50.00",
-        "to_price": "50.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-02-13 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "hot_state": "new",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/v29yrphaywxbu3oekfuy.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.30629,103.849392",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 0,
-        "country_name": "",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 0,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": false,
-        "deeplink": "",
-        "deep_link": "",
-        "vertical_type": 100,
-        "vertical_id": 53606,
-        "what_we_love": ""
       }
     ],
-    "total": 1020,
+    "total": 1021,
     "price": {
       "from": "0",
       "to": "514"
