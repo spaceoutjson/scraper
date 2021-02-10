@@ -1,5 +1,5 @@
 {
-  "version": "fb694b07bbf2080de6a41c912507c531",
+  "version": "07dd5a1a19a2adcdf642c1af69692b13",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -43,21 +43,21 @@
           "is_category_failed": false,
           "show_discount": 16,
           "cmt_count": 245,
-          "view_count": 10903,
+          "view_count": 11080,
           "catid": 8,
           "voucher_info": null,
           "upcoming_flash_sale": null,
-          "is_official_shop": false,
+          "is_official_shop": null,
           "brand": "Samsung",
           "price_min": 42000000,
           "liked_count": 324,
           "can_use_bundle_deal": false,
-          "show_official_shop_label": false,
+          "show_official_shop_label": null,
           "coin_earn_label": null,
           "price_min_before_discount": 49900000,
           "cb_option": 0,
           "sold": 89,
-          "stock": 69,
+          "stock": 68,
           "status": 1,
           "price_max": 42000000,
           "add_on_deal_info": {
@@ -82,7 +82,7 @@
             "rcount_with_image": 124,
             "rcount_with_context": 175
           },
-          "show_official_shop_label_in_title": false,
+          "show_official_shop_label_in_title": null,
           "tier_variations": [
             {
               "images": [],
@@ -104,7 +104,7 @@
               ]
             }
           ],
-          "is_adult": false,
+          "is_adult": null,
           "discount": "16%",
           "flag": 524288,
           "is_non_cc_installment_payment_eligible": false,
@@ -116,10 +116,10 @@
           "name": "Samsung Galaxy A42 5G | 1 Year Samsung Warranty",
           "ctime": 1605697416,
           "wholesale_tier_list": [],
-          "show_shopee_verified_label": true,
+          "show_shopee_verified_label": null,
           "show_official_shop_label_in_normal_position": null,
           "item_status": "normal",
-          "shopee_verified": true,
+          "shopee_verified": false,
           "hidden_price_display": null,
           "size_chart": null,
           "item_type": 0,
@@ -173,16 +173,16 @@
           "is_category_failed": false,
           "show_discount": 21,
           "cmt_count": 2751,
-          "view_count": 25870,
+          "view_count": 26149,
           "catid": 20153,
           "voucher_info": null,
           "upcoming_flash_sale": null,
-          "is_official_shop": false,
+          "is_official_shop": null,
           "brand": "Nintendo Switch",
           "price_min": 42500000,
-          "liked_count": 4582,
+          "liked_count": 4585,
           "can_use_bundle_deal": false,
-          "show_official_shop_label": false,
+          "show_official_shop_label": null,
           "coin_earn_label": null,
           "price_min_before_discount": 48900000,
           "cb_option": 0,
@@ -212,7 +212,7 @@
             "rcount_with_image": 657,
             "rcount_with_context": 1040
           },
-          "show_official_shop_label_in_title": false,
+          "show_official_shop_label_in_title": null,
           "tier_variations": [
             {
               "images": [
@@ -234,7 +234,7 @@
               ]
             }
           ],
-          "is_adult": false,
+          "is_adult": null,
           "discount": "21%",
           "flag": 524288,
           "is_non_cc_installment_payment_eligible": false,
@@ -246,10 +246,10 @@
           "name": "Nintendo Switch Console System Gen 2 Latest Model (1 Year Local Singapore Warranty)",
           "ctime": 1573381544,
           "wholesale_tier_list": [],
-          "show_shopee_verified_label": true,
+          "show_shopee_verified_label": null,
           "show_official_shop_label_in_normal_position": null,
           "item_status": "normal",
-          "shopee_verified": true,
+          "shopee_verified": false,
           "hidden_price_display": null,
           "size_chart": null,
           "item_type": 0,
@@ -297,16 +297,16 @@
           "is_category_failed": false,
           "show_discount": 38,
           "cmt_count": 21,
-          "view_count": 11403,
+          "view_count": 11493,
           "catid": 169,
           "voucher_info": null,
           "upcoming_flash_sale": null,
-          "is_official_shop": false,
+          "is_official_shop": null,
           "brand": "New Moon",
           "price_min": 20800000,
           "liked_count": 37,
           "can_use_bundle_deal": false,
-          "show_official_shop_label": false,
+          "show_official_shop_label": null,
           "coin_earn_label": null,
           "price_min_before_discount": 33480000,
           "cb_option": 0,
@@ -336,7 +336,7 @@
             "rcount_with_image": 14,
             "rcount_with_context": 16
           },
-          "show_official_shop_label_in_title": false,
+          "show_official_shop_label_in_title": null,
           "tier_variations": [
             {
               "images": [],
@@ -348,7 +348,7 @@
               ]
             }
           ],
-          "is_adult": false,
+          "is_adult": null,
           "discount": "38%",
           "flag": 524288,
           "is_non_cc_installment_payment_eligible": false,
@@ -360,7 +360,7 @@
           "name": "[Bundle of 6 Cans] New Moon Australia Abalone 425G [ 2024 Expiry, 1.5 PC Abalone]",
           "ctime": 1611129035,
           "wholesale_tier_list": [],
-          "show_shopee_verified_label": false,
+          "show_shopee_verified_label": null,
           "show_official_shop_label_in_normal_position": null,
           "item_status": "normal",
           "shopee_verified": false,
@@ -407,16 +407,16 @@
           "is_category_failed": false,
           "show_discount": 48,
           "cmt_count": 210,
-          "view_count": 6171,
+          "view_count": 6301,
           "catid": 8,
           "voucher_info": null,
           "upcoming_flash_sale": null,
-          "is_official_shop": false,
+          "is_official_shop": null,
           "brand": "P40 Pro",
           "price_min": 63500000,
           "liked_count": 360,
           "can_use_bundle_deal": false,
-          "show_official_shop_label": false,
+          "show_official_shop_label": null,
           "coin_earn_label": null,
           "price_min_before_discount": 104800000,
           "cb_option": 0,
@@ -446,7 +446,7 @@
             "rcount_with_image": 73,
             "rcount_with_context": 139
           },
-          "show_official_shop_label_in_title": false,
+          "show_official_shop_label_in_title": null,
           "tier_variations": [
             {
               "images": [
@@ -477,7 +477,7 @@
               ]
             }
           ],
-          "is_adult": false,
+          "is_adult": null,
           "discount": "48%",
           "flag": 524288,
           "is_non_cc_installment_payment_eligible": false,
@@ -489,10 +489,10 @@
           "name": "Huawei P40 5G | P40 Pro 5G | P40 Pro+ Plus 5G | Free Gift | 2 Years Huawei Warranty | SG Local",
           "ctime": 1586625466,
           "wholesale_tier_list": [],
-          "show_shopee_verified_label": true,
+          "show_shopee_verified_label": null,
           "show_official_shop_label_in_normal_position": null,
           "item_status": "normal",
-          "shopee_verified": true,
+          "shopee_verified": false,
           "hidden_price_display": null,
           "size_chart": null,
           "item_type": 0,
@@ -545,21 +545,21 @@
           "is_category_failed": false,
           "show_discount": 62,
           "cmt_count": 1947,
-          "view_count": 8902,
+          "view_count": 8923,
           "catid": 8,
           "voucher_info": null,
           "upcoming_flash_sale": null,
-          "is_official_shop": false,
+          "is_official_shop": null,
           "brand": "Xiaomi",
           "price_min": 3790000,
-          "liked_count": 1346,
+          "liked_count": 1347,
           "can_use_bundle_deal": false,
-          "show_official_shop_label": false,
+          "show_official_shop_label": null,
           "coin_earn_label": null,
           "price_min_before_discount": 9900000,
           "cb_option": 0,
           "sold": 432,
-          "stock": 2454,
+          "stock": 2451,
           "status": 1,
           "price_max": 4100000,
           "add_on_deal_info": {
@@ -584,7 +584,7 @@
             "rcount_with_image": 898,
             "rcount_with_context": 1303
           },
-          "show_official_shop_label_in_title": false,
+          "show_official_shop_label_in_title": null,
           "tier_variations": [
             {
               "images": [],
@@ -598,7 +598,7 @@
               ]
             }
           ],
-          "is_adult": false,
+          "is_adult": null,
           "discount": "62%",
           "flag": 0,
           "is_non_cc_installment_payment_eligible": false,
@@ -610,10 +610,10 @@
           "name": "[FREE STRAP] Xiaomi Mi Band 5 Smart Bracelet Color AMOLED Screen Miband 5 Fitness Tracker Bluetooth Sport Waterproof",
           "ctime": 1593664489,
           "wholesale_tier_list": [],
-          "show_shopee_verified_label": true,
+          "show_shopee_verified_label": null,
           "show_official_shop_label_in_normal_position": null,
           "item_status": "normal",
-          "shopee_verified": true,
+          "shopee_verified": false,
           "hidden_price_display": null,
           "size_chart": null,
           "item_type": 0,
@@ -628,7 +628,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 4260,
+          "historical_sold": 4264,
           "transparent_background_image": "ade15905935b409698883bce4c726a57"
         },
         {
@@ -671,8 +671,8 @@
           "price_before_discount": 49900000,
           "is_category_failed": false,
           "show_discount": 58,
-          "cmt_count": 3139,
-          "view_count": 23808,
+          "cmt_count": 3140,
+          "view_count": 23848,
           "catid": 2414,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -686,7 +686,7 @@
           "price_min_before_discount": 49900000,
           "cb_option": 0,
           "sold": 409,
-          "stock": 54811,
+          "stock": 54810,
           "status": 1,
           "price_max": 20900000,
           "add_on_deal_info": {
@@ -699,17 +699,17 @@
           "price": 20900000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.930233,
+            "rating_star": 4.930255,
             "rating_count": [
-              3139,
+              3140,
               11,
               8,
               27,
               97,
-              2996
+              2997
             ],
             "rcount_with_image": 1403,
-            "rcount_with_context": 1842
+            "rcount_with_context": 1843
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -764,7 +764,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 5793,
+          "historical_sold": 5794,
           "transparent_background_image": "78e9f3a9b7a0dd13912a95d93d20c4e8"
         },
         {
@@ -798,16 +798,16 @@
           "is_category_failed": false,
           "show_discount": 17,
           "cmt_count": 59,
-          "view_count": 7708,
+          "view_count": 7770,
           "catid": 8,
           "voucher_info": null,
           "upcoming_flash_sale": null,
-          "is_official_shop": false,
+          "is_official_shop": null,
           "brand": "Apple",
           "price_min": 94900000,
           "liked_count": 248,
           "can_use_bundle_deal": false,
-          "show_official_shop_label": false,
+          "show_official_shop_label": null,
           "coin_earn_label": null,
           "price_min_before_discount": 114900000,
           "cb_option": 0,
@@ -837,7 +837,7 @@
             "rcount_with_image": 32,
             "rcount_with_context": 41
           },
-          "show_official_shop_label_in_title": false,
+          "show_official_shop_label_in_title": null,
           "tier_variations": [
             {
               "images": [
@@ -870,7 +870,7 @@
               ]
             }
           ],
-          "is_adult": false,
+          "is_adult": null,
           "discount": "17%",
           "flag": 524288,
           "is_non_cc_installment_payment_eligible": false,
@@ -882,10 +882,10 @@
           "name": "2020 Apple iPhone 12 mini 64GB | 128GB | 256GB",
           "ctime": 1602673758,
           "wholesale_tier_list": [],
-          "show_shopee_verified_label": true,
+          "show_shopee_verified_label": null,
           "show_official_shop_label_in_normal_position": null,
           "item_status": "normal",
-          "shopee_verified": true,
+          "shopee_verified": false,
           "hidden_price_display": null,
           "size_chart": null,
           "item_type": 0,
@@ -933,15 +933,15 @@
           "price_before_discount": 9590000,
           "is_category_failed": false,
           "show_discount": 8,
-          "cmt_count": 6437,
-          "view_count": 39236,
+          "cmt_count": 6440,
+          "view_count": 39303,
           "catid": 2414,
           "voucher_info": null,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
           "brand": "Airbot",
           "price_min": 8790000,
-          "liked_count": 9511,
+          "liked_count": 9512,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -957,14 +957,14 @@
           "price": 8790000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.921081,
+            "rating_star": 4.921118,
             "rating_count": [
-              6437,
+              6440,
               10,
               10,
               61,
               316,
-              6040
+              6043
             ],
             "rcount_with_image": 2458,
             "rcount_with_context": 3910
@@ -1028,7 +1028,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 12718,
+          "historical_sold": 12721,
           "transparent_background_image": "058a7c77b0a60a59e2335e2cbb8b07fe"
         },
         {
@@ -1072,7 +1072,7 @@
           "is_category_failed": false,
           "show_discount": 25,
           "cmt_count": 890,
-          "view_count": 13215,
+          "view_count": 13247,
           "catid": 11,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -1174,7 +1174,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 2006,
+          "historical_sold": 2007,
           "transparent_background_image": "1181201ffc89bf1e00a170d63065f943"
         },
         {
@@ -1210,14 +1210,14 @@
           "is_category_failed": false,
           "show_discount": 16,
           "cmt_count": 20,
-          "view_count": 4819,
+          "view_count": 4909,
           "catid": 11,
           "voucher_info": null,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
           "brand": "No Brand",
           "price_min": 38000000,
-          "liked_count": 805,
+          "liked_count": 808,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
