@@ -1,5 +1,5 @@
 {
-  "version": "ec8d8aad198904d19cff5f36ac2ce878",
+  "version": "0f1617dafb1e7cc767a73abd32bd02e8",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -44,8 +44,8 @@
           "price_before_discount": 10900000,
           "is_category_failed": false,
           "show_discount": 61,
-          "cmt_count": 136,
-          "view_count": 10297,
+          "cmt_count": 137,
+          "view_count": 10393,
           "catid": 3,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -59,7 +59,7 @@
           "price_min_before_discount": 10900000,
           "cb_option": 0,
           "sold": 30,
-          "stock": 252,
+          "stock": 250,
           "status": 1,
           "price_max": 4200000,
           "add_on_deal_info": null,
@@ -68,17 +68,17 @@
           "price": 4200000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.875,
+            "rating_star": 4.875912,
             "rating_count": [
-              136,
+              137,
               2,
               0,
               0,
               9,
-              125
+              126
             ],
-            "rcount_with_image": 63,
-            "rcount_with_context": 85
+            "rcount_with_image": 64,
+            "rcount_with_context": 86
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -143,7 +143,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 290,
+          "historical_sold": 291,
           "transparent_background_image": "62f05dad3357ef80c03edf60bfafabcc"
         },
         {
@@ -177,7 +177,7 @@
           "is_category_failed": false,
           "show_discount": 59,
           "cmt_count": 1626,
-          "view_count": 3799,
+          "view_count": 3821,
           "catid": 2414,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -191,7 +191,7 @@
           "price_min_before_discount": 8990000,
           "cb_option": 0,
           "sold": 114,
-          "stock": 122,
+          "stock": 120,
           "status": 1,
           "price_max": 3700000,
           "add_on_deal_info": null,
@@ -299,7 +299,7 @@
           "is_category_failed": false,
           "show_discount": 19,
           "cmt_count": 1560,
-          "view_count": 18486,
+          "view_count": 18504,
           "catid": 2414,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -413,7 +413,7 @@
           "is_category_failed": false,
           "show_discount": 16,
           "cmt_count": 259,
-          "view_count": 5459,
+          "view_count": 5497,
           "catid": 8,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -466,7 +466,7 @@
               ]
             }
           ],
-          "is_adult": null,
+          "is_adult": false,
           "discount": "16%",
           "flag": 0,
           "is_non_cc_installment_payment_eligible": false,
@@ -530,14 +530,14 @@
           "is_category_failed": false,
           "show_discount": 31,
           "cmt_count": 170,
-          "view_count": 7404,
+          "view_count": 7415,
           "catid": 9,
           "voucher_info": null,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
           "brand": "Xiaomi",
           "price_min": 48500000,
-          "liked_count": 617,
+          "liked_count": 616,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -577,7 +577,7 @@
               ]
             }
           ],
-          "is_adult": null,
+          "is_adult": false,
           "discount": "31%",
           "flag": 524288,
           "is_non_cc_installment_payment_eligible": false,
@@ -634,7 +634,7 @@
           "is_category_failed": false,
           "show_discount": 14,
           "cmt_count": 499,
-          "view_count": 767,
+          "view_count": 770,
           "catid": 12,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -681,7 +681,7 @@
               ]
             }
           ],
-          "is_adult": null,
+          "is_adult": false,
           "discount": "14%",
           "flag": 524290,
           "is_non_cc_installment_payment_eligible": false,
@@ -741,7 +741,7 @@
           "is_category_failed": false,
           "show_discount": 33,
           "cmt_count": 67,
-          "view_count": 9853,
+          "view_count": 9859,
           "catid": 4,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -818,7 +818,7 @@
               ]
             }
           ],
-          "is_adult": null,
+          "is_adult": false,
           "discount": "33%",
           "flag": 0,
           "is_non_cc_installment_payment_eligible": false,
@@ -887,7 +887,7 @@
           "is_category_failed": false,
           "show_discount": 27,
           "cmt_count": 2461,
-          "view_count": 25595,
+          "view_count": 25598,
           "catid": 169,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -935,7 +935,7 @@
               ]
             }
           ],
-          "is_adult": null,
+          "is_adult": false,
           "discount": "27%",
           "flag": 0,
           "is_non_cc_installment_payment_eligible": false,
@@ -1014,7 +1014,7 @@
           "is_category_failed": false,
           "show_discount": 31,
           "cmt_count": 18,
-          "view_count": 6426,
+          "view_count": 6434,
           "catid": 20445,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -1067,7 +1067,7 @@
               ]
             }
           ],
-          "is_adult": null,
+          "is_adult": false,
           "discount": "31%",
           "flag": 524288,
           "is_non_cc_installment_payment_eligible": false,
@@ -1126,7 +1126,7 @@
           "is_category_failed": false,
           "show_discount": 22,
           "cmt_count": 946,
-          "view_count": 5424,
+          "view_count": 5429,
           "catid": 8,
           "voucher_info": null,
           "upcoming_flash_sale": null,
