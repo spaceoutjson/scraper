@@ -238,8 +238,6 @@
       }
     ],
     "start_time": [
-      "2021-02-13T00:00:00Z",
-      "2021-02-14T00:00:00Z",
       "2021-02-15T00:00:00Z",
       "2021-02-16T00:00:00Z",
       "2021-02-17T00:00:00Z",
@@ -603,7 +601,8 @@
       "2022-02-10T00:00:00Z",
       "2022-02-11T00:00:00Z",
       "2022-02-12T00:00:00Z",
-      "2022-02-13T00:00:00Z"
+      "2022-02-13T00:00:00Z",
+      "2022-02-14T00:00:00Z"
     ],
     "activities": [
       {
@@ -1950,68 +1949,6 @@
         "deep_link": "",
         "vertical_type": 100,
         "vertical_id": 53895,
-        "what_we_love": ""
-      },
-      {
-        "id": 54032,
-        "template_id": 2,
-        "title": "The Southern Islands: Discovery Sunset Sail with Dinner",
-        "subtitle": "",
-        "url_seo": "southern-islands-sunset-sail-tour",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "fthharxzk3frkq6ipxfd.jpg",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "",
-        "sell_price": "",
-        "from_price": "",
-        "to_price": "",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "",
-        "sold_out": true,
-        "published": true,
-        "participate": 21,
-        "participants_format": "New Activity",
-        "hot_state": "new",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/fthharxzk3frkq6ipxfd.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.271112,103.863334",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 0,
-        "country_name": "",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 0,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": false,
-        "deeplink": "",
-        "deep_link": "",
-        "vertical_type": 100,
-        "vertical_id": 54032,
         "what_we_love": ""
       },
       {
@@ -3495,9 +3432,61 @@
         "vertical_type": 100,
         "vertical_id": 53117,
         "what_we_love": ""
+      },
+      {
+        "id": 53115,
+        "template_id": 5,
+        "title": "Private Yacht Rental Singapore- Leviathan 88 by Yachtly",
+        "subtitle": "",
+        "url_seo": "singapore-yacht-charter-leviathan88",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 3,
+        "image_url": "p118hnuolhdyyxatswum.jpg",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "950.00",
+        "sell_price": "950.00",
+        "from_price": "950.00",
+        "to_price": "1397.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-02-16 09:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "hot_state": "new",
+        "discount": 0,
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/p118hnuolhdyyxatswum.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.245558,103.839889",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 0,
+        "country_name": "",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 0,
+        "package_id": 0,
+        "tags": null,
+        "need_hide_review": false,
+        "deeplink": "",
+        "deep_link": "",
+        "vertical_type": 100,
+        "vertical_id": 53115,
+        "what_we_love": ""
       }
     ],
-    "total": 1027,
+    "total": 1026,
     "price": {
       "from": "0",
       "to": "513"
