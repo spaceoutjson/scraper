@@ -606,6 +606,130 @@
     ],
     "activities": [
       {
+        "id": 53052,
+        "template_id": 2,
+        "title": "Singapore Heritage Tour with Lunch",
+        "subtitle": "",
+        "url_seo": "singapore-heritage-join-in-tour-with-lunch",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "wgx4b22vi59fgkqnglvl.jpg",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "100.00",
+        "sell_price": "100.00",
+        "from_price": "100.00",
+        "to_price": "100.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-02-17 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "hot_state": "new",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/wgx4b22vi59fgkqnglvl.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.358421,103.885341",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 0,
+        "country_name": "",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 0,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": false,
+        "deeplink": "",
+        "deep_link": "",
+        "vertical_type": 100,
+        "vertical_id": 53052,
+        "what_we_love": ""
+      },
+      {
+        "id": 53037,
+        "template_id": 2,
+        "title": "One Day Singapore Farm & Sentosa Tour",
+        "subtitle": "",
+        "url_seo": "one-day-singapore-farm-and-sentosa-join-in-tour",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "bpuuuyvr7x9ic3mbwwh8.jpg",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "70.00",
+        "sell_price": "70.00",
+        "from_price": "70.00",
+        "to_price": "70.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-02-19 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "hot_state": "new",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/bpuuuyvr7x9ic3mbwwh8.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.358421,103.885341",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 0,
+        "country_name": "",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 0,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": false,
+        "deeplink": "",
+        "deep_link": "",
+        "vertical_type": 100,
+        "vertical_id": 53037,
+        "what_we_love": ""
+      },
+      {
         "id": 53571,
         "template_id": 2,
         "title": "Half Day Madame Tussauds Singapore with Cable Dining Experience",
@@ -633,6 +757,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/ucgqgmi7vqe3onjtxthv.jpg",
         "icon": null,
@@ -649,7 +776,14 @@
         "real_lang": "",
         "leaf_category": 0,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": false,
         "deeplink": "",
         "deep_link": "",
@@ -685,6 +819,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/vhqglbxuuocdunhvyq1u.jpg",
         "icon": null,
@@ -701,7 +838,14 @@
         "real_lang": "",
         "leaf_category": 0,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": false,
         "deeplink": "",
         "deep_link": "",
@@ -737,6 +881,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/cehz9wn8iajwm9yarwvm.jpg",
         "icon": null,
@@ -753,7 +900,14 @@
         "real_lang": "",
         "leaf_category": 0,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": false,
         "deeplink": "",
         "deep_link": "",
@@ -3360,123 +3514,9 @@
         "vertical_type": 100,
         "vertical_id": 53548,
         "what_we_love": ""
-      },
-      {
-        "id": 53542,
-        "template_id": 2,
-        "title": "The Spice Journey in Little India and Kampong Glam",
-        "subtitle": "",
-        "url_seo": "little-india-kampong-glam-spice-journey",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "deiwull0kc9g5lyvoyxq.jpg",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "80.00",
-        "sell_price": "80.00",
-        "from_price": "80.00",
-        "to_price": "80.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-02-19 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "hot_state": "new",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/deiwull0kc9g5lyvoyxq.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.30629,103.849392",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 0,
-        "country_name": "",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 0,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": false,
-        "deeplink": "",
-        "deep_link": "",
-        "vertical_type": 100,
-        "vertical_id": 53542,
-        "what_we_love": ""
-      },
-      {
-        "id": 48557,
-        "template_id": 5,
-        "title": "Auto Rider at Gardens by the Bay",
-        "subtitle": "",
-        "url_seo": "auto-rider-garden-by-the-bay",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "kkyybaq46sqoztddai4u.jpg",
-        "video_url": "",
-        "score": 4,
-        "currency": "SGD",
-        "market_price": "5.00",
-        "sell_price": "5.00",
-        "from_price": "5.00",
-        "to_price": "5.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-02-16 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 19,
-        "participants_format": "New Activity",
-        "hot_state": "new",
-        "discount": 0,
-        "review_total": 1,
-        "image_url_host": "https://res.klook.com/image/upload/activities/kkyybaq46sqoztddai4u.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.281705,103.863582",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 0,
-        "country_name": "",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 0,
-        "package_id": 0,
-        "tags": null,
-        "need_hide_review": false,
-        "deeplink": "",
-        "deep_link": "",
-        "vertical_type": 100,
-        "vertical_id": 48557,
-        "what_we_love": ""
       }
     ],
-    "total": 1032,
+    "total": 1034,
     "price": {
       "from": "0",
       "to": "513"
