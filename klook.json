@@ -607,6 +607,68 @@
     ],
     "activities": [
       {
+        "id": 53896,
+        "template_id": 3,
+        "title": "Dorsett Singapore Staycation",
+        "subtitle": "",
+        "url_seo": "staycation-dorsett-singapore-1-night-stay",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "dqg9a0wxlnzgijcgozfu.jpg",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "180.00",
+        "sell_price": "180.00",
+        "from_price": "180.00",
+        "to_price": "180.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-02-19 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "hot_state": "new",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/dqg9a0wxlnzgijcgozfu.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.279862,103.840332",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 0,
+        "country_name": "",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 0,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": false,
+        "deeplink": "",
+        "deep_link": "",
+        "vertical_type": 100,
+        "vertical_id": 53896,
+        "what_we_love": ""
+      },
+      {
         "id": 53052,
         "template_id": 2,
         "title": "Singapore Heritage Tour with Lunch",
@@ -3299,7 +3361,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-02-17 00:00:00",
+        "start_time": "2021-02-18 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3453,71 +3515,9 @@
         "vertical_type": 100,
         "vertical_id": 53556,
         "what_we_love": ""
-      },
-      {
-        "id": 53548,
-        "template_id": 2,
-        "title": "Famous Crime in Singapore",
-        "subtitle": "",
-        "url_seo": "singapore-famous-crime",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "szruxngebobljvqhd5ci.jpg",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "100.00",
-        "sell_price": "100.00",
-        "from_price": "100.00",
-        "to_price": "100.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-02-20 19:30:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "hot_state": "new",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/szruxngebobljvqhd5ci.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.33233,103.847426",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 0,
-        "country_name": "",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 0,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": false,
-        "deeplink": "",
-        "deep_link": "",
-        "vertical_type": 100,
-        "vertical_id": 53548,
-        "what_we_love": ""
       }
     ],
-    "total": 1034,
+    "total": 1035,
     "price": {
       "from": "0",
       "to": "512"
