@@ -1591,8 +1591,8 @@
         "score": 0,
         "currency": "SGD",
         "market_price": "455.00",
-        "sell_price": "280.00",
-        "from_price": "280.00",
+        "sell_price": "260.00",
+        "from_price": "260.00",
         "to_price": "280.00",
         "spec_price": {
           "type": 0,
@@ -1604,7 +1604,7 @@
         "participate": 8,
         "participants_format": "New Activity",
         "hot_state": "new",
-        "discount": 38,
+        "discount": 43,
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
         },
@@ -3462,7 +3462,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-02-21 00:00:00",
+        "start_time": "2021-02-22 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 11,
