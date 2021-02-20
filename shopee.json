@@ -1,5 +1,5 @@
 {
-  "version": "eb37181c601bd7d10b115b72aa3aa90c",
+  "version": "df3a0cf5a7f7ffaf8fe1d4a52a817cf0",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -46,14 +46,14 @@
           "is_category_failed": false,
           "show_discount": 8,
           "cmt_count": 91,
-          "view_count": 14341,
+          "view_count": 14488,
           "catid": 8,
           "voucher_info": null,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
           "brand": "Apple",
           "price_min": 154400000,
-          "liked_count": 579,
+          "liked_count": 580,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -180,7 +180,7 @@
           "is_category_failed": false,
           "show_discount": 7,
           "cmt_count": 1449,
-          "view_count": 13220,
+          "view_count": 13246,
           "catid": 2414,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -301,7 +301,7 @@
           "is_category_failed": false,
           "show_discount": 31,
           "cmt_count": 4292,
-          "view_count": 8983,
+          "view_count": 9045,
           "catid": 6,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -425,8 +425,8 @@
           "price_before_discount": 2050000,
           "is_category_failed": false,
           "show_discount": 48,
-          "cmt_count": 8727,
-          "view_count": 13485,
+          "cmt_count": 8728,
+          "view_count": 13557,
           "catid": 12,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -440,7 +440,7 @@
           "price_min_before_discount": 2050000,
           "cb_option": 0,
           "sold": 1620,
-          "stock": 709,
+          "stock": 700,
           "status": 1,
           "price_max": 2250000,
           "add_on_deal_info": null,
@@ -449,17 +449,17 @@
           "price": 1090000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.949329,
+            "rating_star": 4.949335,
             "rating_count": [
-              8727,
+              8728,
               9,
               18,
               63,
               236,
-              8401
+              8402
             ],
             "rcount_with_image": 3473,
-            "rcount_with_context": 5295
+            "rcount_with_context": 5296
           },
           "show_official_shop_label_in_title": false,
           "tier_variations": [
@@ -510,7 +510,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 19808,
+          "historical_sold": 19810,
           "transparent_background_image": "91773ee86c21a876c9b326d7400c2a94"
         },
         {
@@ -541,14 +541,14 @@
           "is_category_failed": false,
           "show_discount": 23,
           "cmt_count": 50,
-          "view_count": 3998,
+          "view_count": 4014,
           "catid": 8,
           "voucher_info": null,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
           "brand": "Sony",
           "price_min": 38400000,
-          "liked_count": 175,
+          "liked_count": 176,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -652,7 +652,7 @@
           "is_category_failed": false,
           "show_discount": 15,
           "cmt_count": 196,
-          "view_count": 5474,
+          "view_count": 5480,
           "catid": 2414,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -767,7 +767,7 @@
           "is_category_failed": false,
           "show_discount": 12,
           "cmt_count": 37,
-          "view_count": 1358,
+          "view_count": 1362,
           "catid": 2414,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -897,7 +897,7 @@
           "is_category_failed": false,
           "show_discount": 29,
           "cmt_count": 1541,
-          "view_count": 11092,
+          "view_count": 11098,
           "catid": 16997,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -911,7 +911,7 @@
           "price_min_before_discount": 6870000,
           "cb_option": 0,
           "sold": 692,
-          "stock": 41,
+          "stock": 40,
           "status": 1,
           "price_max": 4900000,
           "add_on_deal_info": null,
@@ -1017,8 +1017,8 @@
           "price_before_discount": 4250000,
           "is_category_failed": false,
           "show_discount": 12,
-          "cmt_count": 3851,
-          "view_count": 7958,
+          "cmt_count": 3853,
+          "view_count": 7978,
           "catid": 12,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -1032,7 +1032,7 @@
           "price_min_before_discount": 4250000,
           "cb_option": 0,
           "sold": 865,
-          "stock": 203,
+          "stock": 200,
           "status": 1,
           "price_max": 3750000,
           "add_on_deal_info": {
@@ -1045,17 +1045,17 @@
           "price": 3750000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.931706,
+            "rating_star": 4.931742,
             "rating_count": [
-              3852,
+              3854,
               18,
               13,
               31,
               94,
-              3696
+              3698
             ],
             "rcount_with_image": 1498,
-            "rcount_with_context": 2390
+            "rcount_with_context": 2391
           },
           "show_official_shop_label_in_title": false,
           "tier_variations": [
@@ -1105,7 +1105,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 10625,
+          "historical_sold": 10628,
           "transparent_background_image": ""
         }
       ],
