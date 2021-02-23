@@ -1,5 +1,5 @@
 {
-  "version": "f3f7e075365f5f03eeca44bc9b70b7da",
+  "version": "d802433fa76ec00e8bd62a90233806ce",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -44,22 +44,22 @@
           "price_before_discount": 3790000,
           "is_category_failed": false,
           "show_discount": 10,
-          "cmt_count": 14997,
-          "view_count": 35367,
+          "cmt_count": 14998,
+          "view_count": 35408,
           "catid": 12,
           "voucher_info": null,
           "upcoming_flash_sale": null,
           "is_official_shop": false,
           "brand": "Merries",
           "price_min": 3450000,
-          "liked_count": 3650,
+          "liked_count": 3651,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
           "price_min_before_discount": 3790000,
           "cb_option": 0,
           "sold": 5598,
-          "stock": 1829,
+          "stock": 1825,
           "status": 1,
           "price_max": 3450000,
           "add_on_deal_info": {
@@ -72,17 +72,17 @@
           "price": 3450000,
           "shop_location": null,
           "item_rating": {
-            "rating_star": 4.945111,
+            "rating_star": 4.945115,
             "rating_count": [
-              14999,
+              15000,
               65,
               42,
               89,
               277,
-              14526
+              14527
             ],
-            "rcount_with_image": 4996,
-            "rcount_with_context": 8326
+            "rcount_with_image": 4997,
+            "rcount_with_context": 8327
           },
           "show_official_shop_label_in_title": false,
           "tier_variations": [
@@ -140,7 +140,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 55623,
+          "historical_sold": 55625,
           "transparent_background_image": "940d912312eba641ac110a0238f1ab08"
         },
         {
@@ -171,7 +171,7 @@
           "is_category_failed": false,
           "show_discount": 14,
           "cmt_count": 136,
-          "view_count": 544,
+          "view_count": 555,
           "catid": 12,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -287,14 +287,14 @@
           "is_category_failed": false,
           "show_discount": 45,
           "cmt_count": 265,
-          "view_count": 5931,
+          "view_count": 5973,
           "catid": 126,
           "voucher_info": null,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
           "brand": "Adidas",
           "price_min": 5500000,
-          "liked_count": 810,
+          "liked_count": 811,
           "can_use_bundle_deal": true,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -419,7 +419,7 @@
           "is_category_failed": false,
           "show_discount": 0,
           "cmt_count": 160,
-          "view_count": 7803,
+          "view_count": 7817,
           "catid": 8,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -549,7 +549,7 @@
           "price_before_discount": 6585000,
           "is_category_failed": false,
           "show_discount": 32,
-          "cmt_count": 53,
+          "cmt_count": 54,
           "view_count": 1441,
           "catid": 12,
           "voucher_info": null,
@@ -564,7 +564,7 @@
           "price_min_before_discount": 6585000,
           "cb_option": 0,
           "sold": 77,
-          "stock": 644,
+          "stock": 646,
           "status": 1,
           "price_max": 6800000,
           "add_on_deal_info": null,
@@ -575,15 +575,15 @@
           "item_rating": {
             "rating_star": 5,
             "rating_count": [
-              53,
+              54,
               0,
               0,
               0,
               0,
-              53
+              54
             ],
             "rcount_with_image": 15,
-            "rcount_with_context": 21
+            "rcount_with_context": 22
           },
           "show_official_shop_label_in_title": false,
           "tier_variations": [
@@ -632,7 +632,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 163,
+          "historical_sold": 164,
           "transparent_background_image": "2ae83fedfe1df52dcd0defa67a773841"
         },
         {
@@ -669,7 +669,7 @@
           "is_category_failed": false,
           "show_discount": 14,
           "cmt_count": 266,
-          "view_count": 2797,
+          "view_count": 2798,
           "catid": 12,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -938,7 +938,7 @@
           "is_category_failed": false,
           "show_discount": 21,
           "cmt_count": 1776,
-          "view_count": 11795,
+          "view_count": 11800,
           "catid": 2414,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -1186,7 +1186,7 @@
           "is_category_failed": false,
           "show_discount": 10,
           "cmt_count": 28,
-          "view_count": 3901,
+          "view_count": 3903,
           "catid": 9,
           "voucher_info": null,
           "upcoming_flash_sale": null,
