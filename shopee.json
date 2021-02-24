@@ -1,5 +1,5 @@
 {
-  "version": "6afbaea6fb3ff990d8c15f93e7ab5402",
+  "version": "7a0b6596d552c76f8282e0438984fa06",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -44,22 +44,22 @@
           "price_before_discount": 5500000,
           "is_category_failed": false,
           "show_discount": 27,
-          "cmt_count": 14575,
-          "view_count": 49622,
+          "cmt_count": 14576,
+          "view_count": 49937,
           "catid": 169,
           "voucher_info": null,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
           "brand": "Carlsberg",
           "price_min": 3990000,
-          "liked_count": 1480,
+          "liked_count": 1481,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
           "price_min_before_discount": 5500000,
           "cb_option": 0,
           "sold": 5860,
-          "stock": 389,
+          "stock": 349,
           "status": 1,
           "price_max": 3990000,
           "add_on_deal_info": {
@@ -72,17 +72,17 @@
           "price": 3990000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.946515,
+            "rating_star": 4.946519,
             "rating_count": [
-              14575,
+              14576,
               51,
               40,
               105,
               265,
-              14114
+              14115
             ],
-            "rcount_with_image": 6212,
-            "rcount_with_context": 8201
+            "rcount_with_image": 6213,
+            "rcount_with_context": 8202
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -138,7 +138,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 11,
-          "historical_sold": 52130,
+          "historical_sold": 52134,
           "transparent_background_image": "4c35c97a4347aa437f110090a25aaf5c"
         },
         {
@@ -169,7 +169,7 @@
           "is_category_failed": false,
           "show_discount": 17,
           "cmt_count": 11,
-          "view_count": 864,
+          "view_count": 914,
           "catid": 169,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -293,14 +293,14 @@
           "is_category_failed": false,
           "show_discount": 51,
           "cmt_count": 145,
-          "view_count": 4825,
+          "view_count": 4902,
           "catid": 2414,
           "voucher_info": null,
           "upcoming_flash_sale": null,
           "is_official_shop": true,
           "brand": "Ecovacs",
           "price_min": 63900000,
-          "liked_count": 451,
+          "liked_count": 452,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -412,7 +412,7 @@
           "is_category_failed": false,
           "show_discount": 50,
           "cmt_count": 0,
-          "view_count": 148,
+          "view_count": 236,
           "catid": 19943,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -530,7 +530,7 @@
           "is_category_failed": false,
           "show_discount": 17,
           "cmt_count": 362,
-          "view_count": 8935,
+          "view_count": 8961,
           "catid": 2414,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -638,8 +638,8 @@
           "price_before_discount": 3090000,
           "is_category_failed": false,
           "show_discount": 19,
-          "cmt_count": 1003,
-          "view_count": 19975,
+          "cmt_count": 1004,
+          "view_count": 19989,
           "catid": 169,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -662,17 +662,17 @@
           "price": 2490000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.882353,
+            "rating_star": 4.88247,
             "rating_count": [
-              1003,
+              1004,
               3,
               5,
               24,
               43,
-              928
+              929
             ],
             "rcount_with_image": 507,
-            "rcount_with_context": 693
+            "rcount_with_context": 694
           },
           "show_official_shop_label_in_title": false,
           "tier_variations": [
@@ -751,7 +751,7 @@
           "is_category_failed": false,
           "show_discount": 12,
           "cmt_count": 83,
-          "view_count": 814,
+          "view_count": 826,
           "catid": 169,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -784,7 +784,7 @@
               80
             ],
             "rcount_with_image": 28,
-            "rcount_with_context": 45
+            "rcount_with_context": 46
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -866,7 +866,7 @@
           "is_category_failed": false,
           "show_discount": 40,
           "cmt_count": 0,
-          "view_count": 492,
+          "view_count": 506,
           "catid": 19943,
           "voucher_info": null,
           "upcoming_flash_sale": null,
@@ -983,7 +983,7 @@
           "is_category_failed": false,
           "show_discount": 21,
           "cmt_count": 56,
-          "view_count": 1352,
+          "view_count": 1370,
           "catid": 169,
           "voucher_info": null,
           "upcoming_flash_sale": null,
