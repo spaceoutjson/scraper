@@ -802,7 +802,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-02-26 00:00:00",
+        "start_time": "2021-02-27 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -991,7 +991,7 @@
         "start_time": "2021-03-15 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 36,
+        "participate": 37,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -1236,7 +1236,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-02-28 00:00:00",
+        "start_time": "2021-03-01 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1298,7 +1298,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-02-28 00:00:00",
+        "start_time": "2021-03-01 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2840,7 +2840,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-02-28 00:00:00",
+        "start_time": "2021-03-01 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 7,
@@ -3329,7 +3329,7 @@
         "start_time": "2021-02-28 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 57,
+        "participate": 58,
         "participants_format": "50+ Booked",
         "hot_state": "normal",
         "discount": 43,
@@ -3599,7 +3599,7 @@
     "total": 1064,
     "price": {
       "from": "0",
-      "to": "512"
+      "to": "511"
     },
     "stat": null,
     "template_tag_mapping": [
