@@ -627,7 +627,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-02-27 11:00:00",
+        "start_time": "2021-02-28 10:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1148,9 +1148,9 @@
         "start_time": "2021-03-15 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 48,
-        "participants_format": "New Activity",
-        "hot_state": "new",
+        "participate": 50,
+        "participants_format": "50+ Booked",
+        "hot_state": "normal",
         "discount": 0,
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
@@ -1673,7 +1673,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-02-27 00:00:00",
+        "start_time": "2021-02-28 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1735,7 +1735,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-02-27 00:00:00",
+        "start_time": "2021-02-28 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1797,7 +1797,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-02-27 00:00:00",
+        "start_time": "2021-02-28 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2400,7 +2400,7 @@
         "start_time": "2021-03-01 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 32,
+        "participate": 33,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 31,
@@ -3587,7 +3587,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1064,
+    "total": 1065,
     "price": {
       "from": "0",
       "to": "511"
