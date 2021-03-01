@@ -607,6 +607,68 @@
     ],
     "activities": [
       {
+        "id": 54724,
+        "template_id": 2,
+        "title": "Singapore Sidecars Heritage Tours Close User Exclusive",
+        "subtitle": "",
+        "url_seo": "singapore-vespa-heritage-tour",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "lvvtysxz2tbcsqwbuhbm.jpg",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "160.00",
+        "sell_price": "100.00",
+        "from_price": "100.00",
+        "to_price": "100.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-03-03 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "hot_state": "new",
+        "discount": 38,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/lvvtysxz2tbcsqwbuhbm.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.30172,103.860654",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 0,
+        "country_name": "",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 0,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": false,
+        "deeplink": "",
+        "deep_link": "",
+        "vertical_type": 100,
+        "vertical_id": 54724,
+        "what_we_love": ""
+      },
+      {
         "id": 52169,
         "template_id": 4,
         "title": "Din Tai Fung in Tiong Bahru",
@@ -1445,7 +1507,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-03-04 00:00:00",
+        "start_time": "2021-03-05 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2449,10 +2511,10 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-03-04 00:00:00",
+        "start_time": "2021-03-05 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 90,
+        "participate": 92,
         "participants_format": "50+ Booked",
         "hot_state": "normal",
         "discount": 31,
@@ -3513,74 +3575,12 @@
         "vertical_type": 100,
         "vertical_id": 54197,
         "what_we_love": ""
-      },
-      {
-        "id": 54311,
-        "template_id": 3,
-        "title": "Singapore Marriott Tang Plaza Hotel Staycation (Exclusive)",
-        "subtitle": "",
-        "url_seo": "1-night-stay-singapore-marriott-tang-plaza-hotel-breakfast-sgd50-food-beverage-dining-credit",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "ya7lrc8sq6sri516sgea.jpg",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "455.00",
-        "sell_price": "260.00",
-        "from_price": "260.00",
-        "to_price": "280.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-03-03 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 109,
-        "participants_format": "100+ Booked",
-        "hot_state": "normal",
-        "discount": 43,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/ya7lrc8sq6sri516sgea.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.304987,103.833072",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 0,
-        "country_name": "",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 0,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": false,
-        "deeplink": "",
-        "deep_link": "",
-        "vertical_type": 100,
-        "vertical_id": 54311,
-        "what_we_love": ""
       }
     ],
-    "total": 1056,
+    "total": 1057,
     "price": {
       "from": "0",
-      "to": "516"
+      "to": "515"
     },
     "stat": null,
     "template_tag_mapping": [
