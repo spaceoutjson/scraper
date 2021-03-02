@@ -689,7 +689,7 @@
           "type": 3,
           "desc": "Free Reservation"
         },
-        "start_time": "2021-03-02 11:00:00",
+        "start_time": "2021-03-02 12:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1262,7 +1262,7 @@
         "start_time": "2021-03-15 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 94,
+        "participate": 98,
         "participants_format": "50+ Booked",
         "hot_state": "normal",
         "discount": 0,
