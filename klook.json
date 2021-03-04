@@ -606,6 +606,58 @@
     ],
     "activities": [
       {
+        "id": 54539,
+        "template_id": 2,
+        "title": "Tourcation (bundle) Stay at Civil Service Club with Sights of the East tour",
+        "subtitle": "",
+        "url_seo": "tourcation-civil-service-club-sights-east-tour-singapore",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 4,
+        "image_url": "osoeano2bqox8no3ysn8.jpg",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "240.00",
+        "sell_price": "240.00",
+        "from_price": "240.00",
+        "to_price": "240.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-03-12 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "hot_state": "new",
+        "discount": 0,
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/osoeano2bqox8no3ysn8.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.391415,103.986247",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 0,
+        "country_name": "",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 0,
+        "package_id": 0,
+        "tags": null,
+        "need_hide_review": false,
+        "deeplink": "",
+        "deep_link": "",
+        "vertical_type": 100,
+        "vertical_id": 54539,
+        "what_we_love": ""
+      },
+      {
         "id": 54612,
         "template_id": 2,
         "title": "Insect Farm Tour",
@@ -1875,6 +1927,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/z7s8gc4spjnwmuerdako.jpg",
         "icon": null,
@@ -1891,7 +1946,14 @@
         "real_lang": "",
         "leaf_category": 0,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": false,
         "deeplink": "",
         "deep_link": "",
@@ -1927,6 +1989,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/bzgbtttflwpusakwwiz8.jpg",
         "icon": null,
@@ -1943,7 +2008,14 @@
         "real_lang": "",
         "leaf_category": 0,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": false,
         "deeplink": "",
         "deep_link": "",
@@ -1979,6 +2051,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/iiu6kncmgpayvb1quzvh.jpg",
         "icon": null,
@@ -1995,7 +2070,14 @@
         "real_lang": "",
         "leaf_category": 0,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": false,
         "deeplink": "",
         "deep_link": "",
@@ -2751,7 +2833,7 @@
         "start_time": "2021-03-07 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 126,
+        "participate": 127,
         "participants_format": "100+ Booked",
         "hot_state": "normal",
         "discount": 31,
@@ -3512,71 +3594,9 @@
         "vertical_type": 100,
         "vertical_id": 53037,
         "what_we_love": ""
-      },
-      {
-        "id": 53571,
-        "template_id": 2,
-        "title": "Half Day Madame Tussauds Singapore with Cable Dining Experience",
-        "subtitle": "",
-        "url_seo": "madame-tussauds-singapore-cable-dining-experience-half-day-tour",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "ucgqgmi7vqe3onjtxthv.jpg",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "168.00",
-        "sell_price": "168.00",
-        "from_price": "168.00",
-        "to_price": "168.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-03-07 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "hot_state": "new",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/ucgqgmi7vqe3onjtxthv.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.254038,103.817622",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 0,
-        "country_name": "",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 0,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": false,
-        "deeplink": "",
-        "deep_link": "",
-        "vertical_type": 100,
-        "vertical_id": 53571,
-        "what_we_love": ""
       }
     ],
-    "total": 1064,
+    "total": 1065,
     "price": {
       "from": "0",
       "to": "516"
