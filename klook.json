@@ -640,6 +640,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/xu0bm6516khvrwaegujx.jpg",
         "icon": null,
@@ -656,7 +659,14 @@
         "real_lang": "",
         "leaf_category": 0,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": false,
         "deeplink": "",
         "deep_link": "",
@@ -692,6 +702,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/ttletlihfzjlb1qgvveu.jpg",
         "icon": null,
@@ -708,7 +721,14 @@
         "real_lang": "",
         "leaf_category": 0,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": false,
         "deeplink": "",
         "deep_link": "",
@@ -744,6 +764,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/tlhggyijpx0z8nbuuwra.jpg",
         "icon": null,
@@ -760,7 +783,14 @@
         "real_lang": "",
         "leaf_category": 0,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": false,
         "deeplink": "",
         "deep_link": "",
@@ -848,6 +878,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/kp2g1o9npf8l0fdq3oog.jpg",
         "icon": null,
@@ -864,7 +897,14 @@
         "real_lang": "",
         "leaf_category": 0,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": false,
         "deeplink": "",
         "deep_link": "",
@@ -948,7 +988,7 @@
         "start_time": "2021-03-19 09:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 34,
+        "participate": 35,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -1434,7 +1474,7 @@
         "start_time": "2021-03-22 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 59,
+        "participate": 62,
         "participants_format": "50+ Booked",
         "hot_state": "normal",
         "discount": 0,
@@ -1547,10 +1587,10 @@
         "video_url": "",
         "score": 0,
         "currency": "SGD",
-        "market_price": "320.00",
-        "sell_price": "320.00",
-        "from_price": "320.00",
-        "to_price": "490.00",
+        "market_price": "350.00",
+        "sell_price": "350.00",
+        "from_price": "350.00",
+        "to_price": "510.00",
         "spec_price": {
           "type": 0,
           "desc": ""
@@ -1558,7 +1598,7 @@
         "start_time": "2021-03-16 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 72,
+        "participate": 74,
         "participants_format": "50+ Booked",
         "hot_state": "normal",
         "discount": 0,
@@ -1672,7 +1712,7 @@
         "start_time": "2021-03-16 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 34,
+        "participate": 36,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -2294,7 +2334,7 @@
         "start_time": "2021-03-31 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 150,
+        "participate": 152,
         "participants_format": "100+ Booked",
         "hot_state": "normal",
         "discount": 0,
@@ -2353,10 +2393,10 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-03-27 00:00:00",
+        "start_time": "2021-04-01 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 39,
+        "participate": 46,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
