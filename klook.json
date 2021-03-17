@@ -633,13 +633,16 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-03-20 18:00:00",
+        "start_time": "2021-03-21 18:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/bezquxzshypalpjwonxu.jpg",
         "icon": null,
@@ -656,7 +659,14 @@
         "real_lang": "",
         "leaf_category": 0,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": false,
         "deeplink": "",
         "deep_link": "",
@@ -1389,7 +1399,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-03-20 00:00:00",
+        "start_time": "2021-03-21 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1692,7 +1702,7 @@
         "start_time": "2021-03-24 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 81,
+        "participate": 84,
         "participants_format": "50+ Booked",
         "hot_state": "normal",
         "discount": 0,
@@ -1751,7 +1761,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-03-20 00:00:00",
+        "start_time": "2021-03-21 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1816,7 +1826,7 @@
         "start_time": "2021-03-20 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 83,
+        "participate": 84,
         "participants_format": "50+ Booked",
         "hot_state": "normal",
         "discount": 0,
@@ -1875,7 +1885,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-03-19 17:00:00",
+        "start_time": "2021-03-19 18:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1930,7 +1940,7 @@
         "start_time": "2021-03-17 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 59,
+        "participate": 63,
         "participants_format": "50+ Booked",
         "hot_state": "normal",
         "discount": 0,
@@ -2044,7 +2054,7 @@
         "start_time": "2021-03-17 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 153,
+        "participate": 156,
         "participants_format": "100+ Booked",
         "hot_state": "normal",
         "discount": 0,
@@ -2289,7 +2299,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-03-18 09:00:00",
+        "start_time": "2021-03-19 09:00:00",
         "sold_out": false,
         "published": true,
         "participate": 4,
@@ -2341,7 +2351,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-03-18 09:00:00",
+        "start_time": "2021-03-19 09:00:00",
         "sold_out": false,
         "published": true,
         "participate": 6,
@@ -3087,7 +3097,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-03-18 11:00:00",
+        "start_time": "2021-03-19 11:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3481,7 +3491,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-03-20 00:00:00",
+        "start_time": "2021-03-21 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3523,7 +3533,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1089,
+    "total": 1088,
     "price": {
       "from": "0",
       "to": "520"
