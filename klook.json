@@ -141,12 +141,6 @@
             "children": null
           },
           {
-            "id": 14,
-            "name": "Cruises & island tours",
-            "enable": true,
-            "children": null
-          },
-          {
             "id": 12,
             "name": "Private tours",
             "enable": true,
@@ -1940,7 +1934,7 @@
         "start_time": "2021-03-18 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 95,
+        "participate": 97,
         "participants_format": "50+ Booked",
         "hot_state": "normal",
         "discount": 0,
@@ -2054,7 +2048,7 @@
         "start_time": "2021-03-19 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 170,
+        "participate": 171,
         "participants_format": "100+ Booked",
         "hot_state": "normal",
         "discount": 0,
@@ -2562,7 +2556,7 @@
         "start_time": "2021-03-31 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 212,
+        "participate": 214,
         "participants_format": "200+ Booked",
         "hot_state": "normal",
         "discount": 0,
