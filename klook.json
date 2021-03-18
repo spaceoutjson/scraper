@@ -919,7 +919,7 @@
       {
         "id": 55374,
         "template_id": 2,
-        "title": "Singapore Rediscovery Pulau Ubin & Singapore Flyer Happy Tour + Lunch",
+        "title": "Singapore Rediscovery Pulau Ubin & Singapore Flyer Happy Tour + Dinner",
         "subtitle": "",
         "url_seo": "pulau-ubin-and-singapore-flyer-tour-in-singapore",
         "city_id": 6,
@@ -2254,7 +2254,7 @@
         "start_time": "2021-03-18 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 106,
+        "participate": 115,
         "participants_format": "100+ Booked",
         "hot_state": "normal",
         "discount": 0,
@@ -2876,7 +2876,7 @@
         "start_time": "2021-03-31 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 219,
+        "participate": 220,
         "participants_format": "200+ Booked",
         "hot_state": "normal",
         "discount": 0,
@@ -3898,7 +3898,8 @@
     "srv_filter_option": {
       "srv_act_content": "Eligible for SingapoRediscovers Vouchers",
       "is_selected": 0
-    }
+    },
+    "nsw_filter_option": null
   },
   "success": true
 }
