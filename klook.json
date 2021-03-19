@@ -857,7 +857,7 @@
         "start_time": "2021-03-25 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 13,
+        "participate": 14,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -1288,7 +1288,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-03-19 00:00:00",
+        "start_time": "2021-03-20 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1819,7 +1819,7 @@
         "start_time": "2021-03-23 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 408,
+        "participate": 410,
         "participants_format": "400+ Booked",
         "hot_state": "normal",
         "discount": 0,
@@ -2367,7 +2367,7 @@
         "start_time": "2021-03-22 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 107,
+        "participate": 110,
         "participants_format": "100+ Booked",
         "hot_state": "normal",
         "discount": 0,
@@ -2481,7 +2481,7 @@
         "start_time": "2021-03-19 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 201,
+        "participate": 206,
         "participants_format": "200+ Booked",
         "hot_state": "normal",
         "discount": 0,
@@ -2592,10 +2592,10 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-03-20 00:00:00",
+        "start_time": "2021-03-21 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 201,
+        "participate": 204,
         "participants_format": "200+ Booked",
         "hot_state": "normal",
         "discount": 0,
@@ -3524,7 +3524,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-03-23 00:00:00",
+        "start_time": "2021-03-24 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 24,
@@ -3569,7 +3569,7 @@
     "total": 1099,
     "price": {
       "from": "0",
-      "to": "520"
+      "to": "519"
     },
     "stat": null,
     "template_tag_mapping": [
