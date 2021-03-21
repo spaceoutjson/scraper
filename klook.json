@@ -232,8 +232,6 @@
       }
     ],
     "start_time": [
-      "2021-03-20T00:00:00Z",
-      "2021-03-21T00:00:00Z",
       "2021-03-22T00:00:00Z",
       "2021-03-23T00:00:00Z",
       "2021-03-24T00:00:00Z",
@@ -597,7 +595,8 @@
       "2022-03-17T00:00:00Z",
       "2022-03-18T00:00:00Z",
       "2022-03-19T00:00:00Z",
-      "2022-03-20T00:00:00Z"
+      "2022-03-20T00:00:00Z",
+      "2022-03-21T00:00:00Z"
     ],
     "activities": [
       {
@@ -878,68 +877,6 @@
         "deep_link": "",
         "vertical_type": 100,
         "vertical_id": 55139,
-        "what_we_love": ""
-      },
-      {
-        "id": 55085,
-        "template_id": 1,
-        "title": "[Klook Cares] Donate an Experience - Jewel Premium Tour",
-        "subtitle": "",
-        "url_seo": "donate-changi-experience-studio-jewel-tour",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "npix7s8it7ydnbau7mp8.jpg",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "",
-        "sell_price": "",
-        "from_price": "",
-        "to_price": "",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "",
-        "sold_out": true,
-        "published": true,
-        "participate": 80,
-        "participants_format": "50+ Booked",
-        "hot_state": "normal",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/npix7s8it7ydnbau7mp8.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.360392,103.989642",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 0,
-        "country_name": "",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 0,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": false,
-        "deeplink": "",
-        "deep_link": "",
-        "vertical_type": 100,
-        "vertical_id": 55085,
         "what_we_love": ""
       },
       {
@@ -3549,9 +3486,61 @@
         "vertical_type": 100,
         "vertical_id": 54663,
         "what_we_love": ""
+      },
+      {
+        "id": 52169,
+        "template_id": 4,
+        "title": "Din Tai Fung in Tiong Bahru",
+        "subtitle": "鼎泰豐",
+        "url_seo": "din-tai-fung-reservation-singapore",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "s4yeyjbqtl2zuhnkz8tc.jpg",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "0.00",
+        "sell_price": "0.00",
+        "from_price": "0.00",
+        "to_price": "0.00",
+        "spec_price": {
+          "type": 3,
+          "desc": "Free Reservation"
+        },
+        "start_time": "2021-03-28 12:30:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 5,
+        "participants_format": "New Activity",
+        "hot_state": "new",
+        "discount": 0,
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/s4yeyjbqtl2zuhnkz8tc.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.334333,103.889569",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 0,
+        "country_name": "",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 0,
+        "package_id": 0,
+        "tags": null,
+        "need_hide_review": false,
+        "deeplink": "",
+        "deep_link": "",
+        "vertical_type": 106,
+        "vertical_id": 52169,
+        "what_we_love": ""
       }
     ],
-    "total": 1092,
+    "total": 1089,
     "price": {
       "from": "0",
       "to": "519"
