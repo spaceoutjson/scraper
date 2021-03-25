@@ -904,7 +904,7 @@
         "start_time": "2021-05-27 20:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 6,
+        "participate": 10,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 13,
@@ -1908,7 +1908,7 @@
         "start_time": "2021-03-29 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 758,
+        "participate": 762,
         "participants_format": "700+ Booked",
         "hot_state": "normal",
         "discount": 0,
@@ -2329,11 +2329,11 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-05 00:00:00",
+        "start_time": "2021-03-31 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 296,
-        "participants_format": "200+ Booked",
+        "participate": 300,
+        "participants_format": "300+ Booked",
         "hot_state": "normal",
         "discount": 0,
         "card_tags": {
@@ -2795,7 +2795,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-03-26 09:00:00",
+        "start_time": "2021-03-27 09:00:00",
         "sold_out": false,
         "published": true,
         "participate": 8,
@@ -2847,7 +2847,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-03-26 09:00:00",
+        "start_time": "2021-03-27 09:00:00",
         "sold_out": false,
         "published": true,
         "participate": 2,
@@ -3068,7 +3068,7 @@
         "start_time": "2021-04-29 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 159,
+        "participate": 161,
         "participants_format": "100+ Booked",
         "hot_state": "normal",
         "discount": 0,
@@ -3521,7 +3521,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1088,
+    "total": 1087,
     "price": {
       "from": "0",
       "to": "520"
