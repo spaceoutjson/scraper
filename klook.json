@@ -628,6 +628,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/nfzswicpvfp1dheqjj13.jpg",
         "icon": null,
@@ -644,7 +647,14 @@
         "real_lang": "",
         "leaf_category": 0,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": false,
         "deeplink": "",
         "deep_link": "",
@@ -680,6 +690,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/zzkzvbhg5lkqipilkegv.jpg",
         "icon": null,
@@ -696,7 +709,14 @@
         "real_lang": "",
         "leaf_category": 0,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": false,
         "deeplink": "",
         "deep_link": "",
@@ -732,6 +752,9 @@
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/yfqnvdxglquvc859azcf.jpg",
         "icon": null,
@@ -748,7 +771,14 @@
         "real_lang": "",
         "leaf_category": 0,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": false,
         "deeplink": "",
         "deep_link": "",
@@ -966,7 +996,7 @@
         "start_time": "2021-04-02 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 23,
+        "participate": 24,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 0,
@@ -1233,7 +1263,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-03-27 10:00:00",
+        "start_time": "2021-04-24 10:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1288,7 +1318,7 @@
         "start_time": "2021-04-01 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 35,
+        "participate": 36,
         "participants_format": "New Activity",
         "hot_state": "new",
         "discount": 53,
@@ -1350,7 +1380,7 @@
         "start_time": "2021-04-24 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 74,
+        "participate": 75,
         "participants_format": "50+ Booked",
         "hot_state": "normal",
         "discount": 0,
@@ -2009,7 +2039,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-03-27 00:00:00",
+        "start_time": "2021-03-28 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2064,7 +2094,7 @@
         "start_time": "2021-03-29 09:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 104,
+        "participate": 113,
         "participants_format": "100+ Booked",
         "hot_state": "normal",
         "discount": 0,
@@ -2126,7 +2156,7 @@
         "start_time": "2021-03-30 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 816,
+        "participate": 819,
         "participants_format": "800+ Booked",
         "hot_state": "normal",
         "discount": 0,
@@ -2550,7 +2580,7 @@
         "start_time": "2021-04-07 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 334,
+        "participate": 335,
         "participants_format": "300+ Booked",
         "hot_state": "normal",
         "discount": 0,
@@ -2961,7 +2991,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-03-27 09:00:00",
+        "start_time": "2021-03-28 09:00:00",
         "sold_out": false,
         "published": true,
         "participate": 5,
@@ -3013,7 +3043,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-03-27 09:00:00",
+        "start_time": "2021-03-28 09:00:00",
         "sold_out": false,
         "published": true,
         "participate": 8,
@@ -3286,7 +3316,7 @@
         "start_time": "2021-04-01 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 173,
+        "participate": 174,
         "participants_format": "100+ Booked",
         "hot_state": "normal",
         "discount": 0,
