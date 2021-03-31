@@ -1,5 +1,5 @@
 {
-  "version": "715ba8ea95f7902f3d861f720563fc58",
+  "version": "5d90028448d97796d453a30720dfe633",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -42,8 +42,8 @@
           "price_before_discount": 7890000,
           "is_category_failed": false,
           "show_discount": 37,
-          "cmt_count": 1228,
-          "view_count": 12903,
+          "cmt_count": 1229,
+          "view_count": 13029,
           "catid": 169,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -67,17 +67,17 @@
           "price": 4990000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.947883,
+            "rating_star": 4.947925,
             "rating_count": [
-              1228,
+              1229,
               4,
               1,
               6,
               33,
-              1184
+              1185
             ],
             "rcount_with_image": 480,
-            "rcount_with_context": 704
+            "rcount_with_context": 705
           },
           "show_official_shop_label_in_title": false,
           "tier_variations": [
@@ -124,7 +124,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 3989,
+          "historical_sold": 3992,
           "transparent_background_image": "e3ddf58f9a088594c706e082b247d830"
         },
         {
@@ -156,7 +156,7 @@
           "is_category_failed": false,
           "show_discount": 37,
           "cmt_count": 69,
-          "view_count": 2211,
+          "view_count": 2273,
           "catid": 169,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -272,7 +272,7 @@
           "is_category_failed": false,
           "show_discount": 25,
           "cmt_count": 1,
-          "view_count": 955,
+          "view_count": 1007,
           "catid": 6,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -396,7 +396,7 @@
           "is_category_failed": false,
           "show_discount": 12,
           "cmt_count": 43,
-          "view_count": 3308,
+          "view_count": 3351,
           "catid": 8,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -525,7 +525,7 @@
           "is_category_failed": false,
           "show_discount": 25,
           "cmt_count": 0,
-          "view_count": 158,
+          "view_count": 169,
           "catid": 6,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -634,7 +634,7 @@
           "is_category_failed": false,
           "show_discount": 23,
           "cmt_count": 0,
-          "view_count": 1967,
+          "view_count": 1981,
           "catid": 169,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -743,7 +743,7 @@
           "is_category_failed": false,
           "show_discount": 0,
           "cmt_count": 3938,
-          "view_count": 22947,
+          "view_count": 22963,
           "catid": 6,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -834,7 +834,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 10113,
+          "historical_sold": 10115,
           "transparent_background_image": ""
         },
         {
@@ -871,7 +871,7 @@
           "is_category_failed": false,
           "show_discount": 16,
           "cmt_count": 162,
-          "view_count": 7711,
+          "view_count": 7727,
           "catid": 13,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -879,7 +879,7 @@
           "is_official_shop": false,
           "brand": "Kingsmith",
           "price_min": 37800000,
-          "liked_count": 766,
+          "liked_count": 767,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -995,7 +995,7 @@
           "is_category_failed": false,
           "show_discount": 16,
           "cmt_count": 7,
-          "view_count": 1301,
+          "view_count": 1367,
           "catid": 169,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1010,7 +1010,7 @@
           "price_min_before_discount": 16500000,
           "cb_option": 0,
           "sold": 7,
-          "stock": 18,
+          "stock": 17,
           "status": 1,
           "price_max": 13800000,
           "add_on_deal_info": {
@@ -1107,7 +1107,7 @@
           "is_category_failed": false,
           "show_discount": 22,
           "cmt_count": 3226,
-          "view_count": 7602,
+          "view_count": 7616,
           "catid": 169,
           "is_on_flash_sale": null,
           "voucher_info": null,
