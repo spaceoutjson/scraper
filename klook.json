@@ -621,7 +621,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-24 00:00:00",
+        "start_time": "2021-04-24 20:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3053,7 +3053,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-03-31 12:30:00",
+        "start_time": "2021-04-01 12:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3399,7 +3399,7 @@
         "instance": 1,
         "image_url": "",
         "video_url": "",
-        "score": 0,
+        "score": 5,
         "currency": "SGD",
         "market_price": "300.00",
         "sell_price": "300.00",
@@ -3412,13 +3412,13 @@
         "start_time": "2021-04-03 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 200,
+        "participate": 256,
         "participants_format": "200+ Booked",
         "discount": 0,
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
         },
-        "review_total": 0,
+        "review_total": 1,
         "image_url_host": "https://res.klook.com/image/upload/activities/mjvv95wk9ve3tksxq7yf.jpg",
         "icon": null,
         "icons": null,
@@ -3442,7 +3442,7 @@
             "text": "Eligible for SingapoRediscovers Vouchers"
           }
         ],
-        "need_hide_review": true,
+        "need_hide_review": false,
         "deeplink": "https://www.klook.com/en-US/activity/54564-1-night-stay-dusit-thani-laguna-singapore-breakfast-welcome-drink-dusit-care-kit",
         "deep_link": "https://www.klook.com/en-US/activity/54564-1-night-stay-dusit-thani-laguna-singapore-breakfast-welcome-drink-dusit-care-kit",
         "vertical_type": 100,
