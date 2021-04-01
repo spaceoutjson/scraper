@@ -232,7 +232,6 @@
       }
     ],
     "start_time": [
-      "2021-03-31T00:00:00Z",
       "2021-04-01T00:00:00Z",
       "2021-04-02T00:00:00Z",
       "2021-04-03T00:00:00Z",
@@ -597,7 +596,8 @@
       "2022-03-28T00:00:00Z",
       "2022-03-29T00:00:00Z",
       "2022-03-30T00:00:00Z",
-      "2022-03-31T00:00:00Z"
+      "2022-03-31T00:00:00Z",
+      "2022-04-01T00:00:00Z"
     ],
     "activities": [
       {
@@ -2596,6 +2596,67 @@
         "what_we_love": ""
       },
       {
+        "id": 55085,
+        "template_id": 1,
+        "title": "[Klook Cares] Donate an Experience - Half-Day Fun at Jewel by Changi Experience Studio",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 5,
+        "currency": "SGD",
+        "market_price": "30.00",
+        "sell_price": "30.00",
+        "from_price": "30.00",
+        "to_price": "30.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-06-30 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 102,
+        "participants_format": "100+ Booked",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 1,
+        "image_url_host": "https://res.klook.com/image/upload/activities/npix7s8it7ydnbau7mp8.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.360392,103.989642",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 106,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": false,
+        "deeplink": "https://www.klook.com/en-US/activity/55085-donate-changi-experience-studio-jewel-tour",
+        "deep_link": "https://www.klook.com/en-US/activity/55085-donate-changi-experience-studio-jewel-tour",
+        "vertical_type": 100,
+        "vertical_id": 55085,
+        "what_we_love": ""
+      },
+      {
         "id": 55364,
         "template_id": 2,
         "title": "Singapore Rediscovery Happy Duck Tour + Chinese Cuisine Lunch",
@@ -2654,67 +2715,6 @@
         "deep_link": "https://www.klook.com/en-US/activity/55364-singapore-rediscovery-happy-duck-tour",
         "vertical_type": 100,
         "vertical_id": 55364,
-        "what_we_love": ""
-      },
-      {
-        "id": 55370,
-        "template_id": 2,
-        "title": "Singapore Rediscovery River Cruise Tour + Lunch",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "",
-        "sell_price": "",
-        "from_price": "",
-        "to_price": "",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-05-20 00:00:00",
-        "sold_out": true,
-        "published": true,
-        "participate": 126,
-        "participants_format": "100+ Booked",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/yymw75joq2revy8rkfja.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.286502,103.826978",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 156,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/55370-singapore-river-cruise-tour",
-        "deep_link": "https://www.klook.com/en-US/activity/55370-singapore-river-cruise-tour",
-        "vertical_type": 100,
-        "vertical_id": 55370,
         "what_we_love": ""
       },
       {
@@ -3481,7 +3481,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1072,
+    "total": 1070,
     "price": {
       "from": "0",
       "to": "519"
