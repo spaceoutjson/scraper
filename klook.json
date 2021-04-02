@@ -865,7 +865,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-03 00:00:00",
+        "start_time": "2021-04-10 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2740,16 +2740,16 @@
         "video_url": "",
         "score": 0,
         "currency": "SGD",
-        "market_price": "100.00",
-        "sell_price": "100.00",
-        "from_price": "100.00",
-        "to_price": "100.00",
+        "market_price": "",
+        "sell_price": "",
+        "from_price": "",
+        "to_price": "",
         "spec_price": {
           "type": 0,
           "desc": ""
         },
         "start_time": "2021-04-19 00:00:00",
-        "sold_out": false,
+        "sold_out": true,
         "published": true,
         "participate": 90,
         "participants_format": "50+ Booked",
@@ -3491,7 +3491,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1070,
+    "total": 1069,
     "price": {
       "from": "0",
       "to": "519"
