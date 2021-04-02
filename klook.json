@@ -232,7 +232,6 @@
       }
     ],
     "start_time": [
-      "2021-04-01T00:00:00Z",
       "2021-04-02T00:00:00Z",
       "2021-04-03T00:00:00Z",
       "2021-04-04T00:00:00Z",
@@ -597,7 +596,8 @@
       "2022-03-29T00:00:00Z",
       "2022-03-30T00:00:00Z",
       "2022-03-31T00:00:00Z",
-      "2022-04-01T00:00:00Z"
+      "2022-04-01T00:00:00Z",
+      "2022-04-02T00:00:00Z"
     ],
     "activities": [
       {
@@ -2728,67 +2728,6 @@
         "what_we_love": ""
       },
       {
-        "id": 55364,
-        "template_id": 2,
-        "title": "Singapore Rediscovery Happy Duck Tour + Chinese Cuisine Lunch",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "",
-        "sell_price": "",
-        "from_price": "",
-        "to_price": "",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "",
-        "sold_out": true,
-        "published": true,
-        "participate": 90,
-        "participants_format": "50+ Booked",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/ghzoiasvdrnj8nt7kvqs.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.286502,103.826978",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 340,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/55364-singapore-rediscovery-happy-duck-tour",
-        "deep_link": "https://www.klook.com/en-US/activity/55364-singapore-rediscovery-happy-duck-tour",
-        "vertical_type": 100,
-        "vertical_id": 55364,
-        "what_we_love": ""
-      },
-      {
         "id": 55374,
         "template_id": 2,
         "title": "Singapore Rediscovery Pulau Ubin & Singapore Flyer Happy Tour + Dinner",
@@ -3489,9 +3428,70 @@
         "vertical_type": 100,
         "vertical_id": 55196,
         "what_we_love": ""
+      },
+      {
+        "id": 55151,
+        "template_id": 2,
+        "title": "Singapore River Cruise Tour and Chinatown Murals with Dinner",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 4.4,
+        "currency": "SGD",
+        "market_price": "100.00",
+        "sell_price": "100.00",
+        "from_price": "100.00",
+        "to_price": "100.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-04-07 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 1454,
+        "participants_format": "1K+ Booked",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 12,
+        "image_url_host": "https://res.klook.com/image/upload/activities/sqt2fmo0naytiy2ub6iz.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.281516,103.84424",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 156,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": false,
+        "deeplink": "https://www.klook.com/en-US/activity/55151-singapore-river-cruise-tour-cruise-tour-chinatown-mural-dinner",
+        "deep_link": "https://www.klook.com/en-US/activity/55151-singapore-river-cruise-tour-cruise-tour-chinatown-mural-dinner",
+        "vertical_type": 100,
+        "vertical_id": 55151,
+        "what_we_love": ""
       }
     ],
-    "total": 1070,
+    "total": 1067,
     "price": {
       "from": "0",
       "to": "520"
