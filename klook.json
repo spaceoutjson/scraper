@@ -601,6 +601,67 @@
     ],
     "activities": [
       {
+        "id": 55719,
+        "template_id": 2,
+        "title": "Farm, Nature and History Tour in Singapore",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "100.00",
+        "sell_price": "100.00",
+        "from_price": "100.00",
+        "to_price": "100.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-04-05 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/j7d39fj1cqtppyrnovcw.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.436942,103.786396",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 150,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/55719-singapore-farm-nature-history-tour",
+        "deep_link": "https://www.klook.com/en-US/activity/55719-singapore-farm-nature-history-tour",
+        "vertical_type": 100,
+        "vertical_id": 55719,
+        "what_we_love": ""
+      },
+      {
         "id": 56004,
         "template_id": 2,
         "title": "Singapore DUCKtours and S.E.A. Aquarium with Lunch Full Day Tour",
@@ -810,6 +871,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/bao1zz8aoatn8tf1bgns.jpg",
         "icon": null,
@@ -826,7 +890,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/55880-history-freemason-singapore-walking-tour",
         "deep_link": "https://www.klook.com/en-US/activity/55880-history-freemason-singapore-walking-tour",
@@ -1303,7 +1374,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-06 15:50:00",
+        "start_time": "2021-04-06 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 11,
@@ -3418,70 +3489,9 @@
         "vertical_type": 100,
         "vertical_id": 55196,
         "what_we_love": ""
-      },
-      {
-        "id": 55151,
-        "template_id": 2,
-        "title": "Singapore River Cruise Tour and Chinatown Murals with Dinner",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 4.4,
-        "currency": "SGD",
-        "market_price": "100.00",
-        "sell_price": "100.00",
-        "from_price": "100.00",
-        "to_price": "100.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-04-06 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 1394,
-        "participants_format": "1K+ Booked",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 10,
-        "image_url_host": "https://res.klook.com/image/upload/activities/sqt2fmo0naytiy2ub6iz.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.281516,103.84424",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 156,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": false,
-        "deeplink": "https://www.klook.com/en-US/activity/55151-singapore-river-cruise-tour-cruise-tour-chinatown-mural-dinner",
-        "deep_link": "https://www.klook.com/en-US/activity/55151-singapore-river-cruise-tour-cruise-tour-chinatown-mural-dinner",
-        "vertical_type": 100,
-        "vertical_id": 55151,
-        "what_we_love": ""
       }
     ],
-    "total": 1070,
+    "total": 1071,
     "price": {
       "from": "0",
       "to": "519"
