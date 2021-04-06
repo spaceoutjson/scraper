@@ -674,7 +674,7 @@
         "start_time": "2021-04-09 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 5,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -732,7 +732,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-06 00:00:00",
+        "start_time": "2021-04-07 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -969,7 +969,7 @@
         "start_time": "2021-04-11 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 2,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1030,7 +1030,7 @@
         "start_time": "2021-04-09 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 16,
+        "participate": 31,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1091,7 +1091,7 @@
         "start_time": "2021-04-09 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 8,
+        "participate": 9,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1213,7 +1213,7 @@
         "start_time": "2021-04-10 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 14,
+        "participate": 16,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1274,7 +1274,7 @@
         "start_time": "2021-04-10 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 25,
+        "participate": 40,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1688,7 +1688,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-06 00:00:00",
+        "start_time": "2021-04-07 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1742,7 +1742,7 @@
         "start_time": "2021-04-24 20:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 4,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -2024,7 +2024,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-06 00:00:00",
+        "start_time": "2021-04-07 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 1,
@@ -2078,7 +2078,7 @@
         "start_time": "2021-04-10 09:45:00",
         "sold_out": false,
         "published": true,
-        "participate": 25,
+        "participate": 40,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2139,7 +2139,7 @@
         "start_time": "2021-04-10 10:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 6,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2353,7 +2353,7 @@
         "start_time": "2021-04-16 19:15:00",
         "sold_out": false,
         "published": true,
-        "participate": 16,
+        "participate": 19,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2655,7 +2655,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-07 19:30:00",
+        "start_time": "2021-04-08 19:30:00",
         "sold_out": false,
         "published": true,
         "participate": 7,
@@ -2716,7 +2716,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-09 08:00:00",
+        "start_time": "2021-04-10 08:00:00",
         "sold_out": false,
         "published": true,
         "participate": 2,
@@ -2889,7 +2889,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-06 00:00:00",
+        "start_time": "2021-04-07 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2994,7 +2994,7 @@
         "start_time": "2021-05-27 20:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 204,
+        "participate": 213,
         "participants_format": "200+ Booked",
         "discount": 0,
         "review_total": 0,
@@ -3096,7 +3096,7 @@
         "start_time": "2021-04-10 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 183,
+        "participate": 191,
         "participants_format": "100+ Booked",
         "discount": 0,
         "card_tags": {
@@ -3157,7 +3157,7 @@
         "start_time": "2021-04-30 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 112,
+        "participate": 148,
         "participants_format": "100+ Booked",
         "discount": 0,
         "card_tags": {
@@ -3215,10 +3215,10 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-13 00:00:00",
+        "start_time": "",
         "sold_out": true,
         "published": true,
-        "participate": 162,
+        "participate": 173,
         "participants_format": "100+ Booked",
         "discount": 0,
         "card_tags": {
@@ -3279,7 +3279,7 @@
         "start_time": "2021-04-12 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 6,
+        "participate": 7,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3340,7 +3340,7 @@
         "start_time": "2021-04-16 18:45:00",
         "sold_out": false,
         "published": true,
-        "participate": 189,
+        "participate": 196,
         "participants_format": "100+ Booked",
         "discount": 0,
         "card_tags": {
@@ -3401,7 +3401,7 @@
         "start_time": "2021-04-10 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 53,
+        "participate": 55,
         "participants_format": "50+ Booked",
         "discount": 0,
         "card_tags": {
@@ -3459,7 +3459,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-06 00:00:00",
+        "start_time": "2021-04-07 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
