@@ -626,6 +626,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/hvnqta9jz3mqgpcn25zt.jpg",
         "icon": null,
@@ -642,7 +645,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/55888-hainan-experience-tour-singapore",
         "deep_link": "https://www.klook.com/en-US/activity/55888-hainan-experience-tour-singapore",
@@ -677,6 +687,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/fc5t01egchvnsojrvlya.jpg",
         "icon": null,
@@ -693,7 +706,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/55792-korea-experience-singapore-tour",
         "deep_link": "https://www.klook.com/en-US/activity/55792-korea-experience-singapore-tour",
@@ -3032,7 +3052,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-05-20 00:00:00",
+        "start_time": "2021-04-17 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 162,
@@ -3093,7 +3113,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-30 00:00:00",
+        "start_time": "2021-04-23 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 6,
