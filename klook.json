@@ -600,6 +600,67 @@
     ],
     "activities": [
       {
+        "id": 56036,
+        "template_id": 2,
+        "title": "Fort Canning Walking Tour and Singapore River Cruise with Dinner",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "100.00",
+        "sell_price": "100.00",
+        "from_price": "100.00",
+        "to_price": "100.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-04-08 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/xjyu7xhvnkhfg8cllhxk.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.292348,103.844081",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 150,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/56036-fort-canning-walking-tour-singapore-river-cruise-dinner",
+        "deep_link": "https://www.klook.com/en-US/activity/56036-fort-canning-walking-tour-singapore-river-cruise-dinner",
+        "vertical_type": 100,
+        "vertical_id": 56036,
+        "what_we_love": ""
+      },
+      {
         "id": 51290,
         "template_id": 4,
         "title": "Café 2000 at M Hotel Singapore",
@@ -627,7 +688,7 @@
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/gkutk3kco8il0iogxbof.jpg",
+        "image_url_host": "https://res.klook.com/image/upload/activities/q7jenwxvm7rmc91khqht.jpg",
         "icon": null,
         "icons": null,
         "min_trip": 0,
@@ -671,7 +732,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-08 00:00:00",
+        "start_time": "2021-04-09 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3437,70 +3498,9 @@
         "vertical_type": 100,
         "vertical_id": 54199,
         "what_we_love": ""
-      },
-      {
-        "id": 54814,
-        "template_id": 2,
-        "title": "SG Hike, Eat and Workshop at Queenstown by X-Trekkers",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "80.00",
-        "sell_price": "80.00",
-        "from_price": "80.00",
-        "to_price": "80.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-04-09 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/xu0bm6516khvrwaegujx.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.302396,103.798316",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 150,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/54814-singapore-hike-eat-workshop-queenstown-x-trekkers",
-        "deep_link": "https://www.klook.com/en-US/activity/54814-singapore-hike-eat-workshop-queenstown-x-trekkers",
-        "vertical_type": 100,
-        "vertical_id": 54814,
-        "what_we_love": ""
       }
     ],
-    "total": 1066,
+    "total": 1067,
     "price": {
       "from": "0",
       "to": "518"
