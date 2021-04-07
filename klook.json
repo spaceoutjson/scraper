@@ -601,9 +601,9 @@
     ],
     "activities": [
       {
-        "id": 56142,
-        "template_id": 4,
-        "title": "The Buffet Restaurant at M Hotel Singapore",
+        "id": 56133,
+        "template_id": 2,
+        "title": "Singapore River Kayaking Tour",
         "subtitle": "",
         "url_seo": "",
         "city_id": 6,
@@ -613,26 +613,29 @@
         "video_url": "",
         "score": 0,
         "currency": "SGD",
-        "market_price": "76.55",
-        "sell_price": "57.39",
-        "from_price": "57.39",
-        "to_price": "57.39",
+        "market_price": "80.00",
+        "sell_price": "80.00",
+        "from_price": "80.00",
+        "to_price": "80.00",
         "spec_price": {
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-09 00:00:00",
+        "start_time": "2021-04-16 09:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/uxw2jaeywgx35vjqfumf.jpg",
+        "image_url_host": "https://res.klook.com/image/upload/activities/ktba98qiuwes4ftxrdts.jpg",
         "icon": null,
         "icons": null,
         "min_trip": 0,
-        "latlng": "1.273979,103.844896",
+        "latlng": "1.304356,103.86993",
         "activity_type": "",
         "ysim_info": null,
         "country_id": 15,
@@ -641,14 +644,21 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
-        "leaf_category": 236,
+        "leaf_category": 157,
         "package_id": 0,
-        "tags": null,
-        "need_hide_review": false,
-        "deeplink": "https://www.klook.com/en-US/activity/56142-the-buffet-restaurant-m-hotel-singapore",
-        "deep_link": "https://www.klook.com/en-US/activity/56142-the-buffet-restaurant-m-hotel-singapore",
-        "vertical_type": 106,
-        "vertical_id": 56142,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/56133-singapore-river-join-kayaking-tour",
+        "deep_link": "https://www.klook.com/en-US/activity/56133-singapore-river-join-kayaking-tour",
+        "vertical_type": 100,
+        "vertical_id": 56133,
         "what_we_love": ""
       },
       {
