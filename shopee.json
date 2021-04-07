@@ -1,5 +1,5 @@
 {
-  "version": "8bf7d8e9bded7c4d311c4720528e9ff3",
+  "version": "ef837bb3591869f26c5cd6187c3339c5",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -47,7 +47,7 @@
           "is_category_failed": false,
           "show_discount": 26,
           "cmt_count": 1366,
-          "view_count": 5323,
+          "view_count": 5393,
           "catid": 16997,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -62,7 +62,7 @@
           "price_min_before_discount": 4990000,
           "cb_option": 0,
           "sold": 86,
-          "stock": 107,
+          "stock": 102,
           "status": 1,
           "price_max": 3690000,
           "add_on_deal_info": null,
@@ -122,6 +122,7 @@
           "size_chart": null,
           "item_type": 0,
           "shipping_icon_type": null,
+          "spl_installment_tenure": null,
           "label_ids": [
             22,
             1000021,
@@ -143,7 +144,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 3325,
+          "historical_sold": 3326,
           "transparent_background_image": "2d8294f71b6349d71183f6ec846d5e9e"
         },
         {
@@ -173,7 +174,7 @@
           "is_category_failed": false,
           "show_discount": 6,
           "cmt_count": 3,
-          "view_count": 1955,
+          "view_count": 2051,
           "catid": 8,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -181,7 +182,7 @@
           "is_official_shop": false,
           "brand": "Redmi",
           "price_min": 25400000,
-          "liked_count": 21,
+          "liked_count": 23,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -253,6 +254,7 @@
           "size_chart": null,
           "item_type": 0,
           "shipping_icon_type": null,
+          "spl_installment_tenure": null,
           "label_ids": [
             22,
             1001244,
@@ -301,8 +303,8 @@
           "price_before_discount": 3490000,
           "is_category_failed": false,
           "show_discount": 15,
-          "cmt_count": 122,
-          "view_count": 1344,
+          "cmt_count": 123,
+          "view_count": 1410,
           "catid": 16997,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -372,6 +374,7 @@
           "size_chart": null,
           "item_type": 0,
           "shipping_icon_type": null,
+          "spl_installment_tenure": null,
           "label_ids": [
             22,
             1000073,
@@ -386,7 +389,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 266,
+          "historical_sold": 267,
           "transparent_background_image": ""
         },
         {
@@ -418,7 +421,7 @@
           "is_category_failed": false,
           "show_discount": 33,
           "cmt_count": 16,
-          "view_count": 2587,
+          "view_count": 2624,
           "catid": 6,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -488,6 +491,7 @@
           "size_chart": null,
           "item_type": 0,
           "shipping_icon_type": null,
+          "spl_installment_tenure": null,
           "label_ids": [
             1000091,
             1000117,
@@ -532,7 +536,7 @@
           "is_category_failed": false,
           "show_discount": 4,
           "cmt_count": 860,
-          "view_count": 6289,
+          "view_count": 6297,
           "catid": 169,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -606,6 +610,7 @@
           "size_chart": null,
           "item_type": 0,
           "shipping_icon_type": null,
+          "spl_installment_tenure": null,
           "label_ids": [
             1000055,
             1003124,
@@ -648,7 +653,7 @@
           "is_category_failed": false,
           "show_discount": 5,
           "cmt_count": 1493,
-          "view_count": 13208,
+          "view_count": 13220,
           "catid": 20212,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -656,7 +661,7 @@
           "is_official_shop": false,
           "brand": "Xiaomi",
           "price_min": 4190000,
-          "liked_count": 1935,
+          "liked_count": 1936,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -730,6 +735,7 @@
           "size_chart": null,
           "item_type": 0,
           "shipping_icon_type": null,
+          "spl_installment_tenure": null,
           "label_ids": [
             1000055,
             1000035,
@@ -775,7 +781,7 @@
           "is_category_failed": false,
           "show_discount": 47,
           "cmt_count": 41,
-          "view_count": 16183,
+          "view_count": 16194,
           "catid": 20153,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -783,7 +789,7 @@
           "is_official_shop": false,
           "brand": "Nintendo Switch",
           "price_min": 42400000,
-          "liked_count": 522,
+          "liked_count": 523,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -845,6 +851,7 @@
           "size_chart": null,
           "item_type": 0,
           "shipping_icon_type": null,
+          "spl_installment_tenure": null,
           "label_ids": [
             1000073,
             1000099,
@@ -891,7 +898,7 @@
           "is_category_failed": false,
           "show_discount": 26,
           "cmt_count": 634,
-          "view_count": 9094,
+          "view_count": 9098,
           "catid": 16997,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -963,6 +970,7 @@
           "size_chart": null,
           "item_type": 0,
           "shipping_icon_type": null,
+          "spl_installment_tenure": null,
           "label_ids": [
             22,
             1000073,
@@ -1018,7 +1026,7 @@
           "is_category_failed": false,
           "show_discount": 27,
           "cmt_count": 190,
-          "view_count": 5908,
+          "view_count": 5915,
           "catid": 9,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1088,6 +1096,7 @@
           "size_chart": null,
           "item_type": 0,
           "shipping_icon_type": null,
+          "spl_installment_tenure": null,
           "label_ids": [
             1000035,
             1001261
@@ -1131,7 +1140,7 @@
           "is_category_failed": false,
           "show_discount": 19,
           "cmt_count": 779,
-          "view_count": 10388,
+          "view_count": 10399,
           "catid": 8,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1205,6 +1214,7 @@
           "size_chart": null,
           "item_type": 0,
           "shipping_icon_type": null,
+          "spl_installment_tenure": null,
           "label_ids": [
             1000055,
             1000107,
@@ -1217,7 +1227,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 1930,
+          "historical_sold": 1936,
           "transparent_background_image": "2ddb161f3f20729b98aa4baeb5321fea"
         }
       ],
