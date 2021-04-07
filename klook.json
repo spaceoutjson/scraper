@@ -601,6 +601,67 @@
     ],
     "activities": [
       {
+        "id": 54651,
+        "template_id": 3,
+        "title": "The Clan Hotel Singapore Staycation",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "378.00",
+        "sell_price": "378.00",
+        "from_price": "378.00",
+        "to_price": "654.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-04-10 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/sfgvfonyglkzbogixnr0.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.282668,103.848232",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 336,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/54651-city-staycation-the-clan-hotel-singapore-breakfast",
+        "deep_link": "https://www.klook.com/en-US/activity/54651-city-staycation-the-clan-hotel-singapore-breakfast",
+        "vertical_type": 100,
+        "vertical_id": 54651,
+        "what_we_love": ""
+      },
+      {
         "id": 55993,
         "template_id": 2,
         "title": "Local Culinary Tour with Southern Thai Lunch in Singapore",
@@ -627,6 +688,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/opegi0wxxzrboivjfz3f.jpg",
         "icon": null,
@@ -643,7 +707,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/55993-singapore-local-culinary-tour-southern-thai-lunch",
         "deep_link": "https://www.klook.com/en-US/activity/55993-singapore-local-culinary-tour-southern-thai-lunch",
@@ -678,6 +749,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/etfezufqtdbbpwndaaur.jpg",
         "icon": null,
@@ -694,7 +768,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/55982-singapore-southern-island-hopping-tour-southern-thai-dinner",
         "deep_link": "https://www.klook.com/en-US/activity/55982-singapore-southern-island-hopping-tour-southern-thai-dinner",
@@ -896,7 +977,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-09 00:00:00",
+        "start_time": "2021-04-10 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -957,7 +1038,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-09 00:00:00",
+        "start_time": "2021-04-10 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2310,7 +2391,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-08 13:00:00",
+        "start_time": "2021-04-13 13:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2890,7 +2971,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-11 00:00:00",
+        "start_time": "2021-04-12 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 37,
@@ -3428,70 +3509,9 @@
         "vertical_type": 100,
         "vertical_id": 55149,
         "what_we_love": ""
-      },
-      {
-        "id": 55315,
-        "template_id": 3,
-        "title": "Wanderlust, The Unlimited Collection by Oakwood ",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "212.00",
-        "sell_price": "160.00",
-        "from_price": "160.00",
-        "to_price": "185.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-04-10 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 55,
-        "participants_format": "50+ Booked",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/iqushtrvrkbi8pzbkca5.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.30515,103.854646",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 336,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/55315-1-night-stay-wanderlust-unlimited-collection-oakwood",
-        "deep_link": "https://www.klook.com/en-US/activity/55315-1-night-stay-wanderlust-unlimited-collection-oakwood",
-        "vertical_type": 100,
-        "vertical_id": 55315,
-        "what_we_love": ""
       }
     ],
-    "total": 1073,
+    "total": 1074,
     "price": {
       "from": "0",
       "to": "517"
