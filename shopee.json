@@ -1,5 +1,5 @@
 {
-  "version": "0f2ea5abd713c77695a492242a05e83d",
+  "version": "6463ca12a10bff5b0d397e2ae4284450",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -47,7 +47,7 @@
           "is_category_failed": false,
           "show_discount": 22,
           "cmt_count": 2770,
-          "view_count": 8597,
+          "view_count": 8613,
           "catid": 16997,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -177,7 +177,7 @@
           "is_category_failed": false,
           "show_discount": 14,
           "cmt_count": 209,
-          "view_count": 36228,
+          "view_count": 36293,
           "catid": 8,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -311,7 +311,7 @@
           "is_category_failed": false,
           "show_discount": 31,
           "cmt_count": 819,
-          "view_count": 9945,
+          "view_count": 9992,
           "catid": 8,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -439,7 +439,7 @@
           "is_category_failed": false,
           "show_discount": 13,
           "cmt_count": 649,
-          "view_count": 16374,
+          "view_count": 16403,
           "catid": 2414,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -467,17 +467,17 @@
           "price": 13000000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.95679,
+            "rating_star": 4.956857,
             "rating_count": [
-              648,
+              649,
               0,
               0,
               4,
               20,
-              624
+              625
             ],
             "rcount_with_image": 256,
-            "rcount_with_context": 392
+            "rcount_with_context": 393
           },
           "show_official_shop_label_in_title": false,
           "tier_variations": [
@@ -588,7 +588,7 @@
           "is_category_failed": false,
           "show_discount": 50,
           "cmt_count": 75,
-          "view_count": 2080,
+          "view_count": 2100,
           "catid": 13,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -723,8 +723,8 @@
           "price_before_discount": 3790000,
           "is_category_failed": false,
           "show_discount": 8,
-          "cmt_count": 18180,
-          "view_count": 36838,
+          "cmt_count": 18181,
+          "view_count": 36840,
           "catid": 12,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -748,14 +748,14 @@
           "price": 3550000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.950646,
+            "rating_star": 4.950649,
             "rating_count": [
-              18182,
+              18183,
               71,
               44,
               96,
               314,
-              17657
+              17658
             ],
             "rcount_with_image": 6121,
             "rcount_with_context": 10043
@@ -819,7 +819,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 68132,
+          "historical_sold": 68136,
           "transparent_background_image": "940d912312eba641ac110a0238f1ab08"
         },
         {
@@ -982,7 +982,7 @@
           "is_category_failed": false,
           "show_discount": 47,
           "cmt_count": 180,
-          "view_count": 10283,
+          "view_count": 10328,
           "catid": 11,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1102,7 +1102,7 @@
           "is_category_failed": false,
           "show_discount": 13,
           "cmt_count": 137,
-          "view_count": 1756,
+          "view_count": 1757,
           "catid": 169,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1216,7 +1216,7 @@
           "is_category_failed": false,
           "show_discount": 3,
           "cmt_count": 859,
-          "view_count": 378,
+          "view_count": 380,
           "catid": 169,
           "is_on_flash_sale": null,
           "voucher_info": null,
