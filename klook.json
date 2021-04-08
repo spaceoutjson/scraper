@@ -861,6 +861,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/h4nnew3ib9ltjpleu6ow.jpg",
         "icon": null,
@@ -877,7 +880,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/56061-orchid-vegetable-fish-farm-shopping-tour",
         "deep_link": "https://www.klook.com/en-US/activity/56061-orchid-vegetable-fish-farm-shopping-tour",
@@ -912,6 +922,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/lmudxmfhrkeurinxvyde.jpg",
         "icon": null,
@@ -928,7 +941,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/56059-singapore-river-cruise-marina-walking-tour-seafood-dinner",
         "deep_link": "https://www.klook.com/en-US/activity/56059-singapore-river-cruise-marina-walking-tour-seafood-dinner",
@@ -963,6 +983,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/yaktckkbnl2krfgstauc.jpg",
         "icon": null,
@@ -979,7 +1002,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/56024-singapore-mushroom-crab-vegetable-farm-shopping-tour",
         "deep_link": "https://www.klook.com/en-US/activity/56024-singapore-mushroom-crab-vegetable-farm-shopping-tour",
@@ -3501,7 +3531,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1081,
+    "total": 1080,
     "price": {
       "from": "0",
       "to": "516"
