@@ -600,6 +600,67 @@
     ],
     "activities": [
       {
+        "id": 55784,
+        "template_id": 3,
+        "title": "Sentosa Outdoor Adventures Katching with TEAM CHALLENGE HOURGLASS Experience",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "45.00",
+        "sell_price": "45.00",
+        "from_price": "45.00",
+        "to_price": "90.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-04-17 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/jwhenfbtcdgvgupfnp8j.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.246723,103.825399",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 339,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/55784-sentosa-outdoor-adventures-katching-team-challenge-hourglass-experience-focus-adventure-facility",
+        "deep_link": "https://www.klook.com/en-US/activity/55784-sentosa-outdoor-adventures-katching-team-challenge-hourglass-experience-focus-adventure-facility",
+        "vertical_type": 100,
+        "vertical_id": 55784,
+        "what_we_love": ""
+      },
+      {
         "id": 55795,
         "template_id": 3,
         "title": "Sentosa Outdoor Adventures Kayaking with Certification",
@@ -626,6 +687,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/vwmp6r9wpc31dytkzd6y.jpg",
         "icon": null,
@@ -642,7 +706,14 @@
         "real_lang": "",
         "leaf_category": 137,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/55795-sentosa-outdoor-adventures-kayaking-certification-tanjong-beach",
         "deep_link": "https://www.klook.com/en-US/activity/55795-sentosa-outdoor-adventures-kayaking-certification-tanjong-beach",
@@ -677,6 +748,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/zgbaes9t36lasgy7idok.jpg",
         "icon": null,
@@ -693,7 +767,14 @@
         "real_lang": "",
         "leaf_category": 137,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/55799-kayaking-sembawang-outdoor-adventures-khatib-bongsu-sustainability-expedition",
         "deep_link": "https://www.klook.com/en-US/activity/55799-kayaking-sembawang-outdoor-adventures-khatib-bongsu-sustainability-expedition",
@@ -728,6 +809,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/pqxqgise70ptxp3uhhgp.jpg",
         "icon": null,
@@ -744,7 +828,14 @@
         "real_lang": "",
         "leaf_category": 136,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/55918-sentosa-outdoor-adventures-stand-up-paddling-certification",
         "deep_link": "https://www.klook.com/en-US/activity/55918-sentosa-outdoor-adventures-stand-up-paddling-certification",
@@ -3447,70 +3538,9 @@
         "vertical_type": 100,
         "vertical_id": 55468,
         "what_we_love": ""
-      },
-      {
-        "id": 55624,
-        "template_id": 2,
-        "title": "Intertidal Exploration in Changi Beach by The Untamed Paths",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "100.00",
-        "sell_price": "100.00",
-        "from_price": "100.00",
-        "to_price": "100.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-04-14 05:30:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 7,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/fijcps3tuddv6ylqlhye.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.391127,103.99102",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 150,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/55624-intertidal-exploration-singapore",
-        "deep_link": "https://www.klook.com/en-US/activity/55624-intertidal-exploration-singapore",
-        "vertical_type": 100,
-        "vertical_id": 55624,
-        "what_we_love": ""
       }
     ],
-    "total": 1080,
+    "total": 1081,
     "price": {
       "from": "0",
       "to": "517"
