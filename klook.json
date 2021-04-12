@@ -232,8 +232,6 @@
       }
     ],
     "start_time": [
-      "2021-04-11T00:00:00Z",
-      "2021-04-12T00:00:00Z",
       "2021-04-13T00:00:00Z",
       "2021-04-14T00:00:00Z",
       "2021-04-15T00:00:00Z",
@@ -597,7 +595,8 @@
       "2022-04-08T00:00:00Z",
       "2022-04-09T00:00:00Z",
       "2022-04-10T00:00:00Z",
-      "2022-04-11T00:00:00Z"
+      "2022-04-11T00:00:00Z",
+      "2022-04-12T00:00:00Z"
     ],
     "activities": [
       {
@@ -2584,67 +2583,6 @@
         "what_we_love": ""
       },
       {
-        "id": 56004,
-        "template_id": 2,
-        "title": "Singapore DUCKtours and S.E.A. Aquarium with Lunch Full Day Tour",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "",
-        "sell_price": "",
-        "from_price": "",
-        "to_price": "",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "",
-        "sold_out": true,
-        "published": true,
-        "participate": 55,
-        "participants_format": "50+ Booked",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/sxl1v1kwsxam6lyllqrn.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.326705,103.88989",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 153,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/56004-singapore-ducktours-sea-aquarium-lunch-full-day-tour",
-        "deep_link": "https://www.klook.com/en-US/activity/56004-singapore-ducktours-sea-aquarium-lunch-full-day-tour",
-        "vertical_type": 100,
-        "vertical_id": 56004,
-        "what_we_love": ""
-      },
-      {
         "id": 55992,
         "template_id": 2,
         "title": "S.E.A. Aquarium and Floral Fantasy with Lunch Full Day Tour",
@@ -3569,9 +3507,60 @@
         "vertical_type": 100,
         "vertical_id": 55539,
         "what_we_love": ""
+      },
+      {
+        "id": 55585,
+        "template_id": 3,
+        "title": "Beru-Tai Workshop in Singapore",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 0,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "100.00",
+        "sell_price": "100.00",
+        "from_price": "100.00",
+        "to_price": "100.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-04-14 13:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/arpfagpfofp46n9ri3yn.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.285371,103.842434",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 124,
+        "package_id": 0,
+        "tags": null,
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/55585-beru-tai-workshop-singapore",
+        "deep_link": "https://www.klook.com/en-US/activity/55585-beru-tai-workshop-singapore",
+        "vertical_type": 100,
+        "vertical_id": 55585,
+        "what_we_love": ""
       }
     ],
-    "total": 1086,
+    "total": 1085,
     "price": {
       "from": "0",
       "to": "518"
