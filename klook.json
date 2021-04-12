@@ -2004,7 +2004,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-23 09:00:00",
+        "start_time": "2021-05-01 09:00:00",
         "sold_out": false,
         "published": true,
         "participate": 6,
@@ -2299,7 +2299,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-14 00:00:00",
+        "start_time": "2021-04-15 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 12,
@@ -2482,7 +2482,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-14 00:00:00",
+        "start_time": "2021-04-15 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 36,
@@ -2596,16 +2596,16 @@
         "video_url": "",
         "score": 0,
         "currency": "SGD",
-        "market_price": "130.00",
-        "sell_price": "130.00",
-        "from_price": "130.00",
-        "to_price": "130.00",
+        "market_price": "",
+        "sell_price": "",
+        "from_price": "",
+        "to_price": "",
         "spec_price": {
           "type": 0,
           "desc": ""
         },
         "start_time": "2021-04-26 00:00:00",
-        "sold_out": false,
+        "sold_out": true,
         "published": true,
         "participate": 55,
         "participants_format": "50+ Booked",
