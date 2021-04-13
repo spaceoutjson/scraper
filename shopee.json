@@ -1,5 +1,5 @@
 {
-  "version": "2158b4c3a0d6cd347949a2d84b80be91",
+  "version": "d501affc0a70aa4f7b793cbce3c6caa2",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -44,7 +44,7 @@
           "is_category_failed": false,
           "show_discount": 7,
           "cmt_count": 21,
-          "view_count": 5507,
+          "view_count": 5621,
           "catid": 169,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -59,7 +59,7 @@
           "price_min_before_discount": 4260000,
           "cb_option": 0,
           "sold": 34,
-          "stock": 302,
+          "stock": 299,
           "status": 1,
           "price_max": 3975000,
           "add_on_deal_info": {
@@ -166,8 +166,8 @@
           "price_before_discount": 236900000,
           "is_category_failed": false,
           "show_discount": 30,
-          "cmt_count": 516,
-          "view_count": 20765,
+          "cmt_count": 517,
+          "view_count": 20897,
           "catid": 11,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -175,7 +175,7 @@
           "is_official_shop": false,
           "brand": "",
           "price_min": 164950000,
-          "liked_count": 1089,
+          "liked_count": 1088,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -195,17 +195,17 @@
           "price": 164950000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.945736,
+            "rating_star": 4.945841,
             "rating_count": [
-              516,
+              517,
               1,
               0,
               5,
               14,
-              496
+              497
             ],
             "rcount_with_image": 220,
-            "rcount_with_context": 364
+            "rcount_with_context": 365
           },
           "show_official_shop_label_in_title": false,
           "tier_variations": [
@@ -277,7 +277,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 1344,
+          "historical_sold": 1345,
           "transparent_background_image": "51eea2cefe36eba218186559ddaff1b7"
         },
         {
@@ -308,7 +308,7 @@
           "is_category_failed": false,
           "show_discount": 28,
           "cmt_count": 493,
-          "view_count": 3633,
+          "view_count": 3685,
           "catid": 6,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -428,7 +428,7 @@
           "is_category_failed": false,
           "show_discount": 5,
           "cmt_count": 112,
-          "view_count": 4052,
+          "view_count": 4099,
           "catid": 2414,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -553,7 +553,7 @@
           "is_category_failed": false,
           "show_discount": 35,
           "cmt_count": 99,
-          "view_count": 1385,
+          "view_count": 1417,
           "catid": 169,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -667,7 +667,7 @@
           "is_category_failed": false,
           "show_discount": 13,
           "cmt_count": 146,
-          "view_count": 29623,
+          "view_count": 29642,
           "catid": 8,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -800,8 +800,8 @@
           "price_before_discount": 5990000,
           "is_category_failed": false,
           "show_discount": 46,
-          "cmt_count": 3156,
-          "view_count": 26544,
+          "cmt_count": 3157,
+          "view_count": 26562,
           "catid": 16997,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -809,7 +809,7 @@
           "is_official_shop": true,
           "brand": "Kinohimitsu",
           "price_min": 4200000,
-          "liked_count": 2189,
+          "liked_count": 2188,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -825,17 +825,17 @@
           "price": 4200000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.940748,
+            "rating_star": 4.940767,
             "rating_count": [
-              3156,
+              3157,
               6,
               1,
               37,
               86,
-              3026
+              3027
             ],
-            "rcount_with_image": 1252,
-            "rcount_with_context": 1732
+            "rcount_with_image": 1253,
+            "rcount_with_context": 1733
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -898,7 +898,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 8206,
+          "historical_sold": 8207,
           "transparent_background_image": "334c75867f6d0518a44e99fa94af0a92"
         },
         {
@@ -935,7 +935,7 @@
           "is_category_failed": false,
           "show_discount": 13,
           "cmt_count": 33,
-          "view_count": 4073,
+          "view_count": 4085,
           "catid": 9,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1071,7 +1071,7 @@
           "is_category_failed": false,
           "show_discount": 32,
           "cmt_count": 156,
-          "view_count": 882,
+          "view_count": 891,
           "catid": 8,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1079,7 +1079,7 @@
           "is_official_shop": true,
           "brand": "JBL",
           "price_min": 6500000,
-          "liked_count": 342,
+          "liked_count": 343,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -1214,7 +1214,7 @@
           "is_category_failed": false,
           "show_discount": 50,
           "cmt_count": 49,
-          "view_count": 10123,
+          "view_count": 10153,
           "catid": 13,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1222,7 +1222,7 @@
           "is_official_shop": false,
           "brand": "HITO",
           "price_min": 19900000,
-          "liked_count": 441,
+          "liked_count": 442,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
