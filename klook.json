@@ -1560,8 +1560,8 @@
           }
         ],
         "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/55764-overnight-stay-raffles-hotel-singapore",
-        "deep_link": "https://www.klook.com/en-US/activity/55764-overnight-stay-raffles-hotel-singapore",
+        "deeplink": "https://www.klook.com/en-US/activity/55764-overnight-stay-raffles-hotel-singapore/",
+        "deep_link": "https://www.klook.com/en-US/activity/55764-overnight-stay-raffles-hotel-singapore/",
         "vertical_type": 100,
         "vertical_id": 55764,
         "what_we_love": ""
@@ -3357,7 +3357,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-19 00:00:00",
+        "start_time": "2021-04-20 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 23,
