@@ -232,7 +232,6 @@
       }
     ],
     "start_time": [
-      "2021-04-15T00:00:00Z",
       "2021-04-16T00:00:00Z",
       "2021-04-17T00:00:00Z",
       "2021-04-18T00:00:00Z",
@@ -597,7 +596,8 @@
       "2022-04-12T00:00:00Z",
       "2022-04-13T00:00:00Z",
       "2022-04-14T00:00:00Z",
-      "2022-04-15T00:00:00Z"
+      "2022-04-15T00:00:00Z",
+      "2022-04-16T00:00:00Z"
     ],
     "activities": [
       {
@@ -1442,67 +1442,6 @@
         "deep_link": "https://www.klook.com/en-US/activity/56161-quaint-north-eastern-corner-singapore-bus-tour/",
         "vertical_type": 100,
         "vertical_id": 56161,
-        "what_we_love": ""
-      },
-      {
-        "id": 56254,
-        "template_id": 2,
-        "title": "[Klook Cares] Donate an Experience Initiative: Southern Islands Explorer Tour",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "",
-        "sell_price": "",
-        "from_price": "",
-        "to_price": "",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "",
-        "sold_out": true,
-        "published": true,
-        "participate": 78,
-        "participants_format": "50+ Booked",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/kgnnbm4akbvtvinqbnvr.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.352083,103.819836",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 340,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/56254-donate-southern-islands-explorer-tour/",
-        "deep_link": "https://www.klook.com/en-US/activity/56254-donate-southern-islands-explorer-tour/",
-        "vertical_type": 100,
-        "vertical_id": 56254,
         "what_we_love": ""
       },
       {
@@ -3599,9 +3538,70 @@
         "vertical_type": 100,
         "vertical_id": 55819,
         "what_we_love": ""
+      },
+      {
+        "id": 55686,
+        "template_id": 3,
+        "title": "[Klook Exclusive] Fitness Experience at Changi Experience Studio",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "68.00",
+        "sell_price": "39.00",
+        "from_price": "39.00",
+        "to_price": "50.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-04-24 10:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 20,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/kpuhio6yoxl025dqqtv2.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.359783,103.989477",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 339,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/55686-klook-exclusive-fitness-experience-changi-experience-studio/",
+        "deep_link": "https://www.klook.com/en-US/activity/55686-klook-exclusive-fitness-experience-changi-experience-studio/",
+        "vertical_type": 100,
+        "vertical_id": 55686,
+        "what_we_love": ""
       }
     ],
-    "total": 1096,
+    "total": 1093,
     "price": {
       "from": "0",
       "to": "516"
