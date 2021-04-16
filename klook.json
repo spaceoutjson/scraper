@@ -601,6 +601,67 @@
     ],
     "activities": [
       {
+        "id": 56433,
+        "template_id": 2,
+        "title": "SRV01 Tourism Re-Emerging in Singapore",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "100.00",
+        "sell_price": "100.00",
+        "from_price": "100.00",
+        "to_price": "100.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-04-23 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/egyzvyxw6ysbvavjdezs.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.281705,103.863582",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 150,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/56433-tourism-re-emerging-singapore-day-walking-tour-lunch/",
+        "deep_link": "https://www.klook.com/en-US/activity/56433-tourism-re-emerging-singapore-day-walking-tour-lunch/",
+        "vertical_type": 100,
+        "vertical_id": 56433,
+        "what_we_love": ""
+      },
+      {
         "id": 56354,
         "template_id": 2,
         "title": "DYV01 Singapore River Cruise with Lunch",
@@ -627,6 +688,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/oslt0k6pbp7fo5x0yajy.jpg",
         "icon": null,
@@ -643,7 +707,14 @@
         "real_lang": "",
         "leaf_category": 340,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/56354-singapore-river-cruise-day-tour-lunch/",
         "deep_link": "https://www.klook.com/en-US/activity/56354-singapore-river-cruise-day-tour-lunch/",
@@ -2655,7 +2726,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-17 00:00:00",
+        "start_time": "2021-04-18 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 265,
@@ -3528,70 +3599,9 @@
         "vertical_type": 100,
         "vertical_id": 55819,
         "what_we_love": ""
-      },
-      {
-        "id": 55686,
-        "template_id": 3,
-        "title": "[Klook Exclusive] Fitness Experience at Changi Experience Studio",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "68.00",
-        "sell_price": "39.00",
-        "from_price": "39.00",
-        "to_price": "50.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-04-24 10:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 20,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/kpuhio6yoxl025dqqtv2.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.359783,103.989477",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 339,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/55686-klook-exclusive-fitness-experience-changi-experience-studio/",
-        "deep_link": "https://www.klook.com/en-US/activity/55686-klook-exclusive-fitness-experience-changi-experience-studio/",
-        "vertical_type": 100,
-        "vertical_id": 55686,
-        "what_we_love": ""
       }
     ],
-    "total": 1095,
+    "total": 1096,
     "price": {
       "from": "0",
       "to": "516"
