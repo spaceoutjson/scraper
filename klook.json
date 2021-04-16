@@ -627,6 +627,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/mxoc2jsvtamda2ckciwv.jpg",
         "icon": null,
@@ -643,7 +646,14 @@
         "real_lang": "",
         "leaf_category": 340,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/56360-fun-filled-experience-singapore-day-tour-lunch/",
         "deep_link": "https://www.klook.com/en-US/activity/56360-fun-filled-experience-singapore-day-tour-lunch/",
@@ -678,6 +688,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/jxbixsmpqmnfixhwwnpv.jpg",
         "icon": null,
@@ -694,7 +707,14 @@
         "real_lang": "",
         "leaf_category": 340,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/56337-naturally-pulau-ubin-day-tour-lunch/",
         "deep_link": "https://www.klook.com/en-US/activity/56337-naturally-pulau-ubin-day-tour-lunch/",
@@ -729,6 +749,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/faycrup22oru8dmqtndm.jpg",
         "icon": null,
@@ -745,7 +768,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/56326-singapore-countryside-tour-lunch/",
         "deep_link": "https://www.klook.com/en-US/activity/56326-singapore-countryside-tour-lunch/",
@@ -780,6 +810,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/aicftdm9zoweup8gt9dg.jpg",
         "icon": null,
@@ -796,7 +829,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/56316-nostalgic-day-tour-lunch-singapore/",
         "deep_link": "https://www.klook.com/en-US/activity/56316-nostalgic-day-tour-lunch-singapore/",
@@ -896,7 +936,7 @@
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
         },
         "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/q0lup0niohjl4ovrg4lw.jpg",
+        "image_url_host": "https://res.klook.com/image/upload/activities/duf7zrj4p9zfxwv6dnwz.jpg",
         "icon": null,
         "icons": null,
         "min_trip": 0,
@@ -1183,16 +1223,16 @@
         "video_url": "",
         "score": 0,
         "currency": "SGD",
-        "market_price": "100.00",
-        "sell_price": "100.00",
-        "from_price": "100.00",
-        "to_price": "100.00",
+        "market_price": "",
+        "sell_price": "",
+        "from_price": "",
+        "to_price": "",
         "spec_price": {
           "type": 0,
           "desc": ""
         },
         "start_time": "2021-05-31 00:00:00",
-        "sold_out": false,
+        "sold_out": true,
         "published": true,
         "participate": 77,
         "participants_format": "50+ Booked",
@@ -1844,9 +1884,9 @@
         "video_url": "",
         "score": 0,
         "currency": "SGD",
-        "market_price": "1818.49",
-        "sell_price": "1818.49",
-        "from_price": "1818.49",
+        "market_price": "1235.85",
+        "sell_price": "1235.89",
+        "from_price": "1235.89",
         "to_price": "2154.00",
         "spec_price": {
           "type": 0,
@@ -2747,7 +2787,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-18 00:00:00",
+        "start_time": "2021-04-19 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 35,
@@ -2930,7 +2970,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-18 00:00:00",
+        "start_time": "2021-04-19 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 47,
@@ -3174,7 +3214,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-17 00:00:00",
+        "start_time": "2021-04-24 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 2,
