@@ -621,7 +621,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-26 18:00:00",
+        "start_time": "2021-04-27 18:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1109,7 +1109,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-22 00:00:00",
+        "start_time": "2021-04-27 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1170,7 +1170,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-22 00:00:00",
+        "start_time": "2021-04-23 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1356,7 +1356,7 @@
         "start_time": "2021-04-25 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 4,
+        "participate": 16,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1475,7 +1475,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-18 00:00:00",
+        "start_time": "2021-04-19 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1529,7 +1529,7 @@
         "start_time": "2021-05-30 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 8,
+        "participate": 16,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1651,7 +1651,7 @@
         "start_time": "2021-04-28 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 11,
+        "participate": 13,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1709,10 +1709,10 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-26 00:00:00",
+        "start_time": "2021-04-30 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 2,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1895,7 +1895,7 @@
         "start_time": "2021-04-24 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 3,
+        "participate": 7,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2197,7 +2197,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-21 00:00:00",
+        "start_time": "2021-04-22 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 2,
@@ -2309,7 +2309,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-24 00:00:00",
+        "start_time": "2021-04-25 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2495,7 +2495,7 @@
         "start_time": "2021-04-25 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 37,
+        "participate": 49,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2556,7 +2556,7 @@
         "start_time": "2021-04-24 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 9,
+        "participate": 29,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2665,7 +2665,7 @@
         "instance": 1,
         "image_url": "",
         "video_url": "",
-        "score": 0,
+        "score": 3.1,
         "currency": "SGD",
         "market_price": "100.00",
         "sell_price": "100.00",
@@ -2678,13 +2678,13 @@
         "start_time": "2021-04-23 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 338,
+        "participate": 398,
         "participants_format": "300+ Booked",
         "discount": 0,
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
         },
-        "review_total": 0,
+        "review_total": 10,
         "image_url_host": "https://res.klook.com/image/upload/activities/rmzinxej4q84cjuih4pu.jpg",
         "icon": null,
         "icons": null,
@@ -2708,7 +2708,7 @@
             "text": "Eligible for SingapoRediscovers Vouchers"
           }
         ],
-        "need_hide_review": true,
+        "need_hide_review": false,
         "deeplink": "https://www.klook.com/en-US/activity/56186-gardens-bay-night-tour-clarke-quay-river-cruise-seafood-dinner/",
         "deep_link": "https://www.klook.com/en-US/activity/56186-gardens-bay-night-tour-clarke-quay-river-cruise-seafood-dinner/",
         "vertical_type": 100,
@@ -2800,7 +2800,7 @@
         "start_time": "2021-04-21 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 4,
+        "participate": 5,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2858,10 +2858,10 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-18 00:00:00",
+        "start_time": "2021-04-19 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 63,
+        "participate": 64,
         "participants_format": "50+ Booked",
         "discount": 0,
         "review_total": 2,
@@ -2912,7 +2912,7 @@
         "start_time": "2021-06-30 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 121,
+        "participate": 123,
         "participants_format": "100+ Booked",
         "discount": 0,
         "card_tags": {
@@ -3034,7 +3034,7 @@
         "start_time": "2021-04-22 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 138,
+        "participate": 154,
         "participants_format": "100+ Booked",
         "discount": 0,
         "card_tags": {
@@ -3095,7 +3095,7 @@
         "start_time": "2021-04-22 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 24,
+        "participate": 26,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3156,7 +3156,7 @@
         "start_time": "2021-04-22 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 11,
+        "participate": 18,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3278,7 +3278,7 @@
         "start_time": "2021-04-21 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 119,
+        "participate": 145,
         "participants_format": "100+ Booked",
         "discount": 0,
         "card_tags": {
@@ -3400,8 +3400,8 @@
         "start_time": "2021-04-19 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 378,
-        "participants_format": "300+ Booked",
+        "participate": 439,
+        "participants_format": "400+ Booked",
         "discount": 0,
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
@@ -3461,7 +3461,7 @@
         "start_time": "2021-04-21 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 300,
+        "participate": 355,
         "participants_format": "300+ Booked",
         "discount": 0,
         "card_tags": {
@@ -3519,7 +3519,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-18 00:00:00",
+        "start_time": "2021-04-19 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
