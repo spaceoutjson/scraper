@@ -626,6 +626,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/jto23ziznnlybyrfnzbo.jpg",
         "icon": null,
@@ -642,7 +645,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/56150-tiong-bahru-walking-tour-explore-making-bak-kut-teh-dumpling/",
         "deep_link": "https://www.klook.com/en-US/activity/56150-tiong-bahru-walking-tour-explore-making-bak-kut-teh-dumpling/",
@@ -3600,7 +3610,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1107,
+    "total": 1108,
     "price": {
       "from": "0",
       "to": "516"
