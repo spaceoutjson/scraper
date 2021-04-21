@@ -741,7 +741,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-24 08:30:00",
+        "start_time": "2021-04-25 08:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -794,10 +794,10 @@
         "video_url": "",
         "score": 0,
         "currency": "SGD",
-        "market_price": "102.05",
-        "sell_price": "102.05",
-        "from_price": "102.05",
-        "to_price": "192.09",
+        "market_price": "102",
+        "sell_price": "102",
+        "from_price": "102",
+        "to_price": "192",
         "spec_price": {
           "type": 0,
           "desc": ""
@@ -1138,7 +1138,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-29 18:00:00",
+        "start_time": "2021-04-30 18:00:00",
         "sold_out": false,
         "published": true,
         "participate": 16,
@@ -1199,7 +1199,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-25 00:00:00",
+        "start_time": "2021-04-26 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1321,7 +1321,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-29 00:00:00",
+        "start_time": "2021-04-30 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1382,7 +1382,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-29 00:00:00",
+        "start_time": "2021-04-30 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1565,7 +1565,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-25 00:00:00",
+        "start_time": "2021-04-26 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1687,7 +1687,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-25 00:00:00",
+        "start_time": "2021-04-26 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1870,7 +1870,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-27 00:00:00",
+        "start_time": "2021-04-28 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 26,
@@ -2463,7 +2463,7 @@
         "score": 0,
         "currency": "SGD",
         "market_price": "0",
-        "sell_price": "104.9",
+        "sell_price": "104.85",
         "from_price": "",
         "to_price": "",
         "spec_price": {
@@ -2514,7 +2514,7 @@
         "score": 0,
         "currency": "SGD",
         "market_price": "0",
-        "sell_price": "97.59",
+        "sell_price": "97.5",
         "from_price": "",
         "to_price": "",
         "spec_price": {
@@ -2565,7 +2565,7 @@
         "score": 0,
         "currency": "SGD",
         "market_price": "0",
-        "sell_price": "70",
+        "sell_price": "69.89",
         "from_price": "",
         "to_price": "",
         "spec_price": {
@@ -2616,7 +2616,7 @@
         "score": 0,
         "currency": "SGD",
         "market_price": "0",
-        "sell_price": "97.9",
+        "sell_price": "97.85",
         "from_price": "",
         "to_price": "",
         "spec_price": {
@@ -2667,7 +2667,7 @@
         "score": 0,
         "currency": "SGD",
         "market_price": "0",
-        "sell_price": "114.69",
+        "sell_price": "114.59",
         "from_price": "",
         "to_price": "",
         "spec_price": {
@@ -3020,7 +3020,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-27 00:00:00",
+        "start_time": "2021-04-28 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3081,7 +3081,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-27 00:00:00",
+        "start_time": "2021-04-28 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 9,
