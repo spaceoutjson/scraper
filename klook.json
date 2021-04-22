@@ -616,7 +616,8 @@
       "2022-04-18T00:00:00Z",
       "2022-04-19T00:00:00Z",
       "2022-04-20T00:00:00Z",
-      "2022-04-21T00:00:00Z"
+      "2022-04-21T00:00:00Z",
+      "2022-04-22T00:00:00Z"
     ],
     "activities": [
       {
@@ -1457,7 +1458,7 @@
         "start_time": "2021-05-30 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 338,
+        "participate": 339,
         "participants_format": "300+ Booked",
         "discount": 0,
         "review_total": 0,
@@ -3530,7 +3531,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1455,
+    "total": 1456,
     "price": {
       "from": "0",
       "to": "514"
