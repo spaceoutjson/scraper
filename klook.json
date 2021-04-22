@@ -646,6 +646,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/c1q9juebcgkzctxcm4mm.jpg",
         "icon": null,
@@ -662,7 +665,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/56611-singapore-one-day-singcham-alumni-tour-landmark/",
         "deep_link": "https://www.klook.com/en-US/activity/56611-singapore-one-day-singcham-alumni-tour-landmark/",
@@ -697,6 +707,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/gvhofd6ycukevx7bhmwc.jpg",
         "icon": null,
@@ -713,7 +726,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/56597-arts-singapore-walking-tour-dinner/",
         "deep_link": "https://www.klook.com/en-US/activity/56597-arts-singapore-walking-tour-dinner/",
@@ -748,6 +768,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/bm2xlaejkdr3qcjiu2qa.jpg",
         "icon": null,
@@ -764,7 +787,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/56595-one-day-miracles-singapore-tour-lunch/",
         "deep_link": "https://www.klook.com/en-US/activity/56595-one-day-miracles-singapore-tour-lunch/",
@@ -799,6 +829,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/gjlffxlwmythlpzdfd1y.jpg",
         "icon": null,
@@ -815,7 +848,14 @@
         "real_lang": "",
         "leaf_category": 340,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/56581-chen-zhao-jin-bring-you-pulau-ubin-tour-lunch/",
         "deep_link": "https://www.klook.com/en-US/activity/56581-chen-zhao-jin-bring-you-pulau-ubin-tour-lunch/",
