@@ -1,5 +1,5 @@
 {
-  "version": "916293278770161eacfe1d596b1ff453",
+  "version": "fb03bad45513967dda4060ba6a283465",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -53,7 +53,7 @@
           "is_category_failed": false,
           "show_discount": 26,
           "cmt_count": 1690,
-          "view_count": 9780,
+          "view_count": 9905,
           "catid": 10161,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -61,14 +61,14 @@
           "is_official_shop": false,
           "brand": "Xiaomi",
           "price_min": 3790000,
-          "liked_count": 1679,
+          "liked_count": 1686,
           "can_use_bundle_deal": true,
           "show_official_shop_label": false,
           "coin_earn_label": null,
           "price_min_before_discount": 5090000,
           "cb_option": 0,
           "sold": 587,
-          "stock": 710,
+          "stock": 702,
           "status": 1,
           "price_max": 3790000,
           "add_on_deal_info": null,
@@ -176,7 +176,7 @@
           "is_category_failed": false,
           "show_discount": 40,
           "cmt_count": 194,
-          "view_count": 6900,
+          "view_count": 7042,
           "catid": 10161,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -184,7 +184,7 @@
           "is_official_shop": false,
           "brand": "Xiaomi",
           "price_min": 10190000,
-          "liked_count": 778,
+          "liked_count": 781,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -313,8 +313,8 @@
           "price_before_discount": 109900000,
           "is_category_failed": false,
           "show_discount": 37,
-          "cmt_count": 17,
-          "view_count": 8739,
+          "cmt_count": 19,
+          "view_count": 8775,
           "catid": 2414,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -338,17 +338,17 @@
           "price": 68900000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.941176,
+            "rating_star": 4.947368,
             "rating_count": [
-              17,
+              19,
               0,
               0,
               0,
               1,
-              16
+              18
             ],
-            "rcount_with_image": 12,
-            "rcount_with_context": 13
+            "rcount_with_image": 13,
+            "rcount_with_context": 14
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -410,7 +410,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 42,
+          "historical_sold": 43,
           "transparent_background_image": "c6e1e794595e0e8e2f93978b53971d0f"
         },
         {
@@ -453,7 +453,7 @@
           "is_category_failed": false,
           "show_discount": 24,
           "cmt_count": 8,
-          "view_count": 1140,
+          "view_count": 1189,
           "catid": 6,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -461,14 +461,14 @@
           "is_official_shop": true,
           "brand": "OSIM",
           "price_min": 12900000,
-          "liked_count": 44,
+          "liked_count": 45,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
           "price_min_before_discount": 16900000,
           "cb_option": 0,
           "sold": 0,
-          "stock": 46,
+          "stock": 45,
           "status": 1,
           "price_max": 12900000,
           "add_on_deal_info": null,
@@ -563,7 +563,7 @@
           "is_category_failed": false,
           "show_discount": 26,
           "cmt_count": 338,
-          "view_count": 4688,
+          "view_count": 4709,
           "catid": 8,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -673,8 +673,8 @@
           "price_before_discount": 5500000,
           "is_category_failed": false,
           "show_discount": 19,
-          "cmt_count": 18627,
-          "view_count": 33312,
+          "cmt_count": 18628,
+          "view_count": 33326,
           "catid": 169,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -689,7 +689,7 @@
           "price_min_before_discount": 5500000,
           "cb_option": 0,
           "sold": 5172,
-          "stock": 3957,
+          "stock": 3951,
           "status": 1,
           "price_max": 4480000,
           "add_on_deal_info": null,
@@ -700,15 +700,15 @@
           "item_rating": {
             "rating_star": 4.950862,
             "rating_count": [
-              18627,
+              18628,
               67,
               46,
               117,
               332,
-              18065
+              18066
             ],
-            "rcount_with_image": 8130,
-            "rcount_with_context": 10579
+            "rcount_with_image": 8131,
+            "rcount_with_context": 10580
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -769,7 +769,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 11,
-          "historical_sold": 64664,
+          "historical_sold": 64670,
           "transparent_background_image": "170c7a7b17f1c778cfbbf58465124f46"
         },
         {
@@ -813,8 +813,8 @@
           "price_before_discount": 5500000,
           "is_category_failed": false,
           "show_discount": 69,
-          "cmt_count": 828,
-          "view_count": 4801,
+          "cmt_count": 829,
+          "view_count": 4814,
           "catid": 11,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -822,7 +822,7 @@
           "is_official_shop": true,
           "brand": "Boomjoy",
           "price_min": 1688000,
-          "liked_count": 1387,
+          "liked_count": 1388,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -838,17 +838,17 @@
           "price": 1688000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.735507,
+            "rating_star": 4.735826,
             "rating_count": [
-              828,
+              829,
               17,
               12,
               22,
               71,
-              706
+              707
             ],
-            "rcount_with_image": 362,
-            "rcount_with_context": 539
+            "rcount_with_image": 363,
+            "rcount_with_context": 540
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -901,7 +901,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 1883,
+          "historical_sold": 1884,
           "transparent_background_image": "b7852260cd1fcb4fe172528dc5f7e606"
         },
         {
@@ -937,7 +937,7 @@
           "is_category_failed": false,
           "show_discount": 40,
           "cmt_count": 589,
-          "view_count": 8145,
+          "view_count": 8158,
           "catid": 11,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1060,7 +1060,7 @@
           "is_category_failed": false,
           "show_discount": 34,
           "cmt_count": 236,
-          "view_count": 6395,
+          "view_count": 6399,
           "catid": 6,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1194,7 +1194,7 @@
           "is_category_failed": false,
           "show_discount": 24,
           "cmt_count": 53,
-          "view_count": 6245,
+          "view_count": 6253,
           "catid": 2414,
           "is_on_flash_sale": null,
           "voucher_info": null,
