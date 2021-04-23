@@ -646,6 +646,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/u0tlxt8ze5risbmm7udd.jpg",
         "icon": null,
@@ -662,7 +665,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/56446-singapore-river-seafood-dinner-walking-tour/",
         "deep_link": "https://www.klook.com/en-US/activity/56446-singapore-river-seafood-dinner-walking-tour/",
@@ -697,6 +707,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/n1jgwuh3tk0q9hhsimgx.jpg",
         "icon": null,
@@ -713,7 +726,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/56479-gardens-bay-singapore-flyer-half-day-tour/",
         "deep_link": "https://www.klook.com/en-US/activity/56479-gardens-bay-singapore-flyer-half-day-tour/",
@@ -748,6 +768,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/grvxyrgedn2pw87k32ve.jpg",
         "icon": null,
@@ -764,7 +787,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/56480-singapore-half-day-southern-island-sentosa-cable-car-exploration/",
         "deep_link": "https://www.klook.com/en-US/activity/56480-singapore-half-day-southern-island-sentosa-cable-car-exploration/",
@@ -793,7 +823,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-27 00:00:00",
+        "start_time": "2021-04-28 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -854,7 +884,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-05-08 00:00:00",
+        "start_time": "2021-05-29 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -976,7 +1006,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-05-08 00:00:00",
+        "start_time": "2021-05-09 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1098,7 +1128,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-05-01 00:00:00",
+        "start_time": "2021-05-02 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 1,
@@ -1159,7 +1189,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-25 00:00:00",
+        "start_time": "2021-04-26 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1220,7 +1250,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-25 00:00:00",
+        "start_time": "2021-04-26 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1281,7 +1311,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-25 00:00:00",
+        "start_time": "2021-04-26 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1668,7 +1698,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-26 08:30:00",
+        "start_time": "2021-04-27 08:30:00",
         "sold_out": false,
         "published": true,
         "participate": 7,
@@ -1724,7 +1754,7 @@
         "market_price": "102",
         "sell_price": "102",
         "from_price": "102",
-        "to_price": "192.05",
+        "to_price": "192",
         "spec_price": {
           "type": 0,
           "desc": ""
@@ -1732,7 +1762,7 @@
         "start_time": "2021-05-30 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 359,
+        "participate": 362,
         "participants_format": "300+ Booked",
         "discount": 0,
         "review_total": 0,
@@ -1892,7 +1922,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-05-08 08:30:00",
+        "start_time": "2021-05-09 08:30:00",
         "sold_out": false,
         "published": true,
         "participate": 5,
@@ -2014,7 +2044,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-25 13:30:00",
+        "start_time": "2021-04-29 13:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2126,7 +2156,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-27 00:00:00",
+        "start_time": "2021-04-28 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2187,7 +2217,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-05-01 00:00:00",
+        "start_time": "2021-05-08 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2309,7 +2339,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-05-01 00:00:00",
+        "start_time": "2021-05-02 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2492,7 +2522,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-27 00:00:00",
+        "start_time": "2021-04-28 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2553,7 +2583,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-27 00:00:00",
+        "start_time": "2021-04-29 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2614,7 +2644,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-27 00:00:00",
+        "start_time": "2021-04-28 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2797,7 +2827,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-29 00:00:00",
+        "start_time": "2021-04-30 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 26,
@@ -2858,7 +2888,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-04-24 00:00:00",
+        "start_time": "2021-04-30 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 23,
@@ -3031,7 +3061,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-05-01 00:00:00",
+        "start_time": "2021-05-02 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 1,
@@ -3092,7 +3122,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-05-01 00:00:00",
+        "start_time": "2021-05-05 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 14,
@@ -3153,7 +3183,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-05-01 00:00:00",
+        "start_time": "2021-05-02 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 6,
@@ -3214,7 +3244,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-05-01 00:00:00",
+        "start_time": "2021-05-02 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 1,
@@ -3275,7 +3305,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-05-01 09:00:00",
+        "start_time": "2021-05-02 09:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3390,7 +3420,7 @@
         "score": 0,
         "currency": "SGD",
         "market_price": "0",
-        "sell_price": "105",
+        "sell_price": "104.89",
         "from_price": "",
         "to_price": "",
         "spec_price": {
@@ -3441,7 +3471,7 @@
         "score": 0,
         "currency": "SGD",
         "market_price": "0",
-        "sell_price": "98",
+        "sell_price": "97.89",
         "from_price": "",
         "to_price": "",
         "spec_price": {
@@ -3492,7 +3522,7 @@
         "score": 0,
         "currency": "SGD",
         "market_price": "0",
-        "sell_price": "70",
+        "sell_price": "69.9",
         "from_price": "",
         "to_price": "",
         "spec_price": {
