@@ -633,6 +633,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/dt9vwe7nhku1spibuvmw.jpg",
         "icon": null,
@@ -649,7 +652,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/56610-pulau-sentosa-fun-walking-tour-dinner/",
         "deep_link": "https://www.klook.com/en-US/activity/56610-pulau-sentosa-fun-walking-tour-dinner/",
@@ -684,6 +694,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/aizaw3mftfavedsnljvn.jpg",
         "icon": null,
@@ -700,7 +713,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/56807-full-day-ramadan-landmark-tour-singapore/",
         "deep_link": "https://www.klook.com/en-US/activity/56807-full-day-ramadan-landmark-tour-singapore/",
@@ -735,6 +755,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/ph9qj4xsu0chxmr0fg6m.jpg",
         "icon": null,
@@ -751,7 +774,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/56783-explore-balestier-liu-kaixin-day-tour-singapore/",
         "deep_link": "https://www.klook.com/en-US/activity/56783-explore-balestier-liu-kaixin-day-tour-singapore/",
@@ -786,6 +816,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/tru1zlrbyhp8o6mkcguu.jpg",
         "icon": null,
@@ -802,7 +835,14 @@
         "real_lang": "",
         "leaf_category": 340,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/56744-reminiscence-great-world-tour/",
         "deep_link": "https://www.klook.com/en-US/activity/56744-reminiscence-great-world-tour/",
@@ -837,6 +877,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/csex9klcb67ch93zn1tb.jpg",
         "icon": null,
@@ -853,7 +896,14 @@
         "real_lang": "",
         "leaf_category": 340,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/56737-garden-our-riverside-tour/",
         "deep_link": "https://www.klook.com/en-US/activity/56737-garden-our-riverside-tour/",
@@ -888,6 +938,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/wjzy5ppguqucwntqqwqh.jpg",
         "icon": null,
@@ -904,7 +957,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/56638-one-day-new-world-old-street-singapore-tour-dinner/",
         "deep_link": "https://www.klook.com/en-US/activity/56638-one-day-new-world-old-street-singapore-tour-dinner/",
