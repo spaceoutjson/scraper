@@ -238,7 +238,6 @@
       }
     ],
     "start_time": [
-      "2021-04-26T00:00:00Z",
       "2021-04-27T00:00:00Z",
       "2021-04-28T00:00:00Z",
       "2021-04-29T00:00:00Z",
@@ -603,7 +602,8 @@
       "2022-04-23T00:00:00Z",
       "2022-04-24T00:00:00Z",
       "2022-04-25T00:00:00Z",
-      "2022-04-26T00:00:00Z"
+      "2022-04-26T00:00:00Z",
+      "2022-04-27T00:00:00Z"
     ],
     "activities": [
       {
@@ -2438,57 +2438,6 @@
         "what_we_love": ""
       },
       {
-        "id": 56531,
-        "template_id": 3,
-        "title": "Wine and Flower Workshop in North Canal Road",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "",
-        "sell_price": "",
-        "from_price": "",
-        "to_price": "",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "",
-        "sold_out": true,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/xcfzx3lre3swbejmd9ks.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.287114,103.846782",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 124,
-        "package_id": 0,
-        "tags": null,
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/56531-wine-flower-workshop-north-canal-road/",
-        "deep_link": "https://www.klook.com/en-US/activity/56531-wine-flower-workshop-north-canal-road/",
-        "vertical_type": 100,
-        "vertical_id": 56531,
-        "what_we_love": ""
-      },
-      {
         "id": 56357,
         "template_id": 2,
         "title": "Singapore River Night Cruise with Seafood Dinner",
@@ -3575,9 +3524,70 @@
         "vertical_type": 100,
         "vertical_id": 56337,
         "what_we_love": ""
+      },
+      {
+        "id": 56326,
+        "template_id": 2,
+        "title": "Countryside Tour with Lunch in Singapore",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "100.00",
+        "sell_price": "100.00",
+        "from_price": "100.00",
+        "to_price": "100.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-05-07 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 14,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/faycrup22oru8dmqtndm.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.285311,103.844551",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 150,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/56326-singapore-countryside-tour-lunch/",
+        "deep_link": "https://www.klook.com/en-US/activity/56326-singapore-countryside-tour-lunch/",
+        "vertical_type": 100,
+        "vertical_id": 56326,
+        "what_we_love": ""
       }
     ],
-    "total": 1451,
+    "total": 1448,
     "price": {
       "from": "0",
       "to": "513"
