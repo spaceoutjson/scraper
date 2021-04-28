@@ -1,5 +1,5 @@
 {
-  "version": "ca42d31d42ce980122e5980c05c9e17f",
+  "version": "569f29787fb9c86fe0f65fed4042ed40",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -44,7 +44,7 @@
           "is_category_failed": false,
           "show_discount": 22,
           "cmt_count": 11005,
-          "view_count": 20702,
+          "view_count": 20919,
           "catid": 169,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -59,7 +59,7 @@
           "price_min_before_discount": 5350000,
           "cb_option": 0,
           "sold": 2494,
-          "stock": 261,
+          "stock": 243,
           "status": 1,
           "price_max": 4180000,
           "add_on_deal_info": {
@@ -72,17 +72,17 @@
           "price": 4180000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.929401,
+            "rating_star": 4.929407,
             "rating_count": [
-              11004,
+              11005,
               72,
               29,
               94,
               263,
-              10546
+              10547
             ],
             "rcount_with_image": 4966,
-            "rcount_with_context": 7006
+            "rcount_with_context": 7007
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -171,7 +171,7 @@
           "is_category_failed": false,
           "show_discount": 36,
           "cmt_count": 400,
-          "view_count": 5379,
+          "view_count": 5453,
           "catid": 16997,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -296,7 +296,7 @@
           "is_category_failed": false,
           "show_discount": 22,
           "cmt_count": 1041,
-          "view_count": 36551,
+          "view_count": 36816,
           "catid": 8,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -304,7 +304,7 @@
           "is_official_shop": false,
           "brand": "Apple",
           "price_min": 24900000,
-          "liked_count": 2741,
+          "liked_count": 2744,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -412,7 +412,7 @@
           "is_category_failed": false,
           "show_discount": 20,
           "cmt_count": 157,
-          "view_count": 1200,
+          "view_count": 1281,
           "catid": 167,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -559,7 +559,7 @@
           "is_category_failed": false,
           "show_discount": 14,
           "cmt_count": 169,
-          "view_count": 24624,
+          "view_count": 24669,
           "catid": 8,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -693,8 +693,8 @@
           "price_before_discount": 10549000,
           "is_category_failed": false,
           "show_discount": 19,
-          "cmt_count": 1936,
-          "view_count": 7833,
+          "cmt_count": 1937,
+          "view_count": 7860,
           "catid": 2414,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -796,7 +796,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 3578,
+          "historical_sold": 3579,
           "transparent_background_image": "d4cf85d6fc3322920ab1ec57461ef378"
         },
         {
@@ -834,7 +834,7 @@
           "is_category_failed": false,
           "show_discount": 44,
           "cmt_count": 512,
-          "view_count": 4635,
+          "view_count": 4647,
           "catid": 6,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -956,7 +956,7 @@
           "is_category_failed": false,
           "show_discount": 30,
           "cmt_count": 50,
-          "view_count": 795,
+          "view_count": 806,
           "catid": 167,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1070,8 +1070,8 @@
           "price_before_discount": 7500000,
           "is_category_failed": false,
           "show_discount": 33,
-          "cmt_count": 3385,
-          "view_count": 13897,
+          "cmt_count": 3386,
+          "view_count": 13915,
           "catid": 169,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1164,7 +1164,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 8455,
+          "historical_sold": 8456,
           "transparent_background_image": "4df2b65d11b6de8d0c28eaa2f11b2bac"
         },
         {
@@ -1198,7 +1198,7 @@
           "is_category_failed": false,
           "show_discount": 19,
           "cmt_count": 492,
-          "view_count": 9746,
+          "view_count": 9772,
           "catid": 20212,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1226,17 +1226,17 @@
           "price": 7900000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.946939,
+            "rating_star": 4.947154,
             "rating_count": [
-              490,
+              492,
               1,
               0,
               5,
               12,
-              472
+              474
             ],
-            "rcount_with_image": 202,
-            "rcount_with_context": 263
+            "rcount_with_image": 203,
+            "rcount_with_context": 264
           },
           "show_official_shop_label_in_title": false,
           "tier_variations": [
