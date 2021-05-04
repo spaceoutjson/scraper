@@ -238,7 +238,6 @@
       }
     ],
     "start_time": [
-      "2021-05-03T00:00:00Z",
       "2021-05-04T00:00:00Z",
       "2021-05-05T00:00:00Z",
       "2021-05-06T00:00:00Z",
@@ -3347,14 +3346,14 @@
         "score": 0,
         "currency": "SGD",
         "market_price": "0",
-        "sell_price": "56.5",
+        "sell_price": "56.49",
         "from_price": "",
         "to_price": "",
         "spec_price": {
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-05-07 00:00:00",
+        "start_time": "2021-05-05 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
