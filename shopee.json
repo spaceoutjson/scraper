@@ -1,5 +1,5 @@
 {
-  "version": "362f8ea7f9aff2b3db4dcb2fa6d310f8",
+  "version": "e6f6f1c266430197f988f3cfd8edd096",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -49,7 +49,7 @@
           "is_category_failed": false,
           "show_discount": 50,
           "cmt_count": 0,
-          "view_count": 4122,
+          "view_count": 4283,
           "catid": 13,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -57,7 +57,7 @@
           "is_official_shop": true,
           "brand": null,
           "price_min": 5900000,
-          "liked_count": 28,
+          "liked_count": 29,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -198,8 +198,8 @@
           "price_before_discount": 12900000,
           "is_category_failed": false,
           "show_discount": 15,
-          "cmt_count": 577,
-          "view_count": 20995,
+          "cmt_count": 578,
+          "view_count": 21162,
           "catid": 11,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -207,14 +207,14 @@
           "is_official_shop": false,
           "brand": "UMD LIFE",
           "price_min": 10965000,
-          "liked_count": 2246,
+          "liked_count": 2250,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
           "price_min_before_discount": 12900000,
           "cb_option": 0,
           "sold": 116,
-          "stock": 861,
+          "stock": 859,
           "status": 1,
           "price_max": 15215000,
           "add_on_deal_info": null,
@@ -289,7 +289,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 1345,
+          "historical_sold": 1346,
           "transparent_background_image": ""
         },
         {
@@ -326,7 +326,7 @@
           "is_category_failed": false,
           "show_discount": 0,
           "cmt_count": 206,
-          "view_count": 8688,
+          "view_count": 8818,
           "catid": 13,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -334,7 +334,7 @@
           "is_official_shop": false,
           "brand": "Kingsmith",
           "price_min": 40900000,
-          "liked_count": 992,
+          "liked_count": 994,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -418,7 +418,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 401,
+          "historical_sold": 402,
           "transparent_background_image": "d6b32ff1d6944258fb893e70432d0cfd"
         },
         {
@@ -451,7 +451,7 @@
           "is_category_failed": false,
           "show_discount": 45,
           "cmt_count": 1843,
-          "view_count": 10731,
+          "view_count": 10811,
           "catid": 6,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -466,7 +466,7 @@
           "price_min_before_discount": 22000000,
           "cb_option": 0,
           "sold": 102,
-          "stock": 787,
+          "stock": 786,
           "status": 1,
           "price_max": 23600000,
           "add_on_deal_info": null,
@@ -475,17 +475,17 @@
           "price": 13400000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.926127,
+            "rating_star": 4.926167,
             "rating_count": [
-              1842,
+              1843,
               8,
               2,
               13,
               75,
-              1744
+              1745
             ],
-            "rcount_with_image": 808,
-            "rcount_with_context": 1206
+            "rcount_with_image": 809,
+            "rcount_with_context": 1207
           },
           "show_official_shop_label_in_title": false,
           "tier_variations": [
@@ -592,7 +592,7 @@
           "is_category_failed": false,
           "show_discount": 52,
           "cmt_count": 219,
-          "view_count": 6678,
+          "view_count": 6695,
           "catid": 2414,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -600,7 +600,7 @@
           "is_official_shop": true,
           "brand": "Ecovacs",
           "price_min": 62900000,
-          "liked_count": 708,
+          "liked_count": 709,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -727,8 +727,8 @@
           "price_before_discount": 6400000,
           "is_category_failed": false,
           "show_discount": 38,
-          "cmt_count": 1651,
-          "view_count": 2927,
+          "cmt_count": 1654,
+          "view_count": 2948,
           "catid": 169,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -743,7 +743,7 @@
           "price_min_before_discount": 6400000,
           "cb_option": 0,
           "sold": 0,
-          "stock": 234,
+          "stock": 233,
           "status": 1,
           "price_max": 3990000,
           "add_on_deal_info": null,
@@ -752,17 +752,17 @@
           "price": 3990000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.93697,
+            "rating_star": 4.937046,
             "rating_count": [
-              1651,
+              1653,
               2,
               2,
               19,
               55,
-              1573
+              1575
             ],
-            "rcount_with_image": 890,
-            "rcount_with_context": 1136
+            "rcount_with_image": 891,
+            "rcount_with_context": 1138
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -818,7 +818,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 3355,
+          "historical_sold": 3360,
           "transparent_background_image": "27615379dd13678e7420ab05745438b5"
         },
         {
@@ -850,7 +850,7 @@
           "is_category_failed": false,
           "show_discount": 11,
           "cmt_count": 2127,
-          "view_count": 18012,
+          "view_count": 18058,
           "catid": 8,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -858,7 +858,7 @@
           "is_official_shop": false,
           "brand": "",
           "price_min": 16800000,
-          "liked_count": 4281,
+          "liked_count": 4284,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -931,7 +931,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 6083,
+          "historical_sold": 6084,
           "transparent_background_image": "a06a2d3341f0c8b4bc39e76749b9b829"
         },
         {
@@ -968,7 +968,7 @@
           "is_category_failed": false,
           "show_discount": 9,
           "cmt_count": 165,
-          "view_count": 3778,
+          "view_count": 3799,
           "catid": 11,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1092,7 +1092,7 @@
           "is_category_failed": false,
           "show_discount": 50,
           "cmt_count": 39,
-          "view_count": 4346,
+          "view_count": 4380,
           "catid": 13,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1225,8 +1225,8 @@
           "price_before_discount": 5500000,
           "is_category_failed": false,
           "show_discount": 17,
-          "cmt_count": 19343,
-          "view_count": 27630,
+          "cmt_count": 19346,
+          "view_count": 27650,
           "catid": 169,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1241,7 +1241,7 @@
           "price_min_before_discount": 5500000,
           "cb_option": 0,
           "sold": 4072,
-          "stock": 4785,
+          "stock": 4584,
           "status": 1,
           "price_max": 4550000,
           "add_on_deal_info": null,
@@ -1250,17 +1250,17 @@
           "price": 4550000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.951403,
+            "rating_star": 4.951409,
             "rating_count": [
-              19342,
+              19344,
               70,
               48,
               119,
               335,
-              18770
+              18772
             ],
-            "rcount_with_image": 8459,
-            "rcount_with_context": 10997
+            "rcount_with_image": 8460,
+            "rcount_with_context": 10998
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -1321,7 +1321,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 11,
-          "historical_sold": 67023,
+          "historical_sold": 67042,
           "transparent_background_image": "170c7a7b17f1c778cfbbf58465124f46"
         }
       ],
