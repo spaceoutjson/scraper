@@ -980,7 +980,7 @@
         "start_time": "2021-05-09 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 2,
+        "participate": 6,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1224,7 +1224,7 @@
         "start_time": "2021-06-30 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 4,
+        "participate": 6,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1648,7 +1648,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-05-10 00:00:00",
+        "start_time": "2021-05-11 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1770,7 +1770,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-05-10 00:00:00",
+        "start_time": "2021-05-11 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1953,7 +1953,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-05-10 00:00:00",
+        "start_time": "2021-05-11 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2940,7 +2940,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-05-12 00:00:00",
+        "start_time": "2021-05-13 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 1,
@@ -2994,8 +2994,8 @@
         "start_time": "2021-05-13 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 47,
-        "participants_format": "New Activity",
+        "participate": 50,
+        "participants_format": "50+ Booked",
         "discount": 0,
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
@@ -3113,7 +3113,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-05-11 00:00:00",
+        "start_time": "2021-05-12 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3360,7 +3360,7 @@
         "start_time": "2021-05-15 10:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 5,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -3408,7 +3408,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-05-12 00:00:00",
+        "start_time": "2021-05-13 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 23,
@@ -3533,7 +3533,7 @@
         "start_time": "2021-05-09 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 7,
+        "participate": 8,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
