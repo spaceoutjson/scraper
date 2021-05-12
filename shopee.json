@@ -1,5 +1,5 @@
 {
-  "version": "28654c03c6f8230ae9690f59725b3333",
+  "version": "b364f8c68336c9995b3387daf7865e11",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -34,6 +34,13 @@
           "raw_discount": 21,
           "show_free_shipping": false,
           "video_info_list": [],
+          "overall_purchase_limit": {
+            "order_max_purchase_limit": 0,
+            "item_overall_quota": null,
+            "overall_purchase_limit": null,
+            "end_date": null,
+            "start_date": null
+          },
           "images": [
             "f305dce7a3713b8ceaabfe99863093fd",
             "deadebefd320a3743ca7974a155bfbd9",
@@ -50,7 +57,7 @@
           "is_category_failed": false,
           "show_discount": 21,
           "cmt_count": 0,
-          "view_count": 1339,
+          "view_count": 1373,
           "catid": 6,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -65,7 +72,7 @@
           "price_min_before_discount": 14600000,
           "cb_option": 0,
           "sold": 0,
-          "stock": 59,
+          "stock": 55,
           "status": 1,
           "price_max": 11500000,
           "add_on_deal_info": null,
@@ -164,6 +171,13 @@
               "thumb_url": "55748b8d7a8cda17a079948e65f9f530"
             }
           ],
+          "overall_purchase_limit": {
+            "order_max_purchase_limit": 0,
+            "item_overall_quota": null,
+            "overall_purchase_limit": null,
+            "end_date": null,
+            "start_date": null
+          },
           "images": [
             "8ced5cf00c2cc1003d0778ecbb75ed25",
             "de5b515b31f340d86ef615a09a1a306e",
@@ -180,7 +194,7 @@
           "is_category_failed": false,
           "show_discount": 68,
           "cmt_count": 443,
-          "view_count": 3694,
+          "view_count": 3739,
           "catid": 6,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -188,7 +202,7 @@
           "is_official_shop": true,
           "brand": "Klairs",
           "price_min": 4900000,
-          "liked_count": 585,
+          "liked_count": 586,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -301,6 +315,13 @@
           "raw_discount": 13,
           "show_free_shipping": false,
           "video_info_list": [],
+          "overall_purchase_limit": {
+            "order_max_purchase_limit": 0,
+            "item_overall_quota": null,
+            "overall_purchase_limit": null,
+            "end_date": null,
+            "start_date": null
+          },
           "images": [
             "a444e8b744dcce5266af4a1dad1d8e3e",
             "551f5605cb22c1095ce14c2966f383e6",
@@ -315,7 +336,7 @@
           "is_category_failed": false,
           "show_discount": 13,
           "cmt_count": 780,
-          "view_count": 17179,
+          "view_count": 17248,
           "catid": 2414,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -439,6 +460,13 @@
           "raw_discount": 0,
           "show_free_shipping": false,
           "video_info_list": [],
+          "overall_purchase_limit": {
+            "order_max_purchase_limit": 0,
+            "item_overall_quota": null,
+            "overall_purchase_limit": null,
+            "end_date": null,
+            "start_date": null
+          },
           "images": [
             "becb980b7805cb1d1ebeb601cc41687a",
             "a7fc7129dc51142194ed844a0c4b0dc7",
@@ -454,7 +482,7 @@
           "is_category_failed": false,
           "show_discount": 0,
           "cmt_count": 4659,
-          "view_count": 19630,
+          "view_count": 19737,
           "catid": 6,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -469,7 +497,7 @@
           "price_min_before_discount": -1,
           "cb_option": 0,
           "sold": 864,
-          "stock": 1015,
+          "stock": 1013,
           "status": 1,
           "price_max": 4500000,
           "add_on_deal_info": {
@@ -564,6 +592,13 @@
           "raw_discount": 2,
           "show_free_shipping": true,
           "video_info_list": [],
+          "overall_purchase_limit": {
+            "order_max_purchase_limit": 0,
+            "item_overall_quota": null,
+            "overall_purchase_limit": null,
+            "end_date": null,
+            "start_date": null
+          },
           "images": [
             "b3a1eb986941f80894da8a607f7cd62e"
           ],
@@ -572,7 +607,7 @@
           "is_category_failed": false,
           "show_discount": 2,
           "cmt_count": 231,
-          "view_count": 5136,
+          "view_count": 5167,
           "catid": 8,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -580,7 +615,7 @@
           "is_official_shop": false,
           "brand": "Apple",
           "price_min": 89800000,
-          "liked_count": 1215,
+          "liked_count": 1214,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -692,6 +727,13 @@
           "raw_discount": 7,
           "show_free_shipping": false,
           "video_info_list": [],
+          "overall_purchase_limit": {
+            "order_max_purchase_limit": 0,
+            "item_overall_quota": null,
+            "overall_purchase_limit": null,
+            "end_date": null,
+            "start_date": null
+          },
           "images": [
             "a17065f130160a8322f56647cfe87db1",
             "9236bc64999ff421d268ed6cb02d0a97",
@@ -704,7 +746,7 @@
           "is_category_failed": false,
           "show_discount": 7,
           "cmt_count": 37,
-          "view_count": 15594,
+          "view_count": 15604,
           "catid": 11,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -830,6 +872,13 @@
           "raw_discount": 10,
           "show_free_shipping": false,
           "video_info_list": [],
+          "overall_purchase_limit": {
+            "order_max_purchase_limit": 0,
+            "item_overall_quota": null,
+            "overall_purchase_limit": null,
+            "end_date": null,
+            "start_date": null
+          },
           "images": [
             "0a9bd8ce1d6566824130c0e5dbc5d330",
             "e56bbd54a1fde25e9715abc18c731a98",
@@ -846,7 +895,7 @@
           "is_category_failed": false,
           "show_discount": 10,
           "cmt_count": 0,
-          "view_count": 405,
+          "view_count": 410,
           "catid": 6,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -952,6 +1001,13 @@
           "raw_discount": 27,
           "show_free_shipping": false,
           "video_info_list": [],
+          "overall_purchase_limit": {
+            "order_max_purchase_limit": 0,
+            "item_overall_quota": null,
+            "overall_purchase_limit": null,
+            "end_date": null,
+            "start_date": null
+          },
           "images": [
             "9615e8eef4e7ad926c575987bb601b28",
             "341248c338ff49bf18612c9eb3deafda",
@@ -963,7 +1019,7 @@
           "is_category_failed": false,
           "show_discount": 27,
           "cmt_count": 305,
-          "view_count": 872,
+          "view_count": 873,
           "catid": 16997,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1071,6 +1127,13 @@
           "raw_discount": 7,
           "show_free_shipping": false,
           "video_info_list": [],
+          "overall_purchase_limit": {
+            "order_max_purchase_limit": 0,
+            "item_overall_quota": null,
+            "overall_purchase_limit": null,
+            "end_date": null,
+            "start_date": null
+          },
           "images": [
             "c171dade41fbe433d33b6f8010d574dd",
             "d55549ca2b63d1f57f52bc10b31776f0",
@@ -1081,7 +1144,7 @@
           "is_category_failed": false,
           "show_discount": 7,
           "cmt_count": 187,
-          "view_count": 11780,
+          "view_count": 11784,
           "catid": 169,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1089,14 +1152,14 @@
           "is_official_shop": true,
           "brand": "Milo",
           "price_min": 3975000,
-          "liked_count": 146,
+          "liked_count": 147,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
           "price_min_before_discount": 4260000,
           "cb_option": 0,
           "sold": 406,
-          "stock": 168,
+          "stock": 166,
           "status": 1,
           "price_max": 3975000,
           "add_on_deal_info": {
@@ -1188,6 +1251,13 @@
           "raw_discount": 7,
           "show_free_shipping": false,
           "video_info_list": [],
+          "overall_purchase_limit": {
+            "order_max_purchase_limit": 0,
+            "item_overall_quota": null,
+            "overall_purchase_limit": null,
+            "end_date": null,
+            "start_date": null
+          },
           "images": [
             "d05a29980b0afb43f55df1cca0b248f3",
             "7e7b8a933f05495b1877bc8b4964c98e",
@@ -1198,7 +1268,7 @@
           "is_category_failed": false,
           "show_discount": 7,
           "cmt_count": 1746,
-          "view_count": 8805,
+          "view_count": 8813,
           "catid": 11,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1213,7 +1283,7 @@
           "price_min_before_discount": 1490000,
           "cb_option": 0,
           "sold": 614,
-          "stock": 2923,
+          "stock": 2921,
           "status": 1,
           "price_max": 1380000,
           "add_on_deal_info": null,
