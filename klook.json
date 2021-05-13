@@ -725,7 +725,7 @@
         "start_time": "2021-05-20 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 1,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -898,7 +898,7 @@
         "start_time": "2021-06-30 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 4,
+        "participate": 5,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1366,7 +1366,7 @@
         "start_time": "2021-05-14 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 26,
+        "participate": 28,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1610,7 +1610,7 @@
         "start_time": "2021-06-30 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 37,
+        "participate": 48,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1783,7 +1783,7 @@
         "start_time": "2021-05-17 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 2,
+        "participate": 6,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2146,7 +2146,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-05-21 00:00:00",
+        "start_time": "2021-05-22 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 23,
@@ -2576,7 +2576,7 @@
         "start_time": "2021-05-15 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 29,
+        "participate": 30,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
