@@ -620,12 +620,15 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-05-27 00:00:00",
+        "start_time": "2021-06-14 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/zeuxa5jye2yfgwup0jiu.jpg",
         "icon": null,
@@ -642,7 +645,14 @@
         "real_lang": "",
         "leaf_category": 157,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/57540-singapore-scenic-river-cruise-gardens-bay-food-tour/",
         "deep_link": "https://www.klook.com/en-US/activity/57540-singapore-scenic-river-cruise-gardens-bay-food-tour/",
@@ -773,7 +783,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-05-20 16:00:00",
+        "start_time": "2021-05-21 16:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1129,7 +1139,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-05-22 00:00:00",
+        "start_time": "2021-05-23 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1180,7 +1190,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-05-20 09:00:00",
+        "start_time": "2021-05-21 09:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1241,7 +1251,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-05-20 10:00:00",
+        "start_time": "2021-05-21 10:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1302,7 +1312,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-05-20 11:00:00",
+        "start_time": "2021-05-21 11:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1485,7 +1495,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-05-19 16:00:00",
+        "start_time": "2021-05-30 10:00:00",
         "sold_out": false,
         "published": true,
         "participate": 1,
@@ -1719,7 +1729,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-05-20 00:00:00",
+        "start_time": "2021-05-21 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 6,
@@ -1780,7 +1790,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-05-20 00:00:00",
+        "start_time": "2021-05-21 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1841,7 +1851,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-05-20 09:30:00",
+        "start_time": "2021-05-21 09:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1963,7 +1973,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-05-20 11:40:00",
+        "start_time": "2021-05-21 11:40:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
