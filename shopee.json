@@ -1,5 +1,5 @@
 {
-  "version": "74eb6283c99ffef4c2122fd356cfc5e2",
+  "version": "432ceda5a8acbf4d1bd33838778a3a39",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -51,7 +51,7 @@
           "is_category_failed": false,
           "show_discount": 43,
           "cmt_count": 379,
-          "view_count": 6764,
+          "view_count": 7179,
           "catid": 169,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -59,14 +59,14 @@
           "is_official_shop": false,
           "brand": "Roku Gin",
           "price_min": 4990000,
-          "liked_count": 254,
+          "liked_count": 258,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
           "price_min_before_discount": 8800000,
           "cb_option": 0,
           "sold": 375,
-          "stock": 22,
+          "stock": 13,
           "status": 1,
           "price_max": 4990000,
           "add_on_deal_info": null,
@@ -75,14 +75,14 @@
           "price": 4990000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.973545,
+            "rating_star": 4.973615,
             "rating_count": [
-              378,
+              379,
               0,
               0,
               1,
               8,
-              369
+              370
             ],
             "rcount_with_image": 147,
             "rcount_with_context": 217
@@ -172,7 +172,7 @@
           "is_category_failed": false,
           "show_discount": 36,
           "cmt_count": 6,
-          "view_count": 2955,
+          "view_count": 3121,
           "catid": 6,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -180,7 +180,7 @@
           "is_official_shop": true,
           "brand": "Skin Inc",
           "price_min": 29800000,
-          "liked_count": 30,
+          "liked_count": 32,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -257,7 +257,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 15,
+          "historical_sold": 16,
           "transparent_background_image": "7973c8f8610edce738be79ab97de75f7"
         },
         {
@@ -300,8 +300,8 @@
           "price_before_discount": 29900000,
           "is_category_failed": false,
           "show_discount": 30,
-          "cmt_count": 694,
-          "view_count": 9494,
+          "cmt_count": 696,
+          "view_count": 9706,
           "catid": 2414,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -309,7 +309,7 @@
           "is_official_shop": true,
           "brand": "Xiaomi",
           "price_min": 20900000,
-          "liked_count": 2250,
+          "liked_count": 2254,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -325,17 +325,17 @@
           "price": 20900000,
           "shop_location": "Mainland China",
           "item_rating": {
-            "rating_star": 4.8557,
+            "rating_star": 4.855908,
             "rating_count": [
-              694,
+              695,
               4,
               3,
               17,
               44,
-              626
+              627
             ],
-            "rcount_with_image": 268,
-            "rcount_with_context": 421
+            "rcount_with_image": 269,
+            "rcount_with_context": 422
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -383,7 +383,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 1822,
+          "historical_sold": 1824,
           "transparent_background_image": "765d98dfff77718e3350b3a6f51c39da"
         },
         {
@@ -423,7 +423,7 @@
           "is_category_failed": false,
           "show_discount": 9,
           "cmt_count": 1248,
-          "view_count": 1636,
+          "view_count": 1750,
           "catid": 169,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -438,7 +438,7 @@
           "price_min_before_discount": 7650000,
           "cb_option": 0,
           "sold": 98,
-          "stock": 107,
+          "stock": 106,
           "status": 1,
           "price_max": 6980000,
           "add_on_deal_info": null,
@@ -558,7 +558,7 @@
           "is_category_failed": false,
           "show_discount": 22,
           "cmt_count": 30,
-          "view_count": 4589,
+          "view_count": 4683,
           "catid": 9,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -694,7 +694,7 @@
           "is_category_failed": false,
           "show_discount": 25,
           "cmt_count": 256,
-          "view_count": 2145,
+          "view_count": 2195,
           "catid": 6,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -816,8 +816,8 @@
           "price_before_discount": 5800000,
           "is_category_failed": false,
           "show_discount": 54,
-          "cmt_count": 1740,
-          "view_count": 2180,
+          "cmt_count": 1741,
+          "view_count": 2188,
           "catid": 6,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -832,7 +832,7 @@
           "price_min_before_discount": 5800000,
           "cb_option": 1,
           "sold": 119,
-          "stock": 302,
+          "stock": 301,
           "status": 1,
           "price_max": 2690000,
           "add_on_deal_info": null,
@@ -841,17 +841,17 @@
           "price": 2690000,
           "shop_location": "Korea",
           "item_rating": {
-            "rating_star": 4.954049,
+            "rating_star": 4.954076,
             "rating_count": [
-              1741,
+              1742,
               2,
               1,
               5,
               59,
-              1674
+              1675
             ],
-            "rcount_with_image": 762,
-            "rcount_with_context": 1055
+            "rcount_with_image": 763,
+            "rcount_with_context": 1056
           },
           "show_official_shop_label_in_title": false,
           "tier_variations": [
@@ -906,7 +906,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 4381,
+          "historical_sold": 4383,
           "transparent_background_image": "87bf958fc2841b1a63fedf3e43f98a15"
         },
         {
@@ -944,7 +944,7 @@
           "is_category_failed": false,
           "show_discount": 10,
           "cmt_count": 98,
-          "view_count": 446,
+          "view_count": 460,
           "catid": 169,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1086,7 +1086,7 @@
           "is_category_failed": false,
           "show_discount": 9,
           "cmt_count": 5148,
-          "view_count": 9836,
+          "view_count": 9854,
           "catid": 12,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1219,7 +1219,7 @@
           "is_category_failed": false,
           "show_discount": 14,
           "cmt_count": 1602,
-          "view_count": 3083,
+          "view_count": 3106,
           "catid": 16997,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1227,7 +1227,7 @@
           "is_official_shop": true,
           "brand": "Kinohimitsu",
           "price_min": 4290000,
-          "liked_count": 829,
+          "liked_count": 830,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
