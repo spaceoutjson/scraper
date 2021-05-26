@@ -3538,7 +3538,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1102,
+    "total": 1103,
     "price": {
       "from": "0",
       "to": "513"
@@ -3794,6 +3794,25 @@
       },
       {
         "template": {
+          "id": 14,
+          "name": "Hotel Voucher",
+          "disable": false
+        },
+        "tags": [
+          {
+            "id": 161,
+            "name": "Hotel",
+            "disable": false
+          },
+          {
+            "id": 174,
+            "name": "Staycation",
+            "disable": false
+          }
+        ]
+      },
+      {
+        "template": {
           "id": 5,
           "name": "Transport & Travel Services",
           "disable": false
@@ -3857,25 +3876,6 @@
           {
             "id": 44,
             "name": "Car Charter",
-            "disable": false
-          }
-        ]
-      },
-      {
-        "template": {
-          "id": 14,
-          "name": "Hotel Voucher",
-          "disable": false
-        },
-        "tags": [
-          {
-            "id": 161,
-            "name": "Hotel",
-            "disable": false
-          },
-          {
-            "id": 174,
-            "name": "Staycation",
             "disable": false
           }
         ]
