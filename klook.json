@@ -604,7 +604,8 @@
       "2022-05-26T00:00:00Z",
       "2022-05-27T00:00:00Z",
       "2022-05-28T00:00:00Z",
-      "2022-05-29T00:00:00Z"
+      "2022-05-29T00:00:00Z",
+      "2022-05-30T00:00:00Z"
     ],
     "activities": [
       {
@@ -1127,7 +1128,7 @@
         "instance": 1,
         "image_url": "",
         "video_url": "",
-        "score": 0,
+        "score": 5,
         "currency": "SGD",
         "market_price": "100.00",
         "sell_price": "100.00",
@@ -1146,7 +1147,7 @@
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
         },
-        "review_total": 0,
+        "review_total": 1,
         "image_url_host": "https://res.klook.com/image/upload/activities/psg8ax6rtqgmr9occzst.jpg",
         "icon": null,
         "icons": null,
@@ -1170,7 +1171,7 @@
             "text": "Eligible for SingapoRediscovers Vouchers"
           }
         ],
-        "need_hide_review": true,
+        "need_hide_review": false,
         "deeplink": "https://www.klook.com/en-US/activity/57570-pulau-ubin-outdoor-adventures-stand-up%20paddling/",
         "deep_link": "https://www.klook.com/en-US/activity/57570-pulau-ubin-outdoor-adventures-stand-up%20paddling/",
         "vertical_type": 100,
@@ -1415,7 +1416,7 @@
         "start_time": "2021-06-06 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 12,
+        "participate": 15,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -1527,7 +1528,7 @@
         "start_time": "2021-06-30 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 33,
+        "participate": 34,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3538,7 +3539,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1089,
+    "total": 1083,
     "price": {
       "from": "0",
       "to": "512"
