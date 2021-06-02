@@ -635,6 +635,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/mulgihgcbe4satbttetw.jpg",
         "icon": null,
@@ -651,7 +654,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/57936-singapore-heritage-walk-hop-half-day-tour-open-top-bus/",
         "deep_link": "https://www.klook.com/en-US/activity/57936-singapore-heritage-walk-hop-half-day-tour-open-top-bus/",
@@ -1382,7 +1392,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-06-07 00:00:00",
+        "start_time": "2021-06-08 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 2,
