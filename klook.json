@@ -243,7 +243,6 @@
       "2021-05-30T00:00:00Z",
       "2021-06-02T00:00:00Z",
       "2021-06-04T00:00:00Z",
-      "2021-06-05T00:00:00Z",
       "2021-06-06T00:00:00Z",
       "2021-06-07T00:00:00Z",
       "2021-06-08T00:00:00Z",
@@ -607,7 +606,8 @@
       "2022-06-01T00:00:00Z",
       "2022-06-02T00:00:00Z",
       "2022-06-03T00:00:00Z",
-      "2022-06-04T00:00:00Z"
+      "2022-06-04T00:00:00Z",
+      "2022-06-05T00:00:00Z"
     ],
     "activities": [
       {
@@ -3161,7 +3161,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1099,
+    "total": 1097,
     "price": {
       "from": "0",
       "to": "513"
@@ -3518,10 +3518,7 @@
         ]
       }
     ],
-    "srv_filter_option": {
-      "srv_act_content": "Eligible for SingapoRediscovers Vouchers",
-      "is_selected": 0
-    },
+    "srv_filter_option": null,
     "nsw_filter_option": null
   },
   "success": true
