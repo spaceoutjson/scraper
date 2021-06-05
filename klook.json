@@ -2317,7 +2317,7 @@
         "start_time": "2021-06-10 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 15,
+        "participate": 20,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -2980,7 +2980,7 @@
         "start_time": "2021-06-07 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 8,
+        "participate": 12,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -3518,7 +3518,10 @@
         ]
       }
     ],
-    "srv_filter_option": null,
+    "srv_filter_option": {
+      "srv_act_content": "Eligible for SingapoRediscovers Vouchers",
+      "is_selected": 0
+    },
     "nsw_filter_option": null
   },
   "success": true
