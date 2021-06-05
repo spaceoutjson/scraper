@@ -1,5 +1,5 @@
 {
-  "version": "d2b2782e7f6dbb40fe21cd50adaa0a88",
+  "version": "d53d3a17fbc5588cef437794d2b08bec",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -56,7 +56,7 @@
           "is_category_failed": false,
           "show_discount": 50,
           "cmt_count": 50,
-          "view_count": 15460,
+          "view_count": 17429,
           "catid": 19943,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -64,7 +64,7 @@
           "is_official_shop": true,
           "brand": "adidas",
           "price_min": 5500000,
-          "liked_count": 184,
+          "liked_count": 207,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -146,7 +146,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 124,
+          "historical_sold": 125,
           "transparent_background_image": "a16f1f3e6391b5c5b59ff2c4a91e9637"
         },
         {
@@ -184,7 +184,7 @@
           "is_category_failed": false,
           "show_discount": 27,
           "cmt_count": 3,
-          "view_count": 1605,
+          "view_count": 2166,
           "catid": 9,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -192,7 +192,7 @@
           "is_official_shop": true,
           "brand": "Acer",
           "price_min": 26800000,
-          "liked_count": 43,
+          "liked_count": 44,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -312,7 +312,7 @@
           "is_category_failed": false,
           "show_discount": 8,
           "cmt_count": 82,
-          "view_count": 1354,
+          "view_count": 1606,
           "catid": 12,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -327,7 +327,7 @@
           "price_min_before_discount": 5290000,
           "cb_option": 0,
           "sold": 109,
-          "stock": 197,
+          "stock": 196,
           "status": 1,
           "price_max": 4890000,
           "add_on_deal_info": {
@@ -408,7 +408,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 231,
+          "historical_sold": 234,
           "transparent_background_image": ""
         },
         {
@@ -445,7 +445,7 @@
           "is_category_failed": false,
           "show_discount": 68,
           "cmt_count": 8,
-          "view_count": 590,
+          "view_count": 944,
           "catid": 2414,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -453,7 +453,7 @@
           "is_official_shop": false,
           "brand": "LG",
           "price_min": 94800000,
-          "liked_count": 70,
+          "liked_count": 73,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -570,7 +570,7 @@
           "is_category_failed": false,
           "show_discount": 43,
           "cmt_count": 77,
-          "view_count": 610,
+          "view_count": 817,
           "catid": 6,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -578,7 +578,7 @@
           "is_official_shop": false,
           "brand": "Caudalie",
           "price_min": 1990000,
-          "liked_count": 139,
+          "liked_count": 141,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -692,7 +692,7 @@
           "is_category_failed": false,
           "show_discount": 13,
           "cmt_count": 571,
-          "view_count": 6534,
+          "view_count": 6647,
           "catid": 8,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -700,7 +700,7 @@
           "is_official_shop": false,
           "brand": "",
           "price_min": 19900000,
-          "liked_count": 601,
+          "liked_count": 602,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -824,8 +824,8 @@
           "price_before_discount": 54900000,
           "is_category_failed": false,
           "show_discount": 40,
-          "cmt_count": 101,
-          "view_count": 12054,
+          "cmt_count": 102,
+          "view_count": 12184,
           "catid": 2414,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -849,17 +849,17 @@
           "price": 33900000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.920792,
+            "rating_star": 4.921569,
             "rating_count": [
-              101,
+              102,
               0,
               0,
               1,
               6,
-              94
+              95
             ],
-            "rcount_with_image": 41,
-            "rcount_with_context": 72
+            "rcount_with_image": 42,
+            "rcount_with_context": 73
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -890,15 +890,15 @@
             "exclusive_price_results": [
               {
                 "mobile_image": "05554c70ddc7dbbafc8633f093667eaa",
-                "url_text": "Upgrade to Shopee Silver to save {saved_amount}",
+                "url_text": "Upgrade to Shopee Rewards Gold to save {saved_amount}",
                 "model_ep_discount": 8,
                 "pc_image": "510a8b4ce116c72e2361def05c4441a6",
                 "url": "https://loyalty.shopee.sg/",
                 "model_ep_price": 38500000,
-                "label": "Shopee Rewards Silver",
+                "label": "Shopee Rewards Gold",
                 "is_entitled": false,
                 "save_amount": 3400000,
-                "promotion_id": 5000005855,
+                "promotion_id": 5000005852,
                 "background_color": "#EE4D2D"
               }
             ]
@@ -933,7 +933,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 203,
+          "historical_sold": 205,
           "transparent_background_image": "7287a140e2ada2821a629aa41e5355e4"
         },
         {
@@ -972,7 +972,7 @@
           "is_category_failed": false,
           "show_discount": 16,
           "cmt_count": 280,
-          "view_count": 1107,
+          "view_count": 1123,
           "catid": 169,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1096,7 +1096,7 @@
           "is_category_failed": false,
           "show_discount": 31,
           "cmt_count": 334,
-          "view_count": 4555,
+          "view_count": 4694,
           "catid": 9,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1104,7 +1104,7 @@
           "is_official_shop": false,
           "brand": "Razer",
           "price_min": 6900000,
-          "liked_count": 699,
+          "liked_count": 700,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -1177,7 +1177,7 @@
           ],
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 727,
+          "historical_sold": 730,
           "transparent_background_image": "d2ac27f5c5983fe25edb52ac1effeef4"
         },
         {
@@ -1216,7 +1216,7 @@
           "is_category_failed": false,
           "show_discount": 39,
           "cmt_count": 417,
-          "view_count": 3656,
+          "view_count": 3941,
           "catid": 2414,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1224,7 +1224,7 @@
           "is_official_shop": true,
           "brand": "Cornell",
           "price_min": 8490000,
-          "liked_count": 1030,
+          "liked_count": 1031,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
