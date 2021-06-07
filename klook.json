@@ -866,7 +866,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-06-11 00:00:00",
+        "start_time": "2021-06-12 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1029,7 +1029,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-06-10 00:00:00",
+        "start_time": "2021-06-11 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1192,7 +1192,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-06-09 00:00:00",
+        "start_time": "2021-06-10 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1833,7 +1833,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-06-15 00:00:00",
+        "start_time": "2021-06-16 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1955,7 +1955,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-06-10 00:00:00",
+        "start_time": "2021-06-11 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2057,7 +2057,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-06-07 00:00:00",
+        "start_time": "2021-06-08 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2108,7 +2108,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-06-07 00:00:00",
+        "start_time": "2021-06-08 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 1,
@@ -2261,67 +2261,6 @@
         "what_we_love": ""
       },
       {
-        "id": 57570,
-        "template_id": 3,
-        "title": "Outdoor Adventures Stand-Up Paddling Ubin Expedition",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 5,
-        "currency": "SGD",
-        "market_price": "",
-        "sell_price": "",
-        "from_price": "",
-        "to_price": "",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-06-22 00:00:00",
-        "sold_out": true,
-        "published": true,
-        "participate": 7,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 2,
-        "image_url_host": "https://res.klook.com/image/upload/activities/psg8ax6rtqgmr9occzst.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.384529,103.945529",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 136,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": false,
-        "deeplink": "https://www.klook.com/en-US/activity/57570-pulau-ubin-outdoor-adventures-stand-up%20paddling/",
-        "deep_link": "https://www.klook.com/en-US/activity/57570-pulau-ubin-outdoor-adventures-stand-up%20paddling/",
-        "vertical_type": 100,
-        "vertical_id": 57570,
-        "what_we_love": ""
-      },
-      {
         "id": 57593,
         "template_id": 3,
         "title": "Wellness and Beauty by Fawn Labs (Virtual and Social Experience for Large Groups)",
@@ -2393,7 +2332,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-06-13 00:00:00",
+        "start_time": "2021-06-14 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 2,
@@ -2505,7 +2444,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-06-15 00:00:00",
+        "start_time": "2021-06-16 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2556,7 +2495,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-06-11 00:00:00",
+        "start_time": "2021-06-12 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 21,
@@ -3268,7 +3207,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-06-07 00:00:00",
+        "start_time": "2021-06-08 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 1,
@@ -3319,7 +3258,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-06-08 00:00:00",
+        "start_time": "2021-06-09 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 13,
@@ -3485,7 +3424,7 @@
     "total": 1097,
     "price": {
       "from": "0",
-      "to": "513"
+      "to": "512"
     },
     "stat": null,
     "template_tag_mapping": [
