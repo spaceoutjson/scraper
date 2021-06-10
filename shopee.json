@@ -1,5 +1,5 @@
 {
-  "version": "f5bc37a67881ba96d6183d11f12ea2a2",
+  "version": "1981d2b8e5a012e6dfd831c27a4d1c55",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -52,8 +52,8 @@
           "price_before_discount": 39900000,
           "is_category_failed": false,
           "show_discount": 40,
-          "cmt_count": 401,
-          "view_count": 28579,
+          "cmt_count": 402,
+          "view_count": 28669,
           "catid": 100013,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -152,7 +152,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 786,
+          "historical_sold": 787,
           "transparent_background_image": "0eb6ee98884da227509d8f6a5889c438"
         },
         {
@@ -188,7 +188,7 @@
           "is_category_failed": false,
           "show_discount": 24,
           "cmt_count": 720,
-          "view_count": 8568,
+          "view_count": 8592,
           "catid": 100534,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -325,7 +325,7 @@
           "is_category_failed": false,
           "show_discount": 40,
           "cmt_count": 398,
-          "view_count": 7091,
+          "view_count": 7116,
           "catid": 100629,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -447,7 +447,7 @@
           "is_category_failed": false,
           "show_discount": 21,
           "cmt_count": 180,
-          "view_count": 13692,
+          "view_count": 13720,
           "catid": 100013,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -591,7 +591,7 @@
           "is_category_failed": false,
           "show_discount": 14,
           "cmt_count": 78,
-          "view_count": 4156,
+          "view_count": 4160,
           "catid": 100010,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -732,7 +732,7 @@
           "is_category_failed": false,
           "show_discount": 31,
           "cmt_count": 210,
-          "view_count": 4444,
+          "view_count": 4450,
           "catid": 100629,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -970,7 +970,7 @@
           "is_category_failed": false,
           "show_discount": 17,
           "cmt_count": 26,
-          "view_count": 1159,
+          "view_count": 1164,
           "catid": 100013,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1097,7 +1097,7 @@
           "is_category_failed": false,
           "show_discount": 30,
           "cmt_count": 557,
-          "view_count": 6169,
+          "view_count": 6171,
           "catid": 100630,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1244,8 +1244,8 @@
           "price_before_discount": 4360000,
           "is_category_failed": false,
           "show_discount": 25,
-          "cmt_count": 3947,
-          "view_count": 16362,
+          "cmt_count": 3948,
+          "view_count": 16367,
           "catid": 100636,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1270,17 +1270,17 @@
           "price": 3290000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.928227,
+            "rating_star": 4.928318,
             "rating_count": [
-              3943,
+              3948,
               16,
               13,
               29,
               122,
-              3763
+              3768
             ],
-            "rcount_with_image": 1701,
-            "rcount_with_context": 2449
+            "rcount_with_image": 1703,
+            "rcount_with_context": 2451
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -1342,7 +1342,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 8084,
+          "historical_sold": 8085,
           "transparent_background_image": "91cf51a4612a4de4b769f344c2f09d58"
         }
       ],
