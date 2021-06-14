@@ -641,6 +641,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/e1jggy6w8m5i5jmcrnwn.jpg",
         "icon": null,
@@ -657,7 +660,14 @@
         "real_lang": "",
         "leaf_category": 151,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/57741-singapore-brompton-bicycle-cycling-tour/",
         "deep_link": "https://www.klook.com/en-US/activity/57741-singapore-brompton-bicycle-cycling-tour/",
@@ -910,7 +920,7 @@
         "is_srv_activity": false,
         "detail_hotel": null,
         "real_lang": "",
-        "leaf_category": 150,
+        "leaf_category": 493,
         "package_id": 0,
         "tags": null,
         "need_hide_review": true,
@@ -3018,7 +3028,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-06-16 00:00:00",
+        "start_time": "2021-06-17 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 3,
