@@ -647,6 +647,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/dgr1r6rgflwb1ziksvfx.jpg",
         "icon": null,
@@ -663,7 +666,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/58180-singapore-little-india-walking-tour/",
         "deep_link": "https://www.klook.com/en-US/activity/58180-singapore-little-india-walking-tour/",
@@ -699,6 +709,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/z2tj9fc31jwcke59unen.jpg",
         "icon": null,
@@ -715,7 +728,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/58164-3-southern-islands-guided-tour-chartered-cruise-yoga-singapore/",
         "deep_link": "https://www.klook.com/en-US/activity/58164-3-southern-islands-guided-tour-chartered-cruise-yoga-singapore/",
@@ -751,6 +771,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/bttkaoh6xi95wkomabuu.jpg",
         "icon": null,
@@ -767,7 +790,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/58125-singapore-merlion-kampong-glam-tour-river-cruise/",
         "deep_link": "https://www.klook.com/en-US/activity/58125-singapore-merlion-kampong-glam-tour-river-cruise/",
