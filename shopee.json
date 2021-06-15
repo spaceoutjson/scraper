@@ -1,5 +1,5 @@
 {
-  "version": "bbafa168bee74a8bd025b1614d8d05db",
+  "version": "9c9d8228b620de9a5f29a19031c1e189",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -55,7 +55,7 @@
           "is_category_failed": false,
           "show_discount": 31,
           "cmt_count": 4386,
-          "view_count": 9993,
+          "view_count": 9998,
           "catid": 100632,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -80,14 +80,14 @@
           "price": 3850000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.958,
+            "rating_star": 4.95801,
             "rating_count": [
-              4385,
+              4386,
               12,
               7,
               22,
               85,
-              4259
+              4260
             ],
             "rcount_with_image": 2232,
             "rcount_with_context": 2800
@@ -204,7 +204,7 @@
           "is_category_failed": false,
           "show_discount": 66,
           "cmt_count": 912,
-          "view_count": 7712,
+          "view_count": 7719,
           "catid": 100001,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -337,7 +337,7 @@
           "is_category_failed": false,
           "show_discount": 25,
           "cmt_count": 0,
-          "view_count": 5150,
+          "view_count": 5152,
           "catid": 100010,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -472,7 +472,7 @@
           "is_category_failed": false,
           "show_discount": 0,
           "cmt_count": 2055,
-          "view_count": 9697,
+          "view_count": 9706,
           "catid": 100636,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -632,7 +632,7 @@
           "is_category_failed": false,
           "show_discount": 50,
           "cmt_count": 88,
-          "view_count": 17432,
+          "view_count": 17442,
           "catid": 100637,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -786,7 +786,7 @@
           "is_category_failed": false,
           "show_discount": 80,
           "cmt_count": 360,
-          "view_count": 5290,
+          "view_count": 5296,
           "catid": 100630,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -930,7 +930,7 @@
           "is_category_failed": false,
           "show_discount": 22,
           "cmt_count": 228,
-          "view_count": 1872,
+          "view_count": 1879,
           "catid": 100013,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -955,17 +955,17 @@
           "price": 38900000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.872247,
+            "rating_star": 4.855263,
             "rating_count": [
-              227,
-              3,
+              228,
+              4,
               0,
               2,
               13,
               209
             ],
-            "rcount_with_image": 83,
-            "rcount_with_context": 144
+            "rcount_with_image": 84,
+            "rcount_with_context": 145
           },
           "show_official_shop_label_in_title": false,
           "tier_variations": [
@@ -1065,7 +1065,7 @@
           "is_category_failed": false,
           "show_discount": 37,
           "cmt_count": 1014,
-          "view_count": 4059,
+          "view_count": 4062,
           "catid": 100630,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1206,7 +1206,7 @@
           "is_category_failed": false,
           "show_discount": 49,
           "cmt_count": 341,
-          "view_count": 6234,
+          "view_count": 6239,
           "catid": 100013,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1214,7 +1214,7 @@
           "is_official_shop": false,
           "brand": "",
           "price_min": 15100000,
-          "liked_count": 423,
+          "liked_count": 424,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
