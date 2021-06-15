@@ -879,7 +879,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-06-19 00:00:00",
+        "start_time": "2021-06-20 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1513,7 +1513,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-06-21 00:00:00",
+        "start_time": "2021-06-22 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2242,7 +2242,7 @@
         "start_time": "2021-06-19 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 1,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2408,7 +2408,7 @@
         "start_time": "2021-06-18 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 6,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -3337,7 +3337,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-06-15 00:00:00",
+        "start_time": "2021-06-16 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 1,
