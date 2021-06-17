@@ -790,7 +790,7 @@
       {
         "id": 58356,
         "template_id": 2,
-        "title": "Singapore SkyPark and Gardens by the Bay Half Day Tour",
+        "title": "SkyPark and Gardens by the Bay Half Day Tour",
         "subtitle": "",
         "url_seo": "",
         "city_id": 6,
@@ -852,7 +852,7 @@
       {
         "id": 58291,
         "template_id": 2,
-        "title": "Singapore Journey to the North Half Day Tour with Lunch",
+        "title": "Journey to the North Half Day Tour with Lunch",
         "subtitle": "",
         "url_seo": "",
         "city_id": 6,
@@ -935,7 +935,7 @@
         "start_time": "2021-06-19 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 1,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -3492,7 +3492,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1138,
+    "total": 1139,
     "price": {
       "from": "0",
       "to": "513"
