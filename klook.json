@@ -622,6 +622,110 @@
     ],
     "activities": [
       {
+        "id": 58416,
+        "template_id": 4,
+        "title": "South Union Park in Kembangan",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "70.00",
+        "sell_price": "56.00",
+        "from_price": "56.00",
+        "to_price": "56.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-06-17 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/nqgcikxsybrp0yndx7om.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.325018,103.913255",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 236,
+        "package_id": 0,
+        "tags": null,
+        "need_hide_review": false,
+        "deeplink": "https://www.klook.com/en-US/activity/58416-south-union-park-kembangan/",
+        "deep_link": "https://www.klook.com/en-US/activity/58416-south-union-park-kembangan/",
+        "vertical_type": 106,
+        "vertical_id": 58416,
+        "custom_tags": null,
+        "what_we_love": ""
+      },
+      {
+        "id": 58411,
+        "template_id": 4,
+        "title": "The Kettle Gourmet in Singapore",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "96.00",
+        "sell_price": "88.00",
+        "from_price": "88.00",
+        "to_price": "88.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-06-20 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/ncbkxmwq8zrwrk9oebto.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.352083,103.819836",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 236,
+        "package_id": 0,
+        "tags": null,
+        "need_hide_review": false,
+        "deeplink": "https://www.klook.com/en-US/activity/58411-kettle-gourmet-delivery-singapore/",
+        "deep_link": "https://www.klook.com/en-US/activity/58411-kettle-gourmet-delivery-singapore/",
+        "vertical_type": 106,
+        "vertical_id": 58411,
+        "custom_tags": null,
+        "what_we_love": ""
+      },
+      {
         "id": 57999,
         "template_id": 2,
         "title": "Kranji Farm Tour and Lunch",
@@ -648,6 +752,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/ibogl9zg34adqvgbkw2t.jpg",
         "icon": null,
@@ -664,7 +771,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/57999-kranji-farm-tour-farm-lunch-transfer-singapore-join-walking-tour/",
         "deep_link": "https://www.klook.com/en-US/activity/57999-kranji-farm-tour-farm-lunch-transfer-singapore-join-walking-tour/",
@@ -1424,6 +1538,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/clewsco5lzvwm3f3plyv.jpg",
         "icon": null,
@@ -1440,7 +1557,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/58257-sentosa-walk-cable-car-ride-join-tour-seafood-lunch/",
         "deep_link": "https://www.klook.com/en-US/activity/58257-sentosa-walk-cable-car-ride-join-tour-seafood-lunch/",
@@ -1476,6 +1600,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/qkhjefracaycqdepazpv.jpg",
         "icon": null,
@@ -1492,7 +1619,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/58033-singapore-peranakan-half-day-tour-nyonya-dinner/",
         "deep_link": "https://www.klook.com/en-US/activity/58033-singapore-peranakan-half-day-tour-nyonya-dinner/",
@@ -1528,6 +1662,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/nikxoteycikpfyxt1kff.jpg",
         "icon": null,
@@ -1544,7 +1681,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/58012-singapore-changi-chapel-mesuem-wwii-half-day-tour-dinner-transfer/",
         "deep_link": "https://www.klook.com/en-US/activity/58012-singapore-changi-chapel-mesuem-wwii-half-day-tour-dinner-transfer/",
@@ -1580,6 +1724,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/mubdazje7ftd4d85assm.jpg",
         "icon": null,
@@ -1596,7 +1743,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/58004-singapore-chinatown-walking-tour-whisky-tasting/",
         "deep_link": "https://www.klook.com/en-US/activity/58004-singapore-chinatown-walking-tour-whisky-tasting/",
@@ -3336,133 +3490,9 @@
         "vertical_id": 57761,
         "custom_tags": null,
         "what_we_love": ""
-      },
-      {
-        "id": 57757,
-        "template_id": 2,
-        "title": "Singapore River Cruise with Haji Lane and Hotel Peranakan Buffet Half Day Tour",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "100.00",
-        "sell_price": "100.00",
-        "from_price": "100.00",
-        "to_price": "100.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-06-22 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/ndrd29zbpktbdblico0h.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.284788,103.843932",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 340,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/57757-singapore-river-cruise-haji-lane-tour-hotel-peranakan-buffet/",
-        "deep_link": "https://www.klook.com/en-US/activity/57757-singapore-river-cruise-haji-lane-tour-hotel-peranakan-buffet/",
-        "vertical_type": 100,
-        "vertical_id": 57757,
-        "custom_tags": null,
-        "what_we_love": ""
-      },
-      {
-        "id": 57762,
-        "template_id": 2,
-        "title": "Singapore Gardens by the Bay & Home of Peranakan Half Day Tour with Lunch Buffet",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "100.00",
-        "sell_price": "100.00",
-        "from_price": "100.00",
-        "to_price": "100.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-06-22 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/km1d4hqsfzxph9oidbn4.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.284492,103.843594",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 153,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/57762-singapore-garden-bay-house-peranakan-tour/",
-        "deep_link": "https://www.klook.com/en-US/activity/57762-singapore-garden-bay-house-peranakan-tour/",
-        "vertical_type": 100,
-        "vertical_id": 57762,
-        "custom_tags": null,
-        "what_we_love": ""
       }
     ],
-    "total": 1136,
+    "total": 1138,
     "price": {
       "from": "0",
       "to": "513"
