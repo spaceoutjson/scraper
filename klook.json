@@ -1983,7 +1983,7 @@
         "market_price": "16.00",
         "sell_price": "16.00",
         "from_price": "16.00",
-        "to_price": "20.00",
+        "to_price": "30.00",
         "spec_price": {
           "type": 0,
           "desc": ""
@@ -1991,9 +1991,12 @@
         "start_time": "2021-06-18 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 5,
+        "participate": 6,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/xtwptfaofwger1imb7so.jpg",
         "icon": null,
@@ -2010,7 +2013,14 @@
         "real_lang": "",
         "leaf_category": 110,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/58243-dale-chihuly-glass-in-bloom-gardens-by-the-bay-singapore/",
         "deep_link": "https://www.klook.com/en-US/activity/58243-dale-chihuly-glass-in-bloom-gardens-by-the-bay-singapore/",
