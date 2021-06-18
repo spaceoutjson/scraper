@@ -648,6 +648,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/vodnl9lfaors75medjld.jpg",
         "icon": null,
@@ -664,7 +667,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/58314-sunset-voyage-one-day-tour-seafood-dinner-tour-guide-singapore/",
         "deep_link": "https://www.klook.com/en-US/activity/58314-sunset-voyage-one-day-tour-seafood-dinner-tour-guide-singapore/",
@@ -700,6 +710,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/lp8xzpmndvtwsv3bwowv.jpg",
         "icon": null,
@@ -716,7 +729,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/58266-one-day-discover-tour-singapore/",
         "deep_link": "https://www.klook.com/en-US/activity/58266-one-day-discover-tour-singapore/",
@@ -752,6 +772,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/onscldmguxlbiheqkmit.jpg",
         "icon": null,
@@ -768,7 +791,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/58251-singapore-sunset-kelong-botanic-garden-one-day-tour/",
         "deep_link": "https://www.klook.com/en-US/activity/58251-singapore-sunset-kelong-botanic-garden-one-day-tour/",
@@ -804,6 +834,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/hfci4wp0idarm7xj4vu3.jpg",
         "icon": null,
@@ -820,7 +853,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/58236-singapore-one-day-discover-tour/",
         "deep_link": "https://www.klook.com/en-US/activity/58236-singapore-one-day-discover-tour/",
@@ -1420,7 +1460,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-06-20 00:00:00",
+        "start_time": "2021-06-25 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2974,7 +3014,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-06-20 13:00:00",
+        "start_time": "2021-06-21 13:00:00",
         "sold_out": false,
         "published": true,
         "participate": 3,
@@ -3462,7 +3502,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1149,
+    "total": 1150,
     "price": {
       "from": "0",
       "to": "519"
