@@ -624,6 +624,68 @@
     ],
     "activities": [
       {
+        "id": 58480,
+        "template_id": 2,
+        "title": "Sentosa Delight Tour with Lunch in Singapore",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "100.00",
+        "sell_price": "100.00",
+        "from_price": "100.00",
+        "to_price": "100.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-06-22 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/ci3wsdzp1ydf3zrjtswy.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.264218,103.820359",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 150,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/58480-singapore-sentosa-delight-tour-lunch/",
+        "deep_link": "https://www.klook.com/en-US/activity/58480-singapore-sentosa-delight-tour-lunch/",
+        "vertical_type": 100,
+        "vertical_id": 58480,
+        "custom_tags": null,
+        "what_we_love": ""
+      },
+      {
         "id": 58346,
         "template_id": 2,
         "title": "Sky Dining with RWS Festive Walk in Singapore",
@@ -650,6 +712,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/rjpzsgbntylajlvmdwce.jpg",
         "icon": null,
@@ -666,7 +731,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/58346-singapore-sky-dining-rws-festive-walk/",
         "deep_link": "https://www.klook.com/en-US/activity/58346-singapore-sky-dining-rws-festive-walk/",
@@ -702,6 +774,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/xqagexm31epynftpjcet.jpg",
         "icon": null,
@@ -718,7 +793,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/58288-singapore-marina-walk-flyer-dinner-tour/",
         "deep_link": "https://www.klook.com/en-US/activity/58288-singapore-marina-walk-flyer-dinner-tour/",
@@ -754,6 +836,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/gvdxyhkailqxovktwceo.jpg",
         "icon": null,
@@ -770,7 +855,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/58271-singapore-clarke-quay-walk-river-cruise-dinner-tour/",
         "deep_link": "https://www.klook.com/en-US/activity/58271-singapore-clarke-quay-walk-river-cruise-dinner-tour/",
@@ -3440,71 +3532,9 @@
         "vertical_id": 57483,
         "custom_tags": null,
         "what_we_love": ""
-      },
-      {
-        "id": 57475,
-        "template_id": 2,
-        "title": "Botanic Gardens Tour + Lunch (Elderly + Senior Citizens)",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "100.00",
-        "sell_price": "100.00",
-        "from_price": "100.00",
-        "to_price": "100.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-06-23 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/bfggoji01xranqtazcf8.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.315206,103.816256",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 150,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/57475-botanic-gardens-tour-lunch-elderly-friendly/",
-        "deep_link": "https://www.klook.com/en-US/activity/57475-botanic-gardens-tour-lunch-elderly-friendly/",
-        "vertical_type": 100,
-        "vertical_id": 57475,
-        "custom_tags": null,
-        "what_we_love": ""
       }
     ],
-    "total": 1151,
+    "total": 1152,
     "price": {
       "from": "0",
       "to": "521"
