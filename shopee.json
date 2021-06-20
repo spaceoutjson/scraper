@@ -1,5 +1,5 @@
 {
-  "version": "8a11615e5530545ceb70190eca70d287",
+  "version": "88a779d55271924862cfafee67f2d435",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -52,7 +52,7 @@
           "is_category_failed": false,
           "show_discount": 10,
           "cmt_count": 22723,
-          "view_count": 40491,
+          "view_count": 40516,
           "catid": 100632,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -67,7 +67,7 @@
           "price_min_before_discount": 3790000,
           "cb_option": 0,
           "sold": 5021,
-          "stock": 161,
+          "stock": 159,
           "status": 1,
           "price_max": 3450000,
           "add_on_deal_info": {
@@ -81,17 +81,17 @@
           "price": 3450000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.955656,
+            "rating_star": 4.955658,
             "rating_count": [
-              22724,
+              22725,
               79,
               48,
               107,
               376,
-              22114
+              22115
             ],
-            "rcount_with_image": 7786,
-            "rcount_with_context": 12499
+            "rcount_with_image": 7787,
+            "rcount_with_context": 12500
           },
           "show_official_shop_label_in_title": false,
           "tier_variations": [
@@ -154,7 +154,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 86209,
+          "historical_sold": 86211,
           "transparent_background_image": "940d912312eba641ac110a0238f1ab08"
         },
         {
@@ -192,7 +192,7 @@
           "is_category_failed": false,
           "show_discount": 14,
           "cmt_count": 195,
-          "view_count": 1052,
+          "view_count": 1057,
           "catid": 100632,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -315,7 +315,7 @@
           "is_category_failed": false,
           "show_discount": 24,
           "cmt_count": 740,
-          "view_count": 60684,
+          "view_count": 60740,
           "catid": 100013,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -474,7 +474,7 @@
           "is_category_failed": false,
           "show_discount": 15,
           "cmt_count": 302,
-          "view_count": 4459,
+          "view_count": 4473,
           "catid": 100632,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -542,10 +542,10 @@
                 "model_ep_discount": 6,
                 "pc_image": "cded148cad89ef1046e8e562f69ce107",
                 "url": "https://shopee.sg/program/form/7",
-                "model_ep_price": 15200000,
+                "model_ep_price": 12000000,
                 "label": "Mum's Club",
                 "is_entitled": false,
-                "save_amount": 950000,
+                "save_amount": 750000,
                 "promotion_id": 5000005692,
                 "background_color": "#EE4D2D"
               }
@@ -622,7 +622,7 @@
           "is_category_failed": false,
           "show_discount": 57,
           "cmt_count": 65,
-          "view_count": 16231,
+          "view_count": 16234,
           "catid": 100010,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -756,7 +756,7 @@
           "is_category_failed": false,
           "show_discount": 12,
           "cmt_count": 19,
-          "view_count": 3035,
+          "view_count": 3037,
           "catid": 100010,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1153,7 +1153,7 @@
           "is_category_failed": false,
           "show_discount": 46,
           "cmt_count": 76,
-          "view_count": 4477,
+          "view_count": 4481,
           "catid": 100010,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1275,7 +1275,7 @@
           "is_category_failed": false,
           "show_discount": 14,
           "cmt_count": 112,
-          "view_count": 3323,
+          "view_count": 3325,
           "catid": 100013,
           "is_on_flash_sale": null,
           "voucher_info": null,
