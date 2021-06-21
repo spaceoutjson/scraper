@@ -246,16 +246,6 @@
     "start_time": [
       "2021-04-14T00:00:00Z",
       "2021-04-16T00:00:00Z",
-      "2021-05-30T00:00:00Z",
-      "2021-06-02T00:00:00Z",
-      "2021-06-04T00:00:00Z",
-      "2021-06-06T00:00:00Z",
-      "2021-06-09T00:00:00Z",
-      "2021-06-11T00:00:00Z",
-      "2021-06-13T00:00:00Z",
-      "2021-06-16T00:00:00Z",
-      "2021-06-18T00:00:00Z",
-      "2021-06-20T00:00:00Z",
       "2021-06-21T00:00:00Z",
       "2021-06-22T00:00:00Z",
       "2021-06-23T00:00:00Z",
@@ -650,6 +640,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/fnw3yu2oepqxrchehvdg.jpg",
         "icon": null,
@@ -666,7 +659,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/58486-peranakan-discoveries-lost-game-cherki-half-day-tour-singapore/",
         "deep_link": "https://www.klook.com/en-US/activity/58486-peranakan-discoveries-lost-game-cherki-half-day-tour-singapore/",
@@ -702,6 +702,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/qbw5dow4ux00ydqjxivk.jpg",
         "icon": null,
@@ -718,7 +721,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/58482-peranakan-discoveries-art-shophouse-painting-half-day-tour-singapore/",
         "deep_link": "https://www.klook.com/en-US/activity/58482-peranakan-discoveries-art-shophouse-painting-half-day-tour-singapore/",
@@ -754,6 +764,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/mmzguhrxvwznp7tgmpzr.jpg",
         "icon": null,
@@ -770,7 +783,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/58476-deluxe-peranakan-half-day-tour-singapore/",
         "deep_link": "https://www.klook.com/en-US/activity/58476-deluxe-peranakan-half-day-tour-singapore/",
