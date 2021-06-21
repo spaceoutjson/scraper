@@ -1,5 +1,5 @@
 {
-  "version": "fcbf9664d7f27f7257b1bdd2fb13630f",
+  "version": "15710135196b8f56e3366588128ec653",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -65,7 +65,7 @@
           "is_category_failed": false,
           "show_discount": 67,
           "cmt_count": 1419,
-          "view_count": 3010,
+          "view_count": 3053,
           "catid": 100001,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -206,7 +206,7 @@
           "is_category_failed": false,
           "show_discount": 45,
           "cmt_count": 73,
-          "view_count": 2702,
+          "view_count": 2720,
           "catid": 100001,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -342,7 +342,7 @@
           "is_category_failed": false,
           "show_discount": 30,
           "cmt_count": 736,
-          "view_count": 13375,
+          "view_count": 13413,
           "catid": 100010,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -350,7 +350,7 @@
           "is_official_shop": true,
           "brand": "Xiaomi",
           "price_min": 20900000,
-          "liked_count": 2383,
+          "liked_count": 2382,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -367,17 +367,17 @@
           "price": 20900000,
           "shop_location": "Mainland China",
           "item_rating": {
-            "rating_star": 4.849932,
+            "rating_star": 4.85034,
             "rating_count": [
-              734,
+              736,
               5,
               3,
               18,
               48,
-              660
+              662
             ],
-            "rcount_with_image": 288,
-            "rcount_with_context": 448
+            "rcount_with_image": 290,
+            "rcount_with_context": 450
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -469,8 +469,8 @@
           "price_before_discount": 19900000,
           "is_category_failed": false,
           "show_discount": 15,
-          "cmt_count": 1009,
-          "view_count": 9205,
+          "cmt_count": 1010,
+          "view_count": 9227,
           "catid": 100001,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -495,14 +495,14 @@
           "price": 16900000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.906746,
+            "rating_star": 4.906838,
             "rating_count": [
-              1009,
+              1010,
               4,
               3,
               13,
               46,
-              943
+              944
             ],
             "rcount_with_image": 454,
             "rcount_with_context": 615
@@ -604,7 +604,7 @@
           "is_category_failed": false,
           "show_discount": 8,
           "cmt_count": 2303,
-          "view_count": 15805,
+          "view_count": 15817,
           "catid": 100013,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -726,7 +726,7 @@
           "is_category_failed": false,
           "show_discount": 35,
           "cmt_count": 684,
-          "view_count": 5954,
+          "view_count": 5956,
           "catid": 100630,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -856,7 +856,7 @@
           "is_category_failed": false,
           "show_discount": 6,
           "cmt_count": 2202,
-          "view_count": 6217,
+          "view_count": 6218,
           "catid": 100632,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -994,7 +994,7 @@
           "is_category_failed": false,
           "show_discount": 67,
           "cmt_count": 4410,
-          "view_count": 14784,
+          "view_count": 14796,
           "catid": 100629,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1265,7 +1265,7 @@
           "is_category_failed": false,
           "show_discount": 5,
           "cmt_count": 748,
-          "view_count": 9334,
+          "view_count": 9337,
           "catid": 100636,
           "is_on_flash_sale": null,
           "voucher_info": null,
