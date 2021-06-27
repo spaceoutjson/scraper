@@ -1,5 +1,5 @@
 {
-  "version": "71b3d32148f3ccc96ce12d8c9d4e6b1d",
+  "version": "2c7feb3322005fbe1e6417327a0727e4",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -53,7 +53,7 @@
           "is_category_failed": false,
           "show_discount": 55,
           "cmt_count": 516,
-          "view_count": 2517,
+          "view_count": 2530,
           "catid": 100630,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -190,7 +190,7 @@
           "is_category_failed": false,
           "show_discount": 52,
           "cmt_count": 45,
-          "view_count": 519,
+          "view_count": 524,
           "catid": 100630,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -325,7 +325,7 @@
           "is_category_failed": false,
           "show_discount": 12,
           "cmt_count": 14,
-          "view_count": 6688,
+          "view_count": 6697,
           "catid": 100644,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -447,7 +447,7 @@
           "is_category_failed": false,
           "show_discount": 17,
           "cmt_count": 378,
-          "view_count": 30985,
+          "view_count": 30993,
           "catid": 100013,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -592,7 +592,7 @@
           "is_category_failed": false,
           "show_discount": 51,
           "cmt_count": 600,
-          "view_count": 3968,
+          "view_count": 3969,
           "catid": 100001,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -857,7 +857,7 @@
           "is_category_failed": false,
           "show_discount": 16,
           "cmt_count": 268,
-          "view_count": 1107,
+          "view_count": 1108,
           "catid": 100632,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -882,17 +882,17 @@
           "price": 9500000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.939623,
+            "rating_star": 4.940075,
             "rating_count": [
-              266,
+              268,
               0,
               3,
               0,
               10,
-              253
+              255
             ],
-            "rcount_with_image": 137,
-            "rcount_with_context": 191
+            "rcount_with_image": 138,
+            "rcount_with_context": 192
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -996,7 +996,7 @@
           "is_category_failed": false,
           "show_discount": 24,
           "cmt_count": 827,
-          "view_count": 9264,
+          "view_count": 9265,
           "catid": 100001,
           "is_on_flash_sale": null,
           "voucher_info": null,
