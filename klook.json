@@ -34,6 +34,12 @@
             "children": null
           },
           {
+            "id": 4,
+            "name": "Museums & exhibitions",
+            "enable": true,
+            "children": null
+          },
+          {
             "id": 8,
             "name": "Attraction passes & more",
             "enable": true,
@@ -49,6 +55,12 @@
           {
             "id": 17,
             "name": "Outdoor activities",
+            "enable": true,
+            "children": null
+          },
+          {
+            "id": 16,
+            "name": "Water activities",
             "enable": true,
             "children": null
           },
@@ -1159,7 +1171,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-06-30 20:00:00",
+        "start_time": "2021-06-30 21:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1211,7 +1223,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-06-30 20:00:00",
+        "start_time": "2021-06-30 21:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
