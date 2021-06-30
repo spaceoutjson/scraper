@@ -116,12 +116,6 @@
         "enable": true,
         "children": [
           {
-            "id": 28,
-            "name": "Games & VR",
-            "enable": true,
-            "children": null
-          },
-          {
             "id": 29,
             "name": "Nightlife & drinks",
             "enable": true,
@@ -143,12 +137,6 @@
           {
             "id": 12,
             "name": "Private tours",
-            "enable": true,
-            "children": null
-          },
-          {
-            "id": 13,
-            "name": "In the air",
             "enable": true,
             "children": null
           },
@@ -244,7 +232,6 @@
       }
     ],
     "start_time": [
-      "2021-06-29T00:00:00Z",
       "2021-06-30T00:00:00Z",
       "2021-07-01T00:00:00Z",
       "2021-07-02T00:00:00Z",
@@ -609,7 +596,8 @@
       "2022-06-26T00:00:00Z",
       "2022-06-27T00:00:00Z",
       "2022-06-28T00:00:00Z",
-      "2022-06-29T00:00:00Z"
+      "2022-06-29T00:00:00Z",
+      "2022-06-30T00:00:00Z"
     ],
     "activities": [
       {
@@ -3473,7 +3461,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1183,
+    "total": 1174,
     "price": {
       "from": "0",
       "to": "520"
@@ -3713,11 +3701,6 @@
           {
             "id": 23,
             "name": "Dive & Snorkel",
-            "disable": false
-          },
-          {
-            "id": 29,
-            "name": "Skiing & Snow Sports",
             "disable": false
           },
           {
