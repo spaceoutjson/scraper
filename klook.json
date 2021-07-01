@@ -116,6 +116,12 @@
         "enable": true,
         "children": [
           {
+            "id": 28,
+            "name": "Games & VR",
+            "enable": true,
+            "children": null
+          },
+          {
             "id": 29,
             "name": "Nightlife & drinks",
             "enable": true,
@@ -1563,7 +1569,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-07-02 08:00:00",
+        "start_time": "2021-07-02 09:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
