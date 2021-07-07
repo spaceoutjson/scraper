@@ -602,7 +602,8 @@
       "2022-07-03T00:00:00Z",
       "2022-07-04T00:00:00Z",
       "2022-07-05T00:00:00Z",
-      "2022-07-06T00:00:00Z"
+      "2022-07-06T00:00:00Z",
+      "2022-07-07T00:00:00Z"
     ],
     "activities": [
       {
@@ -3340,7 +3341,7 @@
         "instance": 1,
         "image_url": "",
         "video_url": "",
-        "score": 0,
+        "score": 5,
         "currency": "SGD",
         "market_price": "20.00",
         "sell_price": "20.00",
@@ -3356,7 +3357,7 @@
         "participate": 7,
         "participants_format": "New Activity",
         "discount": 0,
-        "review_total": 0,
+        "review_total": 2,
         "image_url_host": "https://res.klook.com/image/upload/activities/mzlh7qm9citin0eo7quz.jpg",
         "icon": null,
         "icons": null,
@@ -3486,7 +3487,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1210,
+    "total": 1208,
     "price": {
       "from": "0",
       "to": "521"
