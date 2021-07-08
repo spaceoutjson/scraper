@@ -88,6 +88,12 @@
             "name": "Salons & beauty",
             "enable": true,
             "children": null
+          },
+          {
+            "id": 23,
+            "name": "Hot springs",
+            "enable": true,
+            "children": null
           }
         ]
       },
@@ -3091,7 +3097,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-07-08 12:00:00",
+        "start_time": "2021-07-08 13:00:00",
         "sold_out": false,
         "published": true,
         "participate": 1,
@@ -3487,7 +3493,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1183,
+    "total": 1181,
     "price": {
       "from": "0",
       "to": "521"
