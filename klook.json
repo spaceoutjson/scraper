@@ -613,6 +613,68 @@
     ],
     "activities": [
       {
+        "id": 59251,
+        "template_id": 2,
+        "title": "Michelin Cuisine PLUS Marina Bay Sands SkyPark Sunset Tour",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "100.00",
+        "sell_price": "91.39",
+        "from_price": "91.39",
+        "to_price": "91.39",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-07-16 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/dq4ltmcoqmllyrl3gomz.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.282611,103.858537",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 150,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/59251-Michelin-Cuisine-PLUS-Marina-Bay-Sands-SkyPark-Sunset-Tour/",
+        "deep_link": "https://www.klook.com/en-US/activity/59251-Michelin-Cuisine-PLUS-Marina-Bay-Sands-SkyPark-Sunset-Tour/",
+        "vertical_type": 100,
+        "vertical_id": 59251,
+        "custom_tags": null,
+        "what_we_love": ""
+      },
+      {
         "id": 59249,
         "template_id": 2,
         "title": "Marina Bay Sands Sampan Ride PLUS Seafood Lunch or Dinner",
@@ -639,6 +701,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/i9t9t6a0jbhjae8w09wy.jpg",
         "icon": null,
@@ -655,7 +720,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/59249-Marina-Bay-Sands-Sampan-Ride-PLUS-Seafood-Lunch-or-Dinner/",
         "deep_link": "https://www.klook.com/en-US/activity/59249-Marina-Bay-Sands-Sampan-Ride-PLUS-Seafood-Lunch-or-Dinner/",
@@ -809,7 +881,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-07-13 00:00:00",
+        "start_time": "2021-07-14 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2061,7 +2133,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-07-12 16:30:00",
+        "start_time": "2021-07-12 19:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3397,7 +3469,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-07-19 00:00:00",
+        "start_time": "2021-07-20 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3499,68 +3571,6 @@
         "vertical_id": 58842,
         "custom_tags": null,
         "what_we_love": ""
-      },
-      {
-        "id": 58864,
-        "template_id": 2,
-        "title": "Singapore High Element Half Day Tour",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "90.00",
-        "sell_price": "90.00",
-        "from_price": "90.00",
-        "to_price": "90.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-07-17 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/xi0ih2ghdnvmabeffmvf.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.326705,103.88989",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 150,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/58864-singapore-high-element-half-day-tour/",
-        "deep_link": "https://www.klook.com/en-US/activity/58864-singapore-high-element-half-day-tour/",
-        "vertical_type": 100,
-        "vertical_id": 58864,
-        "custom_tags": null,
-        "what_we_love": ""
       }
     ],
     "total": 1223,
@@ -3654,6 +3664,11 @@
           {
             "id": 140,
             "name": "Summer Fun",
+            "disable": false
+          },
+          {
+            "id": 143,
+            "name": "Winter Tours",
             "disable": false
           },
           {
