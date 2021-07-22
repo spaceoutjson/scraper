@@ -1,5 +1,5 @@
 {
-  "version": "edc52ad8afd197e26caeffdc248faf41",
+  "version": "ebb154700e97528d0e246a294b636c12",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -52,7 +52,7 @@
           "is_category_failed": false,
           "show_discount": 39,
           "cmt_count": 1011,
-          "view_count": 7270,
+          "view_count": 7361,
           "catid": 100001,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -67,7 +67,7 @@
           "price_min_before_discount": 3200000,
           "cb_option": 0,
           "sold": 110,
-          "stock": 34,
+          "stock": 33,
           "status": 1,
           "price_max": 1950000,
           "add_on_deal_info": {
@@ -81,17 +81,17 @@
           "price": 1950000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.949505,
+            "rating_star": 4.949605,
             "rating_count": [
-              1010,
+              1012,
               1,
               1,
               7,
               30,
-              971
+              973
             ],
-            "rcount_with_image": 407,
-            "rcount_with_context": 538
+            "rcount_with_image": 408,
+            "rcount_with_context": 539
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -184,7 +184,7 @@
           "is_category_failed": false,
           "show_discount": 22,
           "cmt_count": 137,
-          "view_count": 25009,
+          "view_count": 25104,
           "catid": 100636,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -192,7 +192,7 @@
           "is_official_shop": true,
           "brand": "Omnidesk",
           "price_min": 85000000,
-          "liked_count": 617,
+          "liked_count": 618,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -337,7 +337,7 @@
           "is_category_failed": false,
           "show_discount": 5,
           "cmt_count": 9,
-          "view_count": 24119,
+          "view_count": 24220,
           "catid": 100013,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -480,7 +480,7 @@
           "is_category_failed": false,
           "show_discount": 6,
           "cmt_count": 151,
-          "view_count": 1123,
+          "view_count": 1190,
           "catid": 100644,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -612,8 +612,8 @@
           "price_before_discount": 79900000,
           "is_category_failed": false,
           "show_discount": 29,
-          "cmt_count": 528,
-          "view_count": 10793,
+          "cmt_count": 529,
+          "view_count": 10807,
           "catid": 100630,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -704,7 +704,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 1433,
+          "historical_sold": 1434,
           "transparent_background_image": "90c18d8ecdd10ced1036e1b9914198e7"
         },
         {
@@ -747,7 +747,7 @@
           "is_category_failed": false,
           "show_discount": 10,
           "cmt_count": 397,
-          "view_count": 3607,
+          "view_count": 3615,
           "catid": 100629,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -878,7 +878,7 @@
           "is_category_failed": false,
           "show_discount": 25,
           "cmt_count": 45,
-          "view_count": 1481,
+          "view_count": 1492,
           "catid": 100010,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1000,7 +1000,7 @@
           "is_category_failed": false,
           "show_discount": 76,
           "cmt_count": 297,
-          "view_count": 7503,
+          "view_count": 7518,
           "catid": 100637,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1008,7 +1008,7 @@
           "is_official_shop": false,
           "brand": "Livfit",
           "price_min": 11900000,
-          "liked_count": 1233,
+          "liked_count": 1234,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -1099,7 +1099,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 604,
+          "historical_sold": 605,
           "transparent_background_image": "2a3f2f33992d38d2b5d4a898f6c8e49e"
         },
         {
@@ -1142,7 +1142,7 @@
           "is_category_failed": false,
           "show_discount": 70,
           "cmt_count": 923,
-          "view_count": 5810,
+          "view_count": 5820,
           "catid": 100010,
           "is_on_flash_sale": null,
           "voucher_info": null,
