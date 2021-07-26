@@ -614,6 +614,68 @@
     ],
     "activities": [
       {
+        "id": 59368,
+        "template_id": 2,
+        "title": "Duck Tour with Lunch",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "100.00",
+        "sell_price": "100.00",
+        "from_price": "100.00",
+        "to_price": "100.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-07-30 10:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/bc6gj5ktkfwd2nigf7yg.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.30074,103.841003",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 150,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/59368-4-hour-singapore-duck-tour-walking-tour/",
+        "deep_link": "https://www.klook.com/en-US/activity/59368-4-hour-singapore-duck-tour-walking-tour/",
+        "vertical_type": 100,
+        "vertical_id": 59368,
+        "custom_tags": null,
+        "what_we_love": ""
+      },
+      {
         "id": 59465,
         "template_id": 2,
         "title": "Exploring Singapore \"Tastes & Sights\" Day Tour with Lunch",
@@ -806,6 +868,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/ijggm4evtfjxeoscpq0y.jpg",
         "icon": null,
@@ -822,7 +887,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/59355-4-hour-singapore-river-cruise-ride-walking-tour/",
         "deep_link": "https://www.klook.com/en-US/activity/59355-4-hour-singapore-river-cruise-ride-walking-tour/",
@@ -3430,71 +3502,9 @@
         "vertical_id": 58961,
         "custom_tags": null,
         "what_we_love": ""
-      },
-      {
-        "id": 58993,
-        "template_id": 2,
-        "title": "Makan-makan Food Tour at Kampong Glam with Chinatown AR Trail",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "115.00",
-        "sell_price": "100.00",
-        "from_price": "100.00",
-        "to_price": "100.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-07-29 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/gfanm4vxlbvcdn8bd8fj.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.302931,103.859897",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 150,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/58993-singapore-makan-makan-food-tour-kampong-glam-chinatown-ar-trail/",
-        "deep_link": "https://www.klook.com/en-US/activity/58993-singapore-makan-makan-food-tour-kampong-glam-chinatown-ar-trail/",
-        "vertical_type": 100,
-        "vertical_id": 58993,
-        "custom_tags": null,
-        "what_we_love": ""
       }
     ],
-    "total": 1223,
+    "total": 1224,
     "price": {
       "from": "0",
       "to": "526"
