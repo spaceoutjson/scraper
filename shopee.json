@@ -1,5 +1,5 @@
 {
-  "version": "5fb7150dbfee8f9859b508c26117b61f",
+  "version": "b204d6b0ac78b17664da0d926763e06b",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -55,8 +55,8 @@
           "price_before_discount": 4500000,
           "is_category_failed": false,
           "show_discount": 38,
-          "cmt_count": 1668,
-          "view_count": 16974,
+          "cmt_count": 1669,
+          "view_count": 17087,
           "catid": 100644,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -81,17 +81,17 @@
           "price": 2790000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.881152,
+            "rating_star": 4.881224,
             "rating_count": [
-              1667,
+              1668,
               14,
               10,
               18,
               79,
-              1546
+              1547
             ],
             "rcount_with_image": 693,
-            "rcount_with_context": 1037
+            "rcount_with_context": 1038
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -151,7 +151,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 11,
-          "historical_sold": 3976,
+          "historical_sold": 3977,
           "transparent_background_image": "78c70278ec31ab631fa4ad2447b76a87"
         },
         {
@@ -204,7 +204,7 @@
           "is_category_failed": false,
           "show_discount": 52,
           "cmt_count": 281,
-          "view_count": 8887,
+          "view_count": 8956,
           "catid": 100644,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -219,7 +219,7 @@
           "price_min_before_discount": 13900000,
           "cb_option": 0,
           "sold": 43,
-          "stock": 56,
+          "stock": 55,
           "status": 1,
           "price_max": 30800000,
           "add_on_deal_info": null,
@@ -353,7 +353,7 @@
           "is_category_failed": false,
           "show_discount": 21,
           "cmt_count": 0,
-          "view_count": 1250,
+          "view_count": 1344,
           "catid": 100534,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -485,7 +485,7 @@
           "is_category_failed": false,
           "show_discount": 37,
           "cmt_count": 13691,
-          "view_count": 20880,
+          "view_count": 20925,
           "catid": 100632,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -493,7 +493,7 @@
           "is_official_shop": false,
           "brand": "SOONSU STORY",
           "price_min": 1290000,
-          "liked_count": 3615,
+          "liked_count": 3616,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -627,7 +627,7 @@
           "is_category_failed": false,
           "show_discount": 35,
           "cmt_count": 1762,
-          "view_count": 13439,
+          "view_count": 13461,
           "catid": 100010,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -780,7 +780,7 @@
           "is_category_failed": false,
           "show_discount": 17,
           "cmt_count": 1062,
-          "view_count": 12607,
+          "view_count": 12621,
           "catid": 100010,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -795,7 +795,7 @@
           "price_min_before_discount": 13500000,
           "cb_option": 0,
           "sold": 182,
-          "stock": 737,
+          "stock": 736,
           "status": 1,
           "price_max": 40900000,
           "add_on_deal_info": {
@@ -924,8 +924,8 @@
           "price_before_discount": 1110000,
           "is_category_failed": false,
           "show_discount": 26,
-          "cmt_count": 1525,
-          "view_count": 23398,
+          "cmt_count": 1526,
+          "view_count": 23419,
           "catid": 100629,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -933,7 +933,7 @@
           "is_official_shop": true,
           "brand": "KookSoonDang",
           "price_min": 699000,
-          "liked_count": 1184,
+          "liked_count": 1185,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -950,17 +950,17 @@
           "price": 826000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.960604,
+            "rating_star": 4.96063,
             "rating_count": [
-              1524,
+              1525,
               1,
               3,
               7,
               36,
-              1477
+              1478
             ],
-            "rcount_with_image": 571,
-            "rcount_with_context": 801
+            "rcount_with_image": 572,
+            "rcount_with_context": 802
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -1012,7 +1012,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 9353,
+          "historical_sold": 9354,
           "transparent_background_image": "87b3e544c62fef1fadd4c8b2515ba5f6"
         },
         {
@@ -1051,8 +1051,8 @@
           "price_before_discount": 22000000,
           "is_category_failed": false,
           "show_discount": 38,
-          "cmt_count": 2108,
-          "view_count": 10267,
+          "cmt_count": 2109,
+          "view_count": 10274,
           "catid": 100630,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1203,7 +1203,7 @@
           "is_category_failed": false,
           "show_discount": 51,
           "cmt_count": 246,
-          "view_count": 6654,
+          "view_count": 6671,
           "catid": 100010,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1211,7 +1211,7 @@
           "is_official_shop": true,
           "brand": "Mayer",
           "price_min": 9800000,
-          "liked_count": 668,
+          "liked_count": 670,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -1339,7 +1339,7 @@
           "is_category_failed": false,
           "show_discount": 54,
           "cmt_count": 509,
-          "view_count": 3924,
+          "view_count": 3927,
           "catid": 100629,
           "is_on_flash_sale": null,
           "voucher_info": null,
