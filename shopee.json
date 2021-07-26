@@ -1,5 +1,5 @@
 {
-  "version": "df51e7ce68090580fb72d8124466c128",
+  "version": "297a333624ee997cebcf41080e194201",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -56,7 +56,7 @@
           "is_category_failed": false,
           "show_discount": 38,
           "cmt_count": 1668,
-          "view_count": 13488,
+          "view_count": 14017,
           "catid": 100644,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -64,14 +64,14 @@
           "is_official_shop": true,
           "brand": "Logitech",
           "price_min": 2790000,
-          "liked_count": 1670,
+          "liked_count": 1673,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
           "price_min_before_discount": 4500000,
           "cb_option": 0,
           "sold": 188,
-          "stock": 162,
+          "stock": 40,
           "status": 1,
           "price_max": 2790000,
           "add_on_deal_info": null,
@@ -203,7 +203,7 @@
           "is_category_failed": false,
           "show_discount": 37,
           "cmt_count": 612,
-          "view_count": 11314,
+          "view_count": 11524,
           "catid": 100644,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -211,7 +211,7 @@
           "is_official_shop": true,
           "brand": "Logitech",
           "price_min": 16900000,
-          "liked_count": 751,
+          "liked_count": 752,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -347,7 +347,7 @@
           "is_category_failed": false,
           "show_discount": 20,
           "cmt_count": 0,
-          "view_count": 2657,
+          "view_count": 2947,
           "catid": 100534,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -483,8 +483,8 @@
           "price_before_discount": 3790000,
           "is_category_failed": false,
           "show_discount": 8,
-          "cmt_count": 24604,
-          "view_count": 36493,
+          "cmt_count": 24606,
+          "view_count": 36613,
           "catid": 100632,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -499,7 +499,7 @@
           "price_min_before_discount": 3790000,
           "cb_option": 0,
           "sold": 5229,
-          "stock": 2722,
+          "stock": 2723,
           "status": 1,
           "price_max": 3550000,
           "add_on_deal_info": {
@@ -513,17 +513,17 @@
           "price": 3550000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.956729,
+            "rating_star": 4.956732,
             "rating_count": [
-              24606,
+              24608,
               83,
               49,
               114,
               400,
-              23960
+              23962
             ],
-            "rcount_with_image": 8507,
-            "rcount_with_context": 13503
+            "rcount_with_image": 8508,
+            "rcount_with_context": 13504
           },
           "show_official_shop_label_in_title": false,
           "tier_variations": [
@@ -586,7 +586,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 93387,
+          "historical_sold": 93391,
           "transparent_background_image": "940d912312eba641ac110a0238f1ab08"
         },
         {
@@ -630,7 +630,7 @@
           "is_category_failed": false,
           "show_discount": 38,
           "cmt_count": 235,
-          "view_count": 14035,
+          "view_count": 14057,
           "catid": 100010,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -776,7 +776,7 @@
           "is_category_failed": false,
           "show_discount": 28,
           "cmt_count": 122,
-          "view_count": 2578,
+          "view_count": 2585,
           "catid": 100631,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -906,7 +906,7 @@
           "is_category_failed": false,
           "show_discount": 20,
           "cmt_count": 517,
-          "view_count": 7750,
+          "view_count": 7768,
           "catid": 100630,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1037,7 +1037,7 @@
           "is_category_failed": false,
           "show_discount": 22,
           "cmt_count": 0,
-          "view_count": 226,
+          "view_count": 242,
           "catid": 100534,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1168,7 +1168,7 @@
           "is_category_failed": false,
           "show_discount": 48,
           "cmt_count": 253,
-          "view_count": 6661,
+          "view_count": 6686,
           "catid": 100535,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1299,8 +1299,8 @@
           "price_before_discount": 6500000,
           "is_category_failed": false,
           "show_discount": 17,
-          "cmt_count": 888,
-          "view_count": 2674,
+          "cmt_count": 889,
+          "view_count": 2678,
           "catid": 100629,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1325,17 +1325,17 @@
           "price": 5399000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.950226,
+            "rating_star": 4.950339,
             "rating_count": [
-              887,
+              889,
               1,
               1,
               7,
               26,
-              852
+              854
             ],
-            "rcount_with_image": 423,
-            "rcount_with_context": 605
+            "rcount_with_image": 425,
+            "rcount_with_context": 607
           },
           "show_official_shop_label_in_title": false,
           "tier_variations": [
@@ -1382,7 +1382,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 2653,
+          "historical_sold": 2654,
           "transparent_background_image": "c63871f1f6f28de5994adefaa98441c4"
         }
       ],
