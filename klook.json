@@ -3494,7 +3494,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1224,
+    "total": 1223,
     "price": {
       "from": "0",
       "to": "525"
@@ -3852,20 +3852,6 @@
           {
             "id": 44,
             "name": "Car Charter",
-            "disable": false
-          }
-        ]
-      },
-      {
-        "template": {
-          "id": 20,
-          "name": "Insurance",
-          "disable": false
-        },
-        "tags": [
-          {
-            "id": 189,
-            "name": "Travel Insurance",
             "disable": false
           }
         ]
