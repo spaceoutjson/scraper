@@ -1014,9 +1014,6 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/bc6gj5ktkfwd2nigf7yg.jpg",
         "icon": null,
@@ -1033,14 +1030,7 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
+        "tags": null,
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/59368-4-hour-singapore-duck-tour-walking-tour/",
         "deep_link": "https://www.klook.com/en-US/activity/59368-4-hour-singapore-duck-tour-walking-tour/",
@@ -1242,9 +1232,6 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/ijggm4evtfjxeoscpq0y.jpg",
         "icon": null,
@@ -1261,14 +1248,7 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
+        "tags": null,
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/59355-4-hour-singapore-river-cruise-ride-walking-tour/",
         "deep_link": "https://www.klook.com/en-US/activity/59355-4-hour-singapore-river-cruise-ride-walking-tour/",
@@ -3190,9 +3170,6 @@
         "participate": 2,
         "participants_format": "New Activity",
         "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/zdqjbsds2motiazl3yug.jpg",
         "icon": null,
@@ -3209,14 +3186,7 @@
         "real_lang": "",
         "leaf_category": 157,
         "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
+        "tags": null,
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/59135-singapore-sunset-river-boat-marina-bay-sands-dinner/",
         "deep_link": "https://www.klook.com/en-US/activity/59135-singapore-sunset-river-boat-marina-bay-sands-dinner/",
@@ -3474,7 +3444,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1223,
+    "total": 1224,
     "price": {
       "from": "0",
       "to": "524"
