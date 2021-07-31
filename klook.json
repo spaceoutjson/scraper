@@ -796,6 +796,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/uhysxewj4wh3q3rlka0q.jpg",
         "icon": null,
@@ -812,7 +815,14 @@
         "real_lang": "",
         "leaf_category": 508,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/59086-private-southern-island-sightseeing-cruise-singapore/",
         "deep_link": "https://www.klook.com/en-US/activity/59086-private-southern-island-sightseeing-cruise-singapore/",
@@ -1160,6 +1170,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/p0xv6mlmxvwxuhs8mdkg.jpg",
         "icon": null,
@@ -1176,7 +1189,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/59465-exploring-singapore-taste-sights-day-tour-lunch/",
         "deep_link": "https://www.klook.com/en-US/activity/59465-exploring-singapore-taste-sights-day-tour-lunch/",
@@ -1524,6 +1544,9 @@
         "participate": 28,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/iyrucp4dwrwuucyvt7da.jpg",
         "icon": null,
@@ -1540,7 +1563,14 @@
         "real_lang": "",
         "leaf_category": 110,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/59419-dale-chihuly-glass-in-bloom-gardens-by-the-bay-singapore/",
         "deep_link": "https://www.klook.com/en-US/activity/59419-dale-chihuly-glass-in-bloom-gardens-by-the-bay-singapore/",
@@ -1576,6 +1606,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/mj6cxmav4f83p15r3ss6.jpg",
         "icon": null,
@@ -1592,7 +1625,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/59409-singapore-garden-bays-tour-seafood-dinner-set/",
         "deep_link": "https://www.klook.com/en-US/activity/59409-singapore-garden-bays-tour-seafood-dinner-set/",
@@ -1628,6 +1668,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/ph76ept8xdzmnncjfbuy.jpg",
         "icon": null,
@@ -1644,7 +1687,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/58800-explore-singapore-high-up-far-out-with-dinner/",
         "deep_link": "https://www.klook.com/en-US/activity/58800-explore-singapore-high-up-far-out-with-dinner/",
@@ -1680,6 +1730,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/qquaz7lcb5ysza0fgbhs.jpg",
         "icon": null,
@@ -1696,7 +1749,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/58953-explore-kampong-glam-haji-lane/",
         "deep_link": "https://www.klook.com/en-US/activity/58953-explore-kampong-glam-haji-lane/",
@@ -1992,6 +2052,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/wglnkipjhift3kzsv1bn.jpg",
         "icon": null,
@@ -2008,7 +2071,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/59391-singapore-nangsilk-birdnest-treasure-house-michelin-hawker-food-tour/",
         "deep_link": "https://www.klook.com/en-US/activity/59391-singapore-nangsilk-birdnest-treasure-house-michelin-hawker-food-tour/",
@@ -2408,6 +2478,9 @@
         "participate": 2,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/j7aj5xvudakmqweeugxx.jpg",
         "icon": null,
@@ -2424,7 +2497,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/59077-hot-spring-farm-river-cruise-day-tour-singapore/",
         "deep_link": "https://www.klook.com/en-US/activity/59077-hot-spring-farm-river-cruise-day-tour-singapore/",
@@ -2460,6 +2540,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/chd2ml7s0qvlhvqqwv0s.jpg",
         "icon": null,
@@ -2476,7 +2559,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/59245-instawalk-dale-chihuly-glass-bloom-join-walking-tour/",
         "deep_link": "https://www.klook.com/en-US/activity/59245-instawalk-dale-chihuly-glass-bloom-join-walking-tour/",
@@ -2512,6 +2602,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/nwoojl2miejqguukdfnl.jpg",
         "icon": null,
@@ -2528,7 +2621,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/59239-dale-chihuly-glass-in-bloom-guided-tour-buggy/",
         "deep_link": "https://www.klook.com/en-US/activity/59239-dale-chihuly-glass-in-bloom-guided-tour-buggy/",
@@ -2564,6 +2664,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/dq4ltmcoqmllyrl3gomz.jpg",
         "icon": null,
@@ -2580,7 +2683,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/59251-Michelin-Cuisine-PLUS-Marina-Bay-Sands-SkyPark-Sunset-Tour/",
         "deep_link": "https://www.klook.com/en-US/activity/59251-Michelin-Cuisine-PLUS-Marina-Bay-Sands-SkyPark-Sunset-Tour/",
@@ -2616,6 +2726,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/i9t9t6a0jbhjae8w09wy.jpg",
         "icon": null,
@@ -2632,7 +2745,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/59249-Marina-Bay-Sands-Sampan-Ride-PLUS-Seafood-Lunch-or-Dinner/",
         "deep_link": "https://www.klook.com/en-US/activity/59249-Marina-Bay-Sands-Sampan-Ride-PLUS-Seafood-Lunch-or-Dinner/",
@@ -2668,6 +2788,9 @@
         "participate": 2,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/bswgb06iundcb5oxprvi.jpg",
         "icon": null,
@@ -2684,7 +2807,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/59247-Sentosa-Adventure-Fun-Tour-PLUS-Meal/",
         "deep_link": "https://www.klook.com/en-US/activity/59247-Sentosa-Adventure-Fun-Tour-PLUS-Meal/",
@@ -2720,6 +2850,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/gzvx6l1zrzpjxddz7zjy.jpg",
         "icon": null,
@@ -2736,7 +2869,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/59244-Sentosa-Water-Sport-Fun-Tour-PLUS-Meal/",
         "deep_link": "https://www.klook.com/en-US/activity/59244-Sentosa-Water-Sport-Fun-Tour-PLUS-Meal/",
@@ -2772,6 +2912,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/lhctqdezpxvyvszk6rfz.jpg",
         "icon": null,
@@ -2788,7 +2931,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/58362-Island-explorer-day-tour/",
         "deep_link": "https://www.klook.com/en-US/activity/58362-Island-explorer-day-tour/",
@@ -2876,6 +3026,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/pvynvmmxay9qhrzfhp5s.jpg",
         "icon": null,
@@ -2892,7 +3045,14 @@
         "real_lang": "",
         "leaf_category": 493,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/58836-singapore-hike-forest-quarry-reservoir-x-trekkers/",
         "deep_link": "https://www.klook.com/en-US/activity/58836-singapore-hike-forest-quarry-reservoir-x-trekkers/",
@@ -2928,6 +3088,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/mbndn9c8m9tu5rhmwgb4.jpg",
         "icon": null,
@@ -2944,7 +3107,14 @@
         "real_lang": "",
         "leaf_category": 492,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/58926-singapore-farm-and-duck-boat-tour/",
         "deep_link": "https://www.klook.com/en-US/activity/58926-singapore-farm-and-duck-boat-tour/",
@@ -2980,6 +3150,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/qxb9nfdpd4ifuqoeiitf.jpg",
         "icon": null,
@@ -2996,7 +3169,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/59224-singapore-jurong-lake-garden-tuas-light-house-tour-seafood-buffet-dinner/",
         "deep_link": "https://www.klook.com/en-US/activity/59224-singapore-jurong-lake-garden-tuas-light-house-tour-seafood-buffet-dinner/",
@@ -3032,6 +3212,9 @@
         "participate": 1,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/a6g40ryyu67q0joxvdy6.jpg",
         "icon": null,
@@ -3048,7 +3231,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/59231-singapore-half-day-city-tour-lunch-durians/",
         "deep_link": "https://www.klook.com/en-US/activity/59231-singapore-half-day-city-tour-lunch-durians/",
@@ -3136,6 +3326,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/hngyjxfbfavquaan0xx0.jpg",
         "icon": null,
@@ -3152,7 +3345,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/59028-pulau-ubin-orient-express-gardens-by-the-bay/",
         "deep_link": "https://www.klook.com/en-US/activity/59028-pulau-ubin-orient-express-gardens-by-the-bay/",
@@ -3188,6 +3388,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/grnmn880t1d7h3m4ragk.jpg",
         "icon": null,
@@ -3204,7 +3407,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/58956-true-blue-experience-lunch-arbora-cable-car-segway-funride/",
         "deep_link": "https://www.klook.com/en-US/activity/58956-true-blue-experience-lunch-arbora-cable-car-segway-funride/",
@@ -3591,7 +3801,10 @@
         ]
       }
     ],
-    "srv_filter_option": null,
+    "srv_filter_option": {
+      "srv_act_content": "Eligible for SingapoRediscovers Vouchers",
+      "is_selected": 0
+    },
     "nsw_filter_option": null
   },
   "success": true
