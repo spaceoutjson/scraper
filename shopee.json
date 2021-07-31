@@ -1,5 +1,5 @@
 {
-  "version": "942583c375497602308c8f59c8be065a",
+  "version": "aa71474d488d03e97173a56d1362f5c5",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -60,7 +60,7 @@
           "is_category_failed": false,
           "show_discount": 20,
           "cmt_count": 601,
-          "view_count": 2120,
+          "view_count": 2155,
           "catid": 100629,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -207,7 +207,7 @@
           "is_category_failed": false,
           "show_discount": 23,
           "cmt_count": 6243,
-          "view_count": 30935,
+          "view_count": 30970,
           "catid": 100629,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -215,7 +215,7 @@
           "is_official_shop": true,
           "brand": "Snow Treasures",
           "price_min": 2150000,
-          "liked_count": 2282,
+          "liked_count": 2283,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -302,7 +302,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 19379,
+          "historical_sold": 19380,
           "transparent_background_image": "f847ce2f54d2aace88b276516b5a549c"
         },
         {
@@ -339,7 +339,7 @@
           "is_category_failed": false,
           "show_discount": 30,
           "cmt_count": 290,
-          "view_count": 5179,
+          "view_count": 5210,
           "catid": 100013,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -467,7 +467,7 @@
           "is_category_failed": false,
           "show_discount": 18,
           "cmt_count": 27,
-          "view_count": 45044,
+          "view_count": 45084,
           "catid": 100013,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -613,7 +613,7 @@
           "is_category_failed": false,
           "show_discount": 12,
           "cmt_count": 4148,
-          "view_count": 11564,
+          "view_count": 11566,
           "catid": 100001,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -751,7 +751,7 @@
           "is_category_failed": false,
           "show_discount": 5,
           "cmt_count": 4,
-          "view_count": 14895,
+          "view_count": 14905,
           "catid": 100644,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -889,7 +889,7 @@
           "is_category_failed": false,
           "show_discount": 5,
           "cmt_count": 2081,
-          "view_count": 7453,
+          "view_count": 7455,
           "catid": 100629,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1024,7 +1024,7 @@
           "is_category_failed": false,
           "show_discount": 22,
           "cmt_count": 4260,
-          "view_count": 6056,
+          "view_count": 6058,
           "catid": 100636,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1174,7 +1174,7 @@
           "is_category_failed": false,
           "show_discount": 16,
           "cmt_count": 115,
-          "view_count": 9606,
+          "view_count": 9608,
           "catid": 100644,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1302,8 +1302,8 @@
           "price_before_discount": 13900000,
           "is_category_failed": false,
           "show_discount": 46,
-          "cmt_count": 527,
-          "view_count": 4727,
+          "cmt_count": 528,
+          "view_count": 4734,
           "catid": 100010,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1328,17 +1328,17 @@
           "price": 7500000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.933586,
+            "rating_star": 4.933712,
             "rating_count": [
-              527,
+              528,
               1,
               2,
               3,
               19,
-              502
+              503
             ],
             "rcount_with_image": 171,
-            "rcount_with_context": 265
+            "rcount_with_context": 266
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -1408,7 +1408,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 1177,
+          "historical_sold": 1178,
           "transparent_background_image": "b27bfe7cdb254a9f1e92da4996a55ea1"
         }
       ],
