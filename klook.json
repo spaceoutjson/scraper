@@ -956,7 +956,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-08-03 00:00:00",
+        "start_time": "2021-08-04 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1734,7 +1734,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-08-03 12:00:00",
+        "start_time": "2021-08-03 12:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2909,9 +2909,9 @@
         "score": 0,
         "currency": "SGD",
         "market_price": "82.00",
-        "sell_price": "65.60",
-        "from_price": "65.60",
-        "to_price": "70.40",
+        "sell_price": "53.30",
+        "from_price": "53.30",
+        "to_price": "57.20",
         "spec_price": {
           "type": 0,
           "desc": ""
