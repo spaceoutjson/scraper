@@ -3700,25 +3700,6 @@
       },
       {
         "template": {
-          "id": 14,
-          "name": "Hotel Voucher",
-          "disable": false
-        },
-        "tags": [
-          {
-            "id": 161,
-            "name": "Hotel",
-            "disable": false
-          },
-          {
-            "id": 174,
-            "name": "Staycation",
-            "disable": false
-          }
-        ]
-      },
-      {
-        "template": {
           "id": 5,
           "name": "Transport & Travel Services",
           "disable": false
@@ -3782,6 +3763,25 @@
           {
             "id": 44,
             "name": "Car Charter",
+            "disable": false
+          }
+        ]
+      },
+      {
+        "template": {
+          "id": 14,
+          "name": "Hotel Voucher",
+          "disable": false
+        },
+        "tags": [
+          {
+            "id": 161,
+            "name": "Hotel",
+            "disable": false
+          },
+          {
+            "id": 174,
+            "name": "Staycation",
             "disable": false
           }
         ]
