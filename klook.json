@@ -620,6 +620,68 @@
     ],
     "activities": [
       {
+        "id": 59855,
+        "template_id": 2,
+        "title": "National Day Celebration 2021 City Tour with Shopping and Seafood Lunch",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "100.00",
+        "sell_price": "100.00",
+        "from_price": "100.00",
+        "to_price": "100.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-08-29 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/lfgpzoukqailonmhseeg.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.268546,103.801474",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 340,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/59855-city-tour-shopping-seafood-lunch-singapore/",
+        "deep_link": "https://www.klook.com/en-US/activity/59855-city-tour-shopping-seafood-lunch-singapore/",
+        "vertical_type": 100,
+        "vertical_id": 59855,
+        "custom_tags": null,
+        "what_we_love": ""
+      },
+      {
         "id": 59444,
         "template_id": 2,
         "title": "Floral Fantasy with Exquisite Meal at Sea Chuan Kungfu Restaurant",
@@ -646,6 +708,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/tg8cjldef5bgkxwasgyc.jpg",
         "icon": null,
@@ -662,7 +727,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/59444-singapore-floral-fantasy-garden-bays-meal/",
         "deep_link": "https://www.klook.com/en-US/activity/59444-singapore-floral-fantasy-garden-bays-meal/",
@@ -3356,71 +3428,9 @@
         "vertical_id": 59135,
         "custom_tags": null,
         "what_we_love": ""
-      },
-      {
-        "id": 59028,
-        "template_id": 2,
-        "title": "Pulau Ubin Tour PLUS Orient Express and Gardens by the Bay Admission Tickets",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "100.00",
-        "sell_price": "100.00",
-        "from_price": "100.00",
-        "to_price": "100.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-08-08 08:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/hngyjxfbfavquaan0xx0.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.390761,103.98758",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 150,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/59028-pulau-ubin-orient-express-gardens-by-the-bay/",
-        "deep_link": "https://www.klook.com/en-US/activity/59028-pulau-ubin-orient-express-gardens-by-the-bay/",
-        "vertical_type": 100,
-        "vertical_id": 59028,
-        "custom_tags": null,
-        "what_we_love": ""
       }
     ],
-    "total": 1221,
+    "total": 1222,
     "price": {
       "from": "0",
       "to": "522"
