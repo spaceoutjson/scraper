@@ -620,6 +620,58 @@
     ],
     "activities": [
       {
+        "id": 59444,
+        "template_id": 2,
+        "title": "Floral Fantasy with Exquisite Meal at Sea Chuan Kungfu Restaurant",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "100.00",
+        "sell_price": "100.00",
+        "from_price": "100.00",
+        "to_price": "100.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-08-16 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/tg8cjldef5bgkxwasgyc.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "40.822366,-72.747767",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 150,
+        "package_id": 0,
+        "tags": null,
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/59444-singapore-floral-fantasy-garden-bays-meal/",
+        "deep_link": "https://www.klook.com/en-US/activity/59444-singapore-floral-fantasy-garden-bays-meal/",
+        "vertical_type": 100,
+        "vertical_id": 59444,
+        "custom_tags": null,
+        "what_we_love": ""
+      },
+      {
         "id": 59645,
         "template_id": 3,
         "title": "Trapped Escape Room Experience in Singapore",
@@ -3366,71 +3418,9 @@
         "vertical_id": 59028,
         "custom_tags": null,
         "what_we_love": ""
-      },
-      {
-        "id": 58956,
-        "template_id": 2,
-        "title": "True Blue Experience PLUS Lunch at Arbora with Cable Car and Segway Funride Admission Tickets",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "100.00",
-        "sell_price": "100.00",
-        "from_price": "100.00",
-        "to_price": "100.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-08-07 08:45:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/grnmn880t1d7h3m4ragk.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.311415,103.856626",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 150,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/58956-true-blue-experience-lunch-arbora-cable-car-segway-funride/",
-        "deep_link": "https://www.klook.com/en-US/activity/58956-true-blue-experience-lunch-arbora-cable-car-segway-funride/",
-        "vertical_type": 100,
-        "vertical_id": 58956,
-        "custom_tags": null,
-        "what_we_love": ""
       }
     ],
-    "total": 1220,
+    "total": 1221,
     "price": {
       "from": "0",
       "to": "522"
@@ -3521,6 +3511,11 @@
           {
             "id": 140,
             "name": "Summer Fun",
+            "disable": false
+          },
+          {
+            "id": 141,
+            "name": "Spring Flings",
             "disable": false
           },
           {
