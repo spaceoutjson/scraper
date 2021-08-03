@@ -1705,7 +1705,7 @@
         "market_price": "91.95",
         "sell_price": "91.95",
         "from_price": "91.95",
-        "to_price": "172.79",
+        "to_price": "172.95",
         "spec_price": {
           "type": 0,
           "desc": ""
@@ -1713,7 +1713,7 @@
         "start_time": "2021-09-24 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 1,
+        "participate": 2,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
