@@ -1,5 +1,5 @@
 {
-  "version": "2606f0c086f4d2bc90cc220c59fdda98",
+  "version": "67f37b3353d93412be1e6c98e779bb83",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -53,7 +53,7 @@
           "is_category_failed": false,
           "show_discount": 15,
           "cmt_count": 872,
-          "view_count": 4348,
+          "view_count": 4416,
           "catid": 100630,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -68,7 +68,7 @@
           "price_min_before_discount": 3500000,
           "cb_option": 0,
           "sold": 98,
-          "stock": 76,
+          "stock": 74,
           "status": 1,
           "price_max": 2975000,
           "add_on_deal_info": {
@@ -198,8 +198,8 @@
           "price_before_discount": 148800000,
           "is_category_failed": false,
           "show_discount": 56,
-          "cmt_count": 208,
-          "view_count": 13961,
+          "cmt_count": 209,
+          "view_count": 14023,
           "catid": 100010,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -228,14 +228,14 @@
           "price": 65900000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.9375,
+            "rating_star": 4.937799,
             "rating_count": [
-              208,
+              209,
               0,
               0,
               1,
               11,
-              196
+              197
             ],
             "rcount_with_image": 87,
             "rcount_with_context": 136
@@ -294,7 +294,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 557,
+          "historical_sold": 558,
           "transparent_background_image": "aa7ddae06b5220567cdbef103c4adb99"
         },
         {
@@ -337,7 +337,7 @@
           "is_category_failed": false,
           "show_discount": 13,
           "cmt_count": 1062,
-          "view_count": 8400,
+          "view_count": 8463,
           "catid": 100010,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -459,7 +459,7 @@
           "is_category_failed": false,
           "show_discount": 6,
           "cmt_count": 91,
-          "view_count": 8750,
+          "view_count": 8796,
           "catid": 100644,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -603,7 +603,7 @@
           "is_category_failed": false,
           "show_discount": 6,
           "cmt_count": 13,
-          "view_count": 34513,
+          "view_count": 34540,
           "catid": 100013,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -746,7 +746,7 @@
           "is_category_failed": false,
           "show_discount": 34,
           "cmt_count": 3643,
-          "view_count": 9009,
+          "view_count": 9026,
           "catid": 100632,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -912,7 +912,7 @@
           "is_category_failed": false,
           "show_discount": 7,
           "cmt_count": 69,
-          "view_count": 2579,
+          "view_count": 2589,
           "catid": 100013,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1048,7 +1048,7 @@
           "is_category_failed": false,
           "show_discount": 43,
           "cmt_count": 420,
-          "view_count": 5473,
+          "view_count": 5484,
           "catid": 100010,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1195,7 +1195,7 @@
           "is_category_failed": false,
           "show_discount": 48,
           "cmt_count": 413,
-          "view_count": 2536,
+          "view_count": 2537,
           "catid": 100001,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1334,7 +1334,7 @@
           "is_category_failed": false,
           "show_discount": 37,
           "cmt_count": 640,
-          "view_count": 12052,
+          "view_count": 12061,
           "catid": 100644,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1438,7 +1438,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 11,
-          "historical_sold": 1737,
+          "historical_sold": 1738,
           "transparent_background_image": "a5b1f5828f36867314416569809f3876"
         }
       ],
