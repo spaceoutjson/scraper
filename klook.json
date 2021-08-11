@@ -1057,7 +1057,7 @@
         "start_time": "2021-08-28 15:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 2,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -1678,7 +1678,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-08-14 11:00:00",
+        "start_time": "2021-08-15 11:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2564,7 +2564,7 @@
       {
         "id": 59645,
         "template_id": 3,
-        "title": "Trapped Escape Room Experience in Singapore",
+        "title": "Trapped Escape Room Experience at The Cathay Singapore",
         "subtitle": "",
         "url_seo": "",
         "city_id": 6,
