@@ -1,18 +1,8 @@
 {
-  "version": "b5603293761d232a970cfcefddc19145",
+  "version": "3ae34e95c7d7fca82dd83446f994367f",
   "data": {
     "featured_shops": null,
-    "campaign_bottom_visual": {
-      "start": 1623859200,
-      "end": 1672502340,
-      "banner_image": "a494e72fee13c2785f00a64904877b52",
-      "data": {
-        "image_mobile": "a494e72fee13c2785f00a64904877b52",
-        "image_ratio_pc": 60,
-        "image_ratio": 20,
-        "image_pc": "4938ab5b3a9fb3df9ce4ca2e3273d53a"
-      }
-    },
+    "campaign_bottom_visual": null,
     "featured_products": {
       "header_text_color": "#d60000",
       "items": [
@@ -52,7 +42,7 @@
           "is_category_failed": false,
           "show_discount": 24,
           "cmt_count": 0,
-          "view_count": 4767,
+          "view_count": 4840,
           "catid": 100629,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -206,7 +196,7 @@
           "is_category_failed": false,
           "show_discount": 54,
           "cmt_count": 404,
-          "view_count": 5377,
+          "view_count": 5397,
           "catid": 100010,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -345,7 +335,7 @@
           "is_category_failed": false,
           "show_discount": 0,
           "cmt_count": 1192,
-          "view_count": 24851,
+          "view_count": 24928,
           "catid": 100632,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -476,7 +466,7 @@
           "is_category_failed": false,
           "show_discount": 9,
           "cmt_count": 723,
-          "view_count": 7208,
+          "view_count": 7261,
           "catid": 100013,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -600,7 +590,7 @@
           "is_category_failed": false,
           "show_discount": 14,
           "cmt_count": 7,
-          "view_count": 1611,
+          "view_count": 1621,
           "catid": 100010,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -739,7 +729,7 @@
           "is_category_failed": false,
           "show_discount": 25,
           "cmt_count": 335,
-          "view_count": 1955,
+          "view_count": 1961,
           "catid": 100001,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -870,7 +860,7 @@
           "is_category_failed": false,
           "show_discount": 4,
           "cmt_count": 6,
-          "view_count": 10011,
+          "view_count": 10023,
           "catid": 100644,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1007,7 +997,7 @@
           "is_category_failed": false,
           "show_discount": 30,
           "cmt_count": 258,
-          "view_count": 4493,
+          "view_count": 4495,
           "catid": 100629,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1128,7 +1118,7 @@
           "is_category_failed": false,
           "show_discount": 13,
           "cmt_count": 249,
-          "view_count": 2889,
+          "view_count": 2894,
           "catid": 100535,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1262,7 +1252,7 @@
           "is_category_failed": false,
           "show_discount": 34,
           "cmt_count": 374,
-          "view_count": 5261,
+          "view_count": 5265,
           "catid": 100630,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1349,7 +1339,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 1054,
+          "historical_sold": 1055,
           "transparent_background_image": "c2cbeb5b04771ca5a6c3c45f82e07898"
         }
       ],
@@ -1359,7 +1349,18 @@
       "see_more_link": "https://shopee.sg/m/big-brand-discounts#dailytopdeals",
       "banner_image": null
     },
-    "campaign_top_visual": null,
+    "campaign_top_visual": {
+      "start": 1623859200,
+      "end": 1633017600,
+      "banner_image": "ad3ce42a45f3767280a6805a446eb030",
+      "data": {
+        "image_mobile": "ad3ce42a45f3767280a6805a446eb030",
+        "redirection_url": "https://shopee.sg/big-brand-discounts",
+        "image_ratio": 3.116883,
+        "image_ratio_pc": 20,
+        "image_pc": "f115cd0f107dbbba9d430ba472ba78a2"
+      }
+    },
     "campaign_images": {
       "start": 1623859200,
       "end": 1672502340,
