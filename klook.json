@@ -78,6 +78,18 @@
         "enable": true,
         "children": [
           {
+            "id": 21,
+            "name": "Spa & massages",
+            "enable": true,
+            "children": null
+          },
+          {
+            "id": 22,
+            "name": "Salons & beauty",
+            "enable": true,
+            "children": null
+          },
+          {
             "id": 23,
             "name": "Hot springs",
             "enable": true,
@@ -3226,7 +3238,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1259,
+    "total": 1272,
     "price": {
       "from": "0",
       "to": "524"
