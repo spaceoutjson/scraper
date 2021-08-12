@@ -638,12 +638,15 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-08-14 14:00:00",
+        "start_time": "2021-08-15 14:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/uqona0whius3ylays9vg.jpg",
         "icon": null,
@@ -660,7 +663,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/60202-singapore-marina-bay-day-out-join-walking-tour/",
         "deep_link": "https://www.klook.com/en-US/activity/60202-singapore-marina-bay-day-out-join-walking-tour/",
@@ -758,6 +768,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/ypvdhx1d0ivz6agnxofl.jpg",
         "icon": null,
@@ -774,7 +787,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/60162-marina-bay-sky-park-join-tour-haidilao-hotpot-dinner/",
         "deep_link": "https://www.klook.com/en-US/activity/60162-marina-bay-sky-park-join-tour-haidilao-hotpot-dinner/",
@@ -810,6 +830,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/hg7uoopppl6zq1vg2qno.jpg",
         "icon": null,
@@ -826,7 +849,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/60157-botanic-gardens-yoga-class-lunch-walking-tour/",
         "deep_link": "https://www.klook.com/en-US/activity/60157-botanic-gardens-yoga-class-lunch-walking-tour/",
@@ -856,12 +886,15 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-08-14 00:00:00",
+        "start_time": "2021-08-15 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/dtrfuzrokkyksralnr01.jpg",
         "icon": null,
@@ -878,7 +911,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/60152-garden-bay-lunch-singapore-join-tour/",
         "deep_link": "https://www.klook.com/en-US/activity/60152-garden-bay-lunch-singapore-join-tour/",
@@ -960,7 +1000,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-08-13 10:00:00",
+        "start_time": "2021-08-14 10:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1300,6 +1340,58 @@
         "deep_link": "https://www.klook.com/en-US/activity/59287-singapore-spice-life-little-india/",
         "vertical_type": 100,
         "vertical_id": 59287,
+        "custom_tags": null,
+        "what_we_love": ""
+      },
+      {
+        "id": 59071,
+        "template_id": 4,
+        "title": "Harry's at Clarke Quay",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "45.00",
+        "sell_price": "45.00",
+        "from_price": "45.00",
+        "to_price": "45.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-08-27 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/cbphnofglccrdddjaone.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.289985,103.845731",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 487,
+        "package_id": 0,
+        "tags": null,
+        "need_hide_review": false,
+        "deeplink": "https://www.klook.com/en-US/activity/59071-harrys-clarke-quay/",
+        "deep_link": "https://www.klook.com/en-US/activity/59071-harrys-clarke-quay/",
+        "vertical_type": 106,
+        "vertical_id": 59071,
         "custom_tags": null,
         "what_we_love": ""
       },
@@ -3194,61 +3286,9 @@
         "vertical_id": 59667,
         "custom_tags": null,
         "what_we_love": ""
-      },
-      {
-        "id": 59377,
-        "template_id": 3,
-        "title": "Make Pleated Bag Experience ",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "68.00",
-        "sell_price": "68.00",
-        "from_price": "68.00",
-        "to_price": "68.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-08-14 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 6,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/sobtxg2u7vhgk6ir45bl.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.29369,103.831952",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 124,
-        "package_id": 0,
-        "tags": null,
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/59377-singapore-make-bag-experience/",
-        "deep_link": "https://www.klook.com/en-US/activity/59377-singapore-make-bag-experience/",
-        "vertical_type": 100,
-        "vertical_id": 59377,
-        "custom_tags": null,
-        "what_we_love": ""
       }
     ],
-    "total": 1274,
+    "total": 1275,
     "price": {
       "from": "0",
       "to": "524"
