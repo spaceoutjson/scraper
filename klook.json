@@ -104,13 +104,13 @@
         "children": [
           {
             "id": 25,
-            "name": "Classes & workshops",
+            "name": "Workshops & cooking classes",
             "enable": true,
             "children": null
           },
           {
             "id": 26,
-            "name": "Traditional activities",
+            "name": "Costumes & photoshoots",
             "enable": true,
             "children": null
           }
@@ -123,13 +123,13 @@
         "children": [
           {
             "id": 28,
-            "name": "Games & VR",
+            "name": "Games & activity parks",
             "enable": true,
             "children": null
           },
           {
             "id": 29,
-            "name": "Nightlife & drinks",
+            "name": "Drinks & dining experiences",
             "enable": true,
             "children": null
           }
@@ -1183,7 +1183,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-08-16 00:00:00",
+        "start_time": "2021-08-17 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1651,10 +1651,10 @@
           "type": 3,
           "desc": "Free Reservation"
         },
-        "start_time": "2021-09-28 08:00:00",
+        "start_time": "2021-08-26 14:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 2,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -2223,7 +2223,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-08-15 00:00:00",
+        "start_time": "2021-08-16 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 8,
