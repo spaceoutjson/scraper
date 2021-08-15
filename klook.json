@@ -23,7 +23,7 @@
           },
           {
             "id": 6,
-            "name": "Observation & cable cars",
+            "name": "Observation & scenic cable cars",
             "enable": true,
             "children": null
           },
@@ -41,7 +41,7 @@
           },
           {
             "id": 8,
-            "name": "Attraction passes & more",
+            "name": "Attraction passes",
             "enable": true,
             "children": null
           }
@@ -54,7 +54,7 @@
         "children": [
           {
             "id": 17,
-            "name": "Outdoor activities",
+            "name": "Thrill-seeking activities",
             "enable": true,
             "children": null
           },
@@ -142,7 +142,7 @@
         "children": [
           {
             "id": 10,
-            "name": "Walking & biking",
+            "name": "Walking & biking tours",
             "enable": true,
             "children": null
           },
@@ -154,13 +154,19 @@
           },
           {
             "id": 13,
-            "name": "In the air",
+            "name": "Tours in the air",
             "enable": true,
             "children": null
           },
           {
             "id": 11,
-            "name": "Sightseeing",
+            "name": "Vehicle tours",
+            "enable": true,
+            "children": null
+          },
+          {
+            "id": 14,
+            "name": "Boat tours, cruises & yachts",
             "enable": true,
             "children": null
           }
