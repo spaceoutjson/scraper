@@ -569,6 +569,68 @@
     ],
     "activities": [
       {
+        "id": 60278,
+        "template_id": 3,
+        "title": "Southern Islands, Raffles Lighthouse and Pulau Hantu Tour",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "https://res.klook.com/video/upload/fl_lossy.progressive,q_85,f_auto/c_fill,,/c_scale,h_540,vc_auto/c_scale,g_north_west,h_20,l_whitelogo_hz5dq1,o_30,x_70,y_480/c_scale,f_mp4,fl_splice,h_540,l_video:ending_trgtvv/v1628608955/activities/hf3osindaxsxciioqekp.mp4",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "100.00",
+        "sell_price": "100.00",
+        "from_price": "100.00",
+        "to_price": "100.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-08-21 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/obkfqrjxhuawi7oepkit.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.2709,103.863255",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 135,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/60278-southern-island-raffles-lighthouse-pulau-hantu-tour/",
+        "deep_link": "https://www.klook.com/en-US/activity/60278-southern-island-raffles-lighthouse-pulau-hantu-tour/",
+        "vertical_type": 100,
+        "vertical_id": 60278,
+        "custom_tags": null,
+        "what_we_love": ""
+      },
+      {
         "id": 60304,
         "template_id": 2,
         "title": "Sunset River Boat Tour with Dinner at Marina Bay Sands",
@@ -961,7 +1023,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-08-18 00:00:00",
+        "start_time": "2021-08-19 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1023,7 +1085,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-08-18 00:00:00",
+        "start_time": "2021-08-19 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1244,7 +1306,7 @@
         "start_time": "2021-08-28 09:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 7,
+        "participate": 10,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -3195,71 +3257,9 @@
         "vertical_id": 59269,
         "custom_tags": null,
         "what_we_love": ""
-      },
-      {
-        "id": 59855,
-        "template_id": 2,
-        "title": "National Day Celebration 2021 City Tour with Shopping and Seafood Lunch",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "100.00",
-        "sell_price": "100.00",
-        "from_price": "100.00",
-        "to_price": "100.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-08-29 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 6,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/lfgpzoukqailonmhseeg.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.268546,103.801474",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 340,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/59855-city-tour-shopping-seafood-lunch-singapore/",
-        "deep_link": "https://www.klook.com/en-US/activity/59855-city-tour-shopping-seafood-lunch-singapore/",
-        "vertical_type": 100,
-        "vertical_id": 59855,
-        "custom_tags": null,
-        "what_we_love": ""
       }
     ],
-    "total": 1279,
+    "total": 1280,
     "price": {
       "from": "0",
       "to": "523"
