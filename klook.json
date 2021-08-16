@@ -28,12 +28,6 @@
             "children": null
           },
           {
-            "id": 5,
-            "name": "Nature & animals",
-            "enable": true,
-            "children": null
-          },
-          {
             "id": 4,
             "name": "Museums & galleries",
             "enable": true,
@@ -55,12 +49,6 @@
           {
             "id": 17,
             "name": "Thrill-seeking activities",
-            "enable": true,
-            "children": null
-          },
-          {
-            "id": 16,
-            "name": "Water activities",
             "enable": true,
             "children": null
           },
@@ -98,44 +86,6 @@
         ]
       },
       {
-        "id": 24,
-        "name": "Culture & workshops",
-        "enable": true,
-        "children": [
-          {
-            "id": 25,
-            "name": "Workshops & cooking classes",
-            "enable": true,
-            "children": null
-          },
-          {
-            "id": 26,
-            "name": "Costumes & photoshoots",
-            "enable": true,
-            "children": null
-          }
-        ]
-      },
-      {
-        "id": 27,
-        "name": "Fun & nightlife",
-        "enable": true,
-        "children": [
-          {
-            "id": 28,
-            "name": "Games & activity parks",
-            "enable": true,
-            "children": null
-          },
-          {
-            "id": 29,
-            "name": "Drinks & dining experiences",
-            "enable": true,
-            "children": null
-          }
-        ]
-      },
-      {
         "id": 9,
         "name": "Tours & sightseeing",
         "enable": true,
@@ -143,12 +93,6 @@
           {
             "id": 10,
             "name": "Walking & biking tours",
-            "enable": true,
-            "children": null
-          },
-          {
-            "id": 12,
-            "name": "Private tours",
             "enable": true,
             "children": null
           },
