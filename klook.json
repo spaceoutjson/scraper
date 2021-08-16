@@ -38,6 +38,24 @@
             "name": "Attraction passes",
             "enable": true,
             "children": null
+          },
+          {
+            "id": 116,
+            "name": "Natural landscapes & gardens",
+            "enable": true,
+            "children": null
+          },
+          {
+            "id": 117,
+            "name": "Aquariums, zoos & farms",
+            "enable": true,
+            "children": null
+          },
+          {
+            "id": 118,
+            "name": "Animal watching & interaction",
+            "enable": true,
+            "children": null
           }
         ]
       },
@@ -55,6 +73,12 @@
           {
             "id": 19,
             "name": "Camping & glamping",
+            "enable": true,
+            "children": null
+          },
+          {
+            "id": 119,
+            "name": "Fitness",
             "enable": true,
             "children": null
           }
@@ -111,6 +135,37 @@
           {
             "id": 14,
             "name": "Boat tours, cruises & yachts",
+            "enable": true,
+            "children": null
+          },
+          {
+            "id": 118,
+            "name": "Animal watching & interaction",
+            "enable": true,
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 121,
+        "name": "Water sports & activities",
+        "enable": true,
+        "children": [
+          {
+            "id": 123,
+            "name": "Diving & snorkeling",
+            "enable": true,
+            "children": null
+          },
+          {
+            "id": 125,
+            "name": "Paddleboading, kayaking & rafting",
+            "enable": true,
+            "children": null
+          },
+          {
+            "id": 126,
+            "name": "Fishing & other water sports",
             "enable": true,
             "children": null
           }
