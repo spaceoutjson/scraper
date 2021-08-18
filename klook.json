@@ -223,6 +223,12 @@
         "children": null
       },
       {
+        "id": 55,
+        "name": "Staycations",
+        "enable": true,
+        "children": null
+      },
+      {
         "id": 64,
         "name": "Shopping",
         "enable": true,
@@ -752,7 +758,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-08-19 13:00:00",
+        "start_time": "2021-08-19 18:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -866,7 +872,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-08-19 13:00:00",
+        "start_time": "2021-08-20 08:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
