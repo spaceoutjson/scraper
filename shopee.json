@@ -1,5 +1,5 @@
 {
-  "version": "e179bb5a1173c6200a85b8b49677b601",
+  "version": "b51fac705c45630211bd9601ec4cdb89",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -60,7 +60,7 @@
           "is_category_failed": false,
           "show_discount": 50,
           "cmt_count": 1257,
-          "view_count": 70280,
+          "view_count": 70289,
           "catid": 100629,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -230,7 +230,7 @@
           "is_category_failed": false,
           "show_discount": 21,
           "cmt_count": 96,
-          "view_count": 6773,
+          "view_count": 6780,
           "catid": 100644,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -378,7 +378,7 @@
           "is_category_failed": false,
           "show_discount": 51,
           "cmt_count": 34,
-          "view_count": 9443,
+          "view_count": 9450,
           "catid": 100010,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -386,7 +386,7 @@
           "is_official_shop": true,
           "brand": "Panasonic",
           "price_min": 53900000,
-          "liked_count": 147,
+          "liked_count": 148,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -514,7 +514,7 @@
           "is_category_failed": false,
           "show_discount": 26,
           "cmt_count": 119,
-          "view_count": 28720,
+          "view_count": 28734,
           "catid": 100636,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -812,8 +812,8 @@
           "price_before_discount": 6800000,
           "is_category_failed": false,
           "show_discount": 49,
-          "cmt_count": 2022,
-          "view_count": 62791,
+          "cmt_count": 2023,
+          "view_count": 62796,
           "catid": 100629,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -838,17 +838,17 @@
           "price": 3490000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.740594,
+            "rating_star": 4.740722,
             "rating_count": [
-              2022,
+              2023,
               57,
               27,
               54,
               115,
-              1769
+              1770
             ],
-            "rcount_with_image": 1058,
-            "rcount_with_context": 1400
+            "rcount_with_image": 1059,
+            "rcount_with_context": 1401
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -914,7 +914,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 4554,
+          "historical_sold": 4555,
           "transparent_background_image": "0089a601d7eeeebc8fe2bd08ef9c7cf4"
         },
         {
@@ -958,7 +958,7 @@
           "is_category_failed": false,
           "show_discount": 29,
           "cmt_count": 360,
-          "view_count": 18232,
+          "view_count": 18235,
           "catid": 100637,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1252,7 +1252,7 @@
           "is_category_failed": false,
           "show_discount": 35,
           "cmt_count": 375,
-          "view_count": 2166,
+          "view_count": 2167,
           "catid": 100630,
           "is_on_flash_sale": null,
           "voucher_info": null,
