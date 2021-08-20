@@ -11,6 +11,49 @@
     "sort": "publish_time",
     "frontend_tree_mapping": [
       {
+        "id": 2,
+        "name": "Attractions & tickets",
+        "enable": true,
+        "children": [
+          {
+            "id": 3,
+            "name": "Theme & water parks",
+            "enable": true,
+            "children": null
+          },
+          {
+            "id": 4,
+            "name": "Museums & galleries",
+            "enable": true,
+            "children": null
+          },
+          {
+            "id": 6,
+            "name": "Observation & scenic cable cars",
+            "enable": true,
+            "children": null
+          },
+          {
+            "id": 8,
+            "name": "Attraction passes",
+            "enable": true,
+            "children": null
+          },
+          {
+            "id": 116,
+            "name": "Natural landscapes & gardens",
+            "enable": true,
+            "children": null
+          },
+          {
+            "id": 117,
+            "name": "Aquariums, zoos & farms",
+            "enable": true,
+            "children": null
+          }
+        ]
+      },
+      {
         "id": 15,
         "name": "Outdoors & sports",
         "enable": true,
