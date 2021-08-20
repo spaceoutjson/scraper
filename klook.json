@@ -11,55 +11,6 @@
     "sort": "publish_time",
     "frontend_tree_mapping": [
       {
-        "id": 2,
-        "name": "Attractions & tickets",
-        "enable": true,
-        "children": [
-          {
-            "id": 3,
-            "name": "Theme & water parks",
-            "enable": true,
-            "children": null
-          },
-          {
-            "id": 6,
-            "name": "Observation & scenic cable cars",
-            "enable": true,
-            "children": null
-          },
-          {
-            "id": 4,
-            "name": "Museums & galleries",
-            "enable": true,
-            "children": null
-          },
-          {
-            "id": 8,
-            "name": "Attraction passes",
-            "enable": true,
-            "children": null
-          },
-          {
-            "id": 116,
-            "name": "Natural landscapes & gardens",
-            "enable": true,
-            "children": null
-          },
-          {
-            "id": 117,
-            "name": "Aquariums, zoos & farms",
-            "enable": true,
-            "children": null
-          },
-          {
-            "id": 118,
-            "name": "Animal watching & interaction",
-            "enable": true,
-            "children": null
-          }
-        ]
-      },
-      {
         "id": 15,
         "name": "Outdoors & sports",
         "enable": true,
@@ -1131,7 +1082,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-08-22 00:00:00",
+        "start_time": "2021-08-26 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1535,7 +1486,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-08-21 00:00:00",
+        "start_time": "2021-08-22 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 6,
@@ -1845,7 +1796,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-08-22 14:00:00",
+        "start_time": "2021-08-25 14:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
