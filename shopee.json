@@ -1,5 +1,5 @@
 {
-  "version": "55bbfc41de7112cd005f582e2c18a880",
+  "version": "d2926be38398ca6dc447ade67e15c445",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -53,7 +53,7 @@
           "is_category_failed": false,
           "show_discount": 10,
           "cmt_count": 352,
-          "view_count": 4166,
+          "view_count": 4149,
           "catid": 100632,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -68,7 +68,7 @@
           "price_min_before_discount": 3850000,
           "cb_option": 0,
           "sold": 177,
-          "stock": 830,
+          "stock": 829,
           "status": 1,
           "price_max": 3450000,
           "add_on_deal_info": null,
@@ -176,7 +176,7 @@
           "is_category_failed": false,
           "show_discount": 17,
           "cmt_count": 307,
-          "view_count": 3337,
+          "view_count": 3614,
           "catid": 100013,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -304,8 +304,8 @@
           "price_before_discount": 18800000,
           "is_category_failed": false,
           "show_discount": 39,
-          "cmt_count": 869,
-          "view_count": 10569,
+          "cmt_count": 870,
+          "view_count": 10398,
           "catid": 100010,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -313,7 +313,7 @@
           "is_official_shop": true,
           "brand": "Dibea",
           "price_min": 11500000,
-          "liked_count": 1801,
+          "liked_count": 1805,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -334,14 +334,14 @@
           "price": 11500000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.927503,
+            "rating_star": 4.927586,
             "rating_count": [
-              869,
+              870,
               4,
               0,
               8,
               31,
-              826
+              827
             ],
             "rcount_with_image": 395,
             "rcount_with_context": 586
@@ -409,7 +409,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 1563,
+          "historical_sold": 1564,
           "transparent_background_image": "07c57f59157a160381adc21e504f4aa4"
         },
         {
@@ -451,7 +451,7 @@
           "is_category_failed": false,
           "show_discount": 38,
           "cmt_count": 1114,
-          "view_count": 3166,
+          "view_count": 3225,
           "catid": 100630,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -459,14 +459,14 @@
           "is_official_shop": false,
           "brand": "SK-II",
           "price_min": 5800000,
-          "liked_count": 578,
+          "liked_count": 579,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
           "price_min_before_discount": 9300000,
           "cb_option": 0,
           "sold": 183,
-          "stock": 123,
+          "stock": 122,
           "status": 1,
           "price_max": 5800000,
           "add_on_deal_info": null,
@@ -585,7 +585,7 @@
           "is_category_failed": false,
           "show_discount": 19,
           "cmt_count": 859,
-          "view_count": 11801,
+          "view_count": 11650,
           "catid": 100636,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -681,7 +681,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 1676,
+          "historical_sold": 1678,
           "transparent_background_image": "08dc61e67204ba83aaf298ecdce4b47a"
         },
         {
@@ -720,8 +720,8 @@
           "price_before_discount": 5590000,
           "is_category_failed": false,
           "show_discount": 11,
-          "cmt_count": 1426,
-          "view_count": 27837,
+          "cmt_count": 1429,
+          "view_count": 27543,
           "catid": 100629,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -736,7 +736,7 @@
           "price_min_before_discount": 5590000,
           "cb_option": 0,
           "sold": 652,
-          "stock": 961,
+          "stock": 958,
           "status": 1,
           "price_max": 4990000,
           "add_on_deal_info": null,
@@ -746,17 +746,17 @@
           "price": 4990000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.976157,
+            "rating_star": 4.976207,
             "rating_count": [
-              1426,
+              1429,
               0,
               0,
               4,
               26,
-              1396
+              1399
             ],
-            "rcount_with_image": 619,
-            "rcount_with_context": 999
+            "rcount_with_image": 621,
+            "rcount_with_context": 1001
           },
           "show_official_shop_label_in_title": false,
           "tier_variations": [
@@ -799,7 +799,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 2926,
+          "historical_sold": 2931,
           "transparent_background_image": "a9a1d1962055be6584c13f95d1569f9e"
         },
         {
@@ -843,7 +843,7 @@
           "is_category_failed": false,
           "show_discount": 54,
           "cmt_count": 737,
-          "view_count": 8262,
+          "view_count": 8079,
           "catid": 100001,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -992,7 +992,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 1865,
+          "historical_sold": 1873,
           "transparent_background_image": "9d19af6a906d875f56b8f7630beda159"
         },
         {
@@ -1043,7 +1043,7 @@
           "is_category_failed": false,
           "show_discount": 37,
           "cmt_count": 485,
-          "view_count": 5085,
+          "view_count": 4976,
           "catid": 100640,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1051,7 +1051,7 @@
           "is_official_shop": false,
           "brand": "",
           "price_min": 6280000,
-          "liked_count": 1617,
+          "liked_count": 1618,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -1175,7 +1175,7 @@
           "is_category_failed": false,
           "show_discount": 23,
           "cmt_count": 73,
-          "view_count": 1724,
+          "view_count": 1706,
           "catid": 100630,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1312,8 +1312,8 @@
           "price_before_discount": 4399000,
           "is_category_failed": false,
           "show_discount": 11,
-          "cmt_count": 2077,
-          "view_count": 8700,
+          "cmt_count": 2078,
+          "view_count": 8493,
           "catid": 100635,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1321,14 +1321,14 @@
           "is_official_shop": false,
           "brand": "Xiaomi",
           "price_min": 4100000,
-          "liked_count": 2557,
+          "liked_count": 2558,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
           "price_min_before_discount": 4399000,
           "cb_option": 0,
           "sold": 272,
-          "stock": 1131,
+          "stock": 1128,
           "status": 1,
           "price_max": 5650000,
           "add_on_deal_info": {
@@ -1342,17 +1342,17 @@
           "price": 4100000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.939817,
+            "rating_star": 4.939846,
             "rating_count": [
-              2077,
+              2078,
               6,
               4,
               13,
               63,
-              1991
+              1992
             ],
-            "rcount_with_image": 758,
-            "rcount_with_context": 1239
+            "rcount_with_image": 759,
+            "rcount_with_context": 1240
           },
           "show_official_shop_label_in_title": false,
           "tier_variations": [
@@ -1420,7 +1420,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 5928,
+          "historical_sold": 5929,
           "transparent_background_image": "20ce2617eea01a9b2c684f6258048c88"
         }
       ],
