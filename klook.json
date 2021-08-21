@@ -617,6 +617,68 @@
     ],
     "activities": [
       {
+        "id": 60379,
+        "template_id": 2,
+        "title": "[Klook Exclusive] Fright Night at the Museum - Halloween Edition",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "60.00",
+        "sell_price": "60.00",
+        "from_price": "60.00",
+        "to_price": "200.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-09-10 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/try5i2afbgcghv8shakm.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.308797,103.903088",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 150,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/60379-halloween-edition-fright-night-museum-tour-singapore/",
+        "deep_link": "https://www.klook.com/en-US/activity/60379-halloween-edition-fright-night-museum-tour-singapore/",
+        "vertical_type": 100,
+        "vertical_id": 60379,
+        "custom_tags": null,
+        "what_we_love": ""
+      },
+      {
         "id": 60564,
         "template_id": 2,
         "title": "Singapore Clarke Quay Night Walk and River Cruise Tour with Seafood Lunch or Dinner",
@@ -643,6 +705,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/gjb5l7hujdmfim6bz1fq.jpg",
         "icon": null,
@@ -659,7 +724,14 @@
         "real_lang": "",
         "leaf_category": 157,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/60564-singapore-clarke-quay-night-walk-river-cruise-tour-seafood-lunch-dinner/",
         "deep_link": "https://www.klook.com/en-US/activity/60564-singapore-clarke-quay-night-walk-river-cruise-tour-seafood-lunch-dinner/",
@@ -695,6 +767,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/az85cwmewxrr4qxea6en.jpg",
         "icon": null,
@@ -711,7 +786,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/60558-singapore-chinatown-murals-street-walk-tour-seafood-lunch-dinner/",
         "deep_link": "https://www.klook.com/en-US/activity/60558-singapore-chinatown-murals-street-walk-tour-seafood-lunch-dinner/",
@@ -855,7 +937,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-08-28 00:00:00",
+        "start_time": "2021-08-29 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3313,61 +3395,9 @@
         "vertical_id": 59644,
         "custom_tags": null,
         "what_we_love": ""
-      },
-      {
-        "id": 59327,
-        "template_id": 4,
-        "title": "Full Moon Reigns Mid-Autumn at JW Marriott Singapore South Beach",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 5,
-        "currency": "SGD",
-        "market_price": "72.00",
-        "sell_price": "57.60",
-        "from_price": "57.60",
-        "to_price": "74.40",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-08-21 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 31,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "review_total": 1,
-        "image_url_host": "https://res.klook.com/image/upload/activities/thomlrjcesy5cjtrnood.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.294721,103.856053",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 488,
-        "package_id": 0,
-        "tags": null,
-        "need_hide_review": false,
-        "deeplink": "https://www.klook.com/en-US/activity/59327-mooncake-takeaway-jw-marriott-singapore-south-beach/",
-        "deep_link": "https://www.klook.com/en-US/activity/59327-mooncake-takeaway-jw-marriott-singapore-south-beach/",
-        "vertical_type": 106,
-        "vertical_id": 59327,
-        "custom_tags": null,
-        "what_we_love": ""
       }
     ],
-    "total": 1294,
+    "total": 1295,
     "price": {
       "from": "0",
       "to": "525"
