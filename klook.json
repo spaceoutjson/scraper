@@ -1884,7 +1884,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-08-26 13:00:00",
+        "start_time": "2021-08-26 18:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1998,7 +1998,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-08-26 13:00:00",
+        "start_time": "2021-08-27 08:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2040,7 +2040,7 @@
         "instance": 1,
         "image_url": "",
         "video_url": "https://res.klook.com/video/upload/fl_lossy.progressive,q_85,f_auto/c_fill,,/c_scale,h_540,vc_auto/c_scale,g_north_west,h_20,l_whitelogo_hz5dq1,o_30,x_70,y_480/c_scale,f_mp4,fl_splice,h_540,l_video:ending_trgtvv/v1628608955/activities/hf3osindaxsxciioqekp.mp4",
-        "score": 0,
+        "score": 5,
         "currency": "SGD",
         "market_price": "100.00",
         "sell_price": "100.00",
@@ -2059,7 +2059,7 @@
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
         },
-        "review_total": 0,
+        "review_total": 1,
         "image_url_host": "https://res.klook.com/image/upload/activities/obkfqrjxhuawi7oepkit.jpg",
         "icon": null,
         "icons": null,
@@ -2083,7 +2083,7 @@
             "text": "Eligible for SingapoRediscovers Vouchers"
           }
         ],
-        "need_hide_review": true,
+        "need_hide_review": false,
         "deeplink": "https://www.klook.com/en-US/activity/60278-southern-island-raffles-lighthouse-pulau-hantu-tour/",
         "deep_link": "https://www.klook.com/en-US/activity/60278-southern-island-raffles-lighthouse-pulau-hantu-tour/",
         "vertical_type": 100,
