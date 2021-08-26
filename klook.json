@@ -587,9 +587,9 @@
         "score": 0,
         "currency": "SGD",
         "market_price": "100.00",
-        "sell_price": "100.00",
-        "from_price": "100.00",
-        "to_price": "100.00",
+        "sell_price": "88.89",
+        "from_price": "88.89",
+        "to_price": "88.89",
         "spec_price": {
           "type": 0,
           "desc": ""
@@ -1600,7 +1600,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-08-27 00:00:00",
+        "start_time": "2021-08-30 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1652,7 +1652,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-08-27 00:00:00",
+        "start_time": "2021-08-30 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1704,7 +1704,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-08-27 00:00:00",
+        "start_time": "2021-08-30 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2056,7 +2056,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-08-27 18:00:00",
+        "start_time": "2021-08-28 08:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2170,7 +2170,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-08-27 18:00:00",
+        "start_time": "2021-08-28 08:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2832,7 +2832,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-08-27 10:00:00",
+        "start_time": "2021-08-28 10:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3384,7 +3384,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1298,
+    "total": 1296,
     "price": {
       "from": "0",
       "to": "522"
