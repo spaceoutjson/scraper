@@ -576,7 +576,8 @@
       "2022-08-26T00:00:00Z",
       "2022-08-27T00:00:00Z",
       "2022-08-28T00:00:00Z",
-      "2022-08-29T00:00:00Z"
+      "2022-08-29T00:00:00Z",
+      "2022-08-30T00:00:00Z"
     ],
     "activities": [
       {
@@ -3114,7 +3115,7 @@
         "participate": 237,
         "participants_format": "200+ Booked",
         "discount": 0,
-        "review_total": 1,
+        "review_total": 2,
         "image_url_host": "https://res.klook.com/image/upload/activities/fki0zcuriwabg1bskxgc.jpg",
         "icon": null,
         "icons": null,
@@ -3400,7 +3401,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1285,
+    "total": 1283,
     "price": {
       "from": "0",
       "to": "519"
