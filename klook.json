@@ -669,6 +669,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/kciwxspeyn0hohf7budo.jpg",
         "icon": null,
@@ -685,7 +688,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/60689-uncover-the-city-of-singapore-tour/",
         "deep_link": "https://www.klook.com/en-US/activity/60689-uncover-the-city-of-singapore-tour/",
@@ -749,7 +759,7 @@
       {
         "id": 60742,
         "template_id": 3,
-        "title": "Custom Watch Workshop",
+        "title": "Custom Watch Workshop by Seiko Bespoke",
         "subtitle": "",
         "url_seo": "",
         "city_id": 6,
@@ -770,7 +780,7 @@
         "start_time": "2021-09-03 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 1,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -847,17 +857,17 @@
         "package_id": 0,
         "tags": [
           {
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "New"
-          },
-          {
             "key": "percentage_off",
             "background_color_left": "#FF9557",
             "background_color_right": "#FF6B3D",
             "text_color": "#FFFFFF",
             "text": "15% OFF"
+          },
+          {
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "New"
           }
         ],
         "need_hide_review": false,
@@ -2175,7 +2185,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-09-02 00:00:00",
+        "start_time": "2021-09-03 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2227,7 +2237,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-09-02 00:00:00",
+        "start_time": "2021-09-03 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2279,7 +2289,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-09-02 00:00:00",
+        "start_time": "2021-09-03 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2631,7 +2641,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-09-02 18:00:00",
+        "start_time": "2021-09-03 08:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3407,7 +3417,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-09-02 10:00:00",
+        "start_time": "2021-09-03 10:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
