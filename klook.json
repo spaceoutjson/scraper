@@ -1284,10 +1284,10 @@
         "video_url": "",
         "score": 0,
         "currency": "SGD",
-        "market_price": "182.40",
-        "sell_price": "182.40",
-        "from_price": "182.40",
-        "to_price": "182.40",
+        "market_price": "164.80",
+        "sell_price": "164.80",
+        "from_price": "164.80",
+        "to_price": "164.80",
         "spec_price": {
           "type": 0,
           "desc": ""
@@ -1482,7 +1482,7 @@
       {
         "id": 60400,
         "template_id": 2,
-        "title": "Duck Tour + Scrumptious Lunch + National Gallery + Orchid Garden",
+        "title": "Duck Tour + Scrumptious Lunch + National Museum + Orchid Garden",
         "subtitle": "",
         "url_seo": "",
         "city_id": 6,
@@ -3168,7 +3168,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-09-04 14:00:00",
+        "start_time": "2021-09-05 14:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3354,7 +3354,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-09-04 00:00:00",
+        "start_time": "2021-09-05 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
