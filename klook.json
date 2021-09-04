@@ -1075,17 +1075,17 @@
         "package_id": 0,
         "tags": [
           {
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "New"
+          },
+          {
             "key": "percentage_off",
             "background_color_left": "#FF9557",
             "background_color_right": "#FF6B3D",
             "text_color": "#FFFFFF",
             "text": "15% OFF"
-          },
-          {
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "New"
           }
         ],
         "need_hide_review": false,
@@ -3831,7 +3831,10 @@
         ]
       }
     ],
-    "srv_filter_option": null,
+    "srv_filter_option": {
+      "srv_act_content": "Eligible for SingapoRediscovers Vouchers",
+      "is_selected": 0
+    },
     "nsw_filter_option": null
   },
   "success": true
