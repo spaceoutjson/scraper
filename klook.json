@@ -651,9 +651,62 @@
       "2022-09-03T00:00:00Z",
       "2022-09-04T00:00:00Z",
       "2022-09-05T00:00:00Z",
-      "2022-09-06T00:00:00Z"
+      "2022-09-06T00:00:00Z",
+      "2022-09-07T00:00:00Z"
     ],
     "activities": [
+      {
+        "id": 61803,
+        "template_id": 3,
+        "title": "Overnight Private Yacht Rental Singapore - K2 Chartering",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 0,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "800.00",
+        "sell_price": "755.59",
+        "from_price": "755.59",
+        "to_price": "755.59",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-09-11 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/gq9iljjqnhfxth87r4yt.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.352083,103.819836",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 509,
+        "package_id": 0,
+        "tags": null,
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/61803-overnight-private-yacht-rental-singapore/",
+        "deep_link": "https://www.klook.com/en-US/activity/61803-overnight-private-yacht-rental-singapore/",
+        "vertical_type": 100,
+        "vertical_id": 61803,
+        "custom_tags": null,
+        "what_we_love": ""
+      },
       {
         "id": 45257,
         "template_id": 3,
@@ -1678,13 +1731,6 @@
         "package_id": 0,
         "tags": [
           {
-            "key": "percentage_off",
-            "background_color_left": "#FF9557",
-            "background_color_right": "#FF6B3D",
-            "text_color": "#FFFFFF",
-            "text": "15% OFF"
-          },
-          {
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
@@ -1695,6 +1741,13 @@
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
             "text": "New"
+          },
+          {
+            "key": "percentage_off",
+            "background_color_left": "#FF9557",
+            "background_color_right": "#FF6B3D",
+            "text_color": "#FFFFFF",
+            "text": "15% OFF"
           }
         ],
         "need_hide_review": false,
@@ -3523,71 +3576,9 @@
         "vertical_id": 60249,
         "custom_tags": null,
         "what_we_love": ""
-      },
-      {
-        "id": 59394,
-        "template_id": 2,
-        "title": "Fort Canning Heritage Tour with Seafood Dinner & River Cruise Ticket",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "100.00",
-        "sell_price": "100.00",
-        "from_price": "100.00",
-        "to_price": "100.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-09-12 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/citiprwr42cwv7uxay6o.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.296647,103.84851",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 150,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/59394-fort-canning-heritage-seafood-dinner-river-cruise-join-landmark-tour/",
-        "deep_link": "https://www.klook.com/en-US/activity/59394-fort-canning-heritage-seafood-dinner-river-cruise-join-landmark-tour/",
-        "vertical_type": 100,
-        "vertical_id": 59394,
-        "custom_tags": null,
-        "what_we_love": ""
       }
     ],
-    "total": 1296,
+    "total": 1294,
     "price": {
       "from": "0",
       "to": "520"
