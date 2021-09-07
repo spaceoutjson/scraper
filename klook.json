@@ -655,6 +655,68 @@
     ],
     "activities": [
       {
+        "id": 45257,
+        "template_id": 3,
+        "title": "Salon Infinity",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "250.39",
+        "sell_price": "209.00",
+        "from_price": "209.00",
+        "to_price": "209.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-09-09 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "deals_discount": "17% OFF"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/ovqokz0dxafodhhpnxrf.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.295968,103.858967",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 419,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "17% OFF"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/45257-hairstyling-experience-suntec-singapore/",
+        "deep_link": "https://www.klook.com/en-US/activity/45257-hairstyling-experience-suntec-singapore/",
+        "vertical_type": 100,
+        "vertical_id": 45257,
+        "custom_tags": null,
+        "what_we_love": ""
+      },
+      {
         "id": 58562,
         "template_id": 2,
         "title": "Hainanese Heritage Tour PLUS Orient Express and Gardens by the Bay Admission Tickets",
@@ -1616,12 +1678,6 @@
         "package_id": 0,
         "tags": [
           {
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "New"
-          },
-          {
             "key": "percentage_off",
             "background_color_left": "#FF9557",
             "background_color_right": "#FF6B3D",
@@ -1633,6 +1689,12 @@
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
             "text": "20% OFF"
+          },
+          {
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "New"
           }
         ],
         "need_hide_review": false,
@@ -1847,7 +1909,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-09-08 00:00:00",
+        "start_time": "2021-09-09 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3523,61 +3585,9 @@
         "vertical_id": 59394,
         "custom_tags": null,
         "what_we_love": ""
-      },
-      {
-        "id": 59250,
-        "template_id": 3,
-        "title": "Private Yacht Charter - Zen Sea 1 - By zenithyachtcharters",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 0,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "788.00",
-        "sell_price": "788.00",
-        "from_price": "788.00",
-        "to_price": "788.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-09-09 08:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/velicgzvjun84jxidv8a.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.245558,103.839889",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 509,
-        "package_id": 0,
-        "tags": null,
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/59250-private-yacht-charter-zen-sea-1-by-zenithyachtcharters/",
-        "deep_link": "https://www.klook.com/en-US/activity/59250-private-yacht-charter-zen-sea-1-by-zenithyachtcharters/",
-        "vertical_type": 100,
-        "vertical_id": 59250,
-        "custom_tags": null,
-        "what_we_love": ""
       }
     ],
-    "total": 1293,
+    "total": 1296,
     "price": {
       "from": "0",
       "to": "519"
