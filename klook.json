@@ -44,6 +44,12 @@
             "name": "Museums & galleries",
             "enable": true,
             "children": null
+          },
+          {
+            "id": 8,
+            "name": "Attraction passes",
+            "enable": true,
+            "children": null
           }
         ]
       },
@@ -649,6 +655,68 @@
     ],
     "activities": [
       {
+        "id": 60150,
+        "template_id": 4,
+        "title": "Manam Restaurant in Singapore",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "50.00",
+        "sell_price": "40.00",
+        "from_price": "40.00",
+        "to_price": "40.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-09-07 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "deals_discount": "20% OFF"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/s7kxcurkghicwealfhnt.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.288752,103.848038",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 487,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "20% OFF"
+          }
+        ],
+        "need_hide_review": false,
+        "deeplink": "https://www.klook.com/en-US/activity/60150-manam-restaurant-singapore/",
+        "deep_link": "https://www.klook.com/en-US/activity/60150-manam-restaurant-singapore/",
+        "vertical_type": 106,
+        "vertical_id": 60150,
+        "custom_tags": null,
+        "what_we_love": ""
+      },
+      {
         "id": 61641,
         "template_id": 3,
         "title": "Spin Art with Spin Paint House",
@@ -1226,6 +1294,7 @@
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
+          "deals_discount": "20% OFF",
           "new_activity": "New",
           "percentage_off": "15% OFF"
         },
@@ -1258,6 +1327,12 @@
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
             "text": "New"
+          },
+          {
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "20% OFF"
           }
         ],
         "need_hide_review": false,
@@ -1410,6 +1485,7 @@
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
+          "deals_discount": "10% OFF",
           "new_activity": "New"
         },
         "review_total": 0,
@@ -1434,6 +1510,12 @@
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
             "text": "New"
+          },
+          {
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "10% OFF"
           }
         ],
         "need_hide_review": false,
@@ -1471,6 +1553,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "deals_discount": "83% OFF"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/hvta5rknhhakuke5icyv.jpg",
         "icon": null,
@@ -1487,7 +1572,14 @@
         "real_lang": "",
         "leaf_category": 497,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "83% OFF"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/60492-bespoke-facial-treatment-tri-active-fat-loss-singapore/",
         "deep_link": "https://www.klook.com/en-US/activity/60492-bespoke-facial-treatment-tri-active-fat-loss-singapore/",
@@ -1689,6 +1781,9 @@
         "participate": 1,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "deals_discount": "20% OFF"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/sqjucqivdqza2pvdlutz.jpg",
         "icon": null,
@@ -1705,7 +1800,14 @@
         "real_lang": "",
         "leaf_category": 488,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "20% OFF"
+          }
+        ],
         "need_hide_review": false,
         "deeplink": "https://www.klook.com/en-US/activity/60616-mitzo-grand-park-orchard/",
         "deep_link": "https://www.klook.com/en-US/activity/60616-mitzo-grand-park-orchard/",
@@ -1917,6 +2019,9 @@
         "participate": 1,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "deals_discount": "11% OFF"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/kk9xdiaqeynthscrsaph.jpg",
         "icon": null,
@@ -1933,7 +2038,14 @@
         "real_lang": "",
         "leaf_category": 336,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "11% OFF"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/60513-heritage-collection-boat-quay-singapore-staycation/",
         "deep_link": "https://www.klook.com/en-US/activity/60513-heritage-collection-boat-quay-singapore-staycation/",
@@ -2121,7 +2233,7 @@
       {
         "id": 60558,
         "template_id": 2,
-        "title": "Singapore Chinatown Street Walk Tour with Seafood Lunch or Dinner",
+        "title": "[Klook Exclusive] Singapore Chinatown Street Walk Tour with Seafood Lunch or Dinner",
         "subtitle": "",
         "url_seo": "",
         "city_id": 6,
@@ -2142,7 +2254,7 @@
         "start_time": "2021-09-10 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 37,
+        "participate": 39,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2321,6 +2433,9 @@
         "participate": 1,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "deals_discount": "31% OFF"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/jkhqihhv7rpcwywbbjna.jpg",
         "icon": null,
@@ -2337,7 +2452,14 @@
         "real_lang": "",
         "leaf_category": 129,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "31% OFF"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/60373-up-close-horses-grooming-session-singapore/",
         "deep_link": "https://www.klook.com/en-US/activity/60373-up-close-horses-grooming-session-singapore/",
@@ -2373,6 +2495,9 @@
         "participate": 2,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "deals_discount": "21% OFF"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/j7ujiolgo3cp5kuvor4u.jpg",
         "icon": null,
@@ -2389,7 +2514,14 @@
         "real_lang": "",
         "leaf_category": 124,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "21% OFF"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/59186-kopi-coffee-workshop-singapore/",
         "deep_link": "https://www.klook.com/en-US/activity/59186-kopi-coffee-workshop-singapore/",
@@ -2425,6 +2557,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "deals_discount": "21% OFF"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/y5ddztkkhfqb4dvozzhf.jpg",
         "icon": null,
@@ -2441,7 +2576,14 @@
         "real_lang": "",
         "leaf_category": 124,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "21% OFF"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/59175-brewology-basics-workshop-singapore/",
         "deep_link": "https://www.klook.com/en-US/activity/59175-brewology-basics-workshop-singapore/",
@@ -2751,11 +2893,11 @@
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
         },
         "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/bpsqrjnetxmzkxvaidff.jpg",
+        "image_url_host": "https://res.klook.com/image/upload/activities/jgmj1dhxbwnx36mk87rn.jpg",
         "icon": null,
         "icons": null,
         "min_trip": 0,
-        "latlng": "1.291909,103.860821",
+        "latlng": "1.291743,103.860798",
         "activity_type": "",
         "ysim_info": null,
         "country_id": 15,
@@ -2865,7 +3007,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-09-10 00:00:00",
+        "start_time": "2021-09-11 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2933,6 +3075,9 @@
         "participate": 3,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "deals_discount": "15% OFF"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/vmimsvzsond7knsytaow.jpg",
         "icon": null,
@@ -2949,7 +3094,14 @@
         "real_lang": "",
         "leaf_category": 488,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "15% OFF"
+          }
+        ],
         "need_hide_review": false,
         "deeplink": "https://www.klook.com/en-US/activity/60464-mandarin-oriental-singapore/",
         "deep_link": "https://www.klook.com/en-US/activity/60464-mandarin-oriental-singapore/",
@@ -3433,71 +3585,9 @@
         "vertical_id": 60087,
         "custom_tags": null,
         "what_we_love": ""
-      },
-      {
-        "id": 60202,
-        "template_id": 2,
-        "title": "Singapore Marina Bay Day Out Walking Tour",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "100.00",
-        "sell_price": "100.00",
-        "from_price": "100.00",
-        "to_price": "100.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-09-09 14:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/uqona0whius3ylays9vg.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.291034,103.864717",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 150,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/60202-singapore-marina-bay-day-out-join-walking-tour/",
-        "deep_link": "https://www.klook.com/en-US/activity/60202-singapore-marina-bay-day-out-join-walking-tour/",
-        "vertical_type": 100,
-        "vertical_id": 60202,
-        "custom_tags": null,
-        "what_we_love": ""
       }
     ],
-    "total": 1289,
+    "total": 1290,
     "price": {
       "from": "0",
       "to": "519"
