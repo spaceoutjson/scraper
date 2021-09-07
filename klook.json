@@ -16,8 +16,32 @@
         "enable": true,
         "children": [
           {
+            "id": 6,
+            "name": "Observation & scenic cable cars",
+            "enable": true,
+            "children": null
+          },
+          {
+            "id": 116,
+            "name": "Natural landscapes & gardens",
+            "enable": true,
+            "children": null
+          },
+          {
+            "id": 117,
+            "name": "Aquariums, zoos & farms",
+            "enable": true,
+            "children": null
+          },
+          {
             "id": 3,
             "name": "Theme & water parks",
+            "enable": true,
+            "children": null
+          },
+          {
+            "id": 4,
+            "name": "Museums & galleries",
             "enable": true,
             "children": null
           }
@@ -37,6 +61,37 @@
           {
             "id": 119,
             "name": "Fitness",
+            "enable": true,
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 122,
+        "name": "Fun & culture",
+        "enable": true,
+        "children": [
+          {
+            "id": 28,
+            "name": "Games & activity parks",
+            "enable": true,
+            "children": null
+          },
+          {
+            "id": 29,
+            "name": "Drinks & dining experiences",
+            "enable": true,
+            "children": null
+          },
+          {
+            "id": 25,
+            "name": "Workshops & cooking classes",
+            "enable": true,
+            "children": null
+          },
+          {
+            "id": 26,
+            "name": "Costumes & photoshoots",
             "enable": true,
             "children": null
           }
@@ -143,6 +198,19 @@
           {
             "id": 46,
             "name": "Private airport transfers",
+            "enable": true,
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 39,
+        "name": "Buses & ferries",
+        "enable": true,
+        "children": [
+          {
+            "id": 101,
+            "name": "Ferries",
             "enable": true,
             "children": null
           }
