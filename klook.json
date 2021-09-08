@@ -789,7 +789,7 @@
         "start_time": "2021-09-09 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 2,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1203,7 +1203,7 @@
         "start_time": "2021-09-10 10:45:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 2,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -1587,7 +1587,7 @@
         "start_time": "2021-09-19 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 18,
+        "participate": 19,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2007,12 +2007,6 @@
         "package_id": 0,
         "tags": [
           {
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "New"
-          },
-          {
             "key": "percentage_off",
             "background_color_left": "#FF9557",
             "background_color_right": "#FF6B3D",
@@ -2024,6 +2018,12 @@
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
             "text": "20% OFF"
+          },
+          {
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "New"
           }
         ],
         "need_hide_review": false,
@@ -2055,7 +2055,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-09-09 17:00:00",
+        "start_time": "2021-09-10 17:00:00",
         "sold_out": false,
         "published": true,
         "participate": 2,
@@ -2110,7 +2110,7 @@
         "start_time": "2021-09-09 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 4,
+        "participate": 5,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2172,7 +2172,7 @@
         "start_time": "2021-09-10 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 1,
+        "participate": 2,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2303,7 +2303,7 @@
         "start_time": "2021-10-03 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 6,
+        "participate": 7,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2583,7 +2583,7 @@
         "start_time": "2021-09-19 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 17,
+        "participate": 18,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2769,10 +2769,10 @@
         "start_time": "2021-09-09 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 177,
+        "participate": 183,
         "participants_format": "100+ Booked",
         "discount": 0,
-        "review_total": 7,
+        "review_total": 9,
         "image_url_host": "https://res.klook.com/image/upload/activities/rydfwn9wf3q0mqqamfg0.jpg",
         "icon": null,
         "icons": null,
@@ -2945,7 +2945,7 @@
         "start_time": "2021-09-12 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 41,
+        "participate": 45,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3004,7 +3004,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-09-09 00:00:00",
+        "start_time": "",
         "sold_out": true,
         "published": true,
         "participate": 7,
@@ -3307,7 +3307,7 @@
         "start_time": "2021-09-17 18:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 115,
+        "participate": 121,
         "participants_format": "100+ Booked",
         "discount": 0,
         "review_total": 0,
