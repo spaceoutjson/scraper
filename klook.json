@@ -162,6 +162,12 @@
             "name": "Animal watching & interaction",
             "enable": true,
             "children": null
+          },
+          {
+            "id": 11,
+            "name": "Vehicle tours",
+            "enable": true,
+            "children": null
           }
         ]
       },
@@ -656,6 +662,58 @@
     ],
     "activities": [
       {
+        "id": 60805,
+        "template_id": 3,
+        "title": "Happy Hour",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "120.00",
+        "sell_price": "120.00",
+        "from_price": "120.00",
+        "to_price": "120.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-09-25 17:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/e0h85revojaymd9g4u4a.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.295688,103.853963",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 497,
+        "package_id": 0,
+        "tags": null,
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/60805-happy-hour-by-the-inside-job/",
+        "deep_link": "https://www.klook.com/en-US/activity/60805-happy-hour-by-the-inside-job/",
+        "vertical_type": 100,
+        "vertical_id": 60805,
+        "custom_tags": null,
+        "what_we_love": ""
+      },
+      {
         "id": 60128,
         "template_id": 1,
         "title": "[Klook Exclusive] Playgrounds Pass - Bundle & Save!",
@@ -966,7 +1024,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-09-11 08:00:00",
+        "start_time": "2021-09-12 08:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1028,7 +1086,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-09-11 08:00:00",
+        "start_time": "2021-09-12 08:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1090,7 +1148,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-09-09 15:15:00",
+        "start_time": "2021-09-09 16:15:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1142,7 +1200,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-09-09 15:15:00",
+        "start_time": "2021-09-10 10:15:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1848,12 +1906,6 @@
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
-            "text": "20% OFF"
-          },
-          {
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
             "text": "New"
           },
           {
@@ -1862,6 +1914,12 @@
             "background_color_right": "#FF6B3D",
             "text_color": "#FFFFFF",
             "text": "15% OFF"
+          },
+          {
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "20% OFF"
           }
         ],
         "need_hide_review": false,
@@ -3412,7 +3470,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-09-12 00:00:00",
+        "start_time": "2021-09-16 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 9,
@@ -3514,71 +3572,9 @@
         "vertical_id": 60410,
         "custom_tags": null,
         "what_we_love": ""
-      },
-      {
-        "id": 59641,
-        "template_id": 2,
-        "title": "Singapore Clementi Forest or Kranji Forest Hiking Tour",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "80.00",
-        "sell_price": "80.00",
-        "from_price": "80.00",
-        "to_price": "525.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-09-12 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/skze2erpwx7s4zmnd9ke.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.330819,103.778008",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 493,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/59641-singapore-clementi-forest-kranji-forest-half-day-hiking-tour/",
-        "deep_link": "https://www.klook.com/en-US/activity/59641-singapore-clementi-forest-kranji-forest-half-day-hiking-tour/",
-        "vertical_type": 100,
-        "vertical_id": 59641,
-        "custom_tags": null,
-        "what_we_love": ""
       }
     ],
-    "total": 1292,
+    "total": 1293,
     "price": {
       "from": "0",
       "to": "520"
