@@ -656,6 +656,68 @@
     ],
     "activities": [
       {
+        "id": 60128,
+        "template_id": 1,
+        "title": "[Klook Exclusive] Playgrounds Pass - Bundle & Save!",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "91.80",
+        "sell_price": "70.99",
+        "from_price": "70.99",
+        "to_price": "111.99",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-09-08 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "deals_discount": "23% OFF"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/eni7o4i6rk56bwqq6d0w.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.33596,103.705546",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 120,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "23% OFF"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/60128-multi-attractions-playpass-silver-singapore/",
+        "deep_link": "https://www.klook.com/en-US/activity/60128-multi-attractions-playpass-silver-singapore/",
+        "vertical_type": 100,
+        "vertical_id": 60128,
+        "custom_tags": null,
+        "what_we_love": ""
+      },
+      {
         "id": 61770,
         "template_id": 3,
         "title": "Floating SOUND BATH in a Hammock",
@@ -1028,7 +1090,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-09-09 11:45:00",
+        "start_time": "2021-09-09 15:15:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3080,7 +3142,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-09-10 18:00:00",
+        "start_time": "2021-09-17 18:00:00",
         "sold_out": false,
         "published": true,
         "participate": 105,
@@ -3474,7 +3536,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-09-11 00:00:00",
+        "start_time": "2021-09-12 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3514,71 +3576,9 @@
         "vertical_id": 59641,
         "custom_tags": null,
         "what_we_love": ""
-      },
-      {
-        "id": 60464,
-        "template_id": 4,
-        "title": "Mandarin Oriental Mid-Autumn Celebrations by Cherry Garden",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "51.40",
-        "sell_price": "43.70",
-        "from_price": "43.70",
-        "to_price": "76.40",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-09-11 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 12,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "deals_discount": "15% OFF"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/vmimsvzsond7knsytaow.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.290691,103.858311",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 488,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "15% OFF"
-          }
-        ],
-        "need_hide_review": false,
-        "deeplink": "https://www.klook.com/en-US/activity/60464-mandarin-oriental-singapore/",
-        "deep_link": "https://www.klook.com/en-US/activity/60464-mandarin-oriental-singapore/",
-        "vertical_type": 106,
-        "vertical_id": 60464,
-        "custom_tags": null,
-        "what_we_love": ""
       }
     ],
-    "total": 1295,
+    "total": 1296,
     "price": {
       "from": "0",
       "to": "520"
