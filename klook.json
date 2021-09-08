@@ -669,9 +669,9 @@
         "score": 0,
         "currency": "SGD",
         "market_price": "91.80",
-        "sell_price": "70.99",
-        "from_price": "70.99",
-        "to_price": "111.99",
+        "sell_price": "67.99",
+        "from_price": "67.99",
+        "to_price": "107.99",
         "spec_price": {
           "type": 0,
           "desc": ""
@@ -683,10 +683,10 @@
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
-          "deals_discount": "23% OFF"
+          "deals_discount": "26% OFF"
         },
         "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/eni7o4i6rk56bwqq6d0w.jpg",
+        "image_url_host": "https://res.klook.com/image/upload/activities/m4lkq0praxf96wh5uu55.jpg",
         "icon": null,
         "icons": null,
         "min_trip": 0,
@@ -706,7 +706,7 @@
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
-            "text": "23% OFF"
+            "text": "26% OFF"
           }
         ],
         "need_hide_review": true,
@@ -2038,13 +2038,13 @@
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
-            "text": "10% OFF"
+            "text": "New"
           },
           {
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
-            "text": "New"
+            "text": "10% OFF"
           }
         ],
         "need_hide_review": false,
@@ -3578,7 +3578,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1293,
+    "total": 1292,
     "price": {
       "from": "0",
       "to": "520"
