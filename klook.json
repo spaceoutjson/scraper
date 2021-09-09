@@ -1141,7 +1141,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-09-10 11:45:00",
+        "start_time": "2021-09-10 15:15:00",
         "sold_out": false,
         "published": true,
         "participate": 2,
@@ -1948,13 +1948,6 @@
         "package_id": 0,
         "tags": [
           {
-            "key": "percentage_off",
-            "background_color_left": "#FF9557",
-            "background_color_right": "#FF6B3D",
-            "text_color": "#FFFFFF",
-            "text": "15% OFF"
-          },
-          {
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
@@ -1965,6 +1958,13 @@
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
             "text": "New"
+          },
+          {
+            "key": "percentage_off",
+            "background_color_left": "#FF9557",
+            "background_color_right": "#FF6B3D",
+            "text_color": "#FFFFFF",
+            "text": "15% OFF"
           }
         ],
         "need_hide_review": false,
@@ -2141,13 +2141,13 @@
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
-            "text": "New"
+            "text": "10% OFF"
           },
           {
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
-            "text": "10% OFF"
+            "text": "New"
           }
         ],
         "need_hide_review": false,
@@ -2296,8 +2296,8 @@
         "score": 4,
         "currency": "SGD",
         "market_price": "164.80",
-        "sell_price": "164.80",
-        "from_price": "164.80",
+        "sell_price": "131.85",
+        "from_price": "131.85",
         "to_price": "235.40",
         "spec_price": {
           "type": 0,
@@ -2309,6 +2309,9 @@
         "participate": 91,
         "participants_format": "50+ Booked",
         "discount": 0,
+        "card_tags": {
+          "deals_discount": "20% OFF"
+        },
         "review_total": 1,
         "image_url_host": "https://res.klook.com/image/upload/activities/wrcatqsclznu0omux17q.jpg",
         "icon": null,
@@ -2325,7 +2328,14 @@
         "real_lang": "",
         "leaf_category": 336,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "20% OFF"
+          }
+        ],
         "need_hide_review": false,
         "deeplink": "https://www.klook.com/en-US/activity/59091-grand-mercure-singapore-roxy-staycation/",
         "deep_link": "https://www.klook.com/en-US/activity/59091-grand-mercure-singapore-roxy-staycation/",
@@ -3121,7 +3131,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-09-11 10:30:00",
+        "start_time": "2021-09-21 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
