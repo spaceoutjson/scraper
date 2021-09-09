@@ -655,6 +655,68 @@
     ],
     "activities": [
       {
+        "id": 61828,
+        "template_id": 2,
+        "title": "Multicuisine Buffet / Indonesian delights Buffet  with Gardens by the Bay Tour in Singapore (Buy 1 Get 1 Promotion)",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "100.00",
+        "sell_price": "100.00",
+        "from_price": "100.00",
+        "to_price": "100.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-09-13 10:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/eimvpkglisr5mbvnztnw.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.281339,103.858956",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 150,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/61828-multicuisine-buffet-indonesian-delights-gardens-bay-singapore-join-tour/",
+        "deep_link": "https://www.klook.com/en-US/activity/61828-multicuisine-buffet-indonesian-delights-gardens-bay-singapore-join-tour/",
+        "vertical_type": 100,
+        "vertical_id": 61828,
+        "custom_tags": null,
+        "what_we_love": ""
+      },
+      {
         "id": 60805,
         "template_id": 3,
         "title": "Happy Hour",
@@ -730,7 +792,7 @@
         "start_time": "2021-09-09 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 2,
+        "participate": 3,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2141,13 +2203,13 @@
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
-            "text": "10% OFF"
+            "text": "New"
           },
           {
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
-            "text": "New"
+            "text": "10% OFF"
           }
         ],
         "need_hide_review": false,
@@ -3196,7 +3258,7 @@
         "start_time": "2021-09-17 18:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 121,
+        "participate": 123,
         "participants_format": "100+ Booked",
         "discount": 0,
         "review_total": 0,
@@ -3503,71 +3565,9 @@
         "vertical_id": 60172,
         "custom_tags": null,
         "what_we_love": ""
-      },
-      {
-        "id": 60410,
-        "template_id": 2,
-        "title": "Singapore South Island Tour",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "100.00",
-        "sell_price": "100.00",
-        "from_price": "100.00",
-        "to_price": "100.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-09-11 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 2,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/jgq8u7yx3taofcuqjtqn.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.271409,103.863631",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 150,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/60410-singapore-south-island-tour-join-day-walking-tour/",
-        "deep_link": "https://www.klook.com/en-US/activity/60410-singapore-south-island-tour-join-day-walking-tour/",
-        "vertical_type": 100,
-        "vertical_id": 60410,
-        "custom_tags": null,
-        "what_we_love": ""
       }
     ],
-    "total": 1281,
+    "total": 1282,
     "price": {
       "from": "0",
       "to": "520"
