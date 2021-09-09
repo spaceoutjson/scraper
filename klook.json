@@ -267,12 +267,6 @@
         "children": null
       },
       {
-        "id": 64,
-        "name": "Shopping",
-        "enable": true,
-        "children": null
-      },
-      {
         "id": 66,
         "name": "Traveler essentials",
         "enable": true,
@@ -1199,7 +1193,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-09-10 10:15:00",
+        "start_time": "2021-09-10 15:15:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3563,7 +3557,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1285,
+    "total": 1284,
     "price": {
       "from": "0",
       "to": "520"
