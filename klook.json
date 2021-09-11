@@ -1953,7 +1953,7 @@
         "start_time": "2021-10-03 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 19,
+        "participate": 20,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2253,7 +2253,7 @@
         "start_time": "2021-09-18 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 1,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -2741,7 +2741,7 @@
         "start_time": "2021-09-14 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 92,
+        "participate": 94,
         "participants_format": "50+ Booked",
         "discount": 0,
         "card_tags": {
@@ -2917,7 +2917,7 @@
         "start_time": "2021-09-12 12:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 6,
+        "participate": 9,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -3155,8 +3155,8 @@
         "start_time": "2021-09-12 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 194,
-        "participants_format": "100+ Booked",
+        "participate": 200,
+        "participants_format": "200+ Booked",
         "discount": 0,
         "review_total": 12,
         "image_url_host": "https://res.klook.com/image/upload/activities/rydfwn9wf3q0mqqamfg0.jpg",
@@ -3207,7 +3207,7 @@
         "start_time": "2021-09-17 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 6,
+        "participate": 7,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3608,7 +3608,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1270,
+    "total": 1271,
     "price": {
       "from": "0",
       "to": "518"
