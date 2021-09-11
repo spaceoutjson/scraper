@@ -1442,7 +1442,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-09-12 19:15:00",
+        "start_time": "2021-09-13 10:45:00",
         "sold_out": false,
         "published": true,
         "participate": 4,
@@ -2262,12 +2262,6 @@
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
-            "text": "20% OFF"
-          },
-          {
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
             "text": "New"
           },
           {
@@ -2276,6 +2270,12 @@
             "background_color_right": "#FF6B3D",
             "text_color": "#FFFFFF",
             "text": "15% OFF"
+          },
+          {
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "20% OFF"
           }
         ],
         "need_hide_review": false,
