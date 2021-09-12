@@ -2384,6 +2384,13 @@
         "package_id": 0,
         "tags": [
           {
+            "key": "percentage_off",
+            "background_color_left": "#FF9557",
+            "background_color_right": "#FF6B3D",
+            "text_color": "#FFFFFF",
+            "text": "15% OFF"
+          },
+          {
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
@@ -2394,13 +2401,6 @@
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
             "text": "New"
-          },
-          {
-            "key": "percentage_off",
-            "background_color_left": "#FF9557",
-            "background_color_right": "#FF6B3D",
-            "text_color": "#FFFFFF",
-            "text": "15% OFF"
           }
         ],
         "need_hide_review": false,
@@ -2615,7 +2615,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-09-13 00:00:00",
+        "start_time": "2021-09-14 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
