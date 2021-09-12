@@ -866,7 +866,7 @@
         "start_time": "2021-10-07 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 2,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2254,7 +2254,7 @@
         "start_time": "2021-09-18 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 1,
+        "participate": 2,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -2742,13 +2742,10 @@
         "start_time": "2021-09-15 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 94,
+        "participate": 95,
         "participants_format": "50+ Booked",
         "discount": 0,
-        "card_tags": {
-          "deals_discount": "20% OFF"
-        },
-        "review_total": 1,
+        "review_total": 2,
         "image_url_host": "https://res.klook.com/image/upload/activities/wrcatqsclznu0omux17q.jpg",
         "icon": null,
         "icons": null,
@@ -2764,14 +2761,7 @@
         "real_lang": "",
         "leaf_category": 336,
         "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "20% OFF"
-          }
-        ],
+        "tags": null,
         "need_hide_review": false,
         "deeplink": "https://www.klook.com/en-US/activity/59091-grand-mercure-singapore-roxy-staycation/",
         "deep_link": "https://www.klook.com/en-US/activity/59091-grand-mercure-singapore-roxy-staycation/",
@@ -3156,7 +3146,7 @@
         "start_time": "2021-09-13 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 200,
+        "participate": 202,
         "participants_format": "200+ Booked",
         "discount": 0,
         "review_total": 12,
