@@ -670,16 +670,16 @@
         "video_url": "",
         "score": 0,
         "currency": "SGD",
-        "market_price": "69.00",
-        "sell_price": "69.00",
-        "from_price": "69.00",
-        "to_price": "69.00",
+        "market_price": "",
+        "sell_price": "",
+        "from_price": "",
+        "to_price": "",
         "spec_price": {
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-15 18:00:00",
-        "sold_out": false,
+        "start_time": "2021-10-15 00:00:00",
+        "sold_out": true,
         "published": true,
         "participate": 0,
         "participants_format": "New Activity",
@@ -2024,7 +2024,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-09-14 19:15:00",
+        "start_time": "2021-09-15 10:45:00",
         "sold_out": false,
         "published": true,
         "participate": 4,
@@ -2982,13 +2982,13 @@
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
-            "text": "10% OFF"
+            "text": "New"
           },
           {
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
-            "text": "New"
+            "text": "10% OFF"
           }
         ],
         "need_hide_review": false,
