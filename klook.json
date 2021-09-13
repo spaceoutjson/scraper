@@ -681,7 +681,7 @@
         "start_time": "2021-10-15 18:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 16,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1571,7 +1571,7 @@
         "start_time": "2021-09-24 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 1,
+        "participate": 3,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -2431,7 +2431,7 @@
         "start_time": "2021-09-16 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 3,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -2902,7 +2902,7 @@
         "start_time": "2021-09-14 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 5,
+        "participate": 6,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2992,13 +2992,13 @@
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
-            "text": "New"
+            "text": "10% OFF"
           },
           {
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
-            "text": "10% OFF"
+            "text": "New"
           }
         ],
         "need_hide_review": false,
@@ -3486,7 +3486,7 @@
         "instance": 1,
         "image_url": "",
         "video_url": "",
-        "score": 0,
+        "score": 5,
         "currency": "SGD",
         "market_price": "60.00",
         "sell_price": "60.00",
@@ -3505,7 +3505,7 @@
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
         },
-        "review_total": 0,
+        "review_total": 1,
         "image_url_host": "https://res.klook.com/image/upload/activities/try5i2afbgcghv8shakm.jpg",
         "icon": null,
         "icons": null,
@@ -3529,7 +3529,7 @@
             "text": "Eligible for SingapoRediscovers Vouchers"
           }
         ],
-        "need_hide_review": true,
+        "need_hide_review": false,
         "deeplink": "https://www.klook.com/en-US/activity/60379-halloween-edition-fright-night-museum-tour-singapore/",
         "deep_link": "https://www.klook.com/en-US/activity/60379-halloween-edition-fright-night-museum-tour-singapore/",
         "vertical_type": 100,
