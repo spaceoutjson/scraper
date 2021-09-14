@@ -658,6 +658,68 @@
     ],
     "activities": [
       {
+        "id": 61825,
+        "template_id": 3,
+        "title": "Furama City Centre The Work From Hotel Series",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "22.80",
+        "sell_price": "17.80",
+        "from_price": "17.80",
+        "to_price": "17.80",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-09-15 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "deals_discount": "22% OFF"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/obkdbgdpmbgq12wspqv9.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.286608,103.844732",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 336,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "22% OFF"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/61825-furama-city-centre-singapore/",
+        "deep_link": "https://www.klook.com/en-US/activity/61825-furama-city-centre-singapore/",
+        "vertical_type": 100,
+        "vertical_id": 61825,
+        "custom_tags": null,
+        "what_we_love": ""
+      },
+      {
         "id": 62012,
         "template_id": 1,
         "title": "[Klook Exclusive] Double Vaxxed Ft. Rishi Budhrani & Sharul Channa Comedy Show",
@@ -2034,7 +2096,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-09-15 10:45:00",
+        "start_time": "2021-09-15 11:45:00",
         "sold_out": false,
         "published": true,
         "participate": 4,
@@ -3546,71 +3608,9 @@
         "vertical_id": 60564,
         "custom_tags": null,
         "what_we_love": ""
-      },
-      {
-        "id": 60558,
-        "template_id": 2,
-        "title": "[Klook Exclusive] Singapore Chinatown Street Walk Tour with Seafood Lunch or Dinner",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "100.00",
-        "sell_price": "100.00",
-        "from_price": "100.00",
-        "to_price": "100.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-09-16 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 53,
-        "participants_format": "50+ Booked",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/az85cwmewxrr4qxea6en.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.285797,103.844003",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 150,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/60558-singapore-chinatown-murals-street-walk-tour-seafood-lunch-dinner/",
-        "deep_link": "https://www.klook.com/en-US/activity/60558-singapore-chinatown-murals-street-walk-tour-seafood-lunch-dinner/",
-        "vertical_type": 100,
-        "vertical_id": 60558,
-        "custom_tags": null,
-        "what_we_love": ""
       }
     ],
-    "total": 1265,
+    "total": 1267,
     "price": {
       "from": "0",
       "to": "518"
