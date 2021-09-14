@@ -2870,12 +2870,6 @@
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
-            "text": "20% OFF"
-          },
-          {
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
             "text": "New"
           },
           {
@@ -2884,6 +2878,12 @@
             "background_color_right": "#FF6B3D",
             "text_color": "#FFFFFF",
             "text": "15% OFF"
+          },
+          {
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "20% OFF"
           }
         ],
         "need_hide_review": false,
@@ -2915,7 +2915,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-09-15 17:00:00",
+        "start_time": "2021-09-16 17:00:00",
         "sold_out": false,
         "published": true,
         "participate": 2,
@@ -3616,7 +3616,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1268,
+    "total": 1269,
     "price": {
       "from": "0",
       "to": "518"
