@@ -295,8 +295,6 @@
     "start_time": [
       "2021-09-10T00:00:00Z",
       "2021-09-11T00:00:00Z",
-      "2021-09-13T00:00:00Z",
-      "2021-09-14T00:00:00Z",
       "2021-09-15T00:00:00Z",
       "2021-09-16T00:00:00Z",
       "2021-09-17T00:00:00Z",
@@ -660,7 +658,8 @@
       "2022-09-10T00:00:00Z",
       "2022-09-11T00:00:00Z",
       "2022-09-12T00:00:00Z",
-      "2022-09-13T00:00:00Z"
+      "2022-09-13T00:00:00Z",
+      "2022-09-14T00:00:00Z"
     ],
     "activities": [
       {
@@ -1602,68 +1601,6 @@
         "deep_link": "https://www.klook.com/en-US/activity/61811-those-were-days-singapore-join-tour/",
         "vertical_type": 100,
         "vertical_id": 61811,
-        "custom_tags": null,
-        "what_we_love": ""
-      },
-      {
-        "id": 61828,
-        "template_id": 2,
-        "title": "Multicuisine Buffet / Indonesian delights Buffet  with Gardens by the Bay Tour in Singapore (Buy 1 Get 1 Promotion)",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "",
-        "sell_price": "",
-        "from_price": "",
-        "to_price": "",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-09-20 00:00:00",
-        "sold_out": true,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/eimvpkglisr5mbvnztnw.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.281339,103.858956",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 150,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/61828-multicuisine-buffet-indonesian-delights-gardens-bay-singapore-join-tour/",
-        "deep_link": "https://www.klook.com/en-US/activity/61828-multicuisine-buffet-indonesian-delights-gardens-bay-singapore-join-tour/",
-        "vertical_type": 100,
-        "vertical_id": 61828,
         "custom_tags": null,
         "what_we_love": ""
       },
@@ -2867,12 +2804,6 @@
         "package_id": 0,
         "tags": [
           {
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "New"
-          },
-          {
             "key": "percentage_off",
             "background_color_left": "#FF9557",
             "background_color_right": "#FF6B3D",
@@ -2884,6 +2815,12 @@
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
             "text": "20% OFF"
+          },
+          {
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "New"
           }
         ],
         "need_hide_review": false,
@@ -3614,9 +3551,71 @@
         "vertical_id": 60564,
         "custom_tags": null,
         "what_we_love": ""
+      },
+      {
+        "id": 60558,
+        "template_id": 2,
+        "title": "[Klook Exclusive] Singapore Chinatown Street Walk Tour with Seafood Lunch or Dinner",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "100.00",
+        "sell_price": "100.00",
+        "from_price": "100.00",
+        "to_price": "100.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-09-17 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 53,
+        "participants_format": "50+ Booked",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/az85cwmewxrr4qxea6en.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.285797,103.844003",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 150,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/60558-singapore-chinatown-murals-street-walk-tour-seafood-lunch-dinner/",
+        "deep_link": "https://www.klook.com/en-US/activity/60558-singapore-chinatown-murals-street-walk-tour-seafood-lunch-dinner/",
+        "vertical_type": 100,
+        "vertical_id": 60558,
+        "custom_tags": null,
+        "what_we_love": ""
       }
     ],
-    "total": 1269,
+    "total": 1264,
     "price": {
       "from": "0",
       "to": "518"
