@@ -801,7 +801,7 @@
         "start_time": "2021-10-15 18:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 16,
+        "participate": 24,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1257,7 +1257,7 @@
         "start_time": "2021-09-18 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 1,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1505,7 +1505,7 @@
         "start_time": "2021-10-07 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 3,
+        "participate": 5,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2870,6 +2870,12 @@
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
+            "text": "20% OFF"
+          },
+          {
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
             "text": "New"
           },
           {
@@ -2878,12 +2884,6 @@
             "background_color_right": "#FF6B3D",
             "text_color": "#FFFFFF",
             "text": "15% OFF"
-          },
-          {
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "20% OFF"
           }
         ],
         "need_hide_review": false,
@@ -2970,7 +2970,7 @@
         "start_time": "2021-09-15 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 6,
+        "participate": 7,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3515,7 +3515,7 @@
         "start_time": "2021-09-24 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 7,
+        "participate": 10,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3616,7 +3616,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1269,
+    "total": 1268,
     "price": {
       "from": "0",
       "to": "518"
