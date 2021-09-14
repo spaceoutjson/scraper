@@ -1065,7 +1065,7 @@
         "url_seo": "",
         "city_id": 6,
         "city_name": "",
-        "instance": 0,
+        "instance": 1,
         "image_url": "",
         "video_url": "",
         "score": 0,
@@ -2867,13 +2867,6 @@
         "package_id": 0,
         "tags": [
           {
-            "key": "percentage_off",
-            "background_color_left": "#FF9557",
-            "background_color_right": "#FF6B3D",
-            "text_color": "#FFFFFF",
-            "text": "15% OFF"
-          },
-          {
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
@@ -2884,6 +2877,13 @@
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
             "text": "New"
+          },
+          {
+            "key": "percentage_off",
+            "background_color_left": "#FF9557",
+            "background_color_right": "#FF6B3D",
+            "text_color": "#FFFFFF",
+            "text": "15% OFF"
           }
         ],
         "need_hide_review": false,
