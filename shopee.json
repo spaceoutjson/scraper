@@ -1,5 +1,5 @@
 {
-  "version": "825e11910ac3fc9e2a4c125611402a00",
+  "version": "b61a55f32a62b7f5adcdf7a1bde122cc",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -52,7 +52,7 @@
           "is_category_failed": false,
           "show_discount": 28,
           "cmt_count": 46,
-          "view_count": 13767,
+          "view_count": 13815,
           "catid": 100629,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -67,7 +67,7 @@
           "price_min_before_discount": 9200000,
           "cb_option": 0,
           "sold": 38,
-          "stock": 921,
+          "stock": 920,
           "status": 1,
           "price_max": 7360000,
           "add_on_deal_info": null,
@@ -217,8 +217,8 @@
           "price_before_discount": 8900000,
           "is_category_failed": false,
           "show_discount": 11,
-          "cmt_count": 3874,
-          "view_count": 33815,
+          "cmt_count": 3875,
+          "view_count": 33851,
           "catid": 100644,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -233,7 +233,7 @@
           "price_min_before_discount": 8900000,
           "cb_option": 0,
           "sold": 447,
-          "stock": 1051,
+          "stock": 1050,
           "status": 1,
           "price_max": 19900000,
           "add_on_deal_info": null,
@@ -243,17 +243,17 @@
           "price": 7900000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.933901,
+            "rating_star": 4.933918,
             "rating_count": [
-              3874,
+              3875,
               13,
               5,
               27,
               138,
-              3691
+              3692
             ],
-            "rcount_with_image": 1961,
-            "rcount_with_context": 2547
+            "rcount_with_image": 1962,
+            "rcount_with_context": 2548
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -349,7 +349,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 8473,
+          "historical_sold": 8476,
           "transparent_background_image": "8e247e584071633afef9f64b9159ecac"
         },
         {
@@ -402,7 +402,7 @@
           "is_category_failed": false,
           "show_discount": 52,
           "cmt_count": 1509,
-          "view_count": 14834,
+          "view_count": 14886,
           "catid": 100636,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -555,8 +555,8 @@
           "price_before_discount": 27990000,
           "is_category_failed": false,
           "show_discount": 70,
-          "cmt_count": 705,
-          "view_count": 7421,
+          "cmt_count": 706,
+          "view_count": 7456,
           "catid": 100634,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -581,17 +581,17 @@
           "price": 8400000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.961702,
+            "rating_star": 4.961756,
             "rating_count": [
-              705,
+              706,
               1,
               1,
               4,
               12,
-              687
+              688
             ],
-            "rcount_with_image": 310,
-            "rcount_with_context": 430
+            "rcount_with_image": 311,
+            "rcount_with_context": 431
           },
           "show_official_shop_label_in_title": false,
           "tier_variations": [
@@ -680,7 +680,7 @@
           "is_category_failed": false,
           "show_discount": 9,
           "cmt_count": 768,
-          "view_count": 21257,
+          "view_count": 21260,
           "catid": 100644,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -946,7 +946,7 @@
           "is_category_failed": false,
           "show_discount": 22,
           "cmt_count": 224,
-          "view_count": 24673,
+          "view_count": 24681,
           "catid": 100636,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -954,7 +954,7 @@
           "is_official_shop": true,
           "brand": "Omnidesk",
           "price_min": 80000000,
-          "liked_count": 952,
+          "liked_count": 953,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -1096,8 +1096,8 @@
           "price_before_discount": 0,
           "is_category_failed": false,
           "show_discount": 0,
-          "cmt_count": 5402,
-          "view_count": 14379,
+          "cmt_count": 5403,
+          "view_count": 14380,
           "catid": 100629,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1122,14 +1122,14 @@
           "price": 6800000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.919044,
+            "rating_star": 4.919059,
             "rating_count": [
-              5402,
+              5403,
               11,
               20,
               69,
               201,
-              5101
+              5102
             ],
             "rcount_with_image": 2638,
             "rcount_with_context": 3446
@@ -1196,7 +1196,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 12250,
+          "historical_sold": 12252,
           "transparent_background_image": "5877636c5d2545f0e7a1b91bcd84c516"
         },
         {
