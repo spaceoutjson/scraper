@@ -2091,7 +2091,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-09-16 11:45:00",
+        "start_time": "2021-09-16 15:15:00",
         "sold_out": false,
         "published": true,
         "participate": 4,
@@ -2804,6 +2804,13 @@
         "package_id": 0,
         "tags": [
           {
+            "key": "percentage_off",
+            "background_color_left": "#FF9557",
+            "background_color_right": "#FF6B3D",
+            "text_color": "#FFFFFF",
+            "text": "15% OFF"
+          },
+          {
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
@@ -2814,13 +2821,6 @@
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
             "text": "New"
-          },
-          {
-            "key": "percentage_off",
-            "background_color_left": "#FF9557",
-            "background_color_right": "#FF6B3D",
-            "text_color": "#FFFFFF",
-            "text": "15% OFF"
           }
         ],
         "need_hide_review": false,
@@ -2997,13 +2997,13 @@
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
-            "text": "10% OFF"
+            "text": "New"
           },
           {
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
-            "text": "New"
+            "text": "10% OFF"
           }
         ],
         "need_hide_review": false,
@@ -3151,9 +3151,9 @@
         "video_url": "",
         "score": 4,
         "currency": "SGD",
-        "market_price": "164.80",
-        "sell_price": "164.80",
-        "from_price": "164.80",
+        "market_price": "155.10",
+        "sell_price": "155.10",
+        "from_price": "155.10",
         "to_price": "235.40",
         "spec_price": {
           "type": 0,
