@@ -1453,7 +1453,7 @@
         "icon": null,
         "icons": null,
         "min_trip": 0,
-        "latlng": "1.264218,103.820359",
+        "latlng": "1.264705,103.820064",
         "activity_type": "",
         "ysim_info": null,
         "country_id": 15,
@@ -2997,13 +2997,13 @@
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
-            "text": "New"
+            "text": "10% OFF"
           },
           {
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
-            "text": "10% OFF"
+            "text": "New"
           }
         ],
         "need_hide_review": false,
@@ -3615,7 +3615,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1264,
+    "total": 1263,
     "price": {
       "from": "0",
       "to": "518"
