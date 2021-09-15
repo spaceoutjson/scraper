@@ -1,5 +1,5 @@
 {
-  "version": "4f03f19711b7155a1e463e929d282d9b",
+  "version": "a048f6cddccc4f90fe7ccac595bf2bc4",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -52,7 +52,7 @@
           "is_category_failed": false,
           "show_discount": 28,
           "cmt_count": 44,
-          "view_count": 13004,
+          "view_count": 13060,
           "catid": 100629,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -67,7 +67,7 @@
           "price_min_before_discount": 9200000,
           "cb_option": 0,
           "sold": 38,
-          "stock": 843,
+          "stock": 842,
           "status": 1,
           "price_max": 7360000,
           "add_on_deal_info": null,
@@ -206,7 +206,7 @@
           "is_category_failed": false,
           "show_discount": 22,
           "cmt_count": 224,
-          "view_count": 24185,
+          "view_count": 24257,
           "catid": 100636,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -214,7 +214,7 @@
           "is_official_shop": true,
           "brand": "Omnidesk",
           "price_min": 80000000,
-          "liked_count": 949,
+          "liked_count": 951,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -356,8 +356,8 @@
           "price_before_discount": 0,
           "is_category_failed": false,
           "show_discount": 0,
-          "cmt_count": 5395,
-          "view_count": 14100,
+          "cmt_count": 5396,
+          "view_count": 14145,
           "catid": 100629,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -365,7 +365,7 @@
           "is_official_shop": true,
           "brand": "Snow Treasures",
           "price_min": 6800000,
-          "liked_count": 1486,
+          "liked_count": 1487,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -382,17 +382,17 @@
           "price": 6800000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.918939,
+            "rating_star": 4.918954,
             "rating_count": [
-              5395,
+              5396,
               11,
               20,
               69,
               201,
-              5094
+              5095
             ],
             "rcount_with_image": 2635,
-            "rcount_with_context": 3442
+            "rcount_with_context": 3443
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -456,7 +456,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 12232,
+          "historical_sold": 12233,
           "transparent_background_image": "5877636c5d2545f0e7a1b91bcd84c516"
         },
         {
@@ -500,7 +500,7 @@
           "is_category_failed": false,
           "show_discount": 15,
           "cmt_count": 9,
-          "view_count": 212,
+          "view_count": 252,
           "catid": 100630,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -508,7 +508,7 @@
           "is_official_shop": true,
           "brand": "Hada Labo",
           "price_min": 5150000,
-          "liked_count": 11,
+          "liked_count": 12,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -634,7 +634,7 @@
           "is_category_failed": false,
           "show_discount": 9,
           "cmt_count": 768,
-          "view_count": 21035,
+          "view_count": 21058,
           "catid": 100644,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -754,7 +754,7 @@
           "is_category_failed": false,
           "show_discount": 22,
           "cmt_count": 682,
-          "view_count": 1231,
+          "view_count": 1232,
           "catid": 100001,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -912,7 +912,7 @@
           "is_category_failed": false,
           "show_discount": 11,
           "cmt_count": 3867,
-          "view_count": 33413,
+          "view_count": 33426,
           "catid": 100644,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -927,7 +927,7 @@
           "price_min_before_discount": 8900000,
           "cb_option": 0,
           "sold": 447,
-          "stock": 1056,
+          "stock": 1055,
           "status": 1,
           "price_max": 19900000,
           "add_on_deal_info": null,
@@ -1043,7 +1043,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 8461,
+          "historical_sold": 8463,
           "transparent_background_image": "8e247e584071633afef9f64b9159ecac"
         },
         {
@@ -1096,7 +1096,7 @@
           "is_category_failed": false,
           "show_discount": 52,
           "cmt_count": 1508,
-          "view_count": 14287,
+          "view_count": 14297,
           "catid": 100636,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1198,7 +1198,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 3230,
+          "historical_sold": 3231,
           "transparent_background_image": "8d7e760512f6c20c294dff9e1f0626d7"
         },
         {
@@ -1250,7 +1250,7 @@
           "is_category_failed": false,
           "show_discount": 70,
           "cmt_count": 705,
-          "view_count": 7135,
+          "view_count": 7140,
           "catid": 100634,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1332,7 +1332,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 1649,
+          "historical_sold": 1650,
           "transparent_background_image": "06fb42a083596f63638dda6893ca5355"
         }
       ],
