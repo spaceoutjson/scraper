@@ -1,5 +1,5 @@
 {
-  "version": "2c7d343a13242964f06af693dfafe330",
+  "version": "825e11910ac3fc9e2a4c125611402a00",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -51,8 +51,8 @@
           "price_before_discount": 9200000,
           "is_category_failed": false,
           "show_discount": 28,
-          "cmt_count": 45,
-          "view_count": 13687,
+          "cmt_count": 46,
+          "view_count": 13767,
           "catid": 100629,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -67,7 +67,7 @@
           "price_min_before_discount": 9200000,
           "cb_option": 0,
           "sold": 38,
-          "stock": 922,
+          "stock": 921,
           "status": 1,
           "price_max": 7360000,
           "add_on_deal_info": null,
@@ -79,15 +79,15 @@
           "item_rating": {
             "rating_star": 5,
             "rating_count": [
-              45,
+              46,
               0,
               0,
               0,
               0,
-              45
+              46
             ],
-            "rcount_with_image": 26,
-            "rcount_with_context": 33
+            "rcount_with_image": 27,
+            "rcount_with_context": 34
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -165,7 +165,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 114,
+          "historical_sold": 115,
           "transparent_background_image": "1b0a7f00d337548c8649b353c920ec90"
         },
         {
@@ -217,8 +217,8 @@
           "price_before_discount": 8900000,
           "is_category_failed": false,
           "show_discount": 11,
-          "cmt_count": 3873,
-          "view_count": 33728,
+          "cmt_count": 3874,
+          "view_count": 33815,
           "catid": 100644,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -226,7 +226,7 @@
           "is_official_shop": true,
           "brand": "Seagate",
           "price_min": 7900000,
-          "liked_count": 3145,
+          "liked_count": 3147,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -243,17 +243,17 @@
           "price": 7900000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.933884,
+            "rating_star": 4.933901,
             "rating_count": [
-              3873,
+              3874,
               13,
               5,
               27,
               138,
-              3690
+              3691
             ],
             "rcount_with_image": 1961,
-            "rcount_with_context": 2546
+            "rcount_with_context": 2547
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -349,7 +349,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 8472,
+          "historical_sold": 8473,
           "transparent_background_image": "8e247e584071633afef9f64b9159ecac"
         },
         {
@@ -402,7 +402,7 @@
           "is_category_failed": false,
           "show_discount": 52,
           "cmt_count": 1509,
-          "view_count": 14729,
+          "view_count": 14834,
           "catid": 100636,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -410,7 +410,7 @@
           "is_official_shop": true,
           "brand": "Cornell",
           "price_min": 9590000,
-          "liked_count": 4772,
+          "liked_count": 4776,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -556,7 +556,7 @@
           "is_category_failed": false,
           "show_discount": 70,
           "cmt_count": 705,
-          "view_count": 7370,
+          "view_count": 7421,
           "catid": 100634,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -564,14 +564,14 @@
           "is_official_shop": false,
           "brand": "Nintendo Switch",
           "price_min": 8400000,
-          "liked_count": 1106,
+          "liked_count": 1107,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
           "price_min_before_discount": 27990000,
           "cb_option": 0,
           "sold": 81,
-          "stock": 15,
+          "stock": 14,
           "status": 1,
           "price_max": 8400000,
           "add_on_deal_info": null,
@@ -638,7 +638,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 1650,
+          "historical_sold": 1651,
           "transparent_background_image": "06fb42a083596f63638dda6893ca5355"
         },
         {
@@ -680,7 +680,7 @@
           "is_category_failed": false,
           "show_discount": 9,
           "cmt_count": 768,
-          "view_count": 21240,
+          "view_count": 21257,
           "catid": 100644,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -688,7 +688,7 @@
           "is_official_shop": false,
           "brand": "Xiaomi",
           "price_min": 19900000,
-          "liked_count": 3315,
+          "liked_count": 3314,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -800,7 +800,7 @@
           "is_category_failed": false,
           "show_discount": 22,
           "cmt_count": 682,
-          "view_count": 1254,
+          "view_count": 1258,
           "catid": 100001,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -946,7 +946,7 @@
           "is_category_failed": false,
           "show_discount": 22,
           "cmt_count": 224,
-          "view_count": 24667,
+          "view_count": 24673,
           "catid": 100636,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1097,7 +1097,7 @@
           "is_category_failed": false,
           "show_discount": 0,
           "cmt_count": 5402,
-          "view_count": 14367,
+          "view_count": 14379,
           "catid": 100629,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1196,7 +1196,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 12247,
+          "historical_sold": 12250,
           "transparent_background_image": "5877636c5d2545f0e7a1b91bcd84c516"
         },
         {
@@ -1240,7 +1240,7 @@
           "is_category_failed": false,
           "show_discount": 15,
           "cmt_count": 9,
-          "view_count": 479,
+          "view_count": 489,
           "catid": 100630,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1248,7 +1248,7 @@
           "is_official_shop": true,
           "brand": "Hada Labo",
           "price_min": 5150000,
-          "liked_count": 12,
+          "liked_count": 13,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
