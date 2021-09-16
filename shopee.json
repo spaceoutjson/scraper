@@ -1,5 +1,5 @@
 {
-  "version": "2ff814ec17d2484a3adfa57436e7d992",
+  "version": "e3acafea6b64148fe52b777bee809a0e",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -54,7 +54,7 @@
           "is_category_failed": false,
           "show_discount": 16,
           "cmt_count": 2517,
-          "view_count": 11559,
+          "view_count": 11565,
           "catid": 100629,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -337,7 +337,7 @@
           "is_category_failed": false,
           "show_discount": 0,
           "cmt_count": 125,
-          "view_count": 1815,
+          "view_count": 1821,
           "catid": 100016,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -494,7 +494,7 @@
           "is_category_failed": false,
           "show_discount": 0,
           "cmt_count": 411,
-          "view_count": 6437,
+          "view_count": 6444,
           "catid": 100636,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -624,7 +624,7 @@
           "is_category_failed": false,
           "show_discount": 65,
           "cmt_count": 487,
-          "view_count": 8351,
+          "view_count": 8354,
           "catid": 100535,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1343,7 +1343,7 @@
           "price_min_before_discount": 49900000,
           "cb_option": 0,
           "sold": 90,
-          "stock": 440,
+          "stock": 439,
           "status": 1,
           "price_max": 54900000,
           "add_on_deal_info": {
