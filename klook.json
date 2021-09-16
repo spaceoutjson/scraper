@@ -670,6 +670,68 @@
     ],
     "activities": [
       {
+        "id": 62121,
+        "template_id": 4,
+        "title": "Cafe Monochrome at Jalan Besar",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "25.00",
+        "sell_price": "21.00",
+        "from_price": "21.00",
+        "to_price": "26.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-09-17 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "deals_discount": "16% OFF"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/c0om8h7l34h0cxnsb3tm.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.307761,103.857848",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 486,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "16% OFF"
+          }
+        ],
+        "need_hide_review": false,
+        "deeplink": "https://www.klook.com/en-US/activity/62121-cafe-monochrome-jalan-besar/",
+        "deep_link": "https://www.klook.com/en-US/activity/62121-cafe-monochrome-jalan-besar/",
+        "vertical_type": 106,
+        "vertical_id": 62121,
+        "custom_tags": null,
+        "what_we_love": ""
+      },
+      {
         "id": 62167,
         "template_id": 1,
         "title": "[Klook Exclusive] Dream Cruise Comedy Show by Gurmit Singh, Rishi Budhrani and Fakkah Fuzz",
@@ -1302,7 +1364,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-09-16 11:00:00",
+        "start_time": "2021-09-17 11:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3488,7 +3550,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-09-17 00:00:00",
+        "start_time": "2021-09-18 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3528,71 +3590,9 @@
         "vertical_id": 60492,
         "custom_tags": null,
         "what_we_love": ""
-      },
-      {
-        "id": 60566,
-        "template_id": 2,
-        "title": "Marina Coastal Delights – Kueh & Kusu Island Guided Tour with Dinner at Chinese Restaurant",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "100.00",
-        "sell_price": "100.00",
-        "from_price": "100.00",
-        "to_price": "100.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-10-17 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 7,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/unmxkwdwylcpzhhvfzu6.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.264634,103.819188",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 156,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/60566-marina-coastal-delights-kueh-kusu-island-dinner/",
-        "deep_link": "https://www.klook.com/en-US/activity/60566-marina-coastal-delights-kueh-kusu-island-dinner/",
-        "vertical_type": 100,
-        "vertical_id": 60566,
-        "custom_tags": null,
-        "what_we_love": ""
       }
     ],
-    "total": 1268,
+    "total": 1269,
     "price": {
       "from": "0",
       "to": "517"
