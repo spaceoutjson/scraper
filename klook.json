@@ -755,7 +755,7 @@
         "start_time": "2021-10-20 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 2,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -817,7 +817,7 @@
         "start_time": "2021-09-18 11:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 1,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -2009,7 +2009,7 @@
         "start_time": "2021-10-07 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 9,
+        "participate": 10,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2185,7 +2185,7 @@
         "start_time": "2021-09-17 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 3,
+        "participate": 5,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3367,7 +3367,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-09-17 17:00:00",
+        "start_time": "2021-09-18 10:00:00",
         "sold_out": false,
         "published": true,
         "participate": 2,
