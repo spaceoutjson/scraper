@@ -3047,7 +3047,7 @@
         "market_price": "617.89",
         "sell_price": "499.00",
         "from_price": "499.00",
-        "to_price": "1088.00",
+        "to_price": "1268.00",
         "spec_price": {
           "type": 0,
           "desc": ""
@@ -3574,13 +3574,13 @@
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
-            "text": "New"
+            "text": "10% OFF"
           },
           {
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
-            "text": "10% OFF"
+            "text": "New"
           }
         ],
         "need_hide_review": false,
