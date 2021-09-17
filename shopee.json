@@ -1,5 +1,5 @@
 {
-  "version": "83e8f3fa392a997947f9a9757557d9b1",
+  "version": "711b351f72b8deb760569322b1d1574a",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -54,7 +54,7 @@
           "is_category_failed": false,
           "show_discount": 16,
           "cmt_count": 2530,
-          "view_count": 13454,
+          "view_count": 13512,
           "catid": 100629,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -199,7 +199,7 @@
           "is_category_failed": false,
           "show_discount": 27,
           "cmt_count": 771,
-          "view_count": 18507,
+          "view_count": 18553,
           "catid": 100636,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -365,7 +365,7 @@
           "is_category_failed": false,
           "show_discount": 55,
           "cmt_count": 29,
-          "view_count": 1373,
+          "view_count": 1461,
           "catid": 100534,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -526,7 +526,7 @@
           "is_category_failed": false,
           "show_discount": 24,
           "cmt_count": 1123,
-          "view_count": 79413,
+          "view_count": 79496,
           "catid": 100013,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -663,7 +663,7 @@
           "is_category_failed": false,
           "show_discount": 15,
           "cmt_count": 418,
-          "view_count": 4849,
+          "view_count": 4859,
           "catid": 100632,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -731,10 +731,10 @@
                 "model_ep_discount": 6,
                 "pc_image": "cded148cad89ef1046e8e562f69ce107",
                 "url": "https://shopee.sg/program/form/7",
-                "model_ep_price": 17200000,
+                "model_ep_price": 13600000,
                 "label": "Mum's Club",
                 "is_entitled": false,
-                "save_amount": 1075000,
+                "save_amount": 850000,
                 "promotion_id": 5000008308,
                 "background_color": "#EE4D2D"
               }
@@ -814,7 +814,7 @@
           "is_category_failed": false,
           "show_discount": 0,
           "cmt_count": 957,
-          "view_count": 11093,
+          "view_count": 11105,
           "catid": 100010,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -822,7 +822,7 @@
           "is_official_shop": true,
           "brand": "Xiaomi",
           "price_min": 29900000,
-          "liked_count": 2946,
+          "liked_count": 2947,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -1100,7 +1100,7 @@
           "is_category_failed": false,
           "show_discount": 57,
           "cmt_count": 1452,
-          "view_count": 25015,
+          "view_count": 25033,
           "catid": 100013,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1204,7 +1204,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 3396,
+          "historical_sold": 3397,
           "transparent_background_image": "2179110ba24f46c5de3d0e63d2cd77ae"
         },
         {
@@ -1246,7 +1246,7 @@
           "is_category_failed": false,
           "show_discount": 20,
           "cmt_count": 185,
-          "view_count": 2060,
+          "view_count": 2064,
           "catid": 100637,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1387,8 +1387,8 @@
           "price_before_discount": 97800000,
           "is_category_failed": false,
           "show_discount": 48,
-          "cmt_count": 294,
-          "view_count": 21148,
+          "cmt_count": 295,
+          "view_count": 21160,
           "catid": 100010,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1413,14 +1413,14 @@
           "price": 58900000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.901361,
+            "rating_star": 4.901695,
             "rating_count": [
-              294,
+              295,
               2,
               0,
               2,
               17,
-              273
+              274
             ],
             "rcount_with_image": 168,
             "rcount_with_context": 220
@@ -1484,7 +1484,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 522,
+          "historical_sold": 523,
           "transparent_background_image": "3fa45478dd0fe93eac3f74de659e27a7"
         }
       ],
