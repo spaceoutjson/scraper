@@ -299,6 +299,8 @@
       }
     ],
     "start_time": [
+      "2021-09-10T00:00:00Z",
+      "2021-09-11T00:00:00Z",
       "2021-09-17T00:00:00Z",
       "2021-09-18T00:00:00Z",
       "2021-09-19T00:00:00Z",
@@ -2131,7 +2133,7 @@
         "start_time": "2021-10-07 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 10,
+        "participate": 11,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2372,9 +2374,6 @@
         "participate": 5,
         "participants_format": "New Activity",
         "discount": 0,
-        "card_tags": {
-          "deals_discount": "16% OFF"
-        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/m4lkq0praxf96wh5uu55.jpg",
         "icon": null,
@@ -2391,14 +2390,7 @@
         "real_lang": "",
         "leaf_category": 120,
         "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "16% OFF"
-          }
-        ],
+        "tags": null,
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/60128-multi-attractions-playpass-silver-singapore/",
         "deep_link": "https://www.klook.com/en-US/activity/60128-multi-attractions-playpass-silver-singapore/",
@@ -2728,7 +2720,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-09-19 11:45:00",
+        "start_time": "2021-09-19 15:15:00",
         "sold_out": false,
         "published": true,
         "participate": 4,
@@ -3177,7 +3169,7 @@
         "start_time": "2021-10-01 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 4,
+        "participate": 6,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3583,7 +3575,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1268,
+    "total": 1271,
     "price": {
       "from": "0",
       "to": "520"
