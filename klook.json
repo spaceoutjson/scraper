@@ -1377,7 +1377,7 @@
         "start_time": "2021-10-15 18:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 28,
+        "participate": 44,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1657,7 +1657,7 @@
         "start_time": "2021-09-23 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 6,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2205,7 +2205,7 @@
         "start_time": "2021-09-21 10:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 1,
+        "participate": 2,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3117,7 +3117,7 @@
         "start_time": "2021-10-01 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 7,
+        "participate": 10,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3365,7 +3365,7 @@
         "start_time": "2021-09-25 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 2,
+        "participate": 3,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -3498,6 +3498,12 @@
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
+            "text": "20% OFF"
+          },
+          {
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
             "text": "New"
           },
           {
@@ -3506,12 +3512,6 @@
             "background_color_right": "#FF6B3D",
             "text_color": "#FFFFFF",
             "text": "15% OFF"
-          },
-          {
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "20% OFF"
           }
         ],
         "need_hide_review": false,
