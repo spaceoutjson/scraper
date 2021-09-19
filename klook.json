@@ -301,7 +301,6 @@
     "start_time": [
       "2021-09-10T00:00:00Z",
       "2021-09-11T00:00:00Z",
-      "2021-09-18T00:00:00Z",
       "2021-09-19T00:00:00Z",
       "2021-09-20T00:00:00Z",
       "2021-09-21T00:00:00Z",
@@ -666,7 +665,8 @@
       "2022-09-15T00:00:00Z",
       "2022-09-16T00:00:00Z",
       "2022-09-17T00:00:00Z",
-      "2022-09-18T00:00:00Z"
+      "2022-09-18T00:00:00Z",
+      "2022-09-19T00:00:00Z"
     ],
     "activities": [
       {
@@ -3495,6 +3495,13 @@
         "package_id": 0,
         "tags": [
           {
+            "key": "percentage_off",
+            "background_color_left": "#FF9557",
+            "background_color_right": "#FF6B3D",
+            "text_color": "#FFFFFF",
+            "text": "15% OFF"
+          },
+          {
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
@@ -3505,13 +3512,6 @@
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
             "text": "New"
-          },
-          {
-            "key": "percentage_off",
-            "background_color_left": "#FF9557",
-            "background_color_right": "#FF6B3D",
-            "text_color": "#FFFFFF",
-            "text": "15% OFF"
           }
         ],
         "need_hide_review": false,
@@ -3575,7 +3575,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1264,
+    "total": 1261,
     "price": {
       "from": "0",
       "to": "520"
