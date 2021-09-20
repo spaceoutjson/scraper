@@ -670,6 +670,68 @@
     ],
     "activities": [
       {
+        "id": 62210,
+        "template_id": 3,
+        "title": "Make a Vegan Friendly Scented Soy Candle",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "105.00",
+        "sell_price": "90.00",
+        "from_price": "90.00",
+        "to_price": "180.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-09-24 11:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "deals_discount": "14% OFF"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/o4gtr4blrvmrq6ukmoy6.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.30607,103.854026",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 124,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "14% OFF"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/62210-vegan-friendly-scented-soy-candle-workshop/",
+        "deep_link": "https://www.klook.com/en-US/activity/62210-vegan-friendly-scented-soy-candle-workshop/",
+        "vertical_type": 100,
+        "vertical_id": 62210,
+        "custom_tags": null,
+        "what_we_love": ""
+      },
+      {
         "id": 61835,
         "template_id": 1,
         "title": "Sentosa Fun Pass ™ PLUS Set Lunch at Hard Rock Café Sentosa (Weekday)",
@@ -3506,71 +3568,9 @@
         "vertical_id": 60871,
         "custom_tags": null,
         "what_we_love": ""
-      },
-      {
-        "id": 60836,
-        "template_id": 2,
-        "title": "A Voyage In Time: Chinese Junk Tour",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 0,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "120.00",
-        "sell_price": "120.00",
-        "from_price": "120.00",
-        "to_price": "120.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-09-25 09:30:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/a6phwha7ifts1kl8vdmt.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.264005,103.812434",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 157,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/60836-voyage-in-time-chinese-junk-tour/",
-        "deep_link": "https://www.klook.com/en-US/activity/60836-voyage-in-time-chinese-junk-tour/",
-        "vertical_type": 100,
-        "vertical_id": 60836,
-        "custom_tags": null,
-        "what_we_love": ""
       }
     ],
-    "total": 1266,
+    "total": 1267,
     "price": {
       "from": "0",
       "to": "520"
