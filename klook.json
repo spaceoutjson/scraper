@@ -1282,9 +1282,9 @@
         "score": 0,
         "currency": "SGD",
         "market_price": "100.00",
-        "sell_price": "80.00",
-        "from_price": "80.00",
-        "to_price": "80.00",
+        "sell_price": "37.00",
+        "from_price": "37.00",
+        "to_price": "37.00",
         "spec_price": {
           "type": 0,
           "desc": ""
@@ -1296,7 +1296,7 @@
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
-          "deals_discount": "20% OFF"
+          "deals_discount": "63% OFF"
         },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/epejunux7rafhhiw9a25.jpg",
@@ -1319,7 +1319,7 @@
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
-            "text": "20% OFF"
+            "text": "63% OFF"
           }
         ],
         "need_hide_review": true,
@@ -3133,7 +3133,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-09-22 10:45:00",
+        "start_time": "2021-09-22 11:45:00",
         "sold_out": false,
         "published": true,
         "participate": 4,
