@@ -1509,7 +1509,7 @@
         "video_url": "https://res.klook.com/video/upload/fl_lossy.progressive,q_85,f_auto/c_fill,,/c_scale,h_540,vc_auto/c_scale,g_north_west,h_20,l_whitelogo_hz5dq1,o_30,x_70,y_480/c_scale,f_mp4,fl_splice,h_540,l_video:ending_trgtvv/v1631781998/activities/eyicy6ah6cetyksffp4r.mp4",
         "score": 0,
         "currency": "SGD",
-        "market_price": "100.00",
+        "market_price": "80.00",
         "sell_price": "37.00",
         "from_price": "37.00",
         "to_price": "37.00",
@@ -1524,7 +1524,7 @@
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
-          "deals_discount": "63% OFF"
+          "deals_discount": "54% OFF"
         },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/epejunux7rafhhiw9a25.jpg",
@@ -1547,7 +1547,7 @@
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
-            "text": "63% OFF"
+            "text": "54% OFF"
           }
         ],
         "need_hide_review": true,
@@ -3413,7 +3413,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-09-23 10:00:00",
+        "start_time": "2021-09-23 14:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
