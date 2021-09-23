@@ -669,6 +669,68 @@
     ],
     "activities": [
       {
+        "id": 62224,
+        "template_id": 4,
+        "title": "BURGER KING® in Singapore",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "20.10",
+        "sell_price": "15.00",
+        "from_price": "15.00",
+        "to_price": "25.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-09-24 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "deals_discount": "25% OFF"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/nm3ljzmg2gyfkegkrsjm.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.353862,103.819059",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 484,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "25% OFF"
+          }
+        ],
+        "need_hide_review": false,
+        "deeplink": "https://www.klook.com/en-US/activity/62224-burger-king-singapore/",
+        "deep_link": "https://www.klook.com/en-US/activity/62224-burger-king-singapore/",
+        "vertical_type": 106,
+        "vertical_id": 62224,
+        "custom_tags": null,
+        "what_we_love": ""
+      },
+      {
         "id": 62209,
         "template_id": 2,
         "title": "Singapore River Walk and River Cruise Tour with JUMBO Seafood Meal",
@@ -3465,7 +3527,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-09-26 08:00:00",
+        "start_time": "2021-10-02 08:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3505,71 +3567,9 @@
         "vertical_id": 59255,
         "custom_tags": null,
         "what_we_love": ""
-      },
-      {
-        "id": 59243,
-        "template_id": 2,
-        "title": "Pulau Ubin Tour PLUS SEA Aquarium Admission Ticket and Lunch at Hard Rock Café Sentosa",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "100.00",
-        "sell_price": "100.00",
-        "from_price": "100.00",
-        "to_price": "100.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-09-26 08:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/sas1t68ycgjsgdzlw8fq.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.390761,103.98758",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 150,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/59243-pulau-ubin-tour-sea-aquarium-admission-ticket-lunch-hard-rock-cafe/",
-        "deep_link": "https://www.klook.com/en-US/activity/59243-pulau-ubin-tour-sea-aquarium-admission-ticket-lunch-hard-rock-cafe/",
-        "vertical_type": 100,
-        "vertical_id": 59243,
-        "custom_tags": null,
-        "what_we_love": ""
       }
     ],
-    "total": 1276,
+    "total": 1277,
     "price": {
       "from": "0",
       "to": "521"
