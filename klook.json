@@ -692,7 +692,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-06 00:00:00",
+        "start_time": "2021-10-01 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1076,68 +1076,6 @@
         "what_we_love": ""
       },
       {
-        "id": 62250,
-        "template_id": 2,
-        "title": "Singapore DUCKtours with Seafood Lunch or Dinner",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "100.00",
-        "sell_price": "100.00",
-        "from_price": "100.00",
-        "to_price": "100.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-10-03 10:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/eaosqrczvxcsh2cyeunl.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.29407,103.860272",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 157,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/62250-singapore-half-day-ducktour-seafood-lunch-dinner/",
-        "deep_link": "https://www.klook.com/en-US/activity/62250-singapore-half-day-ducktour-seafood-lunch-dinner/",
-        "vertical_type": 100,
-        "vertical_id": 62250,
-        "custom_tags": null,
-        "what_we_love": ""
-      },
-      {
         "id": 62175,
         "template_id": 1,
         "title": "AL!VE VOL 15: Olivia Ong王俪婷「Heart to Heart 花言心语」",
@@ -1272,7 +1210,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-01 10:00:00",
+        "start_time": "2021-10-02 10:00:00",
         "sold_out": false,
         "published": true,
         "participate": 2,
@@ -1956,7 +1894,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-01 00:00:00",
+        "start_time": "2021-10-02 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3530,9 +3468,71 @@
         "vertical_id": 60807,
         "custom_tags": null,
         "what_we_love": ""
+      },
+      {
+        "id": 60809,
+        "template_id": 2,
+        "title": "Thiam Hock Keng Temple Tour + River Boat Ride with Seafood Dinner",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "100.00",
+        "sell_price": "100.00",
+        "from_price": "100.00",
+        "to_price": "100.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-10-03 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 6,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/myrkgb5nzf3tzgxvmyot.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.281118,103.847936",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 150,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/60809-thiam-hock-keng-temple-tour-river-boat-ride-with-seafood-dinner/",
+        "deep_link": "https://www.klook.com/en-US/activity/60809-thiam-hock-keng-temple-tour-river-boat-ride-with-seafood-dinner/",
+        "vertical_type": 100,
+        "vertical_id": 60809,
+        "custom_tags": null,
+        "what_we_love": ""
       }
     ],
-    "total": 1261,
+    "total": 1255,
     "price": {
       "from": "0",
       "to": "525"
