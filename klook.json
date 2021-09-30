@@ -674,7 +674,7 @@
       {
         "id": 62569,
         "template_id": 3,
-        "title": "3D2N Heritage Collection on Arab Street Singapore Staycation",
+        "title": "3D2N Heritage Collection on Arab Singapore Staycation",
         "subtitle": "",
         "url_seo": "",
         "city_id": 6,
@@ -1503,7 +1503,7 @@
         "start_time": "2021-10-04 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 1,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -1555,7 +1555,7 @@
         "start_time": "2021-10-03 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 2,
+        "participate": 4,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1835,7 +1835,7 @@
         "start_time": "2021-10-04 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 2,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3047,7 +3047,7 @@
         "start_time": "2021-10-15 18:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 82,
+        "participate": 89,
         "participants_format": "50+ Booked",
         "discount": 0,
         "review_total": 0,
@@ -3532,7 +3532,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1254,
+    "total": 1252,
     "price": {
       "from": "0",
       "to": "523"
