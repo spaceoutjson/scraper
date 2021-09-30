@@ -2186,9 +2186,9 @@
         "video_url": "",
         "score": 0,
         "currency": "SGD",
-        "market_price": "33.00",
-        "sell_price": "26.00",
-        "from_price": "26.00",
+        "market_price": "28.00",
+        "sell_price": "24.00",
+        "from_price": "24.00",
         "to_price": "28.00",
         "spec_price": {
           "type": 0,
@@ -2201,7 +2201,7 @@
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
-          "deals_discount": "21% OFF"
+          "deals_discount": "14% OFF"
         },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/c0om8h7l34h0cxnsb3tm.jpg",
@@ -2224,7 +2224,7 @@
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
-            "text": "21% OFF"
+            "text": "14% OFF"
           }
         ],
         "need_hide_review": false,
