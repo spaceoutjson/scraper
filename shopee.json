@@ -1,5 +1,5 @@
 {
-  "version": "a6d5bde534f956eed56b8baa18989048",
+  "version": "2e40768cf8924eff4351917fa02a7d5f",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -57,7 +57,7 @@
           "is_category_failed": false,
           "show_discount": 71,
           "cmt_count": 8,
-          "view_count": 7013,
+          "view_count": 7047,
           "catid": 100535,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -72,7 +72,7 @@
           "price_min_before_discount": 6840000,
           "cb_option": 1,
           "sold": 19,
-          "stock": 1112,
+          "stock": 1111,
           "status": 1,
           "price_max": 1990000,
           "add_on_deal_info": {
@@ -215,7 +215,7 @@
           "is_category_failed": false,
           "show_discount": 4,
           "cmt_count": 47,
-          "view_count": 25484,
+          "view_count": 25568,
           "catid": 100013,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -223,7 +223,7 @@
           "is_official_shop": true,
           "brand": "None",
           "price_min": 26500000,
-          "liked_count": 152,
+          "liked_count": 153,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -359,7 +359,7 @@
           "is_category_failed": false,
           "show_discount": 0,
           "cmt_count": 61,
-          "view_count": 2436,
+          "view_count": 2446,
           "catid": 100535,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -511,7 +511,7 @@
           "is_category_failed": false,
           "show_discount": 5,
           "cmt_count": 365,
-          "view_count": 49249,
+          "view_count": 49291,
           "catid": 100013,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -659,7 +659,7 @@
           "is_category_failed": false,
           "show_discount": 17,
           "cmt_count": 305,
-          "view_count": 5408,
+          "view_count": 5411,
           "catid": 100013,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -799,7 +799,7 @@
           "is_category_failed": false,
           "show_discount": 34,
           "cmt_count": 497,
-          "view_count": 6347,
+          "view_count": 6351,
           "catid": 100639,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1086,7 +1086,7 @@
           "is_category_failed": false,
           "show_discount": 52,
           "cmt_count": 1000,
-          "view_count": 8270,
+          "view_count": 8279,
           "catid": 100640,
           "is_on_flash_sale": null,
           "voucher_info": null,
@@ -1314,16 +1314,16 @@
           "exclusive_price_info": {
             "exclusive_price_results": [
               {
-                "mobile_image": "eb9123bee7cb97d9dea65747d5129ae0",
-                "url_text": "Upgrade to Shopee Rewards Platinum to save {saved_amount}",
+                "mobile_image": "05554c70ddc7dbbafc8633f093667eaa",
+                "url_text": "Upgrade to Shopee Silver to save {saved_amount}",
                 "model_ep_discount": 7,
                 "pc_image": "510a8b4ce116c72e2361def05c4441a6",
                 "url": "https://loyalty.shopee.sg/",
                 "model_ep_price": 2680000,
-                "label": "Shopee Rewards Platinum",
+                "label": "Shopee Rewards Silver",
                 "is_entitled": false,
                 "save_amount": 211000,
-                "promotion_id": 5000009200,
+                "promotion_id": 5000009204,
                 "background_color": "#EE4D2D"
               }
             ]
