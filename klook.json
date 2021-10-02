@@ -3940,7 +3940,10 @@
         ]
       }
     ],
-    "srv_filter_option": null,
+    "srv_filter_option": {
+      "srv_act_content": "Eligible for SingapoRediscovers Vouchers",
+      "is_selected": 0
+    },
     "nsw_filter_option": null
   },
   "success": true
