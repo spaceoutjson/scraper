@@ -2995,7 +2995,7 @@
         "video_url": "",
         "score": 0,
         "currency": "SGD",
-        "market_price": "69.00",
+        "market_price": "79.00",
         "sell_price": "69.00",
         "from_price": "69.00",
         "to_price": "69.00",
@@ -3009,6 +3009,9 @@
         "participate": 91,
         "participants_format": "50+ Booked",
         "discount": 0,
+        "card_tags": {
+          "deals_discount": "13% OFF"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/io503nlurqrf3dv5jn2t.jpg",
         "icon": null,
@@ -3025,7 +3028,14 @@
         "real_lang": "",
         "leaf_category": 480,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "13% OFF"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/62012-double-vaxxed-rishi-budhrani-sharul-channa-comedy-show-singapore-2021/",
         "deep_link": "https://www.klook.com/en-US/activity/62012-double-vaxxed-rishi-budhrani-sharul-channa-comedy-show-singapore-2021/",
