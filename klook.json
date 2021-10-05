@@ -1742,7 +1742,7 @@
         "start_time": "2021-10-06 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 10,
+        "participate": 11,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -1856,7 +1856,7 @@
         "start_time": "2021-10-11 11:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 9,
+        "participate": 13,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1957,7 +1957,7 @@
         "instance": 1,
         "image_url": "",
         "video_url": "",
-        "score": 0,
+        "score": 5,
         "currency": "SGD",
         "market_price": "45.00",
         "sell_price": "40.00",
@@ -1976,7 +1976,7 @@
         "card_tags": {
           "deals_discount": "11% OFF"
         },
-        "review_total": 0,
+        "review_total": 2,
         "image_url_host": "https://res.klook.com/image/upload/activities/fwljlkrklz8c8d2idrew.jpg",
         "icon": null,
         "icons": null,
@@ -2000,7 +2000,7 @@
             "text": "11% OFF"
           }
         ],
-        "need_hide_review": true,
+        "need_hide_review": false,
         "deeplink": "https://www.klook.com/en-US/activity/62278-singapore-magical-time-museum-half-day-tour/",
         "deep_link": "https://www.klook.com/en-US/activity/62278-singapore-magical-time-museum-half-day-tour/",
         "vertical_type": 100,
@@ -2550,7 +2550,7 @@
         "start_time": "2021-10-06 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 12,
+        "participate": 14,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
