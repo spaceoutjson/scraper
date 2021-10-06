@@ -673,6 +673,68 @@
     ],
     "activities": [
       {
+        "id": 62248,
+        "template_id": 4,
+        "title": "Evan's Kitch at Beach Road",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "50.00",
+        "sell_price": "42.50",
+        "from_price": "42.50",
+        "to_price": "85.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-10-07 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "deals_discount": "15% OFF"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/qfyszk6ceypjtopngltf.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.302163,103.862132",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 486,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "15% OFF"
+          }
+        ],
+        "need_hide_review": false,
+        "deeplink": "https://www.klook.com/en-US/activity/62248-evans-kitch-beach-road-singapore/",
+        "deep_link": "https://www.klook.com/en-US/activity/62248-evans-kitch-beach-road-singapore/",
+        "vertical_type": 106,
+        "vertical_id": 62248,
+        "custom_tags": null,
+        "what_we_love": ""
+      },
+      {
         "id": 62300,
         "template_id": 2,
         "title": "Singapore Southern Islands Tour with Haidilao Dinner",
@@ -3509,71 +3571,9 @@
         "vertical_id": 60889,
         "custom_tags": null,
         "what_we_love": ""
-      },
-      {
-        "id": 61779,
-        "template_id": 3,
-        "title": "Facial Treatments at Joyre Medical & Aesthetic Clinic",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "128.00",
-        "sell_price": "108.80",
-        "from_price": "108.80",
-        "to_price": "288.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-10-06 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "deals_discount": "15% OFF"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/spngmzi0bftlmd60iujz.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.350764,103.872278",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 418,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "15% OFF"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/61779-joyre-medical-aesthetic-clinic-treatment-singapore/",
-        "deep_link": "https://www.klook.com/en-US/activity/61779-joyre-medical-aesthetic-clinic-treatment-singapore/",
-        "vertical_type": 100,
-        "vertical_id": 61779,
-        "custom_tags": null,
-        "what_we_love": ""
       }
     ],
-    "total": 1260,
+    "total": 1261,
     "price": {
       "from": "0",
       "to": "524"
