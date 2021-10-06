@@ -673,6 +673,68 @@
     ],
     "activities": [
       {
+        "id": 64179,
+        "template_id": 2,
+        "title": "Singapore Kusu Island Half Day Tour",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "60.00",
+        "sell_price": "60.00",
+        "from_price": "60.00",
+        "to_price": "60.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-10-16 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/mciocc8chfx10x5zdfto.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.264218,103.820359",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 156,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/64179-singapore-kusu-island-half-day-tour/",
+        "deep_link": "https://www.klook.com/en-US/activity/64179-singapore-kusu-island-half-day-tour/",
+        "vertical_type": 100,
+        "vertical_id": 64179,
+        "custom_tags": null,
+        "what_we_love": ""
+      },
+      {
         "id": 64119,
         "template_id": 2,
         "title": "Singapore Kusu Worship One Day Tour",
@@ -699,6 +761,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/x42mgizchwx5tjbv8mci.jpg",
         "icon": null,
@@ -715,7 +780,14 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/64119-singapore-kusu-worship-one-day-tour/",
         "deep_link": "https://www.klook.com/en-US/activity/64119-singapore-kusu-worship-one-day-tour/",
@@ -1863,7 +1935,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-07 10:00:00",
+        "start_time": "2021-10-08 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 2,
@@ -3509,71 +3581,9 @@
         "vertical_id": 61943,
         "custom_tags": null,
         "what_we_love": ""
-      },
-      {
-        "id": 61825,
-        "template_id": 3,
-        "title": "Furama City Centre The Work From Hotel Series",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "22.80",
-        "sell_price": "17.80",
-        "from_price": "17.80",
-        "to_price": "17.80",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-10-07 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "deals_discount": "22% OFF"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/obkdbgdpmbgq12wspqv9.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.286608,103.844732",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 336,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "22% OFF"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/61825-furama-city-centre-singapore/",
-        "deep_link": "https://www.klook.com/en-US/activity/61825-furama-city-centre-singapore/",
-        "vertical_type": 100,
-        "vertical_id": 61825,
-        "custom_tags": null,
-        "what_we_love": ""
       }
     ],
-    "total": 1263,
+    "total": 1264,
     "price": {
       "from": "0",
       "to": "524"
