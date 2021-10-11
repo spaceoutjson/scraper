@@ -675,6 +675,68 @@
     ],
     "activities": [
       {
+        "id": 64205,
+        "template_id": 3,
+        "title": "Earl's Treat Experience by Truefitt and Hill Singapore",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 0,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "230.00",
+        "sell_price": "200.00",
+        "from_price": "200.00",
+        "to_price": "200.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-10-14 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "deals_discount": "13% OFF"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/tspsqxrgzwv4ca0u0veq.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.281279,103.845772",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 419,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "13% OFF"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/64205-truefitt-hill-experience-singapore/",
+        "deep_link": "https://www.klook.com/en-US/activity/64205-truefitt-hill-experience-singapore/",
+        "vertical_type": 100,
+        "vertical_id": 64205,
+        "custom_tags": null,
+        "what_we_love": ""
+      },
+      {
         "id": 60705,
         "template_id": 2,
         "title": "The Hunt for Yamashita's Treasure Game Tour in Singapore",
@@ -3149,7 +3211,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-11 00:00:00",
+        "start_time": "2021-10-12 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 14,
@@ -3551,71 +3613,9 @@
         "vertical_id": 60626,
         "custom_tags": null,
         "what_we_love": ""
-      },
-      {
-        "id": 60756,
-        "template_id": 2,
-        "title": "Singapore Explore Southern Island One Day Tour",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "105.00",
-        "sell_price": "105.00",
-        "from_price": "105.00",
-        "to_price": "110.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-10-15 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 4,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/jaymbheaxnlvymonrxkr.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.262048,103.817818",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 156,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/60756-singapore-explore-southern-island-one-day-tour/",
-        "deep_link": "https://www.klook.com/en-US/activity/60756-singapore-explore-southern-island-one-day-tour/",
-        "vertical_type": 100,
-        "vertical_id": 60756,
-        "custom_tags": null,
-        "what_we_love": ""
       }
     ],
-    "total": 1268,
+    "total": 1269,
     "price": {
       "from": "0",
       "to": "523"
