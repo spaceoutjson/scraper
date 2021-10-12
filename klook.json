@@ -676,6 +676,68 @@
     ],
     "activities": [
       {
+        "id": 64276,
+        "template_id": 3,
+        "title": "Southern Islands Yacht Picnic Tour",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "138.00",
+        "sell_price": "138.00",
+        "from_price": "138.00",
+        "to_price": "138.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-10-28 08:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/selhjqxwlvm1artveutu.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.264002,103.812509",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 509,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/64276-southern-islands-yacht-picnic-tour-island-hopping-tour-singapore/",
+        "deep_link": "https://www.klook.com/en-US/activity/64276-southern-islands-yacht-picnic-tour-island-hopping-tour-singapore/",
+        "vertical_type": 100,
+        "vertical_id": 64276,
+        "custom_tags": null,
+        "what_we_love": ""
+      },
+      {
         "id": 64224,
         "template_id": 4,
         "title": "[Delivery] Vegan Pasta by Sudouku in Singapore",
@@ -3326,7 +3388,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-12 00:00:00",
+        "start_time": "2021-10-13 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 16,
@@ -3552,71 +3614,9 @@
         "vertical_id": 62140,
         "custom_tags": null,
         "what_we_love": ""
-      },
-      {
-        "id": 62121,
-        "template_id": 4,
-        "title": "Cafe Monochrome at Jalan Besar",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "28.00",
-        "sell_price": "24.00",
-        "from_price": "24.00",
-        "to_price": "28.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-10-13 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 8,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "deals_discount": "14% OFF"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/c0om8h7l34h0cxnsb3tm.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.307761,103.857848",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 486,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "14% OFF"
-          }
-        ],
-        "need_hide_review": false,
-        "deeplink": "https://www.klook.com/en-US/activity/62121-cafe-monochrome-jalan-besar/",
-        "deep_link": "https://www.klook.com/en-US/activity/62121-cafe-monochrome-jalan-besar/",
-        "vertical_type": 106,
-        "vertical_id": 62121,
-        "custom_tags": null,
-        "what_we_love": ""
       }
     ],
-    "total": 1270,
+    "total": 1272,
     "price": {
       "from": "0",
       "to": "522"
