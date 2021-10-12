@@ -676,6 +676,68 @@
     ],
     "activities": [
       {
+        "id": 64224,
+        "template_id": 4,
+        "title": "[Delivery] Vegan Pasta by Sudouku in Singapore",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "50.00",
+        "sell_price": "45.00",
+        "from_price": "45.00",
+        "to_price": "63.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-10-16 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "deals_discount": "10% OFF"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/vzmah5hxm2sq9hvhwuul.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.354186,103.818316",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 487,
+        "package_id": 0,
+        "tags": [
+          {
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "10% OFF"
+          }
+        ],
+        "need_hide_review": false,
+        "deeplink": "https://www.klook.com/en-US/activity/64224-vegan-pasta-sudouku-delivery-singapore/",
+        "deep_link": "https://www.klook.com/en-US/activity/64224-vegan-pasta-sudouku-delivery-singapore/",
+        "vertical_type": 106,
+        "vertical_id": 64224,
+        "custom_tags": null,
+        "what_we_love": ""
+      },
+      {
         "id": 61895,
         "template_id": 2,
         "title": "Singapore River Cruise or Chinatown Half Day Tour",
@@ -748,7 +810,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-14 00:00:00",
+        "start_time": "2021-10-15 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3552,71 +3614,9 @@
         "vertical_id": 62121,
         "custom_tags": null,
         "what_we_love": ""
-      },
-      {
-        "id": 62167,
-        "template_id": 1,
-        "title": "[Klook Exclusive] Dream Cruise Comedy Show by Gurmit Singh, Rishi Budhrani and Fakkah Fuzz",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "https://res.klook.com/video/upload/fl_lossy.progressive,q_85,f_auto/c_fill,,/c_scale,h_540,vc_auto/c_scale,g_north_west,h_20,l_whitelogo_hz5dq1,o_30,x_70,y_480/c_scale,f_mp4,fl_splice,h_540,l_video:ending_trgtvv/v1631781998/activities/eyicy6ah6cetyksffp4r.mp4",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "80.00",
-        "sell_price": "37.00",
-        "from_price": "37.00",
-        "to_price": "37.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-10-20 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 10,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "deals_discount": "54% OFF"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/epejunux7rafhhiw9a25.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.354186,103.818316",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 480,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "54% OFF"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/62167-dream-cruise-comedy-show-by-gurmit-singh-rishi-budhrani-fakkah-fuzz/",
-        "deep_link": "https://www.klook.com/en-US/activity/62167-dream-cruise-comedy-show-by-gurmit-singh-rishi-budhrani-fakkah-fuzz/",
-        "vertical_type": 100,
-        "vertical_id": 62167,
-        "custom_tags": null,
-        "what_we_love": ""
       }
     ],
-    "total": 1269,
+    "total": 1270,
     "price": {
       "from": "0",
       "to": "522"
