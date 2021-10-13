@@ -1,5 +1,5 @@
 {
-  "version": "27de407eb279333c1d4971c2166803ef",
+  "version": "3e23722063d4d17e8a571e5b00947dcd",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -59,7 +59,7 @@
           "is_category_failed": false,
           "show_discount": 26,
           "cmt_count": 1844,
-          "view_count": 7150,
+          "view_count": 7193,
           "catid": 100632,
           "is_on_flash_sale": false,
           "voucher_info": null,
@@ -74,7 +74,7 @@
           "price_min_before_discount": 2090000,
           "cb_option": 0,
           "sold": 544,
-          "stock": 746,
+          "stock": 744,
           "status": 1,
           "price_max": 1550000,
           "add_on_deal_info": null,
@@ -199,17 +199,17 @@
           "is_category_failed": false,
           "show_discount": 45,
           "cmt_count": 97,
-          "view_count": 2415,
+          "view_count": 2481,
           "catid": 100630,
           "is_on_flash_sale": false,
           "voucher_info": null,
           "upcoming_flash_sale": null,
-          "is_official_shop": true,
+          "is_official_shop": null,
           "brand": "Skinceuticals",
           "price_min": 19399000,
           "liked_count": 213,
           "can_use_bundle_deal": false,
-          "show_official_shop_label": true,
+          "show_official_shop_label": null,
           "coin_earn_label": null,
           "price_min_before_discount": 35088000,
           "cb_option": 1,
@@ -220,7 +220,7 @@
           "add_on_deal_info": null,
           "is_group_buy_item": null,
           "flash_sale": null,
-          "is_mart": false,
+          "is_mart": null,
           "price": 19399000,
           "shop_location": "Hong Kong",
           "item_rating": {
@@ -236,7 +236,7 @@
             "rcount_with_image": 36,
             "rcount_with_context": 47
           },
-          "show_official_shop_label_in_title": true,
+          "show_official_shop_label_in_title": null,
           "tier_variations": [
             {
               "images": [],
@@ -262,7 +262,7 @@
           "name": "SkinCeuticals  C E Ferulic 1oz, 30ml",
           "ctime": 1522034604,
           "wholesale_tier_list": [],
-          "show_shopee_verified_label": false,
+          "show_shopee_verified_label": null,
           "show_official_shop_label_in_normal_position": null,
           "item_status": "normal",
           "shopee_verified": false,
@@ -322,7 +322,7 @@
           "is_category_failed": false,
           "show_discount": 14,
           "cmt_count": 7,
-          "view_count": 1060,
+          "view_count": 1155,
           "catid": 100010,
           "is_on_flash_sale": false,
           "voucher_info": null,
@@ -461,17 +461,17 @@
           "is_category_failed": false,
           "show_discount": 6,
           "cmt_count": 79,
-          "view_count": 3469,
+          "view_count": 3505,
           "catid": 100644,
           "is_on_flash_sale": false,
           "voucher_info": null,
           "upcoming_flash_sale": null,
-          "is_official_shop": false,
+          "is_official_shop": null,
           "brand": "Lenovo",
           "price_min": 234900000,
           "liked_count": 236,
           "can_use_bundle_deal": false,
-          "show_official_shop_label": false,
+          "show_official_shop_label": null,
           "coin_earn_label": null,
           "price_min_before_discount": 249900000,
           "cb_option": 0,
@@ -486,9 +486,9 @@
           },
           "is_group_buy_item": null,
           "flash_sale": null,
-          "is_mart": false,
+          "is_mart": null,
           "price": 234900000,
-          "shop_location": "Singapore",
+          "shop_location": null,
           "item_rating": {
             "rating_star": 4.898734,
             "rating_count": [
@@ -502,7 +502,7 @@
             "rcount_with_image": 42,
             "rcount_with_context": 53
           },
-          "show_official_shop_label_in_title": false,
+          "show_official_shop_label_in_title": null,
           "tier_variations": [
             {
               "images": [],
@@ -539,10 +539,10 @@
           "name": "【Same Day Delivery】LEGION 5 2021(15ACH6H) | 15.6\" 165Hz FHD | Ryzen 7 5800H | RTX3060(130W) | 16GB/1TB | 82JU00EESB",
           "ctime": 1581392441,
           "wholesale_tier_list": [],
-          "show_shopee_verified_label": true,
+          "show_shopee_verified_label": null,
           "show_official_shop_label_in_normal_position": null,
           "item_status": "normal",
-          "shopee_verified": true,
+          "shopee_verified": false,
           "hidden_price_display": null,
           "size_chart": null,
           "item_type": 0,
@@ -607,7 +607,7 @@
           "is_category_failed": false,
           "show_discount": 27,
           "cmt_count": 984,
-          "view_count": 6935,
+          "view_count": 6957,
           "catid": 100535,
           "is_on_flash_sale": false,
           "voucher_info": null,
@@ -744,8 +744,8 @@
           "price_before_discount": 49900000,
           "is_category_failed": false,
           "show_discount": 30,
-          "cmt_count": 792,
-          "view_count": 5706,
+          "cmt_count": 793,
+          "view_count": 5720,
           "catid": 100001,
           "is_on_flash_sale": false,
           "voucher_info": null,
@@ -770,17 +770,17 @@
           "price": 34900000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.830808,
+            "rating_star": 4.831021,
             "rating_count": [
-              792,
+              793,
               8,
               7,
               13,
               55,
-              709
+              710
             ],
             "rcount_with_image": 334,
-            "rcount_with_context": 501
+            "rcount_with_context": 502
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -843,7 +843,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 1750,
+          "historical_sold": 1751,
           "transparent_background_image": "8467735dc6e3b937f2c05f9f49d9b66a"
         },
         {
@@ -884,7 +884,7 @@
           "is_category_failed": false,
           "show_discount": 16,
           "cmt_count": 139,
-          "view_count": 390,
+          "view_count": 396,
           "catid": 100629,
           "is_on_flash_sale": false,
           "voucher_info": null,
@@ -1012,17 +1012,17 @@
           "is_category_failed": false,
           "show_discount": 10,
           "cmt_count": 786,
-          "view_count": 3551,
+          "view_count": 3562,
           "catid": 100632,
           "is_on_flash_sale": true,
           "voucher_info": null,
           "upcoming_flash_sale": null,
-          "is_official_shop": true,
+          "is_official_shop": null,
           "brand": "Nestle",
           "price_min": 21000000,
           "liked_count": 174,
           "can_use_bundle_deal": false,
-          "show_official_shop_label": true,
+          "show_official_shop_label": null,
           "coin_earn_label": null,
           "price_min_before_discount": 23340000,
           "cb_option": 0,
@@ -1033,7 +1033,7 @@
           "add_on_deal_info": null,
           "is_group_buy_item": null,
           "flash_sale": null,
-          "is_mart": false,
+          "is_mart": null,
           "price": 21000000,
           "shop_location": "Singapore",
           "item_rating": {
@@ -1049,7 +1049,7 @@
             "rcount_with_image": 383,
             "rcount_with_context": 511
           },
-          "show_official_shop_label_in_title": true,
+          "show_official_shop_label_in_title": null,
           "tier_variations": [
             {
               "images": [],
@@ -1075,7 +1075,7 @@
           "name": "Nestlé® NAN® OPTIPRO® 4 Growing Up Milk 850g x6 [NEW PACKAGING -Improved Formula from Singapore]",
           "ctime": 1588041645,
           "wholesale_tier_list": [],
-          "show_shopee_verified_label": false,
+          "show_shopee_verified_label": null,
           "show_official_shop_label_in_normal_position": null,
           "item_status": "normal",
           "shopee_verified": false,
@@ -1146,8 +1146,8 @@
           "price_before_discount": 5985000,
           "is_category_failed": false,
           "show_discount": 14,
-          "cmt_count": 3937,
-          "view_count": 12943,
+          "cmt_count": 3939,
+          "view_count": 12955,
           "catid": 100001,
           "is_on_flash_sale": false,
           "voucher_info": null,
@@ -1162,7 +1162,7 @@
           "price_min_before_discount": 5985000,
           "cb_option": 0,
           "sold": 344,
-          "stock": 104,
+          "stock": 103,
           "status": 1,
           "price_max": 5148000,
           "add_on_deal_info": null,
@@ -1172,17 +1172,17 @@
           "price": 5148000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.953494,
+            "rating_star": 4.953518,
             "rating_count": [
-              3937,
+              3939,
               5,
               6,
               25,
               98,
-              3803
+              3805
             ],
-            "rcount_with_image": 1806,
-            "rcount_with_context": 2398
+            "rcount_with_image": 1807,
+            "rcount_with_context": 2399
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -1251,7 +1251,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 9066,
+          "historical_sold": 9071,
           "transparent_background_image": "1595e0598e633ea5ad62675c35a851eb"
         },
         {
@@ -1288,8 +1288,8 @@
           "price_before_discount": 94900000,
           "is_category_failed": false,
           "show_discount": 27,
-          "cmt_count": 30,
-          "view_count": 4466,
+          "cmt_count": 31,
+          "view_count": 4475,
           "catid": 100013,
           "is_on_flash_sale": false,
           "voucher_info": null,
@@ -1314,17 +1314,17 @@
           "price": 68900000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.966667,
+            "rating_star": 4.967742,
             "rating_count": [
-              30,
+              31,
               0,
               0,
               0,
               1,
-              29
+              30
             ],
             "rcount_with_image": 17,
-            "rcount_with_context": 20
+            "rcount_with_context": 21
           },
           "show_official_shop_label_in_title": false,
           "tier_variations": [
@@ -1381,7 +1381,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 54,
+          "historical_sold": 55,
           "transparent_background_image": "87647aae1626f132d082c1775f510ce5"
         }
       ],
