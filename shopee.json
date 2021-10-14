@@ -1,5 +1,5 @@
 {
-  "version": "3612e6dd2b225516d96dfc78fff171eb",
+  "version": "b3b497fb0c9ac6800ed9e03cf1e9b94d",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -60,8 +60,8 @@
           "price_before_discount": 3180000,
           "is_category_failed": false,
           "show_discount": 31,
-          "cmt_count": 99,
-          "view_count": 2218,
+          "cmt_count": 100,
+          "view_count": 2282,
           "catid": 100632,
           "is_on_flash_sale": false,
           "voucher_info": null,
@@ -69,7 +69,7 @@
           "is_official_shop": true,
           "brand": "Mustela",
           "price_min": 2205000,
-          "liked_count": 50,
+          "liked_count": 51,
           "can_use_bundle_deal": false,
           "show_official_shop_label": true,
           "coin_earn_label": null,
@@ -90,14 +90,14 @@
           "price": 2205000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.969697,
+            "rating_star": 4.97,
             "rating_count": [
-              99,
+              100,
               0,
               0,
               1,
               1,
-              97
+              98
             ],
             "rcount_with_image": 47,
             "rcount_with_context": 59
@@ -160,7 +160,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 263,
+          "historical_sold": 264,
           "transparent_background_image": ""
         },
         {
@@ -210,7 +210,7 @@
           "is_category_failed": false,
           "show_discount": 15,
           "cmt_count": 256,
-          "view_count": 8982,
+          "view_count": 9062,
           "catid": 100010,
           "is_on_flash_sale": false,
           "voucher_info": null,
@@ -346,7 +346,7 @@
           "is_category_failed": false,
           "show_discount": 5,
           "cmt_count": 25,
-          "view_count": 18288,
+          "view_count": 18452,
           "catid": 100013,
           "is_on_flash_sale": false,
           "voucher_info": null,
@@ -492,7 +492,7 @@
           "is_category_failed": false,
           "show_discount": 11,
           "cmt_count": 66,
-          "view_count": 4408,
+          "view_count": 4486,
           "catid": 100644,
           "is_on_flash_sale": false,
           "voucher_info": null,
@@ -500,7 +500,7 @@
           "is_official_shop": false,
           "brand": "ASUS",
           "price_min": 169800000,
-          "liked_count": 389,
+          "liked_count": 390,
           "can_use_bundle_deal": false,
           "show_official_shop_label": false,
           "coin_earn_label": null,
@@ -629,7 +629,7 @@
           "is_category_failed": false,
           "show_discount": 17,
           "cmt_count": 305,
-          "view_count": 8909,
+          "view_count": 8919,
           "catid": 100010,
           "is_on_flash_sale": false,
           "voucher_info": null,
@@ -764,7 +764,7 @@
           "is_category_failed": false,
           "show_discount": 20,
           "cmt_count": 14,
-          "view_count": 778,
+          "view_count": 785,
           "catid": 100630,
           "is_on_flash_sale": false,
           "voucher_info": null,
@@ -903,7 +903,7 @@
           "is_category_failed": false,
           "show_discount": 10,
           "cmt_count": 789,
-          "view_count": 3945,
+          "view_count": 3957,
           "catid": 100632,
           "is_on_flash_sale": true,
           "voucher_info": null,
@@ -1038,7 +1038,7 @@
           "is_category_failed": false,
           "show_discount": 29,
           "cmt_count": 557,
-          "view_count": 12508,
+          "view_count": 12533,
           "catid": 100636,
           "is_on_flash_sale": false,
           "voucher_info": null,
@@ -1180,7 +1180,7 @@
           "is_category_failed": false,
           "show_discount": 17,
           "cmt_count": 2914,
-          "view_count": 6792,
+          "view_count": 6799,
           "catid": 100629,
           "is_on_flash_sale": false,
           "voucher_info": null,
@@ -1320,8 +1320,8 @@
           "price_before_discount": 12765000,
           "is_category_failed": false,
           "show_discount": 14,
-          "cmt_count": 1720,
-          "view_count": 5010,
+          "cmt_count": 1721,
+          "view_count": 5014,
           "catid": 100001,
           "is_on_flash_sale": false,
           "voucher_info": null,
@@ -1346,14 +1346,14 @@
           "price": 10978000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.948778,
+            "rating_star": 4.948807,
             "rating_count": [
-              1720,
+              1721,
               3,
               6,
               11,
               42,
-              1658
+              1659
             ],
             "rcount_with_image": 864,
             "rcount_with_context": 1142
@@ -1421,7 +1421,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 3906,
+          "historical_sold": 3909,
           "transparent_background_image": "124a31a0a0d887604555166d15cfae63"
         }
       ],
