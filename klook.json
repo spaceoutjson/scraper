@@ -698,7 +698,7 @@
         "start_time": "2021-10-20 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 2,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1456,7 +1456,7 @@
         "start_time": "2021-11-30 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 9,
+        "participate": 11,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2408,7 +2408,7 @@
         "start_time": "2021-10-22 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 14,
+        "participate": 16,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -2581,15 +2581,12 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-18 00:00:00",
+        "start_time": "",
         "sold_out": true,
         "published": true,
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
-        "card_tags": {
-          "deals_discount": "10% OFF"
-        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/supwpfeuxtt5pla4pucq.jpg",
         "icon": null,
@@ -2606,14 +2603,7 @@
         "real_lang": "",
         "leaf_category": 487,
         "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "10% OFF"
-          }
-        ],
+        "tags": null,
         "need_hide_review": false,
         "deeplink": "https://www.klook.com/en-US/activity/64188-old-town-white-coffee-changi-airport/",
         "deep_link": "https://www.klook.com/en-US/activity/64188-old-town-white-coffee-changi-airport/",
@@ -2643,15 +2633,12 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-18 00:00:00",
+        "start_time": "",
         "sold_out": true,
         "published": true,
         "participate": 3,
         "participants_format": "New Activity",
         "discount": 0,
-        "card_tags": {
-          "deals_discount": "10% OFF"
-        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/ujanpvzfgspcrb8nhmvl.jpg",
         "icon": null,
@@ -2668,14 +2655,7 @@
         "real_lang": "",
         "leaf_category": 484,
         "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "10% OFF"
-          }
-        ],
+        "tags": null,
         "need_hide_review": false,
         "deeplink": "https://www.klook.com/en-US/activity/64187-tai-cheong-bakery-changi-airport/",
         "deep_link": "https://www.klook.com/en-US/activity/64187-tai-cheong-bakery-changi-airport/",
@@ -3350,7 +3330,7 @@
         "start_time": "2021-10-19 10:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 4,
+        "participate": 5,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 1,
