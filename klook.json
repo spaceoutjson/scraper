@@ -676,6 +676,58 @@
     ],
     "activities": [
       {
+        "id": 62366,
+        "template_id": 3,
+        "title": "Holiday Latte Art Workshop",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "165.00",
+        "sell_price": "165.00",
+        "from_price": "165.00",
+        "to_price": "165.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-12-10 10:30:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/ws6pcfqh9rt3cbussek1.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.335426,103.884335",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 124,
+        "package_id": 0,
+        "tags": null,
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/62366-holiday-latte-art-workshop/",
+        "deep_link": "https://www.klook.com/en-US/activity/62366-holiday-latte-art-workshop/",
+        "vertical_type": 100,
+        "vertical_id": 62366,
+        "custom_tags": null,
+        "what_we_love": ""
+      },
+      {
         "id": 64337,
         "template_id": 2,
         "title": "Clarke Quay History Walkabout PLUS Jumbo Seafood Lunch or Dinner PLUS Singapore River Cruise",
@@ -696,7 +748,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-21 00:00:00",
+        "start_time": "2021-10-22 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -810,7 +862,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-20 00:00:00",
+        "start_time": "2021-10-21 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 3,
@@ -872,7 +924,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-22 10:00:00",
+        "start_time": "2021-10-23 10:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1134,16 +1186,16 @@
         "video_url": "",
         "score": 0,
         "currency": "SGD",
-        "market_price": "75.35",
-        "sell_price": "75.35",
-        "from_price": "75.35",
-        "to_price": "75.35",
+        "market_price": "",
+        "sell_price": "",
+        "from_price": "",
+        "to_price": "",
         "spec_price": {
           "type": 0,
           "desc": ""
         },
         "start_time": "2021-10-22 00:00:00",
-        "sold_out": false,
+        "sold_out": true,
         "published": true,
         "participate": 0,
         "participants_format": "New Activity",
@@ -1194,7 +1246,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-19 00:00:00",
+        "start_time": "2021-10-20 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1248,10 +1300,10 @@
         "video_url": "",
         "score": 0,
         "currency": "SGD",
-        "market_price": "49.1",
-        "sell_price": "49.1",
-        "from_price": "49.1",
-        "to_price": "76",
+        "market_price": "48.95",
+        "sell_price": "48.95",
+        "from_price": "48.95",
+        "to_price": "75.75",
         "spec_price": {
           "type": 0,
           "desc": ""
@@ -1308,7 +1360,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-20 16:00:00",
+        "start_time": "2021-10-21 16:00:00",
         "sold_out": false,
         "published": true,
         "participate": 1,
@@ -1474,7 +1526,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-23 10:00:00",
+        "start_time": "2021-10-24 10:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1526,7 +1578,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-23 10:00:00",
+        "start_time": "2021-10-24 10:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1578,7 +1630,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-23 10:00:00",
+        "start_time": "2021-10-24 10:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1630,7 +1682,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-22 10:00:00",
+        "start_time": "2021-10-23 10:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1682,7 +1734,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-20 17:30:00",
+        "start_time": "2021-10-21 09:45:00",
         "sold_out": false,
         "published": true,
         "participate": 8,
@@ -1848,7 +1900,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-24 08:00:00",
+        "start_time": "2021-10-25 08:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1972,7 +2024,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-21 10:00:00",
+        "start_time": "2021-10-22 10:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2324,7 +2376,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-21 00:00:00",
+        "start_time": "2021-10-22 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 3,
@@ -2376,7 +2428,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-23 10:00:00",
+        "start_time": "2021-10-24 10:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2490,7 +2542,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-25 00:00:00",
+        "start_time": "2021-10-26 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2614,7 +2666,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-20 00:00:00",
+        "start_time": "2021-10-21 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2790,7 +2842,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-19 00:00:00",
+        "start_time": "2021-10-20 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 1,
@@ -2852,7 +2904,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-19 00:00:00",
+        "start_time": "2021-10-20 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3038,7 +3090,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-20 00:00:00",
+        "start_time": "2021-10-21 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3100,7 +3152,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-20 00:00:00",
+        "start_time": "2021-10-21 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3162,7 +3214,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-19 00:00:00",
+        "start_time": "2021-10-20 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 1,
@@ -3380,7 +3432,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-21 00:00:00",
+        "start_time": "2021-10-22 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 5,
@@ -3472,74 +3524,12 @@
         "vertical_id": 62250,
         "custom_tags": null,
         "what_we_love": ""
-      },
-      {
-        "id": 62220,
-        "template_id": 2,
-        "title": "Gardens by the Bay - Floral Fantasy with Historical Walking Tour PLUS JUMBO Seafood Lunch or Dinner",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "100.00",
-        "sell_price": "100.00",
-        "from_price": "100.00",
-        "to_price": "100.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-10-21 10:30:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/er4t2u6lakbjddw2fjmz.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.282325,103.864109",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 150,
-        "package_id": 0,
-        "tags": [
-          {
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/62220-garden-by-the-bay-floral-fantasy-jumbo-seafood-luinch-dinner/",
-        "deep_link": "https://www.klook.com/en-US/activity/62220-garden-by-the-bay-floral-fantasy-jumbo-seafood-luinch-dinner/",
-        "vertical_type": 100,
-        "vertical_id": 62220,
-        "custom_tags": null,
-        "what_we_love": ""
       }
     ],
-    "total": 1277,
+    "total": 1278,
     "price": {
       "from": "0",
-      "to": "521"
+      "to": "519"
     },
     "stat": null,
     "template_tag_mapping": [
