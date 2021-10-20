@@ -1,5 +1,5 @@
 {
-  "version": "3dd06013464ea5aac9974eb8e8ef8512",
+  "version": "9d1abdfe5db12bd744947b0d63433e25",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -52,7 +52,7 @@
           "is_category_failed": false,
           "show_discount": 10,
           "cmt_count": 3900,
-          "view_count": 7131,
+          "view_count": 7139,
           "catid": 100629,
           "is_on_flash_sale": true,
           "voucher_info": null,
@@ -210,7 +210,7 @@
           "is_category_failed": false,
           "show_discount": 0,
           "cmt_count": 191,
-          "view_count": 96672,
+          "view_count": 96698,
           "catid": 100013,
           "is_on_flash_sale": false,
           "voucher_info": null,
@@ -365,7 +365,7 @@
           "is_category_failed": false,
           "show_discount": 37,
           "cmt_count": 299,
-          "view_count": 1970,
+          "view_count": 1987,
           "catid": 100644,
           "is_on_flash_sale": false,
           "voucher_info": null,
@@ -492,7 +492,7 @@
           "is_category_failed": false,
           "show_discount": 9,
           "cmt_count": 277,
-          "view_count": 54155,
+          "view_count": 54161,
           "catid": 100001,
           "is_on_flash_sale": true,
           "voucher_info": null,
@@ -626,7 +626,7 @@
           "is_category_failed": false,
           "show_discount": 19,
           "cmt_count": 16,
-          "view_count": 730,
+          "view_count": 735,
           "catid": 100630,
           "is_on_flash_sale": false,
           "voucher_info": null,
@@ -912,7 +912,7 @@
           "is_category_failed": false,
           "show_discount": 27,
           "cmt_count": 79,
-          "view_count": 9026,
+          "view_count": 9028,
           "catid": 100637,
           "is_on_flash_sale": false,
           "voucher_info": null,
@@ -1036,8 +1036,8 @@
           "price_before_discount": 7170000,
           "is_category_failed": false,
           "show_discount": 30,
-          "cmt_count": 3137,
-          "view_count": 21893,
+          "cmt_count": 3138,
+          "view_count": 21896,
           "catid": 100636,
           "is_on_flash_sale": false,
           "voucher_info": null,
@@ -1066,17 +1066,17 @@
           "price": 4990000,
           "shop_location": "Singapore",
           "item_rating": {
-            "rating_star": 4.958214,
+            "rating_star": 4.958227,
             "rating_count": [
-              3137,
+              3138,
               6,
               4,
               17,
               68,
-              3042
+              3043
             ],
-            "rcount_with_image": 1249,
-            "rcount_with_context": 1782
+            "rcount_with_image": 1250,
+            "rcount_with_context": 1783
           },
           "show_official_shop_label_in_title": true,
           "tier_variations": [
@@ -1144,7 +1144,7 @@
           "pack_size": null,
           "service_by_shopee_flag": null,
           "badge_icon_type": 0,
-          "historical_sold": 7456,
+          "historical_sold": 7457,
           "transparent_background_image": "6d7082da168d41632e035a8938aa503c"
         },
         {
@@ -1338,7 +1338,7 @@
           "is_category_failed": false,
           "show_discount": 34,
           "cmt_count": 289,
-          "view_count": 4612,
+          "view_count": 4618,
           "catid": 100636,
           "is_on_flash_sale": false,
           "voucher_info": null,
@@ -1346,7 +1346,7 @@
           "is_official_shop": false,
           "brand": "Joseph&Casey",
           "price_min": 6490000,
-          "liked_count": 857,
+          "liked_count": 858,
           "can_use_bundle_deal": true,
           "show_official_shop_label": false,
           "coin_earn_label": null,
