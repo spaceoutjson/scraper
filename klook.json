@@ -90,12 +90,6 @@
             "children": null
           },
           {
-            "id": 29,
-            "name": "Drinks & dining experiences",
-            "enable": true,
-            "children": null
-          },
-          {
             "id": 25,
             "name": "Workshops & cooking classes",
             "enable": true,
@@ -672,7 +666,8 @@
       "2022-10-19T00:00:00Z",
       "2022-10-20T00:00:00Z",
       "2022-10-21T00:00:00Z",
-      "2022-10-22T00:00:00Z"
+      "2022-10-22T00:00:00Z",
+      "2022-10-23T00:00:00Z"
     ],
     "activities": [
       {
@@ -3526,7 +3521,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1306,
+    "total": 1304,
     "price": {
       "from": "0",
       "to": "521"
