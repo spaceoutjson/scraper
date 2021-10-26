@@ -2304,7 +2304,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-29 18:00:00",
+        "start_time": "2021-10-29 19:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2541,7 +2541,7 @@
         "start_time": "2021-11-19 10:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 33,
+        "participate": 39,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -2567,7 +2567,9 @@
         "vertical_type": 100,
         "vertical_id": 64500,
         "custom_tags": null,
-        "tag_ids": null,
+        "tag_ids": [
+          173
+        ],
         "what_we_love": ""
       },
       {
@@ -3463,7 +3465,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1306,
+    "total": 1307,
     "price": {
       "from": "0",
       "to": "520"
