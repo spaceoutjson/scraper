@@ -1000,7 +1000,7 @@
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
-          "deals_discount": "44% OFF"
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
         },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/zekhtbdvxmkoodqqi696.jpg",
@@ -1020,11 +1020,11 @@
         "package_id": 0,
         "tags": [
           {
-            "key": "deals_discount",
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
             "text_color": "#FFFFFF",
-            "text": "44% OFF"
+            "text": "Eligible for SingapoRediscovers Vouchers"
           }
         ],
         "need_hide_review": true,
@@ -1033,7 +1033,9 @@
         "vertical_type": 100,
         "vertical_id": 64335,
         "custom_tags": null,
-        "tag_ids": null,
+        "tag_ids": [
+          49
+        ],
         "what_we_love": ""
       },
       {
