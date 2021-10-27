@@ -579,6 +579,61 @@
     ],
     "activities": [
       {
+        "id": 64738,
+        "template_id": 3,
+        "title": "Singapore Halloween Picnic Set Rental by Glamping Society",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "68.00",
+        "sell_price": "68.00",
+        "from_price": "68.00",
+        "to_price": "68.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-10-29 10:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/rldv74zbe9awrmyd36tz.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.284273,103.782462",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 368,
+        "package_id": 0,
+        "tags": null,
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/64738-singapore-halloween-picnic-set-rental-glamping-society/",
+        "deep_link": "https://www.klook.com/en-US/activity/64738-singapore-halloween-picnic-set-rental-glamping-society/",
+        "vertical_type": 100,
+        "vertical_id": 64738,
+        "custom_tags": null,
+        "tag_ids": [
+          18
+        ],
+        "what_we_love": ""
+      },
+      {
         "id": 64821,
         "template_id": 3,
         "title": "Sunday Luxe Series by HONEY",
@@ -996,7 +1051,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-02 00:00:00",
+        "start_time": "2021-11-03 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2531,7 +2586,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-30 17:00:00",
+        "start_time": "2021-10-30 18:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3544,75 +3599,9 @@
           18
         ],
         "what_we_love": ""
-      },
-      {
-        "id": 64374,
-        "template_id": 1,
-        "title": "[Klook Cares][Free Food For All (FFFA)] Donate an Experience: Madame Tussauds Singapore Ticket",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "26.00",
-        "sell_price": "26.00",
-        "from_price": "26.00",
-        "to_price": "26.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-11-30 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 22,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/tomnm9dvbrc1bwx1ci5p.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.254038,103.817622",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 106,
-        "package_id": 0,
-        "tags": [
-          {
-            "key": "srv_eligible",
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/64374-madame-tussauds-singapore/",
-        "deep_link": "https://www.klook.com/en-US/activity/64374-madame-tussauds-singapore/",
-        "vertical_type": 100,
-        "vertical_id": 64374,
-        "custom_tags": null,
-        "tag_ids": [
-          250
-        ],
-        "what_we_love": ""
       }
     ],
-    "total": 1309,
+    "total": 1311,
     "price": {
       "from": "0",
       "to": "521"
