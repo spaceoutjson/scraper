@@ -579,6 +579,72 @@
     ],
     "activities": [
       {
+        "id": 64923,
+        "template_id": 4,
+        "title": "USHIO Sumiyaki & Sake Bar at Raffles Place",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "100.00",
+        "sell_price": "80.00",
+        "from_price": "80.00",
+        "to_price": "80.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-11-01 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "deals_discount": "20% OFF"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/uzhbhqc1nqsdtjus07nu.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.283502,103.853136",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 487,
+        "package_id": 0,
+        "tags": [
+          {
+            "key": "deals_discount",
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "20% OFF"
+          }
+        ],
+        "need_hide_review": false,
+        "deeplink": "https://www.klook.com/en-US/activity/64923-ushio-sumiyaki-sake-bar-raffles-place/",
+        "deep_link": "https://www.klook.com/en-US/activity/64923-ushio-sumiyaki-sake-bar-raffles-place/",
+        "vertical_type": 106,
+        "vertical_id": 64923,
+        "custom_tags": null,
+        "tag_ids": [
+          36
+        ],
+        "what_we_love": ""
+      },
+      {
         "id": 60749,
         "template_id": 3,
         "title": "Art Buffet Experience in Singapore",
@@ -3544,64 +3610,9 @@
           30
         ],
         "what_we_love": ""
-      },
-      {
-        "id": 62659,
-        "template_id": 3,
-        "title": "Professional Portrait Photography Experience by Mount Studio",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 0,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "280.00",
-        "sell_price": "280.00",
-        "from_price": "280.00",
-        "to_price": "280.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-10-31 10:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/cb2r7xjrcyt6aaazdb8q.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.350496,103.842553",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 123,
-        "package_id": 0,
-        "tags": null,
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/62659-mount-studio-private-professional-portrait-photography-experience-singapore/",
-        "deep_link": "https://www.klook.com/en-US/activity/62659-mount-studio-private-professional-portrait-photography-experience-singapore/",
-        "vertical_type": 100,
-        "vertical_id": 62659,
-        "custom_tags": null,
-        "tag_ids": [
-          144
-        ],
-        "what_we_love": ""
       }
     ],
-    "total": 1305,
+    "total": 1306,
     "price": {
       "from": "0",
       "to": "521"
