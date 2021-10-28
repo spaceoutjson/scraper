@@ -1,5 +1,5 @@
 {
-  "version": "ca78b2949219bf250950a030afc7aa5f",
+  "version": "7283dc6f5107a76c670c2d902dbc83c4",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -13,15 +13,7 @@
         "image_pc": "4938ab5b3a9fb3df9ce4ca2e3273d53a"
       }
     },
-    "featured_products": {
-      "header_text_color": "#d60000",
-      "items": [],
-      "price_text_color": "#000000",
-      "section_background_color": null,
-      "header_text": "11.11 BRAND DEALS",
-      "see_more_link": "https://shopee.sg/m/big-brand-discounts#giveaway",
-      "banner_image": null
-    },
+    "featured_products": null,
     "campaign_top_visual": {
       "start": 1633017600,
       "end": 1640966340,
