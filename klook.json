@@ -1219,7 +1219,7 @@
         "start_time": "2021-11-07 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 1,
+        "participate": 5,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -2641,7 +2641,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-01 14:00:00",
+        "start_time": "2021-11-01 15:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
