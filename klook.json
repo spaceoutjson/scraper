@@ -600,7 +600,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-31 10:30:00",
+        "start_time": "2021-11-03 10:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1295,7 +1295,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-31 00:00:00",
+        "start_time": "2021-11-03 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2532,7 +2532,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-02 12:00:00",
+        "start_time": "2021-11-02 13:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2587,7 +2587,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-10-31 00:00:00",
+        "start_time": "2021-11-01 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 3,
@@ -2932,16 +2932,16 @@
         "video_url": "",
         "score": 0,
         "currency": "SGD",
-        "market_price": "65.00",
-        "sell_price": "65.00",
-        "from_price": "65.00",
-        "to_price": "65.00",
+        "market_price": "",
+        "sell_price": "",
+        "from_price": "",
+        "to_price": "",
         "spec_price": {
           "type": 0,
           "desc": ""
         },
         "start_time": "2021-10-31 00:00:00",
-        "sold_out": false,
+        "sold_out": true,
         "published": true,
         "participate": 0,
         "participants_format": "New Activity",
