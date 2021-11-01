@@ -1014,7 +1014,7 @@
         "start_time": "2021-11-10 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 8,
+        "participate": 13,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1744,7 +1744,7 @@
         "start_time": "2021-11-11 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 4,
+        "participate": 6,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2424,7 +2424,7 @@
       {
         "id": 64337,
         "template_id": 2,
-        "title": "Clarke Quay History Walkabout PLUS Jumbo Seafood Lunch or Dinner PLUS Singapore River Cruise",
+        "title": "Clarke Quay History Walkabout PLUS JUMBO Seafood Lunch or Dinner PLUS Singapore River Cruise",
         "subtitle": "",
         "url_seo": "",
         "city_id": 6,
@@ -2625,7 +2625,7 @@
       {
         "id": 64353,
         "template_id": 2,
-        "title": "Chinatown Heritage Trail PLUS Jumbo Seafood Lunch or Dinner + Singapore River Cruise",
+        "title": "Chinatown Heritage Trail PLUS JUMBO Seafood Lunch or Dinner + Singapore River Cruise",
         "subtitle": "",
         "url_seo": "",
         "city_id": 6,
@@ -2770,9 +2770,9 @@
         "score": 0,
         "currency": "SGD",
         "market_price": "100.00",
-        "sell_price": "100.00",
-        "from_price": "100.00",
-        "to_price": "100.00",
+        "sell_price": "90.00",
+        "from_price": "90.00",
+        "to_price": "90.00",
         "spec_price": {
           "type": 0,
           "desc": ""
@@ -2847,7 +2847,7 @@
         "start_time": "2021-11-05 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 4,
+        "participate": 6,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3157,7 +3157,7 @@
         "start_time": "2021-11-19 10:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 234,
+        "participate": 245,
         "participants_format": "200+ Booked",
         "discount": 0,
         "review_total": 0,
@@ -3377,7 +3377,7 @@
         "start_time": "2021-11-02 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 1,
+        "participate": 2,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3575,7 +3575,7 @@
         "start_time": "2021-11-19 18:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 71,
+        "participate": 74,
         "participants_format": "50+ Booked",
         "discount": 0,
         "review_total": 0,
