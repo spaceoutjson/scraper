@@ -582,6 +582,61 @@
     ],
     "activities": [
       {
+        "id": 64378,
+        "template_id": 4,
+        "title": "Club 5 at PARKROYAL on Beach Road",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "68.29",
+        "sell_price": "68.29",
+        "from_price": "68.29",
+        "to_price": "68.29",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-11-03 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/sdieetkk0w7ucikupmtp.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.299805,103.860666",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 236,
+        "package_id": 0,
+        "tags": null,
+        "need_hide_review": false,
+        "deeplink": "https://www.klook.com/en-US/activity/64378-club-5-parkroyal-on-beach-road/",
+        "deep_link": "https://www.klook.com/en-US/activity/64378-club-5-parkroyal-on-beach-road/",
+        "vertical_type": 106,
+        "vertical_id": 64378,
+        "custom_tags": null,
+        "tag_ids": [
+          187
+        ],
+        "what_we_love": ""
+      },
+      {
         "id": 64190,
         "template_id": 2,
         "title": "iFly Singapore - The Challenge Admission Ticket PLUS Set Lunch at Hard Rock Café Sentosa",
@@ -3052,7 +3107,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-05 15:00:00",
+        "start_time": "2021-11-05 16:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3625,75 +3680,9 @@
           52
         ],
         "what_we_love": ""
-      },
-      {
-        "id": 64454,
-        "template_id": 1,
-        "title": "[Klook Cares][Free Food For All (FFFA)] Donate an Experience - Singapore Flyer + Time Capsule Tickets ",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "40.00",
-        "sell_price": "35.00",
-        "from_price": "35.00",
-        "to_price": "35.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-11-30 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 6,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/pcbdjtxh1h0xcyy6fbcz.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.289299,103.863137",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 111,
-        "package_id": 0,
-        "tags": [
-          {
-            "key": "srv_eligible",
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/64454-singapore-flyer/",
-        "deep_link": "https://www.klook.com/en-US/activity/64454-singapore-flyer/",
-        "vertical_type": 100,
-        "vertical_id": 64454,
-        "custom_tags": null,
-        "tag_ids": [
-          250
-        ],
-        "what_we_love": ""
       }
     ],
-    "total": 1292,
+    "total": 1295,
     "price": {
       "from": "0",
       "to": "520"
