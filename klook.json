@@ -582,6 +582,61 @@
     ],
     "activities": [
       {
+        "id": 64763,
+        "template_id": 3,
+        "title": "Personal Training and Group Classes by Push Pull Give",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 0,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "49.00",
+        "sell_price": "49.00",
+        "from_price": "49.00",
+        "to_price": "180.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-11-02 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/tbgrcy6j9jprpbo3ibn1.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.284342,103.833361",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 498,
+        "package_id": 0,
+        "tags": null,
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/64763-personal-training-group-classes-push-pull-give-singapore/",
+        "deep_link": "https://www.klook.com/en-US/activity/64763-personal-training-group-classes-push-pull-give-singapore/",
+        "vertical_type": 100,
+        "vertical_id": 64763,
+        "custom_tags": null,
+        "tag_ids": [
+          144
+        ],
+        "what_we_love": ""
+      },
+      {
         "id": 64378,
         "template_id": 4,
         "title": "Club 5 at PARKROYAL on Beach Road",
@@ -712,7 +767,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-05 00:00:00",
+        "start_time": "2021-11-06 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2339,7 +2394,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-05 17:30:00",
+        "start_time": "2021-11-06 17:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3107,7 +3162,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-05 16:00:00",
+        "start_time": "2021-11-05 17:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3614,75 +3669,9 @@
           182
         ],
         "what_we_love": ""
-      },
-      {
-        "id": 64289,
-        "template_id": 3,
-        "title": "Action Art Collective Experience by ArtFlock Studio",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "55.00",
-        "sell_price": "48.95",
-        "from_price": "48.95",
-        "to_price": "55.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-11-03 11:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 1,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "deals_discount": "11% OFF"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/rcs88inajploswhqhduc.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.352795,103.834535",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 124,
-        "package_id": 0,
-        "tags": [
-          {
-            "key": "deals_discount",
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "11% OFF"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/64289-action-art-collective-experience-artflock-studio-singapore/",
-        "deep_link": "https://www.klook.com/en-US/activity/64289-action-art-collective-experience-artflock-studio-singapore/",
-        "vertical_type": 100,
-        "vertical_id": 64289,
-        "custom_tags": null,
-        "tag_ids": [
-          52
-        ],
-        "what_we_love": ""
       }
     ],
-    "total": 1295,
+    "total": 1296,
     "price": {
       "from": "0",
       "to": "520"
