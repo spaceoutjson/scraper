@@ -1098,7 +1098,7 @@
         "start_time": "2021-11-06 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 2,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -1153,7 +1153,7 @@
         "start_time": "2021-11-30 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 1,
+        "participate": 29,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1220,8 +1220,8 @@
         "start_time": "2021-11-30 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 1,
-        "participants_format": "New Activity",
+        "participate": 64,
+        "participants_format": "50+ Booked",
         "discount": 0,
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
@@ -1947,7 +1947,7 @@
         "start_time": "2021-11-14 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 20,
+        "participate": 32,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2610,7 +2610,7 @@
         "start_time": "2021-11-07 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 2,
+        "participate": 4,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2945,7 +2945,7 @@
         "start_time": "2021-11-09 12:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 13,
+        "participate": 16,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
