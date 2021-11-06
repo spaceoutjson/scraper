@@ -547,7 +547,39 @@
       "2022-07-02T00:00:00Z",
       "2022-07-03T00:00:00Z",
       "2022-07-04T00:00:00Z",
-      "2022-07-05T00:00:00Z"
+      "2022-07-05T00:00:00Z",
+      "2022-07-06T00:00:00Z",
+      "2022-07-07T00:00:00Z",
+      "2022-07-08T00:00:00Z",
+      "2022-07-09T00:00:00Z",
+      "2022-07-10T00:00:00Z",
+      "2022-07-11T00:00:00Z",
+      "2022-07-12T00:00:00Z",
+      "2022-07-13T00:00:00Z",
+      "2022-07-14T00:00:00Z",
+      "2022-07-15T00:00:00Z",
+      "2022-07-16T00:00:00Z",
+      "2022-07-17T00:00:00Z",
+      "2022-07-18T00:00:00Z",
+      "2022-07-19T00:00:00Z",
+      "2022-07-20T00:00:00Z",
+      "2022-07-21T00:00:00Z",
+      "2022-07-22T00:00:00Z",
+      "2022-07-23T00:00:00Z",
+      "2022-07-24T00:00:00Z",
+      "2022-07-25T00:00:00Z",
+      "2022-07-26T00:00:00Z",
+      "2022-07-27T00:00:00Z",
+      "2022-07-28T00:00:00Z",
+      "2022-07-29T00:00:00Z",
+      "2022-07-30T00:00:00Z",
+      "2022-07-31T00:00:00Z",
+      "2022-08-01T00:00:00Z",
+      "2022-08-02T00:00:00Z",
+      "2022-08-03T00:00:00Z",
+      "2022-08-04T00:00:00Z",
+      "2022-08-05T00:00:00Z",
+      "2022-08-06T00:00:00Z"
     ],
     "activities": [
       {
@@ -577,6 +609,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/f4svtemkfeox6u5zzo6p.jpg",
         "icon": null,
@@ -593,7 +628,15 @@
         "real_lang": "",
         "leaf_category": 157,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/64712-singapore-river-cruise-chili-crab/",
         "deep_link": "https://www.klook.com/en-US/activity/64712-singapore-river-cruise-chili-crab/",
@@ -633,6 +676,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/tdhnvxtwdhmpbislkbr6.jpg",
         "icon": null,
@@ -649,7 +695,15 @@
         "real_lang": "",
         "leaf_category": 156,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/64713-southern-islands-tour-plus-house-of-seafood/",
         "deep_link": "https://www.klook.com/en-US/activity/64713-southern-islands-tour-plus-house-of-seafood/",
@@ -689,6 +743,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/cfaziqetqmdks2tyabni.jpg",
         "icon": null,
@@ -705,7 +762,15 @@
         "real_lang": "",
         "leaf_category": 157,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/64731-southern-islands-tour-plus-tunglok-dinner/",
         "deep_link": "https://www.klook.com/en-US/activity/64731-southern-islands-tour-plus-tunglok-dinner/",
@@ -745,6 +810,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/dhvytqz7sqawcyvbxtvy.jpg",
         "icon": null,
@@ -761,7 +829,15 @@
         "real_lang": "",
         "leaf_category": 157,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/64732-southern-islands-tour-plus-haidilao-hotpot/",
         "deep_link": "https://www.klook.com/en-US/activity/64732-southern-islands-tour-plus-haidilao-hotpot/",
@@ -801,6 +877,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/lcapncxglhxbfuk5kwff.jpg",
         "icon": null,
@@ -817,7 +896,15 @@
         "real_lang": "",
         "leaf_category": 157,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/64733-southern-islands-tour-seafood-dinner/",
         "deep_link": "https://www.klook.com/en-US/activity/64733-southern-islands-tour-seafood-dinner/",
@@ -857,6 +944,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/nac2fk8nk9gwmatjbjbn.jpg",
         "icon": null,
@@ -873,7 +963,15 @@
         "real_lang": "",
         "leaf_category": 157,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/64734-southern-islands-tour-plus-seafood-buffet-dinner/",
         "deep_link": "https://www.klook.com/en-US/activity/64734-southern-islands-tour-plus-seafood-buffet-dinner/",
@@ -913,6 +1011,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/hydrx7y8cuy0cgakvhto.jpg",
         "icon": null,
@@ -929,7 +1030,15 @@
         "real_lang": "",
         "leaf_category": 157,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/64735-full-day-southern-islands-tour-with-lunch/",
         "deep_link": "https://www.klook.com/en-US/activity/64735-full-day-southern-islands-tour-with-lunch/",
@@ -1079,6 +1188,9 @@
         "participate": 105,
         "participants_format": "100+ Booked",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/j6fvimistq93ug6o1y0f.jpg",
         "icon": null,
@@ -1095,7 +1207,15 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/64980-singapore-donate-xperience-initiative-tour-beneficiaries-lccs/",
         "deep_link": "https://www.klook.com/en-US/activity/64980-singapore-donate-xperience-initiative-tour-beneficiaries-lccs/",
@@ -1135,6 +1255,9 @@
         "participate": 298,
         "participants_format": "200+ Booked",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/f86prinhofxkwvku51nw.jpg",
         "icon": null,
@@ -1151,7 +1274,15 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/65008-singapore-donate-xperience-initiative-tour-beneficiaries-agwo/",
         "deep_link": "https://www.klook.com/en-US/activity/65008-singapore-donate-xperience-initiative-tour-beneficiaries-agwo/",
@@ -1851,6 +1982,9 @@
         "participate": 34,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/fiaztjtg3kbwdpwhkwkh.jpg",
         "icon": null,
@@ -1867,7 +2001,15 @@
         "real_lang": "",
         "leaf_category": 156,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/64640-singapore-river-cruise-tour-steakhouse-dinner/",
         "deep_link": "https://www.klook.com/en-US/activity/64640-singapore-river-cruise-tour-steakhouse-dinner/",
@@ -2303,6 +2445,9 @@
         "participate": 16,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/nc65b48usuzset98khb4.jpg",
         "icon": null,
@@ -2319,7 +2464,15 @@
         "real_lang": "",
         "leaf_category": 416,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/64611-uss-premium-experience-its-showtime-admission/",
         "deep_link": "https://www.klook.com/en-US/activity/64611-uss-premium-experience-its-showtime-admission/",
@@ -2360,7 +2513,7 @@
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
-          "deals_discount": "44% OFF"
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
         },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/zekhtbdvxmkoodqqi696.jpg",
@@ -2380,11 +2533,11 @@
         "package_id": 0,
         "tags": [
           {
-            "key": "deals_discount",
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
             "text_color": "#FFFFFF",
-            "text": "44% OFF"
+            "text": "Eligible for SingapoRediscovers Vouchers"
           }
         ],
         "need_hide_review": true,
@@ -2492,6 +2645,9 @@
         "participate": 4,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/tfa98cosn5y4sk7ggafi.jpg",
         "icon": null,
@@ -2508,7 +2664,15 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/64507-gardens-bay-japanese-bbq-buffet-walking-tour/",
         "deep_link": "https://www.klook.com/en-US/activity/64507-gardens-bay-japanese-bbq-buffet-walking-tour/",
@@ -2548,6 +2712,9 @@
         "participate": 6,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/xlfdtegg52cu1rb6u792.jpg",
         "icon": null,
@@ -2564,7 +2731,15 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/61908-Singapore-Flyer-Admission-Tickets-PLUS-Saffron-Set-Dinner/",
         "deep_link": "https://www.klook.com/en-US/activity/61908-Singapore-Flyer-Admission-Tickets-PLUS-Saffron-Set-Dinner/",
@@ -2604,6 +2779,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/koj4thhcme0ughwlugbu.jpg",
         "icon": null,
@@ -2620,7 +2798,15 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/61911-Singapore-Flyer-with-Time-Capsule-Admission-Red-Chillies-Set-Dinner/",
         "deep_link": "https://www.klook.com/en-US/activity/61911-Singapore-Flyer-with-Time-Capsule-Admission-Red-Chillies-Set-Dinner/",
@@ -2660,6 +2846,9 @@
         "participate": 2,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/vlxpsrdxax8yyjcncxyq.jpg",
         "icon": null,
@@ -2676,7 +2865,15 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/61916-Singapore-Flyer-Gardens-by-the-Bay-Admission-Tickets-Red-Chillies-Set-Dinner/",
         "deep_link": "https://www.klook.com/en-US/activity/61916-Singapore-Flyer-Gardens-by-the-Bay-Admission-Tickets-Red-Chillies-Set-Dinner/",
@@ -2716,6 +2913,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/kreyptisojvnx6qaprpl.jpg",
         "icon": null,
@@ -2732,7 +2932,15 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/61919-Singapore-Flyer-Virtual-Realms-Admission-Tickets-Red-Chillies-Set-Dinner/",
         "deep_link": "https://www.klook.com/en-US/activity/61919-Singapore-Flyer-Virtual-Realms-Admission-Tickets-Red-Chillies-Set-Dinner/",
@@ -2772,6 +2980,9 @@
         "participate": 16,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/kjn1klznz2ompr3kegjr.jpg",
         "icon": null,
@@ -2788,7 +2999,15 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/64194-Dolphin-Encounter-Experience-Dolphin-Island-Admission-Ticket-Set-Lunch-at-Hard-Rock-Cafe-Sentosa/",
         "deep_link": "https://www.klook.com/en-US/activity/64194-Dolphin-Encounter-Experience-Dolphin-Island-Admission-Ticket-Set-Lunch-at-Hard-Rock-Cafe-Sentosa/",
@@ -2828,6 +3047,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/noypkm33gjasvzolubfw.jpg",
         "icon": null,
@@ -2844,7 +3066,15 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/64538-Ecological-Trekking-Adventure-Pulau-Ubin/",
         "deep_link": "https://www.klook.com/en-US/activity/64538-Ecological-Trekking-Adventure-Pulau-Ubin/",
@@ -2884,6 +3114,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/iijx0vtewsq3hgiesbtl.jpg",
         "icon": null,
@@ -2900,7 +3133,15 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/64547-Singapore-Night-Experience-New-Ubin-Seafood-Dinner-River-Cruise-at-Clarke-Quay/",
         "deep_link": "https://www.klook.com/en-US/activity/64547-Singapore-Night-Experience-New-Ubin-Seafood-Dinner-River-Cruise-at-Clarke-Quay/",
@@ -2995,6 +3236,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/cg7iwnkmshdqzjlbdokf.jpg",
         "icon": null,
@@ -3011,7 +3255,15 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/62326-singapore-river-cruise-half-day-tour-peranakan-lunch/",
         "deep_link": "https://www.klook.com/en-US/activity/62326-singapore-river-cruise-half-day-tour-peranakan-lunch/",
@@ -3162,7 +3414,7 @@
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
-          "deals_discount": "10% OFF"
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
         },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/cvjrmremwumznqfl43ro.jpg",
@@ -3182,11 +3434,11 @@
         "package_id": 0,
         "tags": [
           {
-            "key": "deals_discount",
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
             "text_color": "#FFFFFF",
-            "text": "10% OFF"
+            "text": "Eligible for SingapoRediscovers Vouchers"
           }
         ],
         "need_hide_review": true,
@@ -3229,7 +3481,7 @@
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
-          "deals_discount": "21% OFF"
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
         },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/chfj3cdm0zemono6onza.jpg",
@@ -3249,11 +3501,11 @@
         "package_id": 0,
         "tags": [
           {
-            "key": "deals_discount",
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
             "text_color": "#FFFFFF",
-            "text": "21% OFF"
+            "text": "Eligible for SingapoRediscovers Vouchers"
           }
         ],
         "need_hide_review": true,
@@ -3296,7 +3548,7 @@
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
-          "deals_discount": "10% OFF"
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
         },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/xsrakdohai1eyacxq47f.jpg",
@@ -3316,11 +3568,11 @@
         "package_id": 0,
         "tags": [
           {
-            "key": "deals_discount",
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
             "text_color": "#FFFFFF",
-            "text": "10% OFF"
+            "text": "Eligible for SingapoRediscovers Vouchers"
           }
         ],
         "need_hide_review": true,
@@ -3363,7 +3615,7 @@
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
-          "deals_discount": "10% OFF"
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
         },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/tf62w2pmheo1so6kek8x.jpg",
@@ -3383,11 +3635,11 @@
         "package_id": 0,
         "tags": [
           {
-            "key": "deals_discount",
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
             "text_color": "#FFFFFF",
-            "text": "10% OFF"
+            "text": "Eligible for SingapoRediscovers Vouchers"
           }
         ],
         "need_hide_review": true,
@@ -3430,7 +3682,7 @@
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
-          "deals_discount": "10% OFF"
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
         },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/xw3pylxli19nhsfgnep1.jpg",
@@ -3450,11 +3702,11 @@
         "package_id": 0,
         "tags": [
           {
-            "key": "deals_discount",
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
             "text_color": "#FFFFFF",
-            "text": "10% OFF"
+            "text": "Eligible for SingapoRediscovers Vouchers"
           }
         ],
         "need_hide_review": true,
@@ -3470,7 +3722,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1305,
+    "total": 1303,
     "price": {
       "from": "0",
       "to": "521"
