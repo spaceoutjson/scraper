@@ -607,9 +607,12 @@
         "start_time": "2021-11-10 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 2,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/tqjthatvz92tfstd9vdf.jpg",
         "icon": null,
@@ -626,7 +629,15 @@
         "real_lang": "",
         "leaf_category": 106,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/65053-untame-rebooting-our-world-science-centre-singapore-admission/",
         "deep_link": "https://www.klook.com/en-US/activity/65053-untame-rebooting-our-world-science-centre-singapore-admission/",
@@ -634,7 +645,8 @@
         "vertical_id": 65053,
         "custom_tags": null,
         "tag_ids": [
-          173
+          173,
+          250
         ],
         "what_we_love": ""
       },
@@ -1922,7 +1934,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-11 10:30:00",
+        "start_time": "2021-11-12 10:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3688,7 +3700,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-13 12:00:00",
+        "start_time": "2021-11-13 13:00:00",
         "sold_out": false,
         "published": true,
         "participate": 1,
@@ -3723,7 +3735,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1294,
+    "total": 1293,
     "price": {
       "from": "0",
       "to": "519"
