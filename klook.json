@@ -784,7 +784,7 @@
         "start_time": "2021-11-27 09:30:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 4,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -851,7 +851,7 @@
         "start_time": "2021-12-10 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 2,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -1241,7 +1241,7 @@
         "start_time": "2021-11-17 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 2,
+        "participate": 6,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1308,7 +1308,7 @@
         "start_time": "2021-11-17 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 29,
+        "participate": 36,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1497,10 +1497,10 @@
         "start_time": "2021-11-14 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 956,
-        "participants_format": "900+ Booked",
+        "participate": 1030,
+        "participants_format": "1K+ Booked",
         "discount": 0,
-        "review_total": 2,
+        "review_total": 5,
         "image_url_host": "https://res.klook.com/image/upload/activities/wop9uhx4gr4vcegbpi2h.jpg",
         "icon": null,
         "icons": null,
@@ -1552,7 +1552,7 @@
         "start_time": "2021-11-30 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 239,
+        "participate": 257,
         "participants_format": "200+ Booked",
         "discount": 0,
         "card_tags": {
@@ -1619,7 +1619,7 @@
         "start_time": "2021-11-30 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 514,
+        "participate": 529,
         "participants_format": "500+ Booked",
         "discount": 0,
         "card_tags": {
@@ -1906,7 +1906,7 @@
         "start_time": "2021-11-15 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 31,
+        "participate": 33,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2038,7 +2038,7 @@
         "start_time": "2021-11-14 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 1,
+        "participate": 2,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2291,7 +2291,7 @@
         "start_time": "2021-11-22 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 66,
+        "participate": 82,
         "participants_format": "50+ Booked",
         "discount": 0,
         "card_tags": {
@@ -2476,7 +2476,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-16 00:00:00",
+        "start_time": "",
         "sold_out": true,
         "published": true,
         "participate": 0,
@@ -2832,7 +2832,7 @@
         "start_time": "2021-11-17 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 7,
+        "participate": 11,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3234,7 +3234,7 @@
         "start_time": "2021-11-19 17:30:00",
         "sold_out": false,
         "published": true,
-        "participate": 2,
+        "participate": 7,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3533,7 +3533,7 @@
         "start_time": "2021-11-16 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 5,
+        "participate": 7,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3600,7 +3600,7 @@
         "start_time": "2021-11-16 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 4,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
