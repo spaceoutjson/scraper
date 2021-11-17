@@ -1008,7 +1008,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-17 20:30:00",
+        "start_time": "2021-11-18 11:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1188,9 +1188,12 @@
         "start_time": "2021-11-27 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 5,
+        "participate": 7,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/rdgw0qwtkw02rbiidpkb.jpg",
         "icon": null,
@@ -1207,7 +1210,15 @@
         "real_lang": "",
         "leaf_category": 108,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/65251-sea-aquarium-one-day-ticket-yoga-session-admission/",
         "deep_link": "https://www.klook.com/en-US/activity/65251-sea-aquarium-one-day-ticket-yoga-session-admission/",
@@ -1215,7 +1226,8 @@
         "vertical_id": 65251,
         "custom_tags": null,
         "tag_ids": [
-          139
+          139,
+          250
         ],
         "what_we_love": ""
       },
@@ -3222,7 +3234,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-18 00:00:00",
+        "start_time": "2021-11-19 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 2,
