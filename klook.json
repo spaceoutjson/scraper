@@ -90,6 +90,12 @@
             "children": null
           },
           {
+            "id": 29,
+            "name": "Drinks & dining experiences",
+            "enable": true,
+            "children": null
+          },
+          {
             "id": 25,
             "name": "Workshops & cooking classes",
             "enable": true,
@@ -530,6 +536,70 @@
     ],
     "activities": [
       {
+        "id": 65320,
+        "template_id": 3,
+        "title": "Ride and Dine at Curate Cucina Pisana in Singapore",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "266.79",
+        "sell_price": "238.00",
+        "from_price": "238.00",
+        "to_price": "238.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-11-17 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "deals_discount": "11% OFF"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/jwjdq8obqkyigbdvsms3.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.256752,103.820332",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 499,
+        "package_id": 0,
+        "tags": [
+          {
+            "key": "deals_discount",
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "11% OFF"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/65320-ride-dine-curate-cucina-pisana-singapore/",
+        "deep_link": "https://www.klook.com/en-US/activity/65320-ride-dine-curate-cucina-pisana-singapore/",
+        "vertical_type": 100,
+        "vertical_id": 65320,
+        "custom_tags": null,
+        "tag_ids": [],
+        "what_we_love": ""
+      },
+      {
         "id": 65311,
         "template_id": 3,
         "title": "Baby Shower Workshop",
@@ -938,7 +1008,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-17 17:30:00",
+        "start_time": "2021-11-17 18:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2182,7 +2252,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-20 00:00:00",
+        "start_time": "2021-11-21 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2237,7 +2307,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-20 00:00:00",
+        "start_time": "2021-11-21 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3598,76 +3668,9 @@
           250
         ],
         "what_we_love": ""
-      },
-      {
-        "id": 64538,
-        "template_id": 2,
-        "title": "Ecological Trekking Adventure - Pulau Ubin",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "70.00",
-        "sell_price": "70.00",
-        "from_price": "70.00",
-        "to_price": "70.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-11-22 09:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/noypkm33gjasvzolubfw.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.390761,103.98758",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 150,
-        "package_id": 0,
-        "tags": [
-          {
-            "key": "srv_eligible",
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/64538-Ecological-Trekking-Adventure-Pulau-Ubin/",
-        "deep_link": "https://www.klook.com/en-US/activity/64538-Ecological-Trekking-Adventure-Pulau-Ubin/",
-        "vertical_type": 100,
-        "vertical_id": 64538,
-        "custom_tags": null,
-        "tag_ids": [
-          151,
-          250
-        ],
-        "what_we_love": ""
       }
     ],
-    "total": 1289,
+    "total": 1290,
     "price": {
       "from": "0",
       "to": "523"
