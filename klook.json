@@ -307,7 +307,6 @@
       "2021-10-31T00:00:00Z",
       "2021-11-05T00:00:00Z",
       "2021-11-07T00:00:00Z",
-      "2021-11-18T00:00:00Z",
       "2021-11-19T00:00:00Z",
       "2021-11-20T00:00:00Z",
       "2021-11-21T00:00:00Z",
@@ -549,37 +548,7 @@
       "2022-07-15T00:00:00Z",
       "2022-07-16T00:00:00Z",
       "2022-07-17T00:00:00Z",
-      "2022-07-18T00:00:00Z",
-      "2022-07-19T00:00:00Z",
-      "2022-07-20T00:00:00Z",
-      "2022-07-21T00:00:00Z",
-      "2022-07-22T00:00:00Z",
-      "2022-07-23T00:00:00Z",
-      "2022-07-24T00:00:00Z",
-      "2022-07-25T00:00:00Z",
-      "2022-07-26T00:00:00Z",
-      "2022-07-27T00:00:00Z",
-      "2022-07-28T00:00:00Z",
-      "2022-07-29T00:00:00Z",
-      "2022-07-30T00:00:00Z",
-      "2022-07-31T00:00:00Z",
-      "2022-08-01T00:00:00Z",
-      "2022-08-02T00:00:00Z",
-      "2022-08-03T00:00:00Z",
-      "2022-08-04T00:00:00Z",
-      "2022-08-05T00:00:00Z",
-      "2022-08-06T00:00:00Z",
-      "2022-08-07T00:00:00Z",
-      "2022-08-08T00:00:00Z",
-      "2022-08-09T00:00:00Z",
-      "2022-08-10T00:00:00Z",
-      "2022-08-11T00:00:00Z",
-      "2022-08-12T00:00:00Z",
-      "2022-08-13T00:00:00Z",
-      "2022-08-14T00:00:00Z",
-      "2022-08-15T00:00:00Z",
-      "2022-08-16T00:00:00Z",
-      "2022-08-17T00:00:00Z"
+      "2022-07-18T00:00:00Z"
     ],
     "activities": [
       {
@@ -1301,7 +1270,7 @@
         "start_time": "2021-11-26 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 1,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1490,7 +1459,7 @@
         "start_time": "2021-11-19 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 1,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -1612,7 +1581,7 @@
         "start_time": "2021-11-27 09:30:00",
         "sold_out": false,
         "published": true,
-        "participate": 8,
+        "participate": 12,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1935,7 +1904,7 @@
         "start_time": "2021-11-22 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 15,
+        "participate": 17,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2069,7 +2038,7 @@
         "start_time": "2021-11-22 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 18,
+        "participate": 27,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2136,8 +2105,8 @@
         "start_time": "2021-11-22 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 94,
-        "participants_format": "50+ Booked",
+        "participate": 111,
+        "participants_format": "100+ Booked",
         "discount": 0,
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
@@ -2325,7 +2294,7 @@
         "start_time": "2021-11-19 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 1623,
+        "participate": 1659,
         "participants_format": "1K+ Booked",
         "discount": 0,
         "review_total": 8,
@@ -2380,7 +2349,7 @@
         "start_time": "2021-11-30 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 345,
+        "participate": 359,
         "participants_format": "300+ Booked",
         "discount": 0,
         "card_tags": {
@@ -2447,7 +2416,7 @@
         "start_time": "2021-11-30 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 649,
+        "participate": 666,
         "participants_format": "600+ Booked",
         "discount": 0,
         "card_tags": {
@@ -3174,7 +3143,7 @@
         "start_time": "2021-11-28 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 130,
+        "participate": 146,
         "participants_format": "100+ Booked",
         "discount": 0,
         "card_tags": {
@@ -3296,7 +3265,7 @@
         "start_time": "2021-11-21 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 2,
+        "participate": 3,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3660,7 +3629,7 @@
         "start_time": "2021-12-05 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 13,
+        "participate": 15,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3704,7 +3673,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1294,
+    "total": 1290,
     "price": {
       "from": "0",
       "to": "524"
