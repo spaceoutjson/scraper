@@ -603,7 +603,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-23 10:00:00",
+        "start_time": "2021-11-25 10:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -658,7 +658,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-23 10:00:00",
+        "start_time": "2021-11-25 10:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -713,7 +713,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-23 10:00:00",
+        "start_time": "2021-11-25 10:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -968,7 +968,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-21 00:00:00",
+        "start_time": "2021-11-22 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1152,7 +1152,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-22 10:00:00",
+        "start_time": "2021-11-23 10:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1219,7 +1219,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-22 00:00:00",
+        "start_time": "2021-11-23 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1534,16 +1534,16 @@
         "video_url": "",
         "score": 0,
         "currency": "SGD",
-        "market_price": "330.00",
-        "sell_price": "330.00",
-        "from_price": "330.00",
-        "to_price": "330.00",
+        "market_price": "",
+        "sell_price": "",
+        "from_price": "",
+        "to_price": "",
         "spec_price": {
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-22 00:00:00",
-        "sold_out": false,
+        "start_time": "2021-11-21 00:00:00",
+        "sold_out": true,
         "published": true,
         "participate": 3,
         "participants_format": "New Activity",
@@ -1786,7 +1786,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-21 00:00:00",
+        "start_time": "2021-11-22 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 5,
@@ -1853,7 +1853,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-24 00:00:00",
+        "start_time": "2021-11-25 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 3,
@@ -1920,7 +1920,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-24 00:00:00",
+        "start_time": "2021-11-25 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1987,7 +1987,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-24 00:00:00",
+        "start_time": "2021-11-25 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 17,
@@ -2054,7 +2054,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-24 00:00:00",
+        "start_time": "2021-11-25 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 13,
@@ -2121,7 +2121,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-24 00:00:00",
+        "start_time": "2021-11-25 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 39,
@@ -2188,7 +2188,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-24 00:00:00",
+        "start_time": "2021-11-25 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 133,
@@ -2255,7 +2255,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-24 00:00:00",
+        "start_time": "2021-11-25 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 7,
@@ -2314,16 +2314,16 @@
         "video_url": "",
         "score": 0,
         "currency": "SGD",
-        "market_price": "162.45",
-        "sell_price": "162.45",
-        "from_price": "162.45",
-        "to_price": "162.45",
+        "market_price": "",
+        "sell_price": "",
+        "from_price": "",
+        "to_price": "",
         "spec_price": {
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-24 18:00:00",
-        "sold_out": false,
+        "start_time": "2021-11-24 00:00:00",
+        "sold_out": true,
         "published": true,
         "participate": 0,
         "participants_format": "New Activity",
@@ -2377,7 +2377,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-21 00:00:00",
+        "start_time": "2021-11-22 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 1831,
@@ -2566,7 +2566,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-21 00:00:00",
+        "start_time": "2021-11-22 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2833,16 +2833,16 @@
         "video_url": "",
         "score": 0,
         "currency": "SGD",
-        "market_price": "70.65",
-        "sell_price": "62.85",
-        "from_price": "62.85",
-        "to_price": "62.85",
+        "market_price": "",
+        "sell_price": "",
+        "from_price": "",
+        "to_price": "",
         "spec_price": {
           "type": 0,
           "desc": ""
         },
         "start_time": "2021-11-22 00:00:00",
-        "sold_out": false,
+        "sold_out": true,
         "published": true,
         "participate": 42,
         "participants_format": "New Activity",
@@ -2907,7 +2907,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-25 00:00:00",
+        "start_time": "2021-11-26 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2973,7 +2973,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-21 00:00:00",
+        "start_time": "2021-11-22 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 3,
@@ -3039,7 +3039,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-21 00:00:00",
+        "start_time": "2021-11-22 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3105,7 +3105,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-21 00:00:00",
+        "start_time": "2021-11-22 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 12,
@@ -3226,7 +3226,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-29 00:00:00",
+        "start_time": "2021-11-30 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 180,
@@ -3293,7 +3293,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-23 00:00:00",
+        "start_time": "2021-11-24 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3340,15 +3340,15 @@
         "video_url": "",
         "score": 0,
         "currency": "SGD",
-        "market_price": "99.00",
-        "sell_price": "88.00",
-        "from_price": "88.00",
+        "market_price": "109.00",
+        "sell_price": "99.00",
+        "from_price": "99.00",
         "to_price": "1229.00",
         "spec_price": {
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-23 00:00:00",
+        "start_time": "2021-11-24 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 3,
@@ -3414,7 +3414,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-21 00:00:00",
+        "start_time": "2021-11-22 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3469,7 +3469,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-25 00:00:00",
+        "start_time": "2021-11-26 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3579,7 +3579,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-24 00:00:00",
+        "start_time": "2021-11-25 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 7,
