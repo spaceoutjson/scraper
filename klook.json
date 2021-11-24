@@ -579,7 +579,8 @@
       "2022-08-20T00:00:00Z",
       "2022-08-21T00:00:00Z",
       "2022-08-22T00:00:00Z",
-      "2022-08-23T00:00:00Z"
+      "2022-08-23T00:00:00Z",
+      "2022-08-24T00:00:00Z"
     ],
     "activities": [
       {
@@ -661,7 +662,7 @@
         "start_time": "2021-12-20 10:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 4,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -1802,7 +1803,7 @@
         "start_time": "2021-11-26 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 8,
+        "participate": 13,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2046,7 +2047,7 @@
         "start_time": "2021-11-27 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 25,
+        "participate": 29,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2113,7 +2114,7 @@
         "start_time": "2021-11-27 09:30:00",
         "sold_out": false,
         "published": true,
-        "participate": 16,
+        "participate": 21,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2302,7 +2303,7 @@
         "start_time": "2021-11-25 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 7,
+        "participate": 8,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2436,7 +2437,7 @@
         "start_time": "2021-11-28 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 7,
+        "participate": 9,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2704,8 +2705,8 @@
         "start_time": "2021-11-28 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 41,
-        "participants_format": "New Activity",
+        "participate": 57,
+        "participants_format": "50+ Booked",
         "discount": 0,
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
@@ -2771,7 +2772,7 @@
         "start_time": "2021-11-29 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 186,
+        "participate": 194,
         "participants_format": "100+ Booked",
         "discount": 0,
         "card_tags": {
@@ -2838,7 +2839,7 @@
         "start_time": "2021-11-28 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 16,
+        "participate": 18,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2905,12 +2906,9 @@
         "start_time": "2021-11-25 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 1914,
+        "participate": 1940,
         "participants_format": "1K+ Booked",
         "discount": 0,
-        "card_tags": {
-          "bestseller": "Bestseller"
-        },
         "review_total": 10,
         "image_url_host": "https://res.klook.com/image/upload/activities/wop9uhx4gr4vcegbpi2h.jpg",
         "icon": null,
@@ -2927,15 +2925,7 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": [
-          {
-            "key": "bestseller",
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "Bestseller"
-          }
-        ],
+        "tags": null,
         "need_hide_review": false,
         "deeplink": "https://www.klook.com/en-US/activity/65021-Win-a-pair-of-Scoot-flight-tickets-to-seoul/",
         "deep_link": "https://www.klook.com/en-US/activity/65021-Win-a-pair-of-Scoot-flight-tickets-to-seoul/",
@@ -2971,8 +2961,8 @@
         "start_time": "2021-11-30 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 583,
-        "participants_format": "500+ Booked",
+        "participate": 695,
+        "participants_format": "600+ Booked",
         "discount": 0,
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
@@ -3038,8 +3028,8 @@
         "start_time": "2021-11-30 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 955,
-        "participants_format": "900+ Booked",
+        "participate": 1062,
+        "participants_format": "1K+ Booked",
         "discount": 0,
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
@@ -3644,7 +3634,7 @@
         "start_time": "2021-12-03 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 264,
+        "participate": 293,
         "participants_format": "200+ Booked",
         "discount": 0,
         "card_tags": {
@@ -3743,7 +3733,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1291,
+    "total": 1287,
     "price": {
       "from": "0",
       "to": "527"
