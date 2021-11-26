@@ -584,6 +584,72 @@
     ],
     "activities": [
       {
+        "id": 65762,
+        "template_id": 3,
+        "title": "[Klook Exclusive] East meets West Wellness Program",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "73.90",
+        "sell_price": "63.90",
+        "from_price": "63.90",
+        "to_price": "226.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-11-28 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "deals_discount": "14% OFF"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/dp0bm1wsqpd5olh0wfpt.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.278176,103.848094",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 497,
+        "package_id": 0,
+        "tags": [
+          {
+            "key": "deals_discount",
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "14% OFF"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/65762-east-meets-west-wellness-program/",
+        "deep_link": "https://www.klook.com/en-US/activity/65762-east-meets-west-wellness-program/",
+        "vertical_type": 100,
+        "vertical_id": 65762,
+        "custom_tags": null,
+        "tag_ids": [
+          54
+        ],
+        "what_we_love": ""
+      },
+      {
         "id": 65680,
         "template_id": 3,
         "title": "Celebrate 2021 Year-End with Lloyd's Inn, M Social, KēSa House and Hotel G's Festive Cheers Packages!",
@@ -1855,7 +1921,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-26 00:00:00",
+        "start_time": "2021-11-27 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 13,
@@ -1922,7 +1988,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-26 13:30:00",
+        "start_time": "2021-11-26 14:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3631,7 +3697,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-27 10:30:00",
+        "start_time": "2021-11-28 10:30:00",
         "sold_out": false,
         "published": true,
         "participate": 4,
@@ -3664,76 +3730,9 @@
           8
         ],
         "what_we_love": ""
-      },
-      {
-        "id": 64640,
-        "template_id": 2,
-        "title": "Singapore River Cruise Tour with Steakhouse Dinner",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "55.00",
-        "sell_price": "55.00",
-        "from_price": "55.00",
-        "to_price": "55.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-12-04 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 315,
-        "participants_format": "300+ Booked",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/fiaztjtg3kbwdpwhkwkh.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.289985,103.845731",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 156,
-        "package_id": 0,
-        "tags": [
-          {
-            "key": "srv_eligible",
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/64640-singapore-river-cruise-tour-steakhouse-dinner/",
-        "deep_link": "https://www.klook.com/en-US/activity/64640-singapore-river-cruise-tour-steakhouse-dinner/",
-        "vertical_type": 100,
-        "vertical_id": 64640,
-        "custom_tags": null,
-        "tag_ids": [
-          143,
-          250
-        ],
-        "what_we_love": ""
       }
     ],
-    "total": 1289,
+    "total": 1290,
     "price": {
       "from": "0",
       "to": "527"
