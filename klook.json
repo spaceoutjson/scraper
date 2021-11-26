@@ -136,7 +136,7 @@
       },
       {
         "id": 9,
-        "name": "Tours & sightseeing",
+        "name": "Tours & must-sees",
         "enable": true,
         "children": [
           {
@@ -1891,7 +1891,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-26 19:30:00",
+        "start_time": "2021-11-26 20:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3702,7 +3702,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1290,
+    "total": 1292,
     "price": {
       "from": "0",
       "to": "527"
