@@ -1777,7 +1777,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-27 17:30:00",
+        "start_time": "2021-11-27 18:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2819,6 +2819,9 @@
         "participate": 1969,
         "participants_format": "1K+ Booked",
         "discount": 0,
+        "card_tags": {
+          "bestseller": "Bestseller"
+        },
         "review_total": 11,
         "image_url_host": "https://res.klook.com/image/upload/activities/wop9uhx4gr4vcegbpi2h.jpg",
         "icon": null,
@@ -2835,7 +2838,15 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "bestseller",
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "Bestseller"
+          }
+        ],
         "need_hide_review": false,
         "deeplink": "https://www.klook.com/en-US/activity/65021-Win-a-pair-of-Scoot-flight-tickets-to-seoul/",
         "deep_link": "https://www.klook.com/en-US/activity/65021-Win-a-pair-of-Scoot-flight-tickets-to-seoul/",
@@ -2978,7 +2989,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-30 00:00:00",
+        "start_time": "2021-12-01 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 4,
