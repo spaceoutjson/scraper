@@ -584,6 +584,72 @@
     ],
     "activities": [
       {
+        "id": 65914,
+        "template_id": 4,
+        "title": "Tien Court Restaurant at Copthorne King's Hotel",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "50.00",
+        "sell_price": "37.50",
+        "from_price": "37.50",
+        "to_price": "162.45",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-11-29 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "deals_discount": "25% OFF"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/zpxnwrzwdmkqnyqilnod.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.288304,103.836657",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 236,
+        "package_id": 0,
+        "tags": [
+          {
+            "key": "deals_discount",
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "25% OFF"
+          }
+        ],
+        "need_hide_review": false,
+        "deeplink": "https://www.klook.com/en-US/activity/65914-tien-court-restaurant-copthorne-kings-hotel/",
+        "deep_link": "https://www.klook.com/en-US/activity/65914-tien-court-restaurant-copthorne-kings-hotel/",
+        "vertical_type": 106,
+        "vertical_id": 65914,
+        "custom_tags": null,
+        "tag_ids": [
+          179
+        ],
+        "what_we_love": ""
+      },
+      {
         "id": 65223,
         "template_id": 3,
         "title": "Mindfulness for Mental Wellness Workshop",
@@ -659,7 +725,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-01 00:00:00",
+        "start_time": "2021-12-02 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 13,
@@ -1777,7 +1843,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-29 15:30:00",
+        "start_time": "2021-11-29 16:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3641,64 +3707,9 @@
           250
         ],
         "what_we_love": ""
-      },
-      {
-        "id": 64442,
-        "template_id": 3,
-        "title": "Wellaholic Self-Pampering Treatments in Singapore",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "109.00",
-        "sell_price": "99.00",
-        "from_price": "99.00",
-        "to_price": "1229.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-12-01 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 3,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/wr2yx3go1lfbvlcthzxu.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.309722,103.86286",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 419,
-        "package_id": 0,
-        "tags": null,
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/64442-wellaholic-self-pampering-treatments-singapore/",
-        "deep_link": "https://www.klook.com/en-US/activity/64442-wellaholic-self-pampering-treatments-singapore/",
-        "vertical_type": 100,
-        "vertical_id": 64442,
-        "custom_tags": null,
-        "tag_ids": [
-          84
-        ],
-        "what_we_love": ""
       }
     ],
-    "total": 1279,
+    "total": 1281,
     "price": {
       "from": "0",
       "to": "528"
