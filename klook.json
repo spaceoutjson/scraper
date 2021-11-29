@@ -838,7 +838,7 @@
         "start_time": "2021-12-02 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 13,
+        "participate": 20,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -893,7 +893,7 @@
         "start_time": "2021-12-24 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 12,
+        "participate": 14,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -948,8 +948,8 @@
         "start_time": "2021-12-20 10:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 40,
-        "participants_format": "New Activity",
+        "participate": 69,
+        "participants_format": "50+ Booked",
         "discount": 0,
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/edo60qimm7vc84prsngv.jpg",
@@ -2133,7 +2133,7 @@
         "start_time": "2021-12-11 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 35,
+        "participate": 36,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2187,7 +2187,7 @@
         "instance": 1,
         "image_url": "",
         "video_url": "",
-        "score": 0,
+        "score": 5,
         "currency": "SGD",
         "market_price": "90.00",
         "sell_price": "90.00",
@@ -2206,7 +2206,7 @@
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
         },
-        "review_total": 0,
+        "review_total": 2,
         "image_url_host": "https://res.klook.com/image/upload/activities/lxwtxfezd9nmgd5ye3ld.jpg",
         "icon": null,
         "icons": null,
@@ -2231,7 +2231,7 @@
             "text": "Eligible for SingapoRediscovers Vouchers"
           }
         ],
-        "need_hide_review": true,
+        "need_hide_review": false,
         "deeplink": "https://www.klook.com/en-US/activity/64787-breakfast-at-sea-island-dropoff/",
         "deep_link": "https://www.klook.com/en-US/activity/64787-breakfast-at-sea-island-dropoff/",
         "vertical_type": 100,
@@ -2389,7 +2389,7 @@
         "start_time": "2021-11-30 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 16,
+        "participate": 19,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2523,7 +2523,7 @@
         "start_time": "2021-12-03 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 13,
+        "participate": 15,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2657,7 +2657,7 @@
         "start_time": "2021-12-03 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 85,
+        "participate": 99,
         "participants_format": "50+ Booked",
         "discount": 0,
         "card_tags": {
@@ -2724,7 +2724,7 @@
         "start_time": "2021-12-03 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 39,
+        "participate": 42,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2791,8 +2791,8 @@
         "start_time": "2021-12-03 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 96,
-        "participants_format": "50+ Booked",
+        "participate": 110,
+        "participants_format": "100+ Booked",
         "discount": 0,
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
@@ -2858,7 +2858,7 @@
         "start_time": "2021-12-03 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 282,
+        "participate": 288,
         "participants_format": "200+ Booked",
         "discount": 0,
         "card_tags": {
@@ -2992,7 +2992,7 @@
         "start_time": "2021-11-30 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 2021,
+        "participate": 2032,
         "participants_format": "2K+ Booked",
         "discount": 0,
         "card_tags": {
@@ -3058,8 +3058,8 @@
         "start_time": "2021-12-31 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 875,
-        "participants_format": "800+ Booked",
+        "participate": 918,
+        "participants_format": "900+ Booked",
         "discount": 0,
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
@@ -3125,7 +3125,7 @@
         "start_time": "2021-12-31 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 1205,
+        "participate": 1245,
         "participants_format": "1K+ Booked",
         "discount": 0,
         "card_tags": {
@@ -3676,7 +3676,7 @@
         "start_time": "2021-12-08 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 370,
+        "participate": 394,
         "participants_format": "300+ Booked",
         "discount": 0,
         "card_tags": {
@@ -3720,7 +3720,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1283,
+    "total": 1274,
     "price": {
       "from": "0",
       "to": "528"
