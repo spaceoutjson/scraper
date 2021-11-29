@@ -579,7 +579,8 @@
       "2022-08-25T00:00:00Z",
       "2022-08-26T00:00:00Z",
       "2022-08-27T00:00:00Z",
-      "2022-08-28T00:00:00Z"
+      "2022-08-28T00:00:00Z",
+      "2022-08-29T00:00:00Z"
     ],
     "activities": [
       {
@@ -1776,7 +1777,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-29 14:30:00",
+        "start_time": "2021-11-29 15:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2090,7 +2091,7 @@
         "start_time": "2021-12-10 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 13,
+        "participate": 15,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -2212,7 +2213,7 @@
         "start_time": "2021-11-29 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 14,
+        "participate": 16,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2480,7 +2481,7 @@
         "start_time": "2021-12-02 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 77,
+        "participate": 85,
         "participants_format": "50+ Booked",
         "discount": 0,
         "card_tags": {
@@ -2815,7 +2816,7 @@
         "start_time": "2021-11-29 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 2019,
+        "participate": 2021,
         "participants_format": "2K+ Booked",
         "discount": 0,
         "review_total": 13,
@@ -2867,10 +2868,10 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-30 00:00:00",
+        "start_time": "2021-12-31 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 849,
+        "participate": 875,
         "participants_format": "800+ Booked",
         "discount": 0,
         "card_tags": {
@@ -2934,10 +2935,10 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-30 00:00:00",
+        "start_time": "2021-12-31 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 1195,
+        "participate": 1205,
         "participants_format": "1K+ Booked",
         "discount": 0,
         "card_tags": {
@@ -3111,7 +3112,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-02 00:00:00",
+        "start_time": "",
         "sold_out": true,
         "published": true,
         "participate": 4,
@@ -3540,7 +3541,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-07 00:00:00",
+        "start_time": "2021-12-08 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 370,
