@@ -584,6 +584,72 @@
     ],
     "activities": [
       {
+        "id": 65772,
+        "template_id": 1,
+        "title": "Smigy Playground Tickets in Singapore",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "19.00",
+        "sell_price": "16.15",
+        "from_price": "16.15",
+        "to_price": "239.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-12-01 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "deals_discount": "15% OFF"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/yhjmscx7lk8xehdufu5b.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.286425,103.827346",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 118,
+        "package_id": 0,
+        "tags": [
+          {
+            "key": "deals_discount",
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "15% OFF"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/65772-smigy-playground-tickets-singapore/",
+        "deep_link": "https://www.klook.com/en-US/activity/65772-smigy-playground-tickets-singapore/",
+        "vertical_type": 100,
+        "vertical_id": 65772,
+        "custom_tags": null,
+        "tag_ids": [
+          38
+        ],
+        "what_we_love": ""
+      },
+      {
         "id": 65833,
         "template_id": 1,
         "title": "tokidoki X AIA Better Lives Charity Run 2021",
@@ -1953,7 +2019,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-11-30 15:30:00",
+        "start_time": "2021-11-30 16:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2378,7 +2444,7 @@
         "video_url": "",
         "score": 0,
         "currency": "SGD",
-        "market_price": "65.00",
+        "market_price": "45.00",
         "sell_price": "45.00",
         "from_price": "45.00",
         "to_price": "86.00",
@@ -3651,76 +3717,9 @@
           8
         ],
         "what_we_love": ""
-      },
-      {
-        "id": 64640,
-        "template_id": 2,
-        "title": "Singapore River Cruise Tour with Steakhouse Dinner",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 4,
-        "currency": "SGD",
-        "market_price": "55.00",
-        "sell_price": "55.00",
-        "from_price": "55.00",
-        "to_price": "55.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-12-08 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 394,
-        "participants_format": "300+ Booked",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 1,
-        "image_url_host": "https://res.klook.com/image/upload/activities/fiaztjtg3kbwdpwhkwkh.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.289985,103.845731",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 156,
-        "package_id": 0,
-        "tags": [
-          {
-            "key": "srv_eligible",
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": false,
-        "deeplink": "https://www.klook.com/en-US/activity/64640-singapore-river-cruise-tour-steakhouse-dinner/",
-        "deep_link": "https://www.klook.com/en-US/activity/64640-singapore-river-cruise-tour-steakhouse-dinner/",
-        "vertical_type": 100,
-        "vertical_id": 64640,
-        "custom_tags": null,
-        "tag_ids": [
-          143,
-          250
-        ],
-        "what_we_love": ""
       }
     ],
-    "total": 1272,
+    "total": 1273,
     "price": {
       "from": "0",
       "to": "528"
