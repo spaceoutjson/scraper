@@ -313,8 +313,6 @@
       "2021-10-31T00:00:00Z",
       "2021-11-05T00:00:00Z",
       "2021-11-07T00:00:00Z",
-      "2021-11-30T00:00:00Z",
-      "2021-12-01T00:00:00Z",
       "2021-12-02T00:00:00Z",
       "2021-12-03T00:00:00Z",
       "2021-12-04T00:00:00Z",
@@ -586,7 +584,9 @@
       "2022-08-27T00:00:00Z",
       "2022-08-28T00:00:00Z",
       "2022-08-29T00:00:00Z",
-      "2022-08-30T00:00:00Z"
+      "2022-08-30T00:00:00Z",
+      "2022-08-31T00:00:00Z",
+      "2022-09-01T00:00:00Z"
     ],
     "activities": [
       {
@@ -976,7 +976,7 @@
         "start_time": "2021-12-03 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 5,
+        "participate": 7,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1108,7 +1108,7 @@
         "start_time": "2021-12-04 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 5,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -1350,7 +1350,7 @@
         "start_time": "2021-12-05 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 21,
+        "participate": 25,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -1460,7 +1460,7 @@
         "start_time": "2021-12-20 10:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 85,
+        "participate": 95,
         "participants_format": "50+ Booked",
         "discount": 0,
         "review_total": 0,
@@ -1515,7 +1515,7 @@
         "start_time": "2021-12-03 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 1,
+        "participate": 4,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2310,73 +2310,6 @@
         "what_we_love": ""
       },
       {
-        "id": 65579,
-        "template_id": 1,
-        "title": "Changi RoboMaster Challenge: Be Champions of the World’s Smartest Airport!",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "",
-        "sell_price": "",
-        "from_price": "",
-        "to_price": "",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-12-03 00:00:00",
-        "sold_out": true,
-        "published": true,
-        "participate": 16,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/vaqngmdmsz2tzznmulkz.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.360209,103.98976",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 106,
-        "package_id": 0,
-        "tags": [
-          {
-            "key": "srv_eligible",
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/65579-changi-robomaster-challenge-singapore/",
-        "deep_link": "https://www.klook.com/en-US/activity/65579-changi-robomaster-challenge-singapore/",
-        "vertical_type": 100,
-        "vertical_id": 65579,
-        "custom_tags": null,
-        "tag_ids": [
-          173,
-          250
-        ],
-        "what_we_love": ""
-      },
-      {
         "id": 65277,
         "template_id": 4,
         "title": "Sky22 at Courtyard by Marriott Singapore Novena",
@@ -2522,7 +2455,7 @@
         "start_time": "2021-12-02 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 4,
+        "participate": 5,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -2577,7 +2510,7 @@
         "start_time": "2021-12-11 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 41,
+        "participate": 42,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2644,7 +2577,7 @@
         "start_time": "2021-12-04 09:30:00",
         "sold_out": false,
         "published": true,
-        "participate": 32,
+        "participate": 34,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2833,7 +2766,7 @@
         "start_time": "2021-12-02 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 21,
+        "participate": 23,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3101,7 +3034,7 @@
         "start_time": "2021-12-05 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 115,
+        "participate": 123,
         "participants_format": "100+ Booked",
         "discount": 0,
         "card_tags": {
@@ -3235,7 +3168,7 @@
         "start_time": "2021-12-05 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 135,
+        "participate": 177,
         "participants_format": "100+ Booked",
         "discount": 0,
         "card_tags": {
@@ -3302,7 +3235,7 @@
         "start_time": "2021-12-06 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 304,
+        "participate": 317,
         "participants_format": "300+ Booked",
         "discount": 0,
         "card_tags": {
@@ -3436,13 +3369,13 @@
         "start_time": "2021-12-02 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 2047,
+        "participate": 2066,
         "participants_format": "2K+ Booked",
         "discount": 0,
         "card_tags": {
           "bestseller": "Bestseller"
         },
-        "review_total": 15,
+        "review_total": 16,
         "image_url_host": "https://res.klook.com/image/upload/activities/wop9uhx4gr4vcegbpi2h.jpg",
         "icon": null,
         "icons": null,
@@ -3502,7 +3435,7 @@
         "start_time": "2021-12-31 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 1078,
+        "participate": 1199,
         "participants_format": "1K+ Booked",
         "discount": 0,
         "card_tags": {
@@ -3569,7 +3502,7 @@
         "start_time": "2021-12-31 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 1495,
+        "participate": 1565,
         "participants_format": "1K+ Booked",
         "discount": 0,
         "card_tags": {
@@ -3721,9 +3654,64 @@
           187
         ],
         "what_we_love": ""
+      },
+      {
+        "id": 64192,
+        "template_id": 2,
+        "title": "Adventure Cove Waterpark™ Ticket & Set Lunch at Hard Rock Café Sentosa",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "60.00",
+        "sell_price": "60.00",
+        "from_price": "60.00",
+        "to_price": "60.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-12-05 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 5,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/cny8xa2bdu7prtnkkxkl.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.258871,103.819249",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 150,
+        "package_id": 0,
+        "tags": null,
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/64192-adventure-cove-waterpark-ticket-set-lunch-hard-rock-cafe-sentosa-singapore/",
+        "deep_link": "https://www.klook.com/en-US/activity/64192-adventure-cove-waterpark-ticket-set-lunch-hard-rock-cafe-sentosa-singapore/",
+        "vertical_type": 100,
+        "vertical_id": 64192,
+        "custom_tags": null,
+        "tag_ids": [
+          160
+        ],
+        "what_we_love": ""
       }
     ],
-    "total": 1280,
+    "total": 1275,
     "price": {
       "from": "0",
       "to": "525"
