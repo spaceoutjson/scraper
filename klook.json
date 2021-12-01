@@ -590,6 +590,61 @@
     ],
     "activities": [
       {
+        "id": 66027,
+        "template_id": 1,
+        "title": "Slurping Good! Instant-Noodle Themed Experience Playground Singapore",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "21.00",
+        "sell_price": "21.00",
+        "from_price": "21.00",
+        "to_price": "21.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-12-01 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/fhieq28naixfbxrjhyux.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.305203,103.851217",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 118,
+        "package_id": 0,
+        "tags": null,
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/66027-slurping-good-instant-noodle-playground-singapore/",
+        "deep_link": "https://www.klook.com/en-US/activity/66027-slurping-good-instant-noodle-playground-singapore/",
+        "vertical_type": 100,
+        "vertical_id": 66027,
+        "custom_tags": null,
+        "tag_ids": [
+          1268
+        ],
+        "what_we_love": ""
+      },
+      {
         "id": 65456,
         "template_id": 1,
         "title": "[Klook Exclusive] Adventure Pass - Bundle & Save",
@@ -2089,7 +2144,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-01 16:30:00",
+        "start_time": "2021-12-01 17:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3656,64 +3711,9 @@
           250
         ],
         "what_we_love": ""
-      },
-      {
-        "id": 64589,
-        "template_id": 1,
-        "title": "Merry Haus Playground Ticket in Singapore",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "10.00",
-        "sell_price": "10.00",
-        "from_price": "10.00",
-        "to_price": "139.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-12-03 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 1,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/opdhdrlyh1qdsloaebml.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.403116,103.913221",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 118,
-        "package_id": 0,
-        "tags": null,
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/64589-merry-haus-playground-ticket-singapore/",
-        "deep_link": "https://www.klook.com/en-US/activity/64589-merry-haus-playground-ticket-singapore/",
-        "vertical_type": 100,
-        "vertical_id": 64589,
-        "custom_tags": null,
-        "tag_ids": [
-          250
-        ],
-        "what_we_love": ""
       }
     ],
-    "total": 1275,
+    "total": 1276,
     "price": {
       "from": "0",
       "to": "525"
@@ -3765,6 +3765,11 @@
           {
             "id": 38,
             "name": "Museums & Galleries",
+            "disable": false
+          },
+          {
+            "id": 1268,
+            "name": "yifun voucher",
             "disable": false
           }
         ]
