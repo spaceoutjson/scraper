@@ -26,6 +26,30 @@
             "name": "Aquariums, zoos & farms",
             "enable": true,
             "children": null
+          },
+          {
+            "id": 3,
+            "name": "Theme & water parks",
+            "enable": true,
+            "children": null
+          },
+          {
+            "id": 4,
+            "name": "Museums & galleries",
+            "enable": true,
+            "children": null
+          },
+          {
+            "id": 6,
+            "name": "Observation & scenic cable cars",
+            "enable": true,
+            "children": null
+          },
+          {
+            "id": 8,
+            "name": "Attraction passes",
+            "enable": true,
+            "children": null
           }
         ]
       },
@@ -1051,9 +1075,9 @@
         "video_url": "",
         "score": 0,
         "currency": "SGD",
-        "market_price": "16.50",
-        "sell_price": "16.50",
-        "from_price": "16.50",
+        "market_price": "18.00",
+        "sell_price": "17.00",
+        "from_price": "17.00",
         "to_price": "18.00",
         "spec_price": {
           "type": 0,
@@ -1062,7 +1086,7 @@
         "start_time": "2021-12-20 10:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 73,
+        "participate": 81,
         "participants_format": "50+ Booked",
         "discount": 0,
         "review_total": 0,
@@ -1924,16 +1948,16 @@
         "video_url": "",
         "score": 0,
         "currency": "SGD",
-        "market_price": "79.00",
-        "sell_price": "79.00",
-        "from_price": "79.00",
-        "to_price": "79.00",
+        "market_price": "",
+        "sell_price": "",
+        "from_price": "",
+        "to_price": "",
         "spec_price": {
           "type": 0,
           "desc": ""
         },
         "start_time": "2021-12-03 00:00:00",
-        "sold_out": false,
+        "sold_out": true,
         "published": true,
         "participate": 16,
         "participants_format": "New Activity",
@@ -1999,7 +2023,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-01 13:00:00",
+        "start_time": "2021-12-01 13:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2121,7 +2145,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-01 00:00:00",
+        "start_time": "2021-12-02 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 4,
