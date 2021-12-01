@@ -953,6 +953,72 @@
         "what_we_love": ""
       },
       {
+        "id": 65762,
+        "template_id": 3,
+        "title": "[Klook Exclusive] East meets West Wellness Program",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "73.90",
+        "sell_price": "63.90",
+        "from_price": "63.90",
+        "to_price": "226.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-12-03 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 1,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "deals_discount": "14% OFF"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/dp0bm1wsqpd5olh0wfpt.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.278176,103.848094",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 497,
+        "package_id": 0,
+        "tags": [
+          {
+            "key": "deals_discount",
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "14% OFF"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/65762-east-meets-west-wellness-program/",
+        "deep_link": "https://www.klook.com/en-US/activity/65762-east-meets-west-wellness-program/",
+        "vertical_type": 100,
+        "vertical_id": 65762,
+        "custom_tags": null,
+        "tag_ids": [
+          54
+        ],
+        "what_we_love": ""
+      },
+      {
         "id": 65680,
         "template_id": 3,
         "title": "Celebrate 2021 Year-End with Lloyd's Inn, M Social, KēSa House and Hotel G's Festive Cheers Packages!",
@@ -2023,7 +2089,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-01 13:30:00",
+        "start_time": "2021-12-01 14:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3490,7 +3556,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-02 10:30:00",
+        "start_time": "2021-12-03 10:30:00",
         "sold_out": false,
         "published": true,
         "participate": 4,
@@ -3645,64 +3711,9 @@
           250
         ],
         "what_we_love": ""
-      },
-      {
-        "id": 64442,
-        "template_id": 3,
-        "title": "Wellaholic Self-Pampering Treatments in Singapore",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "109.00",
-        "sell_price": "99.00",
-        "from_price": "99.00",
-        "to_price": "1229.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-12-03 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 3,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/wr2yx3go1lfbvlcthzxu.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.309722,103.86286",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 419,
-        "package_id": 0,
-        "tags": null,
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/64442-wellaholic-self-pampering-treatments-singapore/",
-        "deep_link": "https://www.klook.com/en-US/activity/64442-wellaholic-self-pampering-treatments-singapore/",
-        "vertical_type": 100,
-        "vertical_id": 64442,
-        "custom_tags": null,
-        "tag_ids": [
-          84
-        ],
-        "what_we_love": ""
       }
     ],
-    "total": 1272,
+    "total": 1274,
     "price": {
       "from": "0",
       "to": "525"
