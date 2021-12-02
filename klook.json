@@ -616,6 +616,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/vxgwhdp4pxxq86bldthp.jpg",
         "icon": null,
@@ -632,7 +635,15 @@
         "real_lang": "",
         "leaf_category": 156,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/65738-sindo-sunset-southern-island-cruise-tour-nangsilk-birdnest/",
         "deep_link": "https://www.klook.com/en-US/activity/65738-sindo-sunset-southern-island-cruise-tour-nangsilk-birdnest/",
@@ -640,7 +651,8 @@
         "vertical_id": 65738,
         "custom_tags": null,
         "tag_ids": [
-          74
+          74,
+          250
         ],
         "what_we_love": ""
       },
@@ -671,6 +683,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/oj60yttlerlct9ayoood.jpg",
         "icon": null,
@@ -687,7 +702,15 @@
         "real_lang": "",
         "leaf_category": 156,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/65737-sindo-discovery-journey-southern-islands-cruise-tour-nangsilk-birdnest/",
         "deep_link": "https://www.klook.com/en-US/activity/65737-sindo-discovery-journey-southern-islands-cruise-tour-nangsilk-birdnest/",
@@ -695,7 +718,8 @@
         "vertical_id": 65737,
         "custom_tags": null,
         "tag_ids": [
-          108
+          108,
+          250
         ],
         "what_we_love": ""
       },
@@ -726,6 +750,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/ejt26rh3b46b9he38r2y.jpg",
         "icon": null,
@@ -742,7 +769,15 @@
         "real_lang": "",
         "leaf_category": 156,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/65736-sindo-kusu-island-cruise-tour-nangsilk-birdnest/",
         "deep_link": "https://www.klook.com/en-US/activity/65736-sindo-kusu-island-cruise-tour-nangsilk-birdnest/",
@@ -750,7 +785,8 @@
         "vertical_id": 65736,
         "custom_tags": null,
         "tag_ids": [
-          143
+          143,
+          250
         ],
         "what_we_love": ""
       },
@@ -781,6 +817,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/hpojoc5yjuxzbonsxhh1.jpg",
         "icon": null,
@@ -797,7 +836,15 @@
         "real_lang": "",
         "leaf_category": 156,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/65733-sindo-kusu-island-afternoon-tea-cruise-tour-nangsilk-birdnest/",
         "deep_link": "https://www.klook.com/en-US/activity/65733-sindo-kusu-island-afternoon-tea-cruise-tour-nangsilk-birdnest/",
@@ -805,7 +852,8 @@
         "vertical_id": 65733,
         "custom_tags": null,
         "tag_ids": [
-          74
+          74,
+          250
         ],
         "what_we_love": ""
       },
@@ -1673,7 +1721,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-05 00:00:00",
+        "start_time": "2021-12-07 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 25,
@@ -2656,7 +2704,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-02 18:30:00",
+        "start_time": "2021-12-02 19:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2892,15 +2940,15 @@
         "video_url": "",
         "score": 5,
         "currency": "SGD",
-        "market_price": "90.00",
-        "sell_price": "90.00",
-        "from_price": "90.00",
-        "to_price": "90.00",
+        "market_price": "80.00",
+        "sell_price": "80.00",
+        "from_price": "80.00",
+        "to_price": "80.00",
         "spec_price": {
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-04 09:30:00",
+        "start_time": "2021-12-11 09:30:00",
         "sold_out": false,
         "published": true,
         "participate": 34,
@@ -3672,7 +3720,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1283,
+    "total": 1282,
     "price": {
       "from": "0",
       "to": "525"
