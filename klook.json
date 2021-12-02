@@ -1134,7 +1134,7 @@
         "start_time": "2021-12-02 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 2,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -1160,9 +1160,7 @@
         "vertical_type": 100,
         "vertical_id": 66027,
         "custom_tags": null,
-        "tag_ids": [
-          1268
-        ],
+        "tag_ids": [],
         "what_we_love": ""
       },
       {
@@ -2704,7 +2702,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-02 20:30:00",
+        "start_time": "2021-12-03 11:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3772,11 +3770,6 @@
           {
             "id": 38,
             "name": "Museums & Galleries",
-            "disable": false
-          },
-          {
-            "id": 1268,
-            "name": "yifun voucher",
             "disable": false
           }
         ]
