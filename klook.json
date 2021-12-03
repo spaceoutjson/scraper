@@ -586,7 +586,8 @@
       "2022-08-30T00:00:00Z",
       "2022-08-31T00:00:00Z",
       "2022-09-01T00:00:00Z",
-      "2022-09-02T00:00:00Z"
+      "2022-09-02T00:00:00Z",
+      "2022-09-03T00:00:00Z"
     ],
     "activities": [
       {
@@ -613,7 +614,7 @@
         "start_time": "2022-03-31 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 8,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -680,7 +681,7 @@
         "start_time": "2021-12-05 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 37,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -1311,7 +1312,7 @@
         "start_time": "2021-12-04 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 2,
+        "participate": 9,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -1406,7 +1407,7 @@
         "instance": 1,
         "image_url": "",
         "video_url": "",
-        "score": 0,
+        "score": 5,
         "currency": "SGD",
         "market_price": "19.00",
         "sell_price": "16.15",
@@ -1419,13 +1420,13 @@
         "start_time": "2021-12-05 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 11,
+        "participate": 14,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
           "deals_discount": "15% OFF"
         },
-        "review_total": 0,
+        "review_total": 1,
         "image_url_host": "https://res.klook.com/image/upload/activities/yhjmscx7lk8xehdufu5b.jpg",
         "icon": null,
         "icons": null,
@@ -1450,7 +1451,7 @@
             "text": "15% OFF"
           }
         ],
-        "need_hide_review": true,
+        "need_hide_review": false,
         "deeplink": "https://www.klook.com/en-US/activity/65772-smigy-playground-tickets-singapore/",
         "deep_link": "https://www.klook.com/en-US/activity/65772-smigy-playground-tickets-singapore/",
         "vertical_type": 100,
@@ -1485,7 +1486,7 @@
         "start_time": "2021-12-16 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 4,
+        "participate": 17,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -1538,7 +1539,7 @@
         "start_time": "2021-12-16 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 1,
+        "participate": 3,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -1899,7 +1900,7 @@
         "start_time": "2021-12-07 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 30,
+        "participate": 32,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -1954,7 +1955,7 @@
         "start_time": "2021-12-25 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 18,
+        "participate": 20,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -2009,7 +2010,7 @@
         "start_time": "2021-12-20 10:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 110,
+        "participate": 126,
         "participants_format": "100+ Booked",
         "discount": 0,
         "review_total": 0,
@@ -2064,7 +2065,7 @@
         "start_time": "2021-12-05 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 5,
+        "participate": 6,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3126,7 +3127,7 @@
         "start_time": "2021-12-11 09:30:00",
         "sold_out": false,
         "published": true,
-        "participate": 35,
+        "participate": 36,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3302,7 +3303,7 @@
         "instance": 1,
         "image_url": "",
         "video_url": "",
-        "score": 0,
+        "score": 5,
         "currency": "SGD",
         "market_price": "45.00",
         "sell_price": "45.00",
@@ -3315,13 +3316,13 @@
         "start_time": "2021-12-04 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 27,
+        "participate": 40,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
         },
-        "review_total": 0,
+        "review_total": 1,
         "image_url_host": "https://res.klook.com/image/upload/activities/tqjthatvz92tfstd9vdf.jpg",
         "icon": null,
         "icons": null,
@@ -3346,7 +3347,7 @@
             "text": "Eligible for SingapoRediscovers Vouchers"
           }
         ],
-        "need_hide_review": true,
+        "need_hide_review": false,
         "deeplink": "https://www.klook.com/en-US/activity/65053-untame-rebooting-our-world-science-centre-singapore-admission/",
         "deep_link": "https://www.klook.com/en-US/activity/65053-untame-rebooting-our-world-science-centre-singapore-admission/",
         "vertical_type": 100,
@@ -3449,7 +3450,7 @@
         "start_time": "2021-12-07 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 17,
+        "participate": 18,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3583,7 +3584,7 @@
         "start_time": "2021-12-07 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 129,
+        "participate": 139,
         "participants_format": "100+ Booked",
         "discount": 0,
         "card_tags": {
@@ -3694,7 +3695,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1284,
+    "total": 1282,
     "price": {
       "from": "0",
       "to": "529"
