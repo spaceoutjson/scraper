@@ -591,6 +591,61 @@
     ],
     "activities": [
       {
+        "id": 66190,
+        "template_id": 4,
+        "title": "BAR.CELONA Restaurant at Outram Park",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "100.05",
+        "sell_price": "100.05",
+        "from_price": "100.05",
+        "to_price": "100.05",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-12-08 18:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/cbeo8qetkdamyszick8s.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.279781,103.840491",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 487,
+        "package_id": 0,
+        "tags": null,
+        "need_hide_review": false,
+        "deeplink": "https://www.klook.com/en-US/activity/66190-barcelona-restaurant-outram-park/",
+        "deep_link": "https://www.klook.com/en-US/activity/66190-barcelona-restaurant-outram-park/",
+        "vertical_type": 106,
+        "vertical_id": 66190,
+        "custom_tags": null,
+        "tag_ids": [
+          183
+        ],
+        "what_we_love": ""
+      },
+      {
         "id": 65738,
         "template_id": 2,
         "title": "Sindo Sunset Southern Island Cruise Tour with NangSilk BirdNest",
@@ -2703,7 +2758,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-03 12:00:00",
+        "start_time": "2021-12-03 12:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3650,76 +3705,9 @@
           250
         ],
         "what_we_love": ""
-      },
-      {
-        "id": 64735,
-        "template_id": 2,
-        "title": "Full Day Southern Islands Tour PLUS Lunch",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "60.00",
-        "sell_price": "60.00",
-        "from_price": "60.00",
-        "to_price": "60.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-12-06 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 37,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/hydrx7y8cuy0cgakvhto.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.2709,103.863255",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 157,
-        "package_id": 0,
-        "tags": [
-          {
-            "key": "srv_eligible",
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/64735-full-day-southern-islands-tour-with-lunch/",
-        "deep_link": "https://www.klook.com/en-US/activity/64735-full-day-southern-islands-tour-with-lunch/",
-        "vertical_type": 100,
-        "vertical_id": 64735,
-        "custom_tags": null,
-        "tag_ids": [
-          143,
-          250
-        ],
-        "what_we_love": ""
       }
     ],
-    "total": 1281,
+    "total": 1283,
     "price": {
       "from": "0",
       "to": "527"
