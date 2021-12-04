@@ -728,7 +728,7 @@
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
-          "deals_discount": "19% OFF"
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
         },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/tl5ambcpns222pghlqgs.jpg",
@@ -748,11 +748,11 @@
         "package_id": 0,
         "tags": [
           {
-            "key": "deals_discount",
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
             "text_color": "#FFFFFF",
-            "text": "19% OFF"
+            "text": "Eligible for SingapoRediscovers Vouchers"
           }
         ],
         "need_hide_review": true,
@@ -904,6 +904,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/vxgwhdp4pxxq86bldthp.jpg",
         "icon": null,
@@ -920,7 +923,15 @@
         "real_lang": "",
         "leaf_category": 156,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/65738-sindo-sunset-southern-island-cruise-tour-nangsilk-birdnest/",
         "deep_link": "https://www.klook.com/en-US/activity/65738-sindo-sunset-southern-island-cruise-tour-nangsilk-birdnest/",
@@ -960,6 +971,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/oj60yttlerlct9ayoood.jpg",
         "icon": null,
@@ -976,7 +990,15 @@
         "real_lang": "",
         "leaf_category": 156,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/65737-sindo-discovery-journey-southern-islands-cruise-tour-nangsilk-birdnest/",
         "deep_link": "https://www.klook.com/en-US/activity/65737-sindo-discovery-journey-southern-islands-cruise-tour-nangsilk-birdnest/",
@@ -1016,6 +1038,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/ejt26rh3b46b9he38r2y.jpg",
         "icon": null,
@@ -1032,7 +1057,15 @@
         "real_lang": "",
         "leaf_category": 156,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/65736-sindo-kusu-island-cruise-tour-nangsilk-birdnest/",
         "deep_link": "https://www.klook.com/en-US/activity/65736-sindo-kusu-island-cruise-tour-nangsilk-birdnest/",
@@ -1072,6 +1105,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/hpojoc5yjuxzbonsxhh1.jpg",
         "icon": null,
@@ -1088,7 +1124,15 @@
         "real_lang": "",
         "leaf_category": 156,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/65733-sindo-kusu-island-afternoon-tea-cruise-tour-nangsilk-birdnest/",
         "deep_link": "https://www.klook.com/en-US/activity/65733-sindo-kusu-island-afternoon-tea-cruise-tour-nangsilk-birdnest/",
@@ -2134,6 +2178,9 @@
         "participate": 8,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/opakjtgvgwmqnekynq4n.jpg",
         "icon": null,
@@ -2150,7 +2197,15 @@
         "real_lang": "",
         "leaf_category": 522,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/65084-mandarin-orchard-fookhai-treasure-nangsilk-birdnest-tour/",
         "deep_link": "https://www.klook.com/en-US/activity/65084-mandarin-orchard-fookhai-treasure-nangsilk-birdnest-tour/",
@@ -2190,6 +2245,9 @@
         "participate": 2,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/hlkkinfhtzkdagnpbyls.jpg",
         "icon": null,
@@ -2206,7 +2264,15 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/65379-singapore-marina-bay-rive-cruise-tour-flyer-skypark-observation-deck/",
         "deep_link": "https://www.klook.com/en-US/activity/65379-singapore-marina-bay-rive-cruise-tour-flyer-skypark-observation-deck/",
@@ -2246,6 +2312,9 @@
         "participate": 1,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/knodm42didwqliluhs0o.jpg",
         "icon": null,
@@ -2262,7 +2331,15 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/65153-singapore-river-cruise-fort-canning-night-tour-dinner/",
         "deep_link": "https://www.klook.com/en-US/activity/65153-singapore-river-cruise-fort-canning-night-tour-dinner/",
@@ -2302,6 +2379,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/ixbukee7gbchhksm3ujt.jpg",
         "icon": null,
@@ -2318,7 +2398,15 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/65152-chinatown-home-nyonya-tile-walking-tour-nangsilk-birdnest/",
         "deep_link": "https://www.klook.com/en-US/activity/65152-chinatown-home-nyonya-tile-walking-tour-nangsilk-birdnest/",
@@ -2640,6 +2728,9 @@
         "participate": 3,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/ecaexq1adaeeusnj4s3z.jpg",
         "icon": null,
@@ -2656,7 +2747,15 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/65367-singapore-kelong-one-day-tour-deluxe-seafood-brunch/",
         "deep_link": "https://www.klook.com/en-US/activity/65367-singapore-kelong-one-day-tour-deluxe-seafood-brunch/",
@@ -2696,6 +2795,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/nnt1aksuvlvq2yfxl7uq.jpg",
         "icon": null,
@@ -2712,7 +2814,15 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/65149-singapore-southern-island-tour-nangsilk-birdnest/",
         "deep_link": "https://www.klook.com/en-US/activity/65149-singapore-southern-island-tour-nangsilk-birdnest/",
@@ -2752,6 +2862,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/sggmrcsieklrpwgkwvfy.jpg",
         "icon": null,
@@ -2768,7 +2881,15 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/65131-pulau-ubin-check-jawa-tour/",
         "deep_link": "https://www.klook.com/en-US/activity/65131-pulau-ubin-check-jawa-tour/",
@@ -2808,6 +2929,9 @@
         "participate": 4,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/m1oqmeph0gu2w19dlp3o.jpg",
         "icon": null,
@@ -2824,7 +2948,15 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/65091-singapore-gardens-bay-tour-haidilao-lunch-birdnest/",
         "deep_link": "https://www.klook.com/en-US/activity/65091-singapore-gardens-bay-tour-haidilao-lunch-birdnest/",
@@ -2919,6 +3051,9 @@
         "participate": 12,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/mdz7nqjqf7chpbups8tc.jpg",
         "icon": null,
@@ -2935,7 +3070,15 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/65366-somewhere-in-time-singapore-walking-tour/",
         "deep_link": "https://www.klook.com/en-US/activity/65366-somewhere-in-time-singapore-walking-tour/",
@@ -3030,6 +3173,9 @@
         "participate": 47,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/rdgw0qwtkw02rbiidpkb.jpg",
         "icon": null,
@@ -3046,7 +3192,15 @@
         "real_lang": "",
         "leaf_category": 108,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/65251-sea-aquarium-one-day-ticket-yoga-session-admission/",
         "deep_link": "https://www.klook.com/en-US/activity/65251-sea-aquarium-one-day-ticket-yoga-session-admission/",
@@ -3086,6 +3240,9 @@
         "participate": 45,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 2,
         "image_url_host": "https://res.klook.com/image/upload/activities/lxwtxfezd9nmgd5ye3ld.jpg",
         "icon": null,
@@ -3102,7 +3259,15 @@
         "real_lang": "",
         "leaf_category": 508,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": false,
         "deeplink": "https://www.klook.com/en-US/activity/64787-breakfast-at-sea-island-dropoff/",
         "deep_link": "https://www.klook.com/en-US/activity/64787-breakfast-at-sea-island-dropoff/",
@@ -3197,6 +3362,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/myhmryfbeqjwxbzuyjdl.jpg",
         "icon": null,
@@ -3213,7 +3381,15 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/65154-singapore-night-river-cruise-tour-nangsilk-birdnest/",
         "deep_link": "https://www.klook.com/en-US/activity/65154-singapore-night-river-cruise-tour-nangsilk-birdnest/",
@@ -3253,6 +3429,9 @@
         "participate": 44,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 1,
         "image_url_host": "https://res.klook.com/image/upload/activities/tqjthatvz92tfstd9vdf.jpg",
         "icon": null,
@@ -3269,7 +3448,15 @@
         "real_lang": "",
         "leaf_category": 106,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": false,
         "deeplink": "https://www.klook.com/en-US/activity/65053-untame-rebooting-our-world-science-centre-singapore-admission/",
         "deep_link": "https://www.klook.com/en-US/activity/65053-untame-rebooting-our-world-science-centre-singapore-admission/",
@@ -3309,6 +3496,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/if4cbjnjflreyr4jmf3u.jpg",
         "icon": null,
@@ -3325,7 +3515,15 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/65056-singapore-duck-tour-marina-bay-walking-guided-tour/",
         "deep_link": "https://www.klook.com/en-US/activity/65056-singapore-duck-tour-marina-bay-walking-guided-tour/",
@@ -3365,6 +3563,9 @@
         "participate": 21,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/f4svtemkfeox6u5zzo6p.jpg",
         "icon": null,
@@ -3381,7 +3582,15 @@
         "real_lang": "",
         "leaf_category": 157,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/64712-singapore-river-cruise-chili-crab/",
         "deep_link": "https://www.klook.com/en-US/activity/64712-singapore-river-cruise-chili-crab/",
@@ -3421,6 +3630,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/tdhnvxtwdhmpbislkbr6.jpg",
         "icon": null,
@@ -3437,7 +3649,15 @@
         "real_lang": "",
         "leaf_category": 156,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/64713-southern-islands-tour-plus-house-of-seafood/",
         "deep_link": "https://www.klook.com/en-US/activity/64713-southern-islands-tour-plus-house-of-seafood/",
