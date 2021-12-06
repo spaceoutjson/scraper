@@ -596,6 +596,72 @@
     ],
     "activities": [
       {
+        "id": 64208,
+        "template_id": 3,
+        "title": "Craft Clay Sushi Earring Workshop",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 0,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "72.00",
+        "sell_price": "42.19",
+        "from_price": "42.19",
+        "to_price": "42.19",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-12-08 11:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "deals_discount": "41% OFF"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/juqi8dr7o3rmfnprrvwn.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.443283,103.829575",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 124,
+        "package_id": 0,
+        "tags": [
+          {
+            "key": "deals_discount",
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "41% OFF"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/64208-craft-clay-sushi-earring-workshop/",
+        "deep_link": "https://www.klook.com/en-US/activity/64208-craft-clay-sushi-earring-workshop/",
+        "vertical_type": 100,
+        "vertical_id": 64208,
+        "custom_tags": null,
+        "tag_ids": [
+          169
+        ],
+        "what_we_love": ""
+      },
+      {
         "id": 65876,
         "template_id": 3,
         "title": "Premium Yacht Charter Rental Singapore - Zen Sea 3 by Zenithyachtcharters",
@@ -1596,7 +1662,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-16 00:00:00",
+        "start_time": "2021-12-17 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 12,
@@ -2940,7 +3006,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-06 15:30:00",
+        "start_time": "2021-12-06 16:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3616,73 +3682,6 @@
         "custom_tags": null,
         "tag_ids": [
           143,
-          250
-        ],
-        "what_we_love": ""
-      },
-      {
-        "id": 64732,
-        "template_id": 2,
-        "title": "Southern Islands Tour PLUS Haidilao Hotpot Dinner ",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "95.00",
-        "sell_price": "95.00",
-        "from_price": "95.00",
-        "to_price": "95.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-12-09 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 42,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/dhvytqz7sqawcyvbxtvy.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.2709,103.863255",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 157,
-        "package_id": 0,
-        "tags": [
-          {
-            "key": "srv_eligible",
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/64732-southern-islands-tour-plus-haidilao-hotpot/",
-        "deep_link": "https://www.klook.com/en-US/activity/64732-southern-islands-tour-plus-haidilao-hotpot/",
-        "vertical_type": 100,
-        "vertical_id": 64732,
-        "custom_tags": null,
-        "tag_ids": [
-          25,
           250
         ],
         "what_we_love": ""
