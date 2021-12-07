@@ -1585,9 +1585,9 @@
         "score": 0,
         "currency": "SGD",
         "market_price": "84.00",
-        "sell_price": "84.35",
-        "from_price": "84.35",
-        "to_price": "142.50",
+        "sell_price": "70.00",
+        "from_price": "70.00",
+        "to_price": "114.00",
         "spec_price": {
           "type": 0,
           "desc": ""
@@ -1598,6 +1598,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "deals_discount": "17% OFF"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/xdsvkjzvcb0jvxqgdk7x.jpg",
         "icon": null,
@@ -1614,7 +1617,15 @@
         "real_lang": "",
         "leaf_category": 120,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "deals_discount",
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "17% OFF"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/65456-Singapore%20Adventure%20Pass/",
         "deep_link": "https://www.klook.com/en-US/activity/65456-Singapore%20Adventure%20Pass/",
@@ -2182,7 +2193,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-30 00:00:00",
+        "start_time": "2021-12-28 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 36,
@@ -3110,7 +3121,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-07 19:30:00",
+        "start_time": "2021-12-07 20:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3657,7 +3668,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1277,
+    "total": 1278,
     "price": {
       "from": "0",
       "to": "527"
