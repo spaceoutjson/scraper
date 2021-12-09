@@ -595,9 +595,9 @@
         "video_url": "",
         "score": 0,
         "currency": "SGD",
-        "market_price": "20.00",
-        "sell_price": "20.00",
-        "from_price": "20.00",
+        "market_price": "25.00",
+        "sell_price": "25.00",
+        "from_price": "25.00",
         "to_price": "135.00",
         "spec_price": {
           "type": 0,
@@ -3314,7 +3314,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-09 20:30:00",
+        "start_time": "2021-12-10 11:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
