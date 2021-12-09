@@ -942,7 +942,7 @@
         "video_url": "",
         "score": 0,
         "currency": "SGD",
-        "market_price": "85.00",
+        "market_price": "101.65",
         "sell_price": "85.00",
         "from_price": "85.00",
         "to_price": "85.00",
@@ -956,6 +956,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "deals_discount": "16% OFF"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/cbeo8qetkdamyszick8s.jpg",
         "icon": null,
@@ -972,7 +975,15 @@
         "real_lang": "",
         "leaf_category": 487,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "deals_discount",
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "16% OFF"
+          }
+        ],
         "need_hide_review": false,
         "deeplink": "https://www.klook.com/en-US/activity/66190-barcelona-restaurant-outram-park/",
         "deep_link": "https://www.klook.com/en-US/activity/66190-barcelona-restaurant-outram-park/",
@@ -2238,7 +2249,7 @@
         "start_time": "2021-12-20 10:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 257,
+        "participate": 273,
         "participants_format": "200+ Booked",
         "discount": 0,
         "review_total": 0,
@@ -3108,7 +3119,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-09 12:30:00",
+        "start_time": "2021-12-09 13:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3230,7 +3241,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-09 00:00:00",
+        "start_time": "2021-12-11 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 9,
