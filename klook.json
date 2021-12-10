@@ -566,7 +566,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-10 15:00:00",
+        "start_time": "2021-12-10 15:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1743,9 +1743,9 @@
         "score": 0,
         "currency": "SGD",
         "market_price": "21.00",
-        "sell_price": "21.00",
-        "from_price": "21.00",
-        "to_price": "21.00",
+        "sell_price": "17.00",
+        "from_price": "17.00",
+        "to_price": "17.00",
         "spec_price": {
           "type": 0,
           "desc": ""
@@ -1756,6 +1756,9 @@
         "participate": 26,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "deals_discount": "19% OFF"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/fhieq28naixfbxrjhyux.jpg",
         "icon": null,
@@ -1772,7 +1775,15 @@
         "real_lang": "",
         "leaf_category": 118,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "deals_discount",
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "19% OFF"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/66027-slurping-good-instant-noodle-playground-singapore/",
         "deep_link": "https://www.klook.com/en-US/activity/66027-slurping-good-instant-noodle-playground-singapore/",
@@ -2349,7 +2360,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-15 00:00:00",
+        "start_time": "2021-12-16 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 43,
@@ -3332,7 +3343,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-10 15:30:00",
+        "start_time": "2021-12-10 16:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
