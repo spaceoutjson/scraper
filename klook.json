@@ -572,7 +572,8 @@
       "2022-09-08T00:00:00Z",
       "2022-09-09T00:00:00Z",
       "2022-09-10T00:00:00Z",
-      "2022-09-11T00:00:00Z"
+      "2022-09-11T00:00:00Z",
+      "2022-09-12T00:00:00Z"
     ],
     "activities": [
       {
@@ -720,7 +721,7 @@
         "start_time": "2021-12-18 10:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 4,
+        "participate": 7,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -1140,8 +1141,8 @@
         "start_time": "2022-03-31 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 47,
-        "participants_format": "New Activity",
+        "participate": 52,
+        "participants_format": "50+ Booked",
         "discount": 0,
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
@@ -1462,7 +1463,7 @@
         "start_time": "2021-12-16 13:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 6,
+        "participate": 10,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1596,7 +1597,7 @@
         "start_time": "2021-12-18 17:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 8,
+        "participate": 10,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -1849,7 +1850,7 @@
         "start_time": "2021-12-13 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 36,
+        "participate": 48,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2098,7 +2099,7 @@
         "start_time": "2022-01-15 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 18,
+        "participate": 19,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -2217,7 +2218,7 @@
         "start_time": "2021-12-18 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 12,
+        "participate": 14,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -2459,8 +2460,8 @@
         "start_time": "2021-12-16 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 47,
-        "participants_format": "New Activity",
+        "participate": 50,
+        "participants_format": "50+ Booked",
         "discount": 0,
         "review_total": 1,
         "image_url_host": "https://res.klook.com/image/upload/activities/d2kts91beznffkw7nxqn.jpg",
@@ -2569,8 +2570,8 @@
         "start_time": "2021-12-20 10:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 488,
-        "participants_format": "400+ Booked",
+        "participate": 576,
+        "participants_format": "500+ Booked",
         "discount": 0,
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/edo60qimm7vc84prsngv.jpg",
@@ -3174,7 +3175,7 @@
         "start_time": "2021-12-18 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 23,
+        "participate": 29,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3564,7 +3565,7 @@
         "start_time": "2021-12-13 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 10,
+        "participate": 11,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -3606,7 +3607,7 @@
         "instance": 1,
         "image_url": "",
         "video_url": "",
-        "score": 0,
+        "score": 5,
         "currency": "SGD",
         "market_price": "65.00",
         "sell_price": "65.00",
@@ -3625,7 +3626,7 @@
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
         },
-        "review_total": 0,
+        "review_total": 1,
         "image_url_host": "https://res.klook.com/image/upload/activities/rdgw0qwtkw02rbiidpkb.jpg",
         "icon": null,
         "icons": null,
@@ -3650,7 +3651,7 @@
             "text": "Eligible for SingapoRediscovers Vouchers"
           }
         ],
-        "need_hide_review": true,
+        "need_hide_review": false,
         "deeplink": "https://www.klook.com/en-US/activity/65251-sea-aquarium-one-day-ticket-yoga-session-admission/",
         "deep_link": "https://www.klook.com/en-US/activity/65251-sea-aquarium-one-day-ticket-yoga-session-admission/",
         "vertical_type": 100,
@@ -3663,7 +3664,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1256,
+    "total": 1253,
     "price": {
       "from": "0",
       "to": "525"
