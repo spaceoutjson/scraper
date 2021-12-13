@@ -1916,6 +1916,73 @@
         "what_we_love": ""
       },
       {
+        "id": 65992,
+        "template_id": 1,
+        "title": "SkyHelix Sentosa Singapore",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "16.20",
+        "sell_price": "16.20",
+        "from_price": "16.20",
+        "to_price": "16.20",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-12-15 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/cht39nhyne6yuwklhw8r.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.255094,103.817597",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 521,
+        "package_id": 0,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/65992-skyhelix-sentosa-singapore-tickets/",
+        "deep_link": "https://www.klook.com/en-US/activity/65992-skyhelix-sentosa-singapore-tickets/",
+        "vertical_type": 100,
+        "vertical_id": 65992,
+        "custom_tags": null,
+        "tag_ids": [
+          250,
+          1272
+        ],
+        "what_we_love": ""
+      },
+      {
         "id": 66027,
         "template_id": 1,
         "title": "Slurping Good! Instant-Noodle Themed Experience Playground Singapore",
@@ -3529,7 +3596,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-13 16:30:00",
+        "start_time": "2021-12-13 17:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3629,64 +3696,9 @@
           250
         ],
         "what_we_love": ""
-      },
-      {
-        "id": 64722,
-        "template_id": 3,
-        "title": "[Klook Exclusive] Glamping@Bukit Timah Horsecity",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "330.00",
-        "sell_price": "330.00",
-        "from_price": "330.00",
-        "to_price": "330.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-12-14 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 11,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/hdehqooh1ywqygkoe8rf.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.333688,103.795858",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 368,
-        "package_id": 0,
-        "tags": null,
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/64722-glamping-bukit-timah-horsecity/",
-        "deep_link": "https://www.klook.com/en-US/activity/64722-glamping-bukit-timah-horsecity/",
-        "vertical_type": 100,
-        "vertical_id": 64722,
-        "custom_tags": null,
-        "tag_ids": [
-          29
-        ],
-        "what_we_love": ""
       }
     ],
-    "total": 1257,
+    "total": 1260,
     "price": {
       "from": "0",
       "to": "525"
@@ -3738,6 +3750,11 @@
           {
             "id": 38,
             "name": "Museums & Galleries",
+            "disable": false
+          },
+          {
+            "id": 1272,
+            "name": "ZA KLOOK FLEX",
             "disable": false
           }
         ]
