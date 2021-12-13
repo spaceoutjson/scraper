@@ -573,9 +573,98 @@
       "2022-09-09T00:00:00Z",
       "2022-09-10T00:00:00Z",
       "2022-09-11T00:00:00Z",
-      "2022-09-12T00:00:00Z"
+      "2022-09-12T00:00:00Z",
+      "2022-09-17T00:00:00Z",
+      "2022-09-18T00:00:00Z",
+      "2022-09-24T00:00:00Z",
+      "2022-09-25T00:00:00Z",
+      "2022-10-01T00:00:00Z",
+      "2022-10-02T00:00:00Z",
+      "2022-10-08T00:00:00Z",
+      "2022-10-09T00:00:00Z",
+      "2022-10-15T00:00:00Z",
+      "2022-10-16T00:00:00Z",
+      "2022-10-22T00:00:00Z",
+      "2022-10-23T00:00:00Z",
+      "2022-10-29T00:00:00Z",
+      "2022-10-30T00:00:00Z",
+      "2022-11-05T00:00:00Z",
+      "2022-11-06T00:00:00Z",
+      "2022-11-12T00:00:00Z",
+      "2022-11-13T00:00:00Z",
+      "2022-11-19T00:00:00Z",
+      "2022-11-20T00:00:00Z",
+      "2022-11-26T00:00:00Z",
+      "2022-11-27T00:00:00Z"
     ],
     "activities": [
+      {
+        "id": 66388,
+        "template_id": 3,
+        "title": "Island Yacht Tour (Keppel)",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "130.00",
+        "sell_price": "130.00",
+        "from_price": "130.00",
+        "to_price": "130.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-12-22 16:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/fvhhl8gdrj4ykh1xnnox.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.264005,103.812434",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 509,
+        "package_id": 0,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/66388-island-yacht-tour-keppel/",
+        "deep_link": "https://www.klook.com/en-US/activity/66388-island-yacht-tour-keppel/",
+        "vertical_type": 100,
+        "vertical_id": 66388,
+        "custom_tags": null,
+        "tag_ids": [
+          53,
+          250
+        ],
+        "what_we_love": ""
+      },
       {
         "id": 66217,
         "template_id": 2,
@@ -3440,7 +3529,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-13 12:30:00",
+        "start_time": "2021-12-13 13:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3562,7 +3651,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-13 00:00:00",
+        "start_time": "2021-12-14 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 11,
@@ -3595,76 +3684,9 @@
           29
         ],
         "what_we_love": ""
-      },
-      {
-        "id": 65251,
-        "template_id": 1,
-        "title": "S.E.A. Aquarium™️ One-Day Ticket with Yoga Session [Holiday Edition]",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 5,
-        "currency": "SGD",
-        "market_price": "65.00",
-        "sell_price": "65.00",
-        "from_price": "65.00",
-        "to_price": "155.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-12-18 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 59,
-        "participants_format": "50+ Booked",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 1,
-        "image_url_host": "https://res.klook.com/image/upload/activities/rdgw0qwtkw02rbiidpkb.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.258214,103.820618",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 108,
-        "package_id": 0,
-        "tags": [
-          {
-            "key": "srv_eligible",
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": false,
-        "deeplink": "https://www.klook.com/en-US/activity/65251-sea-aquarium-one-day-ticket-yoga-session-admission/",
-        "deep_link": "https://www.klook.com/en-US/activity/65251-sea-aquarium-one-day-ticket-yoga-session-admission/",
-        "vertical_type": 100,
-        "vertical_id": 65251,
-        "custom_tags": null,
-        "tag_ids": [
-          139,
-          250
-        ],
-        "what_we_love": ""
       }
     ],
-    "total": 1254,
+    "total": 1256,
     "price": {
       "from": "0",
       "to": "525"
