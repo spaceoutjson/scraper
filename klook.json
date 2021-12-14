@@ -626,7 +626,8 @@
         "vertical_id": 66231,
         "custom_tags": null,
         "tag_ids": [
-          72
+          72,
+          250
         ],
         "what_we_love": ""
       },
@@ -2692,16 +2693,16 @@
         "video_url": "",
         "score": 0,
         "currency": "SGD",
-        "market_price": "299.60",
-        "sell_price": "299.60",
-        "from_price": "299.60",
-        "to_price": "299.60",
+        "market_price": "",
+        "sell_price": "",
+        "from_price": "",
+        "to_price": "",
         "spec_price": {
           "type": 0,
           "desc": ""
         },
         "start_time": "2021-12-29 00:00:00",
-        "sold_out": false,
+        "sold_out": true,
         "published": true,
         "participate": 55,
         "participants_format": "50+ Booked",
@@ -3628,7 +3629,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-14 11:00:00",
+        "start_time": "2021-12-14 12:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
