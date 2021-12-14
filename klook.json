@@ -299,7 +299,6 @@
       }
     ],
     "start_time": [
-      "2021-12-14T00:00:00Z",
       "2021-12-15T00:00:00Z",
       "2021-12-16T00:00:00Z",
       "2021-12-17T00:00:00Z",
@@ -572,7 +571,8 @@
       "2022-09-10T00:00:00Z",
       "2022-09-11T00:00:00Z",
       "2022-09-12T00:00:00Z",
-      "2022-09-13T00:00:00Z"
+      "2022-09-13T00:00:00Z",
+      "2022-09-14T00:00:00Z"
     ],
     "activities": [
       {
@@ -843,7 +843,7 @@
         "start_time": "2021-12-16 16:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 1,
+        "participate": 3,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -964,7 +964,7 @@
         "start_time": "2021-12-18 10:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 8,
+        "participate": 13,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -1086,7 +1086,7 @@
         "start_time": "2021-12-20 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 5,
+        "participate": 9,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1384,8 +1384,8 @@
         "start_time": "2022-03-31 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 80,
-        "participants_format": "50+ Booked",
+        "participate": 111,
+        "participants_format": "100+ Booked",
         "discount": 0,
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
@@ -1451,7 +1451,7 @@
         "start_time": "2021-12-16 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 79,
+        "participate": 80,
         "participants_format": "50+ Booked",
         "discount": 0,
         "review_total": 0,
@@ -2093,8 +2093,8 @@
         "start_time": "2021-12-15 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 9,
-        "participants_format": "New Activity",
+        "participate": 268,
+        "participants_format": "200+ Booked",
         "discount": 0,
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
@@ -2160,7 +2160,7 @@
         "start_time": "2021-12-15 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 52,
+        "participate": 53,
         "participants_format": "50+ Booked",
         "discount": 0,
         "card_tags": {
@@ -2290,7 +2290,7 @@
         "start_time": "2021-12-16 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 39,
+        "participate": 49,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2356,8 +2356,8 @@
         "start_time": "2022-03-15 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 40,
-        "participants_format": "New Activity",
+        "participate": 51,
+        "participants_format": "50+ Booked",
         "discount": 0,
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/n7ntosr3pzwxovkyjr3r.jpg",
@@ -2409,7 +2409,7 @@
         "start_time": "2022-01-22 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 19,
+        "participate": 23,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -2462,7 +2462,7 @@
         "start_time": "2021-12-17 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 4,
+        "participate": 7,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2770,7 +2770,7 @@
         "start_time": "2021-12-21 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 50,
+        "participate": 51,
         "participants_format": "50+ Booked",
         "discount": 0,
         "review_total": 3,
@@ -2802,61 +2802,6 @@
         "what_we_love": ""
       },
       {
-        "id": 65852,
-        "template_id": 1,
-        "title": "Night Safari - Evening in the Wild: Christmas Jamboree",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "",
-        "sell_price": "",
-        "from_price": "",
-        "to_price": "",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-12-29 00:00:00",
-        "sold_out": true,
-        "published": true,
-        "participate": 55,
-        "participants_format": "50+ Booked",
-        "discount": 0,
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/whbsujyhpj207ivg2jn4.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.4034,103.78717",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 109,
-        "package_id": 0,
-        "tags": null,
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/65852-night-safari-evening-wild-christmas-jamboree-admission/",
-        "deep_link": "https://www.klook.com/en-US/activity/65852-night-safari-evening-wild-christmas-jamboree-admission/",
-        "vertical_type": 100,
-        "vertical_id": 65852,
-        "custom_tags": null,
-        "tag_ids": [
-          33
-        ],
-        "what_we_love": ""
-      },
-      {
         "id": 65810,
         "template_id": 1,
         "title": "Jumptopia: Wonder Garden @ Gardens by the Bay [Klook Exclusive] ",
@@ -2880,7 +2825,7 @@
         "start_time": "2021-12-18 10:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 719,
+        "participate": 751,
         "participants_format": "700+ Booked",
         "discount": 0,
         "card_tags": {
@@ -3630,7 +3575,7 @@
         "start_time": "2021-12-17 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 11,
+        "participate": 18,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3672,9 +3617,76 @@
           250
         ],
         "what_we_love": ""
+      },
+      {
+        "id": 65091,
+        "template_id": 2,
+        "title": "Singapore Gardens by the Bay Tour with Haidilao Lunch & BirdNest",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "99.00",
+        "sell_price": "99.00",
+        "from_price": "99.00",
+        "to_price": "99.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-12-16 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 6,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/m1oqmeph0gu2w19dlp3o.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.281339,103.858956",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 150,
+        "package_id": 0,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/65091-singapore-gardens-bay-tour-haidilao-lunch-birdnest/",
+        "deep_link": "https://www.klook.com/en-US/activity/65091-singapore-gardens-bay-tour-haidilao-lunch-birdnest/",
+        "vertical_type": 100,
+        "vertical_id": 65091,
+        "custom_tags": null,
+        "tag_ids": [
+          25,
+          250
+        ],
+        "what_we_love": ""
       }
     ],
-    "total": 1259,
+    "total": 1256,
     "price": {
       "from": "0",
       "to": "527"
