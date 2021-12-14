@@ -840,7 +840,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-14 00:00:00",
+        "start_time": "2021-12-25 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 1,
@@ -906,7 +906,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-14 17:30:00",
+        "start_time": "2021-12-14 18:30:00",
         "sold_out": false,
         "published": true,
         "participate": 2,
@@ -2880,9 +2880,12 @@
         "start_time": "2021-12-18 10:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 705,
+        "participate": 714,
         "participants_format": "700+ Booked",
         "discount": 0,
+        "card_tags": {
+          "deals_discount": "18% OFF"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/edo60qimm7vc84prsngv.jpg",
         "icon": null,
@@ -2899,7 +2902,15 @@
         "real_lang": "",
         "leaf_category": 423,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "deals_discount",
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "18% OFF"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/65810-jumptopia-kiztopia-admission-gardens-by-the-bay/",
         "deep_link": "https://www.klook.com/en-US/activity/65810-jumptopia-kiztopia-admission-gardens-by-the-bay/",
@@ -3663,7 +3674,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1261,
+    "total": 1258,
     "price": {
       "from": "0",
       "to": "526"
