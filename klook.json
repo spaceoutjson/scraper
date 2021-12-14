@@ -576,6 +576,61 @@
     ],
     "activities": [
       {
+        "id": 66447,
+        "template_id": 1,
+        "title": "Sentosa Choice Pass",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "29.00",
+        "sell_price": "29.00",
+        "from_price": "29.00",
+        "to_price": "49.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-12-14 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/bq273sft4odz5axsqjhh.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.253879,103.817039",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 120,
+        "package_id": 0,
+        "tags": null,
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/66447-sentosa-choice-pass/",
+        "deep_link": "https://www.klook.com/en-US/activity/66447-sentosa-choice-pass/",
+        "vertical_type": 100,
+        "vertical_id": 66447,
+        "custom_tags": null,
+        "tag_ids": [
+          35
+        ],
+        "what_we_love": ""
+      },
+      {
         "id": 66424,
         "template_id": 3,
         "title": "Emotional Wisdom with Bach Flower Remedies",
@@ -851,7 +906,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-14 15:30:00",
+        "start_time": "2021-12-14 16:30:00",
         "sold_out": false,
         "published": true,
         "participate": 2,
@@ -3606,76 +3661,9 @@
           250
         ],
         "what_we_love": ""
-      },
-      {
-        "id": 65091,
-        "template_id": 2,
-        "title": "Singapore Gardens by the Bay Tour with Haidilao Lunch & BirdNest",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "99.00",
-        "sell_price": "99.00",
-        "from_price": "99.00",
-        "to_price": "99.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-12-15 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 4,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/m1oqmeph0gu2w19dlp3o.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.281339,103.858956",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 150,
-        "package_id": 0,
-        "tags": [
-          {
-            "key": "srv_eligible",
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/65091-singapore-gardens-bay-tour-haidilao-lunch-birdnest/",
-        "deep_link": "https://www.klook.com/en-US/activity/65091-singapore-gardens-bay-tour-haidilao-lunch-birdnest/",
-        "vertical_type": 100,
-        "vertical_id": 65091,
-        "custom_tags": null,
-        "tag_ids": [
-          25,
-          250
-        ],
-        "what_we_love": ""
       }
     ],
-    "total": 1260,
+    "total": 1261,
     "price": {
       "from": "0",
       "to": "526"
