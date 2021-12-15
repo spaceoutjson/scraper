@@ -598,6 +598,61 @@
     ],
     "activities": [
       {
+        "id": 66536,
+        "template_id": 4,
+        "title": "Royale at Mercure Singapore on Bugis",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "115.35",
+        "sell_price": "115.35",
+        "from_price": "115.35",
+        "to_price": "115.35",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-12-24 18:30:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/rteaio1koep32bj7cuat.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.299684,103.853114",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 236,
+        "package_id": 0,
+        "tags": null,
+        "need_hide_review": false,
+        "deeplink": "https://www.klook.com/en-US/activity/66536-royale-mercure-singapore-on-bugis/",
+        "deep_link": "https://www.klook.com/en-US/activity/66536-royale-mercure-singapore-on-bugis/",
+        "vertical_type": 106,
+        "vertical_id": 66536,
+        "custom_tags": null,
+        "tag_ids": [
+          186
+        ],
+        "what_we_love": ""
+      },
+      {
         "id": 66544,
         "template_id": 2,
         "title": "Singapore S.E.A. Aquarium and Sentosa Beach Guided Tour",
@@ -624,6 +679,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/kcjg12o5txvgfsnadcaf.jpg",
         "icon": null,
@@ -640,7 +698,15 @@
         "real_lang": "",
         "leaf_category": 150,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/66544-4-hour-singapore-sea-aquarium-sentosa-beach-guided-private-walking-tour-singapore/",
         "deep_link": "https://www.klook.com/en-US/activity/66544-4-hour-singapore-sea-aquarium-sentosa-beach-guided-private-walking-tour-singapore/",
@@ -679,6 +745,9 @@
         "participate": 0,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/c3c1jfk007puug5rluye.jpg",
         "icon": null,
@@ -695,14 +764,24 @@
         "real_lang": "",
         "leaf_category": 153,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/66491-2-hour-duvee-mazing-chase-christmas-edition-join-bus-tour-singapore/",
         "deep_link": "https://www.klook.com/en-US/activity/66491-2-hour-duvee-mazing-chase-christmas-edition-join-bus-tour-singapore/",
         "vertical_type": 100,
         "vertical_id": 66491,
         "custom_tags": null,
-        "tag_ids": [],
+        "tag_ids": [
+          250
+        ],
         "what_we_love": ""
       },
       {
@@ -1146,7 +1225,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-15 16:30:00",
+        "start_time": "2021-12-15 17:30:00",
         "sold_out": false,
         "published": true,
         "participate": 2,
@@ -3603,62 +3682,9 @@
         "custom_tags": null,
         "tag_ids": [],
         "what_we_love": ""
-      },
-      {
-        "id": 65311,
-        "template_id": 3,
-        "title": "Baby Shower Workshop",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "275.00",
-        "sell_price": "275.00",
-        "from_price": "275.00",
-        "to_price": "275.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-12-17 13:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/bx1c428vr1vsh9wj3fyn.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.4346,103.784711",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 124,
-        "package_id": 0,
-        "tags": null,
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/65311-singapore-baby-shower-workshop-revive-now/",
-        "deep_link": "https://www.klook.com/en-US/activity/65311-singapore-baby-shower-workshop-revive-now/",
-        "vertical_type": 100,
-        "vertical_id": 65311,
-        "custom_tags": null,
-        "tag_ids": [],
-        "what_we_love": ""
       }
     ],
-    "total": 1260,
+    "total": 1261,
     "price": {
       "from": "0",
       "to": "527"
