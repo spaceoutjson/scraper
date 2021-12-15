@@ -820,72 +820,6 @@
         "what_we_love": ""
       },
       {
-        "id": 66217,
-        "template_id": 2,
-        "title": "The Kings and the Curse of Forbidden Hill Tour",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 0,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "150.00",
-        "sell_price": "100.00",
-        "from_price": "100.00",
-        "to_price": "100.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-12-16 16:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 3,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/i3gpbn9k2rujaknsyq4h.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.290365,103.844893",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 150,
-        "package_id": 0,
-        "tags": [
-          {
-            "key": "srv_eligible",
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/66217-3-hour-kings-curse-forbidden-hill-walking-tour-singapore/",
-        "deep_link": "https://www.klook.com/en-US/activity/66217-3-hour-kings-curse-forbidden-hill-walking-tour-singapore/",
-        "vertical_type": 100,
-        "vertical_id": 66217,
-        "custom_tags": null,
-        "tag_ids": [
-          250
-        ],
-        "what_we_love": ""
-      },
-      {
         "id": 66283,
         "template_id": 1,
         "title": "[Klook Exclusive] Legion of Racers - Race Box at Mandarin Gallery",
@@ -2406,7 +2340,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-22 00:00:00",
+        "start_time": "2022-01-29 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 23,
@@ -3684,9 +3618,64 @@
           250
         ],
         "what_we_love": ""
+      },
+      {
+        "id": 65277,
+        "template_id": 4,
+        "title": "Sky22 at Courtyard by Marriott Singapore Novena",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "25.00",
+        "sell_price": "25.00",
+        "from_price": "25.00",
+        "to_price": "168.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-12-15 12:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/nc3gv566ufagbksta3rd.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.320606,103.843238",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 236,
+        "package_id": 0,
+        "tags": null,
+        "need_hide_review": false,
+        "deeplink": "https://www.klook.com/en-US/activity/65277-sky22-courtyard-marriott-singapore-novena/",
+        "deep_link": "https://www.klook.com/en-US/activity/65277-sky22-courtyard-marriott-singapore-novena/",
+        "vertical_type": 106,
+        "vertical_id": 65277,
+        "custom_tags": null,
+        "tag_ids": [
+          187
+        ],
+        "what_we_love": ""
       }
     ],
-    "total": 1256,
+    "total": 1255,
     "price": {
       "from": "0",
       "to": "527"
