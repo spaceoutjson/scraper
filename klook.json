@@ -577,61 +577,6 @@
     ],
     "activities": [
       {
-        "id": 65690,
-        "template_id": 3,
-        "title": "[Klook Exclusive] Jet Ski Experience by Sea Doo Singapore",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 0,
-        "image_url": "",
-        "video_url": "https://res.klook.com/video/upload/fl_lossy.progressive,q_85,f_auto/c_fill,,/c_scale,h_540,vc_auto/c_scale,g_north_west,h_20,l_whitelogo_hz5dq1,o_30,x_70,y_480/c_scale,f_mp4,fl_splice,h_540,l_video:ending_trgtvv/v1637204094/activities/xnc2i31c1jpsfbssxzhp.mp4",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "98.00",
-        "sell_price": "98.00",
-        "from_price": "98.00",
-        "to_price": "188.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-12-17 08:30:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/kx6oqxayg7idkrxwzfdi.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.245558,103.839889",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 503,
-        "package_id": 0,
-        "tags": null,
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/65690-sea-doo-singapore-jet-ski-experience/",
-        "deep_link": "https://www.klook.com/en-US/activity/65690-sea-doo-singapore-jet-ski-experience/",
-        "vertical_type": 100,
-        "vertical_id": 65690,
-        "custom_tags": null,
-        "tag_ids": [
-          18
-        ],
-        "what_we_love": ""
-      },
-      {
         "id": 65973,
         "template_id": 3,
         "title": "Fort Canning Park Tour with River Cruise and Seafood Dinner ",
@@ -1283,7 +1228,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-16 15:00:00",
+        "start_time": "2021-12-16 15:30:00",
         "sold_out": false,
         "published": true,
         "participate": 2,
@@ -3687,9 +3632,62 @@
         "custom_tags": null,
         "tag_ids": [],
         "what_we_love": ""
+      },
+      {
+        "id": 65311,
+        "template_id": 3,
+        "title": "Baby Shower Workshop",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "275.00",
+        "sell_price": "275.00",
+        "from_price": "275.00",
+        "to_price": "275.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-12-19 13:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/bx1c428vr1vsh9wj3fyn.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.4346,103.784711",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 124,
+        "package_id": 0,
+        "tags": null,
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/65311-singapore-baby-shower-workshop-revive-now/",
+        "deep_link": "https://www.klook.com/en-US/activity/65311-singapore-baby-shower-workshop-revive-now/",
+        "vertical_type": 100,
+        "vertical_id": 65311,
+        "custom_tags": null,
+        "tag_ids": [],
+        "what_we_love": ""
       }
     ],
-    "total": 1251,
+    "total": 1249,
     "price": {
       "from": "0",
       "to": "527"
@@ -4067,20 +4065,6 @@
           {
             "id": 174,
             "name": "Staycation",
-            "disable": false
-          }
-        ]
-      },
-      {
-        "template": {
-          "id": 20,
-          "name": "Insurance",
-          "disable": false
-        },
-        "tags": [
-          {
-            "id": 189,
-            "name": "Travel Insurance",
             "disable": false
           }
         ]
