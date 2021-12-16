@@ -299,7 +299,6 @@
       }
     ],
     "start_time": [
-      "2021-12-15T00:00:00Z",
       "2021-12-16T00:00:00Z",
       "2021-12-17T00:00:00Z",
       "2021-12-18T00:00:00Z",
@@ -573,7 +572,8 @@
       "2022-09-12T00:00:00Z",
       "2022-09-13T00:00:00Z",
       "2022-09-14T00:00:00Z",
-      "2022-09-15T00:00:00Z"
+      "2022-09-15T00:00:00Z",
+      "2022-09-16T00:00:00Z"
     ],
     "activities": [
       {
@@ -909,7 +909,7 @@
         "start_time": "2021-12-17 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 3,
+        "participate": 10,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1286,7 +1286,7 @@
         "start_time": "2021-12-18 10:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 19,
+        "participate": 23,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -1706,7 +1706,7 @@
         "start_time": "2022-03-31 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 131,
+        "participate": 134,
         "participants_format": "100+ Booked",
         "discount": 0,
         "card_tags": {
@@ -1760,7 +1760,7 @@
         "instance": 1,
         "image_url": "",
         "video_url": "https://res.klook.com/video/upload/fl_lossy.progressive,q_85,f_auto/c_fill,,/c_scale,h_540,vc_auto/c_scale,g_north_west,h_20,l_whitelogo_hz5dq1,o_30,x_70,y_480/c_scale,f_mp4,fl_splice,h_540,l_video:ending_trgtvv/v1638279081/activities/irmxeuxurq0ks9bbb301.mp4",
-        "score": 0,
+        "score": 5,
         "currency": "SGD",
         "market_price": "3.00",
         "sell_price": "3.00",
@@ -1776,7 +1776,7 @@
         "participate": 80,
         "participants_format": "50+ Booked",
         "discount": 0,
-        "review_total": 0,
+        "review_total": 1,
         "image_url_host": "https://res.klook.com/image/upload/activities/a0i1qsr8kdc4ysw8f4lx.jpg",
         "icon": null,
         "icons": null,
@@ -1793,7 +1793,7 @@
         "leaf_category": 472,
         "package_id": 0,
         "tags": null,
-        "need_hide_review": true,
+        "need_hide_review": false,
         "deeplink": "https://www.klook.com/en-US/activity/65399-comic-con-2021/",
         "deep_link": "https://www.klook.com/en-US/activity/65399-comic-con-2021/",
         "vertical_type": 100,
@@ -2415,8 +2415,8 @@
         "start_time": "2021-12-17 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 442,
-        "participants_format": "400+ Booked",
+        "participate": 859,
+        "participants_format": "800+ Booked",
         "discount": 0,
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
@@ -2469,7 +2469,7 @@
         "instance": 1,
         "image_url": "",
         "video_url": "",
-        "score": 0,
+        "score": 5,
         "currency": "SGD",
         "market_price": "21.00",
         "sell_price": "17.00",
@@ -2482,13 +2482,13 @@
         "start_time": "2021-12-17 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 62,
+        "participate": 69,
         "participants_format": "50+ Booked",
         "discount": 0,
         "card_tags": {
           "deals_discount": "19% OFF"
         },
-        "review_total": 0,
+        "review_total": 1,
         "image_url_host": "https://res.klook.com/image/upload/activities/fhieq28naixfbxrjhyux.jpg",
         "icon": null,
         "icons": null,
@@ -2513,7 +2513,7 @@
             "text": "19% OFF"
           }
         ],
-        "need_hide_review": true,
+        "need_hide_review": false,
         "deeplink": "https://www.klook.com/en-US/activity/66027-slurping-good-instant-noodle-playground-singapore/",
         "deep_link": "https://www.klook.com/en-US/activity/66027-slurping-good-instant-noodle-playground-singapore/",
         "vertical_type": 100,
@@ -2612,7 +2612,7 @@
         "start_time": "2021-12-18 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 51,
+        "participate": 54,
         "participants_format": "50+ Booked",
         "discount": 0,
         "card_tags": {
@@ -2678,7 +2678,7 @@
         "start_time": "2022-01-29 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 26,
+        "participate": 27,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -2731,7 +2731,7 @@
         "start_time": "2021-12-18 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 7,
+        "participate": 8,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3094,8 +3094,8 @@
         "start_time": "2021-12-18 12:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 932,
-        "participants_format": "900+ Booked",
+        "participate": 1769,
+        "participants_format": "1K+ Booked",
         "discount": 0,
         "card_tags": {
           "deals_discount": "18% OFF"
@@ -3687,7 +3687,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1249,
+    "total": 1238,
     "price": {
       "from": "0",
       "to": "525"
