@@ -718,7 +718,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-21 00:00:00",
+        "start_time": "2021-12-22 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1349,7 +1349,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-19 18:30:00",
+        "start_time": "2021-12-19 19:30:00",
         "sold_out": false,
         "published": true,
         "participate": 2,
@@ -2482,16 +2482,16 @@
         "video_url": "",
         "score": 5,
         "currency": "SGD",
-        "market_price": "21.00",
-        "sell_price": "17.00",
-        "from_price": "17.00",
-        "to_price": "17.00",
+        "market_price": "",
+        "sell_price": "",
+        "from_price": "",
+        "to_price": "",
         "spec_price": {
           "type": 0,
           "desc": ""
         },
         "start_time": "2021-12-19 00:00:00",
-        "sold_out": false,
+        "sold_out": true,
         "published": true,
         "participate": 96,
         "participants_format": "50+ Booked",
@@ -3102,7 +3102,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-19 18:00:00",
+        "start_time": "2021-12-20 12:00:00",
         "sold_out": false,
         "published": true,
         "participate": 2485,
