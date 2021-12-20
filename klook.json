@@ -578,6 +578,72 @@
     ],
     "activities": [
       {
+        "id": 66311,
+        "template_id": 1,
+        "title": "Cathay Cineplexes Singapore Christmas Gift Box ",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "28.00",
+        "sell_price": "25.00",
+        "from_price": "25.00",
+        "to_price": "25.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-12-21 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "deals_discount": "11% OFF"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/jeryyprhxazqxifizgsu.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.299509,103.847778",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 475,
+        "package_id": 0,
+        "tags": [
+          {
+            "key": "deals_discount",
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "11% OFF"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/66311-cathay-cineplexes-singapore-christmas-gift-box/",
+        "deep_link": "https://www.klook.com/en-US/activity/66311-cathay-cineplexes-singapore-christmas-gift-box/",
+        "vertical_type": 100,
+        "vertical_id": 66311,
+        "custom_tags": null,
+        "tag_ids": [
+          9
+        ],
+        "what_we_love": ""
+      },
+      {
         "id": 66396,
         "template_id": 3,
         "title": "Natureland Massage & Therapy",
@@ -2745,7 +2811,7 @@
         "start_time": "2021-12-25 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 19,
+        "participate": 21,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -3042,7 +3108,7 @@
         "start_time": "2021-12-20 18:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 3103,
+        "participate": 3491,
         "participants_format": "3K+ Booked",
         "discount": 0,
         "card_tags": {
@@ -3641,76 +3707,9 @@
         "custom_tags": null,
         "tag_ids": [],
         "what_we_love": ""
-      },
-      {
-        "id": 65367,
-        "template_id": 2,
-        "title": "Singapore Kelong 1 Day Tour with Deluxe Seafood Brunch",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "99.00",
-        "sell_price": "99.00",
-        "from_price": "99.00",
-        "to_price": "99.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-12-25 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 32,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/ecaexq1adaeeusnj4s3z.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.391216,103.987775",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 150,
-        "package_id": 0,
-        "tags": [
-          {
-            "key": "srv_eligible",
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/65367-singapore-kelong-one-day-tour-deluxe-seafood-brunch/",
-        "deep_link": "https://www.klook.com/en-US/activity/65367-singapore-kelong-one-day-tour-deluxe-seafood-brunch/",
-        "vertical_type": 100,
-        "vertical_id": 65367,
-        "custom_tags": null,
-        "tag_ids": [
-          20,
-          250
-        ],
-        "what_we_love": ""
       }
     ],
-    "total": 1214,
+    "total": 1215,
     "price": {
       "from": "0",
       "to": "526"
