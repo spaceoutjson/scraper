@@ -574,7 +574,8 @@
       "2022-09-16T00:00:00Z",
       "2022-09-17T00:00:00Z",
       "2022-09-18T00:00:00Z",
-      "2022-09-19T00:00:00Z"
+      "2022-09-19T00:00:00Z",
+      "2022-09-20T00:00:00Z"
     ],
     "activities": [
       {
@@ -976,7 +977,7 @@
         "start_time": "2021-12-26 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 2,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1042,7 +1043,7 @@
         "start_time": "2021-12-24 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 21,
+        "participate": 23,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -1097,7 +1098,7 @@
         "start_time": "2021-12-21 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 59,
+        "participate": 76,
         "participants_format": "50+ Booked",
         "discount": 0,
         "card_tags": {
@@ -1839,7 +1840,7 @@
         "start_time": "2022-03-31 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 161,
+        "participate": 173,
         "participants_format": "100+ Booked",
         "discount": 0,
         "card_tags": {
@@ -1893,7 +1894,7 @@
         "instance": 1,
         "image_url": "",
         "video_url": "https://res.klook.com/video/upload/fl_lossy.progressive,q_85,f_auto/c_fill,,/c_scale,h_540,vc_auto/c_scale,g_north_west,h_20,l_whitelogo_hz5dq1,o_30,x_70,y_480/c_scale,f_mp4,fl_splice,h_540,l_video:ending_trgtvv/v1638279081/activities/irmxeuxurq0ks9bbb301.mp4",
-        "score": 5,
+        "score": 4,
         "currency": "SGD",
         "market_price": "3.00",
         "sell_price": "3.00",
@@ -1906,10 +1907,10 @@
         "start_time": "2021-12-22 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 98,
-        "participants_format": "50+ Booked",
+        "participate": 100,
+        "participants_format": "100+ Booked",
         "discount": 0,
-        "review_total": 1,
+        "review_total": 2,
         "image_url_host": "https://res.klook.com/image/upload/activities/a0i1qsr8kdc4ysw8f4lx.jpg",
         "icon": null,
         "icons": null,
@@ -2161,7 +2162,7 @@
         "start_time": "2021-12-23 13:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 17,
+        "participate": 20,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2480,7 +2481,7 @@
         "instance": 1,
         "image_url": "",
         "video_url": "",
-        "score": 4.5,
+        "score": 4.2,
         "currency": "SGD",
         "market_price": "16.20",
         "sell_price": "16.20",
@@ -2493,13 +2494,13 @@
         "start_time": "2021-12-21 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 2219,
+        "participate": 2650,
         "participants_format": "2K+ Booked",
         "discount": 0,
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
         },
-        "review_total": 2,
+        "review_total": 4,
         "image_url_host": "https://res.klook.com/image/upload/activities/cht39nhyne6yuwklhw8r.jpg",
         "icon": null,
         "icons": null,
@@ -2626,7 +2627,7 @@
         "start_time": "2021-12-22 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 68,
+        "participate": 78,
         "participants_format": "50+ Booked",
         "discount": 0,
         "card_tags": {
@@ -2692,7 +2693,7 @@
         "start_time": "2022-02-26 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 33,
+        "participate": 34,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -3053,7 +3054,7 @@
         "start_time": "2021-12-28 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 54,
+        "participate": 55,
         "participants_format": "50+ Booked",
         "discount": 0,
         "review_total": 3,
@@ -3108,14 +3109,14 @@
         "start_time": "2021-12-21 12:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 3491,
+        "participate": 3872,
         "participants_format": "3K+ Booked",
         "discount": 0,
         "card_tags": {
           "bestseller": "Bestseller",
           "deals_discount": "18% OFF"
         },
-        "review_total": 1,
+        "review_total": 3,
         "image_url_host": "https://res.klook.com/image/upload/activities/edo60qimm7vc84prsngv.jpg",
         "icon": null,
         "icons": null,
@@ -3133,18 +3134,18 @@
         "package_id": 0,
         "tags": [
           {
-            "key": "deals_discount",
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "18% OFF"
-          },
-          {
             "key": "bestseller",
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
             "text": "Bestseller"
+          },
+          {
+            "key": "deals_discount",
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "18% OFF"
           }
         ],
         "need_hide_review": false,
@@ -3182,7 +3183,7 @@
         "start_time": "2021-12-30 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 10,
+        "participate": 11,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3615,7 +3616,7 @@
         "start_time": "2021-12-21 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 4,
+        "participate": 6,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3709,7 +3710,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1212,
+    "total": 1204,
     "price": {
       "from": "0",
       "to": "526"
