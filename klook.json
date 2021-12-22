@@ -301,8 +301,6 @@
     "start_time": [
       "2021-12-18T00:00:00Z",
       "2021-12-19T00:00:00Z",
-      "2021-12-21T00:00:00Z",
-      "2021-12-22T00:00:00Z",
       "2021-12-23T00:00:00Z",
       "2021-12-24T00:00:00Z",
       "2021-12-25T00:00:00Z",
@@ -575,7 +573,8 @@
       "2022-09-18T00:00:00Z",
       "2022-09-19T00:00:00Z",
       "2022-09-20T00:00:00Z",
-      "2022-09-21T00:00:00Z"
+      "2022-09-21T00:00:00Z",
+      "2022-09-22T00:00:00Z"
     ],
     "activities": [
       {
@@ -602,7 +601,7 @@
         "start_time": "2021-12-24 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 2,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -868,7 +867,7 @@
         "start_time": "2021-12-24 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 1,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1364,8 +1363,8 @@
         "start_time": "2021-12-23 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 88,
-        "participants_format": "50+ Booked",
+        "participate": 106,
+        "participants_format": "100+ Booked",
         "discount": 0,
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
@@ -2106,8 +2105,8 @@
         "start_time": "2022-03-31 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 189,
-        "participants_format": "100+ Booked",
+        "participate": 200,
+        "participants_format": "200+ Booked",
         "discount": 0,
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
@@ -2173,7 +2172,7 @@
         "start_time": "2021-12-24 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 102,
+        "participate": 103,
         "participants_format": "100+ Booked",
         "discount": 0,
         "review_total": 2,
@@ -2428,7 +2427,7 @@
         "start_time": "2021-12-24 13:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 20,
+        "participate": 23,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2760,7 +2759,7 @@
         "start_time": "2021-12-23 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 3053,
+        "participate": 3464,
         "participants_format": "3K+ Booked",
         "discount": 0,
         "card_tags": {
@@ -2814,7 +2813,7 @@
         "instance": 1,
         "image_url": "",
         "video_url": "",
-        "score": 5,
+        "score": 4.2,
         "currency": "SGD",
         "market_price": "21.00",
         "sell_price": "17.00",
@@ -2827,13 +2826,13 @@
         "start_time": "2021-12-23 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 100,
+        "participate": 104,
         "participants_format": "100+ Booked",
         "discount": 0,
         "card_tags": {
           "deals_discount": "19% OFF"
         },
-        "review_total": 2,
+        "review_total": 4,
         "image_url_host": "https://res.klook.com/image/upload/activities/fhieq28naixfbxrjhyux.jpg",
         "icon": null,
         "icons": null,
@@ -2957,7 +2956,7 @@
         "start_time": "2021-12-24 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 88,
+        "participate": 93,
         "participants_format": "50+ Booked",
         "discount": 0,
         "card_tags": {
@@ -3076,7 +3075,7 @@
         "start_time": "2021-12-24 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 10,
+        "participate": 11,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3318,7 +3317,7 @@
         "start_time": "2021-12-25 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 1,
+        "participate": 2,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3426,7 +3425,7 @@
         "instance": 1,
         "image_url": "",
         "video_url": "",
-        "score": 5,
+        "score": 4.9,
         "currency": "SGD",
         "market_price": "18.00",
         "sell_price": "14.75",
@@ -3439,14 +3438,14 @@
         "start_time": "2021-12-23 12:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 4802,
-        "participants_format": "4K+ Booked",
+        "participate": 5299,
+        "participants_format": "5K+ Booked",
         "discount": 0,
         "card_tags": {
           "bestseller": "Bestseller",
           "deals_discount": "18% OFF"
         },
-        "review_total": 5,
+        "review_total": 8,
         "image_url_host": "https://res.klook.com/image/upload/activities/edo60qimm7vc84prsngv.jpg",
         "icon": null,
         "icons": null,
@@ -3464,18 +3463,18 @@
         "package_id": 0,
         "tags": [
           {
-            "key": "deals_discount",
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "18% OFF"
-          },
-          {
             "key": "bestseller",
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
             "text": "Bestseller"
+          },
+          {
+            "key": "deals_discount",
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "18% OFF"
           }
         ],
         "need_hide_review": false,
@@ -3758,7 +3757,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1170,
+    "total": 1156,
     "price": {
       "from": "0",
       "to": "525"
