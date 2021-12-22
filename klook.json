@@ -579,6 +579,73 @@
     ],
     "activities": [
       {
+        "id": 66708,
+        "template_id": 2,
+        "title": "Singapore River Cruise Tour with Haidilao Lunch",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "100.00",
+        "sell_price": "100.00",
+        "from_price": "100.00",
+        "to_price": "100.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-12-27 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/vww0kdgrilkptelgwhx6.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.289826,103.845541",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 156,
+        "package_id": 0,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/66708-singapore-river-haidilao-lunch-cruise-tour/",
+        "deep_link": "https://www.klook.com/en-US/activity/66708-singapore-river-haidilao-lunch-cruise-tour/",
+        "vertical_type": 100,
+        "vertical_id": 66708,
+        "custom_tags": null,
+        "tag_ids": [
+          142,
+          250
+        ],
+        "what_we_love": ""
+      },
+      {
         "id": 65150,
         "template_id": 4,
         "title": "Catopia Cafe in Jalan Besar Singapore",
@@ -1494,7 +1561,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-22 15:30:00",
+        "start_time": "2021-12-22 16:30:00",
         "sold_out": false,
         "published": true,
         "participate": 2,
@@ -3668,73 +3735,9 @@
           144
         ],
         "what_we_love": ""
-      },
-      {
-        "id": 65320,
-        "template_id": 3,
-        "title": "Ride and Dine at Curate Cucina Pisana in Singapore",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "266.79",
-        "sell_price": "238.00",
-        "from_price": "238.00",
-        "to_price": "238.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-12-22 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 6,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "deals_discount": "11% OFF"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/jwjdq8obqkyigbdvsms3.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.256752,103.820332",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 499,
-        "package_id": 0,
-        "tags": [
-          {
-            "key": "deals_discount",
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "11% OFF"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/65320-ride-dine-curate-cucina-pisana-singapore/",
-        "deep_link": "https://www.klook.com/en-US/activity/65320-ride-dine-curate-cucina-pisana-singapore/",
-        "vertical_type": 100,
-        "vertical_id": 65320,
-        "custom_tags": null,
-        "tag_ids": [],
-        "what_we_love": ""
       }
     ],
-    "total": 1166,
+    "total": 1167,
     "price": {
       "from": "0",
       "to": "526"
