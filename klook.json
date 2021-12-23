@@ -574,7 +574,8 @@
       "2022-09-19T00:00:00Z",
       "2022-09-20T00:00:00Z",
       "2022-09-21T00:00:00Z",
-      "2022-09-22T00:00:00Z"
+      "2022-09-22T00:00:00Z",
+      "2022-09-23T00:00:00Z"
     ],
     "activities": [
       {
@@ -601,7 +602,7 @@
         "start_time": "2022-01-02 09:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 4,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -668,7 +669,7 @@
         "start_time": "2021-12-25 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 2,
+        "participate": 6,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -868,7 +869,7 @@
         "start_time": "2021-12-25 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 2,
+        "participate": 3,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1000,7 +1001,7 @@
         "start_time": "2021-12-25 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 6,
+        "participate": 8,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -1375,7 +1376,7 @@
         "start_time": "2021-12-27 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 26,
+        "participate": 29,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -1430,7 +1431,7 @@
         "start_time": "2021-12-24 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 106,
+        "participate": 113,
         "participants_format": "100+ Booked",
         "discount": 0,
         "card_tags": {
@@ -1552,7 +1553,7 @@
         "start_time": "2021-12-31 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 3,
+        "participate": 4,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1807,7 +1808,7 @@
         "start_time": "2021-12-31 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 5,
+        "participate": 7,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1874,7 +1875,7 @@
         "start_time": "2021-12-29 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 12,
+        "participate": 13,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2172,7 +2173,7 @@
         "start_time": "2022-03-31 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 200,
+        "participate": 213,
         "participants_format": "200+ Booked",
         "discount": 0,
         "card_tags": {
@@ -2239,7 +2240,7 @@
         "start_time": "2021-12-25 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 103,
+        "participate": 104,
         "participants_format": "100+ Booked",
         "discount": 0,
         "review_total": 2,
@@ -2494,7 +2495,7 @@
         "start_time": "2021-12-30 13:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 23,
+        "participate": 24,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2826,7 +2827,7 @@
         "start_time": "2022-01-03 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 3464,
+        "participate": 3895,
         "participants_format": "3K+ Booked",
         "discount": 0,
         "card_tags": {
@@ -2864,8 +2865,7 @@
         "vertical_id": 65992,
         "custom_tags": null,
         "tag_ids": [
-          250,
-          1272
+          250
         ],
         "what_we_love": ""
       },
@@ -2893,7 +2893,7 @@
         "start_time": "2021-12-24 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 104,
+        "participate": 113,
         "participants_format": "100+ Booked",
         "discount": 0,
         "card_tags": {
@@ -3010,7 +3010,7 @@
         "instance": 1,
         "image_url": "",
         "video_url": "",
-        "score": 5,
+        "score": 4.6,
         "currency": "SGD",
         "market_price": "19.00",
         "sell_price": "16.15",
@@ -3023,13 +3023,13 @@
         "start_time": "2021-12-25 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 93,
+        "participate": 97,
         "participants_format": "50+ Booked",
         "discount": 0,
         "card_tags": {
           "deals_discount": "15% OFF"
         },
-        "review_total": 4,
+        "review_total": 5,
         "image_url_host": "https://res.klook.com/image/upload/activities/yhjmscx7lk8xehdufu5b.jpg",
         "icon": null,
         "icons": null,
@@ -3116,6 +3116,72 @@
         "vertical_id": 58104,
         "custom_tags": null,
         "tag_ids": [],
+        "what_we_love": ""
+      },
+      {
+        "id": 65833,
+        "template_id": 1,
+        "title": "[Klook Exclusive - 10% Discount] tokidoki X AIA Better Lives Charity Run 2021",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "51.00",
+        "sell_price": "45.90",
+        "from_price": "45.90",
+        "to_price": "45.90",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-12-25 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 11,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "deals_discount": "10% OFF"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/opa2vvl2aqphvjauyeqh.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.354186,103.818316",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 478,
+        "package_id": 0,
+        "tags": [
+          {
+            "key": "deals_discount",
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "10% OFF"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/65833-tokidoki-x-AIA-better-lives-charity-run-2021/",
+        "deep_link": "https://www.klook.com/en-US/activity/65833-tokidoki-x-AIA-better-lives-charity-run-2021/",
+        "vertical_type": 100,
+        "vertical_id": 65833,
+        "custom_tags": null,
+        "tag_ids": [
+          122
+        ],
         "what_we_love": ""
       },
       {
@@ -3384,7 +3450,7 @@
         "start_time": "2021-12-30 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 56,
+        "participate": 57,
         "participants_format": "50+ Booked",
         "discount": 0,
         "review_total": 3,
@@ -3439,14 +3505,14 @@
         "start_time": "2021-12-26 14:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 5299,
+        "participate": 5751,
         "participants_format": "5K+ Booked",
         "discount": 0,
         "card_tags": {
           "bestseller": "Bestseller",
           "deals_discount": "18% OFF"
         },
-        "review_total": 8,
+        "review_total": 10,
         "image_url_host": "https://res.klook.com/image/upload/activities/edo60qimm7vc84prsngv.jpg",
         "icon": null,
         "icons": null,
@@ -3464,18 +3530,18 @@
         "package_id": 0,
         "tags": [
           {
-            "key": "deals_discount",
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "18% OFF"
-          },
-          {
             "key": "bestseller",
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
             "text": "Bestseller"
+          },
+          {
+            "key": "deals_discount",
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "18% OFF"
           }
         ],
         "need_hide_review": false,
@@ -3689,76 +3755,9 @@
           250
         ],
         "what_we_love": ""
-      },
-      {
-        "id": 65152,
-        "template_id": 2,
-        "title": "Chinatown Home of Nyonya Tile Walking Tour with NangSilk BirdNest",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "99.00",
-        "sell_price": "99.00",
-        "from_price": "99.00",
-        "to_price": "99.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-12-25 12:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/ixbukee7gbchhksm3ujt.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.284788,103.843932",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 150,
-        "package_id": 0,
-        "tags": [
-          {
-            "key": "srv_eligible",
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/65152-chinatown-home-nyonya-tile-walking-tour-nangsilk-birdnest/",
-        "deep_link": "https://www.klook.com/en-US/activity/65152-chinatown-home-nyonya-tile-walking-tour-nangsilk-birdnest/",
-        "vertical_type": 100,
-        "vertical_id": 65152,
-        "custom_tags": null,
-        "tag_ids": [
-          50,
-          250
-        ],
-        "what_we_love": ""
       }
     ],
-    "total": 1187,
+    "total": 1173,
     "price": {
       "from": "0",
       "to": "523"
@@ -3810,11 +3809,6 @@
           {
             "id": 38,
             "name": "Museums & Galleries",
-            "disable": false
-          },
-          {
-            "id": 1272,
-            "name": "ZA KLOOK FLEX",
             "disable": false
           }
         ]
