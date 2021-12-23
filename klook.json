@@ -1749,7 +1749,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-23 19:30:00",
+        "start_time": "2021-12-23 20:30:00",
         "sold_out": false,
         "published": true,
         "participate": 2,
@@ -3464,18 +3464,18 @@
         "package_id": 0,
         "tags": [
           {
-            "key": "deals_discount",
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "18% OFF"
-          },
-          {
             "key": "bestseller",
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
             "text": "Bestseller"
+          },
+          {
+            "key": "deals_discount",
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "18% OFF"
           }
         ],
         "need_hide_review": false,
@@ -3758,7 +3758,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1188,
+    "total": 1187,
     "price": {
       "from": "0",
       "to": "525"
