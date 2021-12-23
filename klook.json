@@ -578,6 +578,73 @@
     ],
     "activities": [
       {
+        "id": 66818,
+        "template_id": 2,
+        "title": "Old Bukit Timah Railway Heritage and Nature Park Tour",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "100.00",
+        "sell_price": "100.00",
+        "from_price": "100.00",
+        "to_price": "100.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-12-31 09:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/gxsk8ajshwjia7q0zsnw.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.2857,103.843661",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 150,
+        "package_id": 0,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/66818-bukit-timah-railways-heritage-nature-park-tour/",
+        "deep_link": "https://www.klook.com/en-US/activity/66818-bukit-timah-railways-heritage-nature-park-tour/",
+        "vertical_type": 100,
+        "vertical_id": 66818,
+        "custom_tags": null,
+        "tag_ids": [
+          16,
+          250
+        ],
+        "what_we_love": ""
+      },
+      {
         "id": 66035,
         "template_id": 3,
         "title": "Singapore River Cruise with Upin Hotpot DInner",
@@ -1682,7 +1749,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-23 11:00:00",
+        "start_time": "2021-12-23 12:00:00",
         "sold_out": false,
         "published": true,
         "participate": 2,
@@ -3052,72 +3119,6 @@
         "what_we_love": ""
       },
       {
-        "id": 65833,
-        "template_id": 1,
-        "title": "[Klook Exclusive - 10% Discount] tokidoki X AIA Better Lives Charity Run 2021",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "45.00",
-        "sell_price": "39.90",
-        "from_price": "39.90",
-        "to_price": "39.90",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-12-24 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 11,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "deals_discount": "11% OFF"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/opa2vvl2aqphvjauyeqh.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.354186,103.818316",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 478,
-        "package_id": 0,
-        "tags": [
-          {
-            "key": "deals_discount",
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "11% OFF"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/65833-tokidoki-x-AIA-better-lives-charity-run-2021/",
-        "deep_link": "https://www.klook.com/en-US/activity/65833-tokidoki-x-AIA-better-lives-charity-run-2021/",
-        "vertical_type": 100,
-        "vertical_id": 65833,
-        "custom_tags": null,
-        "tag_ids": [
-          122
-        ],
-        "what_we_love": ""
-      },
-      {
         "id": 65281,
         "template_id": 3,
         "title": "Waterbiking in Singapore",
@@ -3435,7 +3436,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-23 12:00:00",
+        "start_time": "2021-12-23 18:00:00",
         "sold_out": false,
         "published": true,
         "participate": 5299,
