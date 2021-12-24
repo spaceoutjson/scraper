@@ -301,7 +301,6 @@
     "start_time": [
       "2021-12-18T00:00:00Z",
       "2021-12-19T00:00:00Z",
-      "2021-12-23T00:00:00Z",
       "2021-12-24T00:00:00Z",
       "2021-12-25T00:00:00Z",
       "2021-12-26T00:00:00Z",
@@ -575,7 +574,8 @@
       "2022-09-20T00:00:00Z",
       "2022-09-21T00:00:00Z",
       "2022-09-22T00:00:00Z",
-      "2022-09-23T00:00:00Z"
+      "2022-09-23T00:00:00Z",
+      "2022-09-24T00:00:00Z"
     ],
     "activities": [
       {
@@ -668,7 +668,7 @@
         "start_time": "2022-01-02 09:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 5,
+        "participate": 6,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -735,7 +735,7 @@
         "start_time": "2021-12-26 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 6,
+        "participate": 13,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -802,7 +802,7 @@
         "start_time": "2021-12-28 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 1,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1067,7 +1067,7 @@
         "start_time": "2021-12-26 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 8,
+        "participate": 9,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -1442,7 +1442,7 @@
         "start_time": "2021-12-28 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 29,
+        "participate": 30,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -1497,7 +1497,7 @@
         "start_time": "2021-12-25 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 113,
+        "participate": 130,
         "participants_format": "100+ Booked",
         "discount": 0,
         "card_tags": {
@@ -1941,7 +1941,7 @@
         "start_time": "2021-12-30 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 13,
+        "participate": 17,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2239,7 +2239,7 @@
         "start_time": "2022-03-31 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 213,
+        "participate": 225,
         "participants_format": "200+ Booked",
         "discount": 0,
         "card_tags": {
@@ -2306,7 +2306,7 @@
         "start_time": "2021-12-26 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 104,
+        "participate": 107,
         "participants_format": "100+ Booked",
         "discount": 0,
         "review_total": 2,
@@ -2628,7 +2628,7 @@
         "start_time": "2021-12-30 13:30:00",
         "sold_out": false,
         "published": true,
-        "participate": 3,
+        "participate": 5,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2893,8 +2893,8 @@
         "start_time": "2022-01-03 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 3895,
-        "participants_format": "3K+ Booked",
+        "participate": 4282,
+        "participants_format": "4K+ Booked",
         "discount": 0,
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
@@ -3023,7 +3023,7 @@
         "start_time": "2021-12-25 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 5,
+        "participate": 7,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3089,7 +3089,7 @@
         "start_time": "2021-12-26 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 97,
+        "participate": 98,
         "participants_format": "50+ Booked",
         "discount": 0,
         "card_tags": {
@@ -3503,7 +3503,7 @@
         "instance": 1,
         "image_url": "",
         "video_url": "",
-        "score": 5,
+        "score": 4.8,
         "currency": "SGD",
         "market_price": "189.00",
         "sell_price": "189.00",
@@ -3516,10 +3516,10 @@
         "start_time": "2022-01-02 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 57,
+        "participate": 58,
         "participants_format": "50+ Booked",
         "discount": 0,
-        "review_total": 3,
+        "review_total": 4,
         "image_url_host": "https://res.klook.com/image/upload/activities/d2kts91beznffkw7nxqn.jpg",
         "icon": null,
         "icons": null,
@@ -3558,7 +3558,7 @@
         "instance": 1,
         "image_url": "",
         "video_url": "",
-        "score": 4.9,
+        "score": 4.8,
         "currency": "SGD",
         "market_price": "18.00",
         "sell_price": "14.75",
@@ -3571,14 +3571,14 @@
         "start_time": "2021-12-26 12:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 5751,
-        "participants_format": "5K+ Booked",
+        "participate": 6267,
+        "participants_format": "6K+ Booked",
         "discount": 0,
         "card_tags": {
           "bestseller": "Bestseller",
           "deals_discount": "18% OFF"
         },
-        "review_total": 10,
+        "review_total": 12,
         "image_url_host": "https://res.klook.com/image/upload/activities/edo60qimm7vc84prsngv.jpg",
         "icon": null,
         "icons": null,
@@ -3645,7 +3645,7 @@
         "start_time": "2021-12-30 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 11,
+        "participate": 13,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3756,7 +3756,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1174,
+    "total": 1168,
     "price": {
       "from": "0",
       "to": "522"
