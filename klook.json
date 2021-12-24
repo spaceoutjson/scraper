@@ -579,6 +579,72 @@
     ],
     "activities": [
       {
+        "id": 66697,
+        "template_id": 2,
+        "title": "Singapore Fort Canning Park Treasure Hunt Trip",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 0,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "30.00",
+        "sell_price": "30.00",
+        "from_price": "30.00",
+        "to_price": "30.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2022-03-12 07:30:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/io1qaew3od06e7fm4y0i.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.29184,103.845782",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 150,
+        "package_id": 0,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/66697-singapore-fort-canning-park-treasure-hunt-trip/",
+        "deep_link": "https://www.klook.com/en-US/activity/66697-singapore-fort-canning-park-treasure-hunt-trip/",
+        "vertical_type": 100,
+        "vertical_id": 66697,
+        "custom_tags": null,
+        "tag_ids": [
+          250
+        ],
+        "what_we_love": ""
+      },
+      {
         "id": 66818,
         "template_id": 2,
         "title": "Old Bukit Timah Railway Heritage and Nature Park Tour",
@@ -1750,7 +1816,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-24 11:00:00",
+        "start_time": "2021-12-24 12:00:00",
         "sold_out": false,
         "published": true,
         "participate": 2,
@@ -3530,18 +3596,18 @@
         "package_id": 0,
         "tags": [
           {
-            "key": "deals_discount",
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "18% OFF"
-          },
-          {
             "key": "bestseller",
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
             "text": "Bestseller"
+          },
+          {
+            "key": "deals_discount",
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "18% OFF"
           }
         ],
         "need_hide_review": false,
@@ -3688,76 +3754,9 @@
           250
         ],
         "what_we_love": ""
-      },
-      {
-        "id": 65153,
-        "template_id": 2,
-        "title": "Singapore Night Tour with River Cruise, Fort Canning, and NangSilk BirdNest",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "99.00",
-        "sell_price": "99.00",
-        "from_price": "99.00",
-        "to_price": "99.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-12-25 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 1,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/knodm42didwqliluhs0o.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.294343,103.847304",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 150,
-        "package_id": 0,
-        "tags": [
-          {
-            "key": "srv_eligible",
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/65153-singapore-river-cruise-fort-canning-night-tour-dinner/",
-        "deep_link": "https://www.klook.com/en-US/activity/65153-singapore-river-cruise-fort-canning-night-tour-dinner/",
-        "vertical_type": 100,
-        "vertical_id": 65153,
-        "custom_tags": null,
-        "tag_ids": [
-          151,
-          250
-        ],
-        "what_we_love": ""
       }
     ],
-    "total": 1173,
+    "total": 1174,
     "price": {
       "from": "0",
       "to": "523"
