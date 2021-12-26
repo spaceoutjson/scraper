@@ -301,7 +301,6 @@
     "start_time": [
       "2021-12-18T00:00:00Z",
       "2021-12-19T00:00:00Z",
-      "2021-12-25T00:00:00Z",
       "2021-12-26T00:00:00Z",
       "2021-12-27T00:00:00Z",
       "2021-12-28T00:00:00Z",
@@ -575,7 +574,8 @@
       "2022-09-22T00:00:00Z",
       "2022-09-23T00:00:00Z",
       "2022-09-24T00:00:00Z",
-      "2022-09-25T00:00:00Z"
+      "2022-09-25T00:00:00Z",
+      "2022-09-26T00:00:00Z"
     ],
     "activities": [
       {
@@ -668,7 +668,7 @@
         "start_time": "2022-01-02 09:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 8,
+        "participate": 12,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -735,7 +735,7 @@
         "start_time": "2021-12-28 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 21,
+        "participate": 43,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -802,7 +802,7 @@
         "start_time": "2022-01-03 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 12,
+        "participate": 24,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1067,7 +1067,7 @@
         "start_time": "2021-12-28 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 9,
+        "participate": 10,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -1431,7 +1431,7 @@
         "start_time": "2021-12-27 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 162,
+        "participate": 189,
         "participants_format": "100+ Booked",
         "discount": 0,
         "card_tags": {
@@ -1808,7 +1808,7 @@
         "start_time": "2021-12-31 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 7,
+        "participate": 9,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1875,7 +1875,7 @@
         "start_time": "2022-01-01 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 21,
+        "participate": 27,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2173,7 +2173,7 @@
         "start_time": "2022-03-31 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 251,
+        "participate": 274,
         "participants_format": "200+ Booked",
         "discount": 0,
         "card_tags": {
@@ -2240,7 +2240,7 @@
         "start_time": "2021-12-28 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 107,
+        "participate": 112,
         "participants_format": "100+ Booked",
         "discount": 0,
         "review_total": 2,
@@ -2268,72 +2268,6 @@
         "custom_tags": null,
         "tag_ids": [
           34
-        ],
-        "what_we_love": ""
-      },
-      {
-        "id": 66190,
-        "template_id": 4,
-        "title": "BAR.CELONA Restaurant at Outram Park",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "",
-        "sell_price": "",
-        "from_price": "",
-        "to_price": "",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-12-29 00:00:00",
-        "sold_out": true,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "deals_discount": "16% OFF"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/cbeo8qetkdamyszick8s.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.279781,103.840491",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 487,
-        "package_id": 0,
-        "tags": [
-          {
-            "key": "deals_discount",
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "16% OFF"
-          }
-        ],
-        "need_hide_review": false,
-        "deeplink": "https://www.klook.com/en-US/activity/66190-barcelona-restaurant-outram-park/",
-        "deep_link": "https://www.klook.com/en-US/activity/66190-barcelona-restaurant-outram-park/",
-        "vertical_type": 106,
-        "vertical_id": 66190,
-        "custom_tags": null,
-        "tag_ids": [
-          183
         ],
         "what_we_love": ""
       },
@@ -2495,7 +2429,7 @@
         "start_time": "2021-12-30 13:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 24,
+        "participate": 25,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2629,7 +2563,7 @@
         "start_time": "2021-12-30 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 4,
+        "participate": 5,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -2814,7 +2748,7 @@
         "instance": 1,
         "image_url": "",
         "video_url": "",
-        "score": 3.6,
+        "score": 4,
         "currency": "SGD",
         "market_price": "16.20",
         "sell_price": "16.20",
@@ -2827,13 +2761,13 @@
         "start_time": "2022-01-03 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 4742,
-        "participants_format": "4K+ Booked",
+        "participate": 5483,
+        "participants_format": "5K+ Booked",
         "discount": 0,
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
         },
-        "review_total": 5,
+        "review_total": 7,
         "image_url_host": "https://res.klook.com/image/upload/activities/cht39nhyne6yuwklhw8r.jpg",
         "icon": null,
         "icons": null,
@@ -2858,7 +2792,7 @@
             "text": "Eligible for SingapoRediscovers Vouchers"
           }
         ],
-        "need_hide_review": true,
+        "need_hide_review": false,
         "deeplink": "https://www.klook.com/en-US/activity/65992-skyhelix-sentosa-singapore-tickets/",
         "deep_link": "https://www.klook.com/en-US/activity/65992-skyhelix-sentosa-singapore-tickets/",
         "vertical_type": 100,
@@ -2880,7 +2814,7 @@
         "instance": 1,
         "image_url": "",
         "video_url": "",
-        "score": 4.2,
+        "score": 4.3,
         "currency": "SGD",
         "market_price": "21.00",
         "sell_price": "17.00",
@@ -2893,13 +2827,13 @@
         "start_time": "2021-12-27 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 122,
+        "participate": 124,
         "participants_format": "100+ Booked",
         "discount": 0,
         "card_tags": {
           "deals_discount": "19% OFF"
         },
-        "review_total": 4,
+        "review_total": 6,
         "image_url_host": "https://res.klook.com/image/upload/activities/fhieq28naixfbxrjhyux.jpg",
         "icon": null,
         "icons": null,
@@ -2957,7 +2891,7 @@
         "start_time": "2021-12-27 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 7,
+        "participate": 10,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3023,8 +2957,8 @@
         "start_time": "2021-12-28 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 98,
-        "participants_format": "50+ Booked",
+        "participate": 115,
+        "participants_format": "100+ Booked",
         "discount": 0,
         "card_tags": {
           "deals_discount": "15% OFF"
@@ -3437,7 +3371,7 @@
         "instance": 1,
         "image_url": "",
         "video_url": "",
-        "score": 4.6,
+        "score": 4.7,
         "currency": "SGD",
         "market_price": "18.00",
         "sell_price": "14.75",
@@ -3450,14 +3384,14 @@
         "start_time": "2021-12-27 18:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 6649,
-        "participants_format": "6K+ Booked",
+        "participate": 7117,
+        "participants_format": "7K+ Booked",
         "discount": 0,
         "card_tags": {
           "bestseller": "Bestseller",
           "deals_discount": "18% OFF"
         },
-        "review_total": 17,
+        "review_total": 20,
         "image_url_host": "https://res.klook.com/image/upload/activities/edo60qimm7vc84prsngv.jpg",
         "icon": null,
         "icons": null,
@@ -3591,7 +3525,7 @@
         "start_time": "2022-01-01 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 2,
+        "participate": 3,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3767,9 +3701,64 @@
           250
         ],
         "what_we_love": ""
+      },
+      {
+        "id": 65503,
+        "template_id": 3,
+        "title": "Family Bonding Workshop",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "20.00",
+        "sell_price": "20.00",
+        "from_price": "20.00",
+        "to_price": "50.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-12-30 10:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 6,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/kdy9hrkzyw9dzqc1ystn.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.4346,103.784711",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 124,
+        "package_id": 0,
+        "tags": null,
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/65503-revive-now-singapore-workshop-fabric-faux-leather-earrings/",
+        "deep_link": "https://www.klook.com/en-US/activity/65503-revive-now-singapore-workshop-fabric-faux-leather-earrings/",
+        "vertical_type": 100,
+        "vertical_id": 65503,
+        "custom_tags": null,
+        "tag_ids": [
+          30
+        ],
+        "what_we_love": ""
       }
     ],
-    "total": 1152,
+    "total": 1139,
     "price": {
       "from": "0",
       "to": "523"
