@@ -579,6 +579,73 @@
     ],
     "activities": [
       {
+        "id": 66926,
+        "template_id": 2,
+        "title": "Singapore Hot Springs, Nursery, River Cruise, and Sky Park Tour",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "100.00",
+        "sell_price": "100.00",
+        "from_price": "100.00",
+        "to_price": "100.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2021-12-31 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/hegczksczcklpv0x67fv.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.306749,103.849459",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 150,
+        "package_id": 0,
+        "tags": [
+          {
+            "key": "srv_eligible",
+            "background_color_left": "#DB3641",
+            "background_color_right": "#DB3641",
+            "text_color": "#FFFFFF",
+            "text": "Eligible for SingapoRediscovers Vouchers"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/66926-singapore-hot-springs-nursery-river-cruise-sky-park-tour/",
+        "deep_link": "https://www.klook.com/en-US/activity/66926-singapore-hot-springs-nursery-river-cruise-sky-park-tour/",
+        "vertical_type": 100,
+        "vertical_id": 66926,
+        "custom_tags": null,
+        "tag_ids": [
+          16,
+          250
+        ],
+        "what_we_love": ""
+      },
+      {
         "id": 66697,
         "template_id": 2,
         "title": "Singapore Fort Canning Park Treasure Hunt Trip",
@@ -932,7 +999,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-28 00:00:00",
+        "start_time": "2021-12-29 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 3,
@@ -1185,7 +1252,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-29 00:00:00",
+        "start_time": "2021-12-30 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3701,64 +3768,9 @@
           250
         ],
         "what_we_love": ""
-      },
-      {
-        "id": 65503,
-        "template_id": 3,
-        "title": "Family Bonding Workshop",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "20.00",
-        "sell_price": "20.00",
-        "from_price": "20.00",
-        "to_price": "50.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2021-12-30 10:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 6,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/kdy9hrkzyw9dzqc1ystn.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.4346,103.784711",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 124,
-        "package_id": 0,
-        "tags": null,
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/65503-revive-now-singapore-workshop-fabric-faux-leather-earrings/",
-        "deep_link": "https://www.klook.com/en-US/activity/65503-revive-now-singapore-workshop-fabric-faux-leather-earrings/",
-        "vertical_type": 100,
-        "vertical_id": 65503,
-        "custom_tags": null,
-        "tag_ids": [
-          30
-        ],
-        "what_we_love": ""
       }
     ],
-    "total": 1138,
+    "total": 1139,
     "price": {
       "from": "0",
       "to": "523"
