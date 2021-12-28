@@ -720,7 +720,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-01 00:00:00",
+        "start_time": "2022-01-02 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 5,
@@ -1054,7 +1054,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-30 17:00:00",
+        "start_time": "2021-12-31 17:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1186,7 +1186,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-29 00:00:00",
+        "start_time": "2021-12-30 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 1,
@@ -1252,7 +1252,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-29 00:00:00",
+        "start_time": "2021-12-30 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 13,
@@ -1307,7 +1307,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-31 19:00:00",
+        "start_time": "2022-01-01 19:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1440,7 +1440,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-31 09:00:00",
+        "start_time": "2022-01-01 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 31,
@@ -1495,7 +1495,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-28 00:00:00",
+        "start_time": "2021-12-29 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 208,
@@ -1562,7 +1562,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-05 00:00:00",
+        "start_time": "2022-01-06 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1617,7 +1617,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-31 00:00:00",
+        "start_time": "2022-01-01 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 4,
@@ -2127,7 +2127,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-29 08:00:00",
+        "start_time": "2021-12-30 08:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2237,7 +2237,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-29 00:00:00",
+        "start_time": "2021-12-30 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 120,
@@ -2552,16 +2552,16 @@
         "video_url": "",
         "score": 0,
         "currency": "SGD",
-        "market_price": "190.00",
-        "sell_price": "38.00",
-        "from_price": "38.00",
-        "to_price": "68.00",
+        "market_price": "",
+        "sell_price": "",
+        "from_price": "",
+        "to_price": "",
         "spec_price": {
           "type": 0,
           "desc": ""
         },
         "start_time": "2021-12-31 00:00:00",
-        "sold_out": false,
+        "sold_out": true,
         "published": true,
         "participate": 5,
         "participants_format": "New Activity",
@@ -2626,7 +2626,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-28 00:00:00",
+        "start_time": "2021-12-29 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 2,
@@ -2692,7 +2692,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-28 00:00:00",
+        "start_time": "2021-12-29 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 5,
@@ -2824,7 +2824,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-28 00:00:00",
+        "start_time": "2021-12-29 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 138,
@@ -2888,7 +2888,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-28 00:00:00",
+        "start_time": "2021-12-29 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 10,
@@ -2954,7 +2954,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-29 00:00:00",
+        "start_time": "2021-12-30 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 127,
@@ -3073,7 +3073,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-29 00:00:00",
+        "start_time": "2021-12-30 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 12,
@@ -3194,7 +3194,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-28 00:00:00",
+        "start_time": "2021-12-29 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3315,7 +3315,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-30 00:00:00",
+        "start_time": "2021-12-31 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 2,
@@ -3589,7 +3589,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-29 00:00:00",
+        "start_time": "2021-12-30 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 1,
@@ -3656,7 +3656,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-29 12:00:00",
+        "start_time": "2021-12-30 12:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3723,7 +3723,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-30 10:00:00",
+        "start_time": "2021-12-31 10:00:00",
         "sold_out": false,
         "published": true,
         "participate": 6,
@@ -3761,7 +3761,7 @@
     "total": 1107,
     "price": {
       "from": "0",
-      "to": "522"
+      "to": "521"
     },
     "stat": null,
     "template_tag_mapping": [
