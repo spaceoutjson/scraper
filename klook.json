@@ -1817,7 +1817,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-29 11:00:00",
+        "start_time": "2021-12-29 12:00:00",
         "sold_out": false,
         "published": true,
         "participate": 2,
@@ -2695,8 +2695,8 @@
         "start_time": "2022-01-03 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 6970,
-        "participants_format": "6K+ Booked",
+        "participate": 7032,
+        "participants_format": "7K+ Booked",
         "discount": 0,
         "card_tags": {
           "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
