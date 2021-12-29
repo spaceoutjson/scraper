@@ -920,7 +920,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-30 00:00:00",
+        "start_time": "2022-01-02 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 112,
@@ -1817,7 +1817,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-29 12:30:00",
+        "start_time": "2021-12-29 13:30:00",
         "sold_out": false,
         "published": true,
         "participate": 2,
@@ -1872,7 +1872,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-01 00:00:00",
+        "start_time": "2022-01-02 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 18,
@@ -1939,7 +1939,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-03 00:00:00",
+        "start_time": "2022-01-04 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 33,
@@ -2182,7 +2182,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-30 08:00:00",
+        "start_time": "2021-12-31 08:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3343,18 +3343,18 @@
         "package_id": 0,
         "tags": [
           {
-            "key": "bestseller",
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "Bestseller"
-          },
-          {
             "key": "deals_discount",
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
             "text": "18% OFF"
+          },
+          {
+            "key": "bestseller",
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "Bestseller"
           }
         ],
         "need_hide_review": false,
