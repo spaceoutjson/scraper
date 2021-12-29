@@ -3343,18 +3343,18 @@
         "package_id": 0,
         "tags": [
           {
-            "key": "bestseller",
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "Bestseller"
-          },
-          {
             "key": "deals_discount",
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
             "text": "18% OFF"
+          },
+          {
+            "key": "bestseller",
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "Bestseller"
           }
         ],
         "need_hide_review": false,
@@ -3747,7 +3747,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1053,
+    "total": 1054,
     "price": {
       "from": "0",
       "to": "521"
