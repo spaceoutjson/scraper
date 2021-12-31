@@ -1817,7 +1817,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2021-12-31 11:00:00",
+        "start_time": "2021-12-31 12:00:00",
         "sold_out": false,
         "published": true,
         "participate": 3,
@@ -2735,72 +2735,6 @@
         "custom_tags": null,
         "tag_ids": [
           29
-        ],
-        "what_we_love": ""
-      },
-      {
-        "id": 65992,
-        "template_id": 1,
-        "title": "SkyHelix Sentosa Singapore",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 3.9,
-        "currency": "SGD",
-        "market_price": "16.20",
-        "sell_price": "16.20",
-        "from_price": "16.20",
-        "to_price": "16.20",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2022-01-03 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 10952,
-        "participants_format": "10K+ Booked",
-        "discount": 0,
-        "card_tags": {
-          "srv_eligible": "Eligible for SingapoRediscovers Vouchers"
-        },
-        "review_total": 13,
-        "image_url_host": "https://res.klook.com/image/upload/activities/cht39nhyne6yuwklhw8r.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.255094,103.817597",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 521,
-        "package_id": 0,
-        "tags": [
-          {
-            "key": "srv_eligible",
-            "background_color_left": "#DB3641",
-            "background_color_right": "#DB3641",
-            "text_color": "#FFFFFF",
-            "text": "Eligible for SingapoRediscovers Vouchers"
-          }
-        ],
-        "need_hide_review": false,
-        "deeplink": "https://www.klook.com/en-US/activity/65992-skyhelix-sentosa-singapore-tickets/",
-        "deep_link": "https://www.klook.com/en-US/activity/65992-skyhelix-sentosa-singapore-tickets/",
-        "vertical_type": 100,
-        "vertical_id": 65992,
-        "custom_tags": null,
-        "tag_ids": [
-          250
         ],
         "what_we_love": ""
       },
@@ -3746,9 +3680,64 @@
           30
         ],
         "what_we_love": ""
+      },
+      {
+        "id": 65569,
+        "template_id": 3,
+        "title": "Sustainability Workshop",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "25.00",
+        "sell_price": "25.00",
+        "from_price": "25.00",
+        "to_price": "35.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2022-01-02 10:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 4,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/qg2ag3jay9diqwpspqzo.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.4346,103.784711",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 124,
+        "package_id": 0,
+        "tags": null,
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/65569-revive-now-singapore-workshop-upcycled-basket-craft/",
+        "deep_link": "https://www.klook.com/en-US/activity/65569-revive-now-singapore-workshop-upcycled-basket-craft/",
+        "vertical_type": 100,
+        "vertical_id": 65569,
+        "custom_tags": null,
+        "tag_ids": [
+          19
+        ],
+        "what_we_love": ""
       }
     ],
-    "total": 976,
+    "total": 974,
     "price": {
       "from": "0",
       "to": "521"
