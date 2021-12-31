@@ -1,5 +1,5 @@
 {
-  "version": "7283dc6f5107a76c670c2d902dbc83c4",
+  "version": "6137d67dc74daf94fa00fdd85ed36e60",
   "data": {
     "featured_shops": null,
     "campaign_bottom_visual": {
@@ -14,18 +14,7 @@
       }
     },
     "featured_products": null,
-    "campaign_top_visual": {
-      "start": 1633017600,
-      "end": 1640966340,
-      "banner_image": "f0c54bbb3571e7e58440e92fd6f8929b",
-      "data": {
-        "image_mobile": "f0c54bbb3571e7e58440e92fd6f8929b",
-        "redirection_url": "https://shopee.sg/big-brand-discounts",
-        "image_ratio": 3.116883,
-        "image_ratio_pc": 20,
-        "image_pc": "a850714369f896dd70e46b7afe4c72ce"
-      }
-    },
+    "campaign_top_visual": null,
     "campaign_images": {
       "start": 1623859200,
       "end": 1672502340,
