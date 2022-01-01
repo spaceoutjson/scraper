@@ -877,22 +877,22 @@
         "video_url": "",
         "score": 0,
         "currency": "SGD",
-        "market_price": "28.00",
-        "sell_price": "25.00",
-        "from_price": "25.00",
-        "to_price": "25.00",
+        "market_price": "",
+        "sell_price": "",
+        "from_price": "",
+        "to_price": "",
         "spec_price": {
           "type": 0,
           "desc": ""
         },
         "start_time": "2022-01-02 00:00:00",
-        "sold_out": false,
+        "sold_out": true,
         "published": true,
         "participate": 3,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
-          "deals_discount": "11% OFF"
+          "deals_discount": "10% OFF"
         },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/jeryyprhxazqxifizgsu.jpg",
@@ -916,7 +916,7 @@
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
-            "text": "11% OFF"
+            "text": "10% OFF"
           }
         ],
         "need_hide_review": true,
@@ -951,7 +951,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-02 00:00:00",
+        "start_time": "2022-01-03 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 33,
@@ -1006,7 +1006,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-04 19:00:00",
+        "start_time": "2022-01-05 19:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1128,7 +1128,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-04 00:00:00",
+        "start_time": "2022-01-05 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 31,
@@ -1704,7 +1704,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-02 08:00:00",
+        "start_time": "2022-01-03 08:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1881,7 +1881,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-02 00:00:00",
+        "start_time": "2022-01-03 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 159,
@@ -1936,7 +1936,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-02 12:10:00",
+        "start_time": "2022-01-08 12:10:00",
         "sold_out": false,
         "published": true,
         "participate": 2,
@@ -2160,7 +2160,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-01 00:00:00",
+        "start_time": "2022-01-02 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 3,
@@ -2226,7 +2226,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-01 00:00:00",
+        "start_time": "2022-01-02 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 14,
@@ -2422,7 +2422,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-01 00:00:00",
+        "start_time": "2022-01-02 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 13,
@@ -2541,7 +2541,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-02 00:00:00",
+        "start_time": "2022-01-03 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 13,
@@ -2662,7 +2662,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-01 00:00:00",
+        "start_time": "2022-01-02 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 2,
@@ -2783,7 +2783,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-03 00:00:00",
+        "start_time": "2022-01-04 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 3,
@@ -2932,18 +2932,18 @@
         "package_id": 0,
         "tags": [
           {
-            "key": "bestseller",
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "Bestseller"
-          },
-          {
             "key": "deals_discount",
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
             "text": "18% OFF"
+          },
+          {
+            "key": "bestseller",
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "Bestseller"
           }
         ],
         "need_hide_review": false,
@@ -2978,7 +2978,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-02 00:00:00",
+        "start_time": "2022-01-03 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 15,
@@ -3034,7 +3034,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-02 00:00:00",
+        "start_time": "2022-01-08 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 5,
@@ -3090,7 +3090,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-02 00:00:00",
+        "start_time": "2022-01-03 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 13,
@@ -3146,7 +3146,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-02 12:00:00",
+        "start_time": "2022-01-03 12:00:00",
         "sold_out": false,
         "published": true,
         "participate": 4,
@@ -3202,7 +3202,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-03 10:00:00",
+        "start_time": "2022-01-04 10:00:00",
         "sold_out": false,
         "published": true,
         "participate": 6,
@@ -3257,7 +3257,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-03 10:00:00",
+        "start_time": "2022-01-04 10:00:00",
         "sold_out": false,
         "published": true,
         "participate": 4,
@@ -3365,7 +3365,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-02 00:00:00",
+        "start_time": "2022-01-08 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 129,
@@ -3421,7 +3421,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-02 10:00:00",
+        "start_time": "2022-01-03 10:00:00",
         "sold_out": false,
         "published": true,
         "participate": 3,
@@ -3477,7 +3477,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-02 00:00:00",
+        "start_time": "2022-01-03 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 36,
