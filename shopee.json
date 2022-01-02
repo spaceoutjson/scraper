@@ -1,18 +1,8 @@
 {
-  "version": "6137d67dc74daf94fa00fdd85ed36e60",
+  "version": "455ddf9a8d054769fd59764613653756",
   "data": {
     "featured_shops": null,
-    "campaign_bottom_visual": {
-      "start": 1623859200,
-      "end": 1672502340,
-      "banner_image": "a494e72fee13c2785f00a64904877b52",
-      "data": {
-        "image_mobile": "a494e72fee13c2785f00a64904877b52",
-        "image_ratio_pc": 60,
-        "image_ratio": 20,
-        "image_pc": "4938ab5b3a9fb3df9ce4ca2e3273d53a"
-      }
-    },
+    "campaign_bottom_visual": null,
     "featured_products": null,
     "campaign_top_visual": null,
     "campaign_images": {
