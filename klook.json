@@ -1459,7 +1459,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-04 12:00:00",
+        "start_time": "2022-01-04 12:30:00",
         "sold_out": false,
         "published": true,
         "participate": 5,
@@ -2885,8 +2885,8 @@
         "score": 4.7,
         "currency": "SGD",
         "market_price": "18.00",
-        "sell_price": "14.75",
-        "from_price": "14.75",
+        "sell_price": "16.20",
+        "from_price": "16.20",
         "to_price": "34.20",
         "spec_price": {
           "type": 0,
@@ -2895,12 +2895,12 @@
         "start_time": "2022-01-04 12:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 9827,
+        "participate": 9894,
         "participants_format": "9K+ Booked",
         "discount": 0,
         "card_tags": {
           "bestseller": "Bestseller",
-          "deals_discount": "18% OFF"
+          "deals_discount": "10% OFF"
         },
         "review_total": 52,
         "image_url_host": "https://res.klook.com/image/upload/activities/edo60qimm7vc84prsngv.jpg",
@@ -2924,7 +2924,7 @@
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
-            "text": "18% OFF"
+            "text": "10% OFF"
           },
           {
             "key": "bestseller",
