@@ -270,12 +270,6 @@
             "name": "Services",
             "enable": true,
             "children": null
-          },
-          {
-            "id": 68,
-            "name": "Travel gear rental",
-            "enable": true,
-            "children": null
           }
         ]
       }
@@ -727,7 +721,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-11 00:00:00",
+        "start_time": "2022-01-12 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -813,61 +807,6 @@
         "custom_tags": null,
         "tag_ids": [
           18
-        ],
-        "what_we_love": ""
-      },
-      {
-        "id": 66991,
-        "template_id": 2,
-        "title": "[Klook Cares][Free Food For All (FFFA)] Donate an Experience - Multicuisine Buffet or Seafood Fiesta Buffet with Gardens by the Bay Tour",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "100.00",
-        "sell_price": "100.00",
-        "from_price": "100.00",
-        "to_price": "100.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2022-03-01 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 1976,
-        "participants_format": "1K+ Booked",
-        "discount": 0,
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/xz2pbsecp6vz3a5s7zwu.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.281339,103.858956",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 150,
-        "package_id": 0,
-        "tags": null,
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/66991-multicuisine-buffet-seafood-fiesta-tour-garden-bay-singapore/",
-        "deep_link": "https://www.klook.com/en-US/activity/66991-multicuisine-buffet-seafood-fiesta-tour-garden-bay-singapore/",
-        "vertical_type": 100,
-        "vertical_id": 66991,
-        "custom_tags": null,
-        "tag_ids": [
-          250
         ],
         "what_we_love": ""
       },
@@ -1655,7 +1594,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-04 17:30:00",
+        "start_time": "2022-01-04 18:30:00",
         "sold_out": false,
         "published": true,
         "participate": 5,
@@ -2029,73 +1968,6 @@
         "custom_tags": null,
         "tag_ids": [
           105
-        ],
-        "what_we_love": ""
-      },
-      {
-        "id": 66014,
-        "template_id": 2,
-        "title": "[Klook Cares] Donate an Experience - Big Bus, DUCKtours Singapore",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "37.00",
-        "sell_price": "30.00",
-        "from_price": "30.00",
-        "to_price": "40.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2022-03-31 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 1459,
-        "participants_format": "1K+ Booked",
-        "discount": 0,
-        "card_tags": {
-          "deals_discount": "19% OFF"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/tl5ambcpns222pghlqgs.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.293632,103.857366",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 153,
-        "package_id": 0,
-        "tags": [
-          {
-            "key": "deals_discount",
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "19% OFF"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/66014-donate-experience-big-bus-ducktours-singapore/",
-        "deep_link": "https://www.klook.com/en-US/activity/66014-donate-experience-big-bus-ducktours-singapore/",
-        "vertical_type": 100,
-        "vertical_id": 66014,
-        "custom_tags": null,
-        "tag_ids": [
-          72,
-          250
         ],
         "what_we_love": ""
       },
@@ -3154,7 +3026,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-04 16:00:00",
+        "start_time": "2022-01-05 10:00:00",
         "sold_out": false,
         "published": true,
         "participate": 9894,
@@ -3593,6 +3465,118 @@
         "custom_tags": null,
         "tag_ids": [],
         "what_we_love": ""
+      },
+      {
+        "id": 65367,
+        "template_id": 2,
+        "title": "Singapore Kelong 1 Day Tour with Deluxe Seafood Brunch",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 1,
+        "currency": "SGD",
+        "market_price": "99.00",
+        "sell_price": "99.00",
+        "from_price": "99.00",
+        "to_price": "99.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2022-01-08 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 129,
+        "participants_format": "100+ Booked",
+        "discount": 0,
+        "review_total": 3,
+        "image_url_host": "https://res.klook.com/image/upload/activities/ecaexq1adaeeusnj4s3z.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.391216,103.987775",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 150,
+        "package_id": 0,
+        "tags": null,
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/65367-singapore-kelong-one-day-tour-deluxe-seafood-brunch/",
+        "deep_link": "https://www.klook.com/en-US/activity/65367-singapore-kelong-one-day-tour-deluxe-seafood-brunch/",
+        "vertical_type": 100,
+        "vertical_id": 65367,
+        "custom_tags": null,
+        "tag_ids": [
+          20,
+          250
+        ],
+        "what_we_love": ""
+      },
+      {
+        "id": 65149,
+        "template_id": 2,
+        "title": "Singapore Southern Island Tour with NangSilk BirdNest",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "99.00",
+        "sell_price": "99.00",
+        "from_price": "99.00",
+        "to_price": "99.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2022-01-05 10:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 3,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/nnt1aksuvlvq2yfxl7uq.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.2709,103.863255",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 150,
+        "package_id": 0,
+        "tags": null,
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/65149-singapore-southern-island-tour-nangsilk-birdnest/",
+        "deep_link": "https://www.klook.com/en-US/activity/65149-singapore-southern-island-tour-nangsilk-birdnest/",
+        "vertical_type": 100,
+        "vertical_id": 65149,
+        "custom_tags": null,
+        "tag_ids": [
+          48,
+          250
+        ],
+        "what_we_love": ""
       }
     ],
     "total": 865,
@@ -3902,11 +3886,6 @@
             "disable": false
           },
           {
-            "id": 168,
-            "name": "Travel Services",
-            "disable": false
-          },
-          {
             "id": 43,
             "name": "Railway & Public Transport",
             "disable": false
@@ -3917,11 +3896,6 @@
             "disable": false
           },
           {
-            "id": 55,
-            "name": "Vehicle Rental",
-            "disable": false
-          },
-          {
             "id": 60,
             "name": "Attraction Transfers",
             "disable": false
@@ -3929,11 +3903,6 @@
           {
             "id": 83,
             "name": "Lounges & Airport Services",
-            "disable": false
-          },
-          {
-            "id": 88,
-            "name": "Equipment Rental",
             "disable": false
           },
           {
