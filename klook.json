@@ -673,7 +673,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-06 00:00:00",
+        "start_time": "2022-01-07 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3259,18 +3259,18 @@
         "package_id": 0,
         "tags": [
           {
-            "key": "deals_discount",
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "10% OFF"
-          },
-          {
             "key": "bestseller",
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
             "text": "Bestseller"
+          },
+          {
+            "key": "deals_discount",
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "10% OFF"
           }
         ],
         "need_hide_review": false,
