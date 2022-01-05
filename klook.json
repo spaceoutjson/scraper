@@ -249,6 +249,12 @@
         ]
       },
       {
+        "id": 52,
+        "name": "Scooter & motorbike rentals",
+        "enable": true,
+        "children": null
+      },
+      {
         "id": 55,
         "name": "Staycations",
         "enable": true,
@@ -1568,7 +1574,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-05 11:00:00",
+        "start_time": "2022-01-05 11:30:00",
         "sold_out": false,
         "published": true,
         "participate": 5,
@@ -3497,7 +3503,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 872,
+    "total": 873,
     "price": {
       "from": "0",
       "to": "523"
@@ -3811,6 +3817,11 @@
           {
             "id": 46,
             "name": "Private Boat Charter",
+            "disable": false
+          },
+          {
+            "id": 55,
+            "name": "Vehicle Rental",
             "disable": false
           },
           {
