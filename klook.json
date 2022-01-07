@@ -969,14 +969,14 @@
         "score": 0,
         "currency": "SGD",
         "market_price": "32.00",
-        "sell_price": "20.00",
-        "from_price": "20.00",
+        "sell_price": "32.00",
+        "from_price": "32.00",
         "to_price": "32.00",
         "spec_price": {
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-08 00:00:00",
+        "start_time": "2022-01-09 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1097,7 +1097,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-14 00:00:00",
+        "start_time": "2022-01-15 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1848,7 +1848,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-09 00:00:00",
+        "start_time": "2022-03-20 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 10,
@@ -1914,7 +1914,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-07 17:30:00",
+        "start_time": "2022-01-07 18:30:00",
         "sold_out": false,
         "published": true,
         "participate": 5,
@@ -3412,7 +3412,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-07 16:00:00",
+        "start_time": "2022-01-07 18:00:00",
         "sold_out": false,
         "published": true,
         "participate": 10418,
@@ -3440,18 +3440,18 @@
         "package_id": 0,
         "tags": [
           {
-            "key": "bestseller",
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "Bestseller"
-          },
-          {
             "key": "deals_discount",
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
             "text": "10% OFF"
+          },
+          {
+            "key": "bestseller",
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "Bestseller"
           }
         ],
         "need_hide_review": false,
@@ -3522,7 +3522,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 874,
+    "total": 875,
     "price": {
       "from": "0",
       "to": "524"
