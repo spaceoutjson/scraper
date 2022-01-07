@@ -283,7 +283,6 @@
     "start_time": [
       "2021-12-18T00:00:00Z",
       "2021-12-19T00:00:00Z",
-      "2022-01-06T00:00:00Z",
       "2022-01-07T00:00:00Z",
       "2022-01-08T00:00:00Z",
       "2022-01-09T00:00:00Z",
@@ -556,7 +555,8 @@
       "2022-10-03T00:00:00Z",
       "2022-10-04T00:00:00Z",
       "2022-10-05T00:00:00Z",
-      "2022-10-06T00:00:00Z"
+      "2022-10-06T00:00:00Z",
+      "2022-10-07T00:00:00Z"
     ],
     "activities": [
       {
@@ -690,7 +690,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-07 19:30:00",
+        "start_time": "2022-01-07 20:30:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -745,7 +745,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-07 20:00:00",
+        "start_time": "2022-01-07 21:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -800,7 +800,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-07 19:30:00",
+        "start_time": "2022-03-31 08:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -965,7 +965,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-07 19:30:00",
+        "start_time": "2022-03-31 08:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1142,12 +1142,9 @@
         "start_time": "2022-01-09 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 3,
         "participants_format": "New Activity",
         "discount": 0,
-        "card_tags": {
-          "deals_discount": "38% OFF"
-        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/gtfgenvhytfpsg30s0sm.jpg",
         "icon": null,
@@ -1164,15 +1161,7 @@
         "real_lang": "",
         "leaf_category": 106,
         "package_id": 0,
-        "tags": [
-          {
-            "key": "deals_discount",
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "38% OFF"
-          }
-        ],
+        "tags": null,
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/65631-trickeye-southside-admission/",
         "deep_link": "https://www.klook.com/en-US/activity/65631-trickeye-southside-admission/",
@@ -1615,8 +1604,8 @@
         "start_time": "2022-01-09 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 44,
-        "participants_format": "New Activity",
+        "participate": 54,
+        "participants_format": "50+ Booked",
         "discount": 0,
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/rmxhdztdrjjw5iuujqnz.jpg",
@@ -2900,7 +2889,7 @@
         "start_time": "2022-01-08 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 12520,
+        "participate": 12578,
         "participants_format": "10K+ Booked",
         "discount": 0,
         "card_tags": {
@@ -3500,7 +3489,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 878,
+    "total": 877,
     "price": {
       "from": "0",
       "to": "522"
