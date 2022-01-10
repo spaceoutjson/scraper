@@ -1218,8 +1218,8 @@
         "score": 0,
         "currency": "SGD",
         "market_price": "32.00",
-        "sell_price": "32.00",
-        "from_price": "32.00",
+        "sell_price": "20.00",
+        "from_price": "20.00",
         "to_price": "32.00",
         "spec_price": {
           "type": 0,
@@ -1231,6 +1231,9 @@
         "participate": 5,
         "participants_format": "New Activity",
         "discount": 0,
+        "card_tags": {
+          "deals_discount": "38% OFF"
+        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/gtfgenvhytfpsg30s0sm.jpg",
         "icon": null,
@@ -1247,7 +1250,15 @@
         "real_lang": "",
         "leaf_category": 106,
         "package_id": 0,
-        "tags": null,
+        "tags": [
+          {
+            "key": "deals_discount",
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "38% OFF"
+          }
+        ],
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/65631-trickeye-southside-admission/",
         "deep_link": "https://www.klook.com/en-US/activity/65631-trickeye-southside-admission/",
