@@ -289,7 +289,6 @@
     "start_time": [
       "2021-12-18T00:00:00Z",
       "2021-12-19T00:00:00Z",
-      "2022-01-10T00:00:00Z",
       "2022-01-11T00:00:00Z",
       "2022-01-12T00:00:00Z",
       "2022-01-13T00:00:00Z",
@@ -562,7 +561,8 @@
       "2022-10-07T00:00:00Z",
       "2022-10-08T00:00:00Z",
       "2022-10-09T00:00:00Z",
-      "2022-10-10T00:00:00Z"
+      "2022-10-10T00:00:00Z",
+      "2022-10-11T00:00:00Z"
     ],
     "activities": [
       {
@@ -1787,8 +1787,8 @@
         "start_time": "2022-01-13 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 98,
-        "participants_format": "50+ Booked",
+        "participate": 100,
+        "participants_format": "100+ Booked",
         "discount": 0,
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/rmxhdztdrjjw5iuujqnz.jpg",
@@ -1964,7 +1964,7 @@
         "start_time": "2022-01-15 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 34,
+        "participate": 36,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 1,
@@ -2951,7 +2951,7 @@
         "start_time": "2022-01-12 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 18,
+        "participate": 20,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3017,7 +3017,7 @@
         "start_time": "2022-01-12 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 12730,
+        "participate": 12784,
         "participants_format": "10K+ Booked",
         "discount": 0,
         "card_tags": {
@@ -3213,7 +3213,7 @@
         "start_time": "2022-01-13 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 145,
+        "participate": 147,
         "participants_format": "100+ Booked",
         "discount": 0,
         "card_tags": {
@@ -3279,7 +3279,7 @@
         "start_time": "2022-03-12 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 40,
+        "participate": 41,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 3,
@@ -3332,7 +3332,7 @@
         "start_time": "2022-01-13 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 14,
+        "participate": 15,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3496,7 +3496,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 843,
+    "total": 836,
     "price": {
       "from": "0",
       "to": "521"
