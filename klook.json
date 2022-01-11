@@ -586,7 +586,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-11 10:00:00",
+        "start_time": "2022-01-11 11:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -1063,7 +1063,7 @@
       {
         "id": 102000051,
         "template_id": 100,
-        "title": "[Klook Exclusive Dates] Miss Julie by Singapore Repertory Theatre",
+        "title": "[Klook Exclusive Dates - 15% Discount] Miss Julie by Singapore Repertory Theatre",
         "subtitle": "",
         "url_seo": "",
         "city_id": 6,
@@ -1073,10 +1073,10 @@
         "video_url": "",
         "score": 0,
         "currency": "SGD",
-        "market_price": "55",
-        "sell_price": "55",
-        "from_price": "55",
-        "to_price": "65",
+        "market_price": "59",
+        "sell_price": "50.75",
+        "from_price": "50.75",
+        "to_price": "69",
         "spec_price": {
           "type": 0,
           "desc": ""
@@ -1663,7 +1663,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-12 00:00:00",
+        "start_time": "2022-01-13 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 3,
@@ -1850,7 +1850,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-13 00:00:00",
+        "start_time": "2022-01-14 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 98,
