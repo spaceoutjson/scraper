@@ -289,8 +289,6 @@
     "start_time": [
       "2021-12-18T00:00:00Z",
       "2021-12-19T00:00:00Z",
-      "2022-01-11T00:00:00Z",
-      "2022-01-12T00:00:00Z",
       "2022-01-13T00:00:00Z",
       "2022-01-14T00:00:00Z",
       "2022-01-15T00:00:00Z",
@@ -562,7 +560,8 @@
       "2022-10-08T00:00:00Z",
       "2022-10-09T00:00:00Z",
       "2022-10-10T00:00:00Z",
-      "2022-10-11T00:00:00Z"
+      "2022-10-11T00:00:00Z",
+      "2022-10-12T00:00:00Z"
     ],
     "activities": [
       {
@@ -1829,7 +1828,7 @@
         "instance": 1,
         "image_url": "",
         "video_url": "",
-        "score": 0,
+        "score": 4,
         "currency": "SGD",
         "market_price": "58.85",
         "sell_price": "58.85",
@@ -1842,10 +1841,10 @@
         "start_time": "2022-01-14 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 100,
+        "participate": 104,
         "participants_format": "100+ Booked",
         "discount": 0,
-        "review_total": 0,
+        "review_total": 1,
         "image_url_host": "https://res.klook.com/image/upload/activities/rmxhdztdrjjw5iuujqnz.jpg",
         "icon": null,
         "icons": null,
@@ -1862,7 +1861,7 @@
         "leaf_category": 418,
         "package_id": 0,
         "tags": null,
-        "need_hide_review": true,
+        "need_hide_review": false,
         "deeplink": "https://www.klook.com/en-US/activity/66396-natureland-massage-reflexology-singapore/",
         "deep_link": "https://www.klook.com/en-US/activity/66396-natureland-massage-reflexology-singapore/",
         "vertical_type": 100,
@@ -2106,62 +2105,6 @@
         "what_we_love": ""
       },
       {
-        "id": 66231,
-        "template_id": 2,
-        "title": "Singapore River Walking Tour with Dinner  ",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "",
-        "sell_price": "",
-        "from_price": "",
-        "to_price": "",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2022-01-15 00:00:00",
-        "sold_out": true,
-        "published": true,
-        "participate": 6,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/apfaistssbhcfigfyolf.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.287497,103.851387",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 150,
-        "package_id": 0,
-        "tags": null,
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/66231-singapore-river-walking-tour/",
-        "deep_link": "https://www.klook.com/en-US/activity/66231-singapore-river-walking-tour/",
-        "vertical_type": 100,
-        "vertical_id": 66231,
-        "custom_tags": null,
-        "tag_ids": [
-          72,
-          250
-        ],
-        "what_we_love": ""
-      },
-      {
         "id": 66388,
         "template_id": 3,
         "title": "Island Yacht Tour (Keppel)",
@@ -2228,7 +2171,7 @@
         "instance": 1,
         "image_url": "",
         "video_url": "",
-        "score": 0,
+        "score": 5,
         "currency": "SGD",
         "market_price": "150.00",
         "sell_price": "100.00",
@@ -2247,7 +2190,7 @@
         "card_tags": {
           "deals_discount": "33% OFF"
         },
-        "review_total": 0,
+        "review_total": 1,
         "image_url_host": "https://res.klook.com/image/upload/activities/i3gpbn9k2rujaknsyq4h.jpg",
         "icon": null,
         "icons": null,
@@ -2272,7 +2215,7 @@
             "text": "33% OFF"
           }
         ],
-        "need_hide_review": true,
+        "need_hide_review": false,
         "deeplink": "https://www.klook.com/en-US/activity/66217-3-hour-kings-curse-forbidden-hill-walking-tour-singapore/",
         "deep_link": "https://www.klook.com/en-US/activity/66217-3-hour-kings-curse-forbidden-hill-walking-tour-singapore/",
         "vertical_type": 100,
@@ -3072,13 +3015,13 @@
         "start_time": "2022-01-13 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 12784,
+        "participate": 12832,
         "participants_format": "10K+ Booked",
         "discount": 0,
         "card_tags": {
           "bestseller": "Bestseller"
         },
-        "review_total": 26,
+        "review_total": 27,
         "image_url_host": "https://res.klook.com/image/upload/activities/cht39nhyne6yuwklhw8r.jpg",
         "icon": null,
         "icons": null,
@@ -3268,7 +3211,7 @@
         "start_time": "2022-01-14 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 147,
+        "participate": 148,
         "participants_format": "100+ Booked",
         "discount": 0,
         "card_tags": {
@@ -3483,9 +3426,75 @@
           52
         ],
         "what_we_love": ""
+      },
+      {
+        "id": 65914,
+        "template_id": 4,
+        "title": "Tien Court Restaurant at Copthorne King's Hotel",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "50.00",
+        "sell_price": "37.50",
+        "from_price": "37.50",
+        "to_price": "75.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2022-01-13 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 2,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "deals_discount": "25% OFF"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/zpxnwrzwdmkqnyqilnod.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.288304,103.836657",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 236,
+        "package_id": 0,
+        "tags": [
+          {
+            "key": "deals_discount",
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "25% OFF"
+          }
+        ],
+        "need_hide_review": false,
+        "deeplink": "https://www.klook.com/en-US/activity/65914-tien-court-restaurant-copthorne-kings-hotel/",
+        "deep_link": "https://www.klook.com/en-US/activity/65914-tien-court-restaurant-copthorne-kings-hotel/",
+        "vertical_type": 106,
+        "vertical_id": 65914,
+        "custom_tags": null,
+        "tag_ids": [
+          179
+        ],
+        "what_we_love": ""
       }
     ],
-    "total": 841,
+    "total": 838,
     "price": {
       "from": "0",
       "to": "519"
