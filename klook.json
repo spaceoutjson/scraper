@@ -1357,21 +1357,21 @@
         "score": 0,
         "currency": "SGD",
         "market_price": "32.00",
-        "sell_price": "20.00",
-        "from_price": "20.00",
+        "sell_price": "32.00",
+        "from_price": "32.00",
         "to_price": "32.00",
         "spec_price": {
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-14 00:00:00",
+        "start_time": "2022-01-15 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 5,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
-          "deals_discount": "38% OFF"
+          "deals_discount": "37% OFF"
         },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/gtfgenvhytfpsg30s0sm.jpg",
@@ -1395,7 +1395,7 @@
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
-            "text": "38% OFF"
+            "text": "37% OFF"
           }
         ],
         "need_hide_review": true,
@@ -1485,7 +1485,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-01-20 00:00:00",
+        "start_time": "2022-01-21 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
