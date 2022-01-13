@@ -203,6 +203,37 @@
         ]
       },
       {
+        "id": 105,
+        "name": "Events & movies",
+        "enable": true,
+        "children": [
+          {
+            "id": 60,
+            "name": "Festivals & carninvals",
+            "enable": true,
+            "children": null
+          },
+          {
+            "id": 61,
+            "name": "Marathon & Run",
+            "enable": true,
+            "children": null
+          },
+          {
+            "id": 62,
+            "name": "Concerts",
+            "enable": true,
+            "children": null
+          },
+          {
+            "id": 63,
+            "name": "Shows",
+            "enable": true,
+            "children": null
+          }
+        ]
+      },
+      {
         "id": 102,
         "name": "Airport transfer",
         "enable": true,
