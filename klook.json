@@ -289,7 +289,6 @@
     "start_time": [
       "2021-12-18T00:00:00Z",
       "2021-12-19T00:00:00Z",
-      "2022-01-13T00:00:00Z",
       "2022-01-14T00:00:00Z",
       "2022-01-15T00:00:00Z",
       "2022-01-16T00:00:00Z",
@@ -561,7 +560,8 @@
       "2022-10-09T00:00:00Z",
       "2022-10-10T00:00:00Z",
       "2022-10-11T00:00:00Z",
-      "2022-10-12T00:00:00Z"
+      "2022-10-12T00:00:00Z",
+      "2022-10-13T00:00:00Z"
     ],
     "activities": [
       {
@@ -1535,9 +1535,6 @@
         "participate": 5,
         "participants_format": "New Activity",
         "discount": 0,
-        "card_tags": {
-          "deals_discount": "37% OFF"
-        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/gtfgenvhytfpsg30s0sm.jpg",
         "icon": null,
@@ -1554,15 +1551,7 @@
         "real_lang": "",
         "leaf_category": 106,
         "package_id": 0,
-        "tags": [
-          {
-            "key": "deals_discount",
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "37% OFF"
-          }
-        ],
+        "tags": null,
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/65631-trickeye-southside-admission/",
         "deep_link": "https://www.klook.com/en-US/activity/65631-trickeye-southside-admission/",
@@ -2034,61 +2023,6 @@
         "custom_tags": null,
         "tag_ids": [
           85
-        ],
-        "what_we_love": ""
-      },
-      {
-        "id": 66396,
-        "template_id": 3,
-        "title": "Natureland Spa & Therapy",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 4,
-        "currency": "SGD",
-        "market_price": "",
-        "sell_price": "",
-        "from_price": "",
-        "to_price": "",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2022-01-14 00:00:00",
-        "sold_out": true,
-        "published": true,
-        "participate": 104,
-        "participants_format": "100+ Booked",
-        "discount": 0,
-        "review_total": 1,
-        "image_url_host": "https://res.klook.com/image/upload/activities/rmxhdztdrjjw5iuujqnz.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.305292,103.830378",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 418,
-        "package_id": 0,
-        "tags": null,
-        "need_hide_review": false,
-        "deeplink": "https://www.klook.com/en-US/activity/66396-natureland-massage-reflexology-singapore/",
-        "deep_link": "https://www.klook.com/en-US/activity/66396-natureland-massage-reflexology-singapore/",
-        "vertical_type": 100,
-        "vertical_id": 66396,
-        "custom_tags": null,
-        "tag_ids": [
-          30
         ],
         "what_we_love": ""
       },
@@ -3103,7 +3037,7 @@
         "start_time": "2022-01-14 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 4,
+        "participate": 6,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3169,7 +3103,7 @@
         "start_time": "2022-01-14 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 20,
+        "participate": 25,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3235,7 +3169,7 @@
         "start_time": "2022-01-14 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 12832,
+        "participate": 12871,
         "participants_format": "10K+ Booked",
         "discount": 0,
         "card_tags": {
@@ -3472,9 +3406,62 @@
           38
         ],
         "what_we_love": ""
+      },
+      {
+        "id": 58104,
+        "template_id": 1,
+        "title": "River Wonders’ Staycation with the Manatees",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 5,
+        "currency": "SGD",
+        "market_price": "999.00",
+        "sell_price": "999.00",
+        "from_price": "999.00",
+        "to_price": "999.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2022-03-12 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 41,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "review_total": 3,
+        "image_url_host": "https://res.klook.com/image/upload/activities/rjwfjdgsoyh5xscjhdvi.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.404748,103.789587",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 109,
+        "package_id": 0,
+        "tags": null,
+        "need_hide_review": false,
+        "deeplink": "https://www.klook.com/en-US/activity/58104-river-wonders-staycation-with-the-manatees/",
+        "deep_link": "https://www.klook.com/en-US/activity/58104-river-wonders-staycation-with-the-manatees/",
+        "vertical_type": 100,
+        "vertical_id": 58104,
+        "custom_tags": null,
+        "tag_ids": [],
+        "what_we_love": ""
       }
     ],
-    "total": 845,
+    "total": 840,
     "price": {
       "from": "0",
       "to": "519"
