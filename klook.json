@@ -565,6 +565,61 @@
     ],
     "activities": [
       {
+        "id": 66898,
+        "template_id": 3,
+        "title": "Mastereign Learning Journeys Tours",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "53.50",
+        "sell_price": "53.50",
+        "from_price": "53.50",
+        "to_price": "53.50",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2022-01-22 10:30:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/o9dek0h3r2vqnjyvxim6.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.352083,103.819836",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 124,
+        "package_id": 0,
+        "tags": null,
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/66898-mastereign-learning-journeys-tours/",
+        "deep_link": "https://www.klook.com/en-US/activity/66898-mastereign-learning-journeys-tours/",
+        "vertical_type": 100,
+        "vertical_id": 66898,
+        "custom_tags": null,
+        "tag_ids": [
+          30
+        ],
+        "what_we_love": ""
+      },
+      {
         "id": 66468,
         "template_id": 3,
         "title": "Chakra Balancing, Reiki Healing, Light Energy Weave Healing, Heart Healing Experience",
@@ -3426,75 +3481,9 @@
           52
         ],
         "what_we_love": ""
-      },
-      {
-        "id": 65914,
-        "template_id": 4,
-        "title": "Tien Court Restaurant at Copthorne King's Hotel",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "50.00",
-        "sell_price": "37.50",
-        "from_price": "37.50",
-        "to_price": "75.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2022-01-13 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 2,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "deals_discount": "25% OFF"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/zpxnwrzwdmkqnyqilnod.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.288304,103.836657",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 236,
-        "package_id": 0,
-        "tags": [
-          {
-            "key": "deals_discount",
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "25% OFF"
-          }
-        ],
-        "need_hide_review": false,
-        "deeplink": "https://www.klook.com/en-US/activity/65914-tien-court-restaurant-copthorne-kings-hotel/",
-        "deep_link": "https://www.klook.com/en-US/activity/65914-tien-court-restaurant-copthorne-kings-hotel/",
-        "vertical_type": 106,
-        "vertical_id": 65914,
-        "custom_tags": null,
-        "tag_ids": [
-          179
-        ],
-        "what_we_love": ""
       }
     ],
-    "total": 839,
+    "total": 840,
     "price": {
       "from": "0",
       "to": "519"
