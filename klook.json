@@ -592,7 +592,8 @@
       "2022-10-10T00:00:00Z",
       "2022-10-11T00:00:00Z",
       "2022-10-12T00:00:00Z",
-      "2022-10-13T00:00:00Z"
+      "2022-10-13T00:00:00Z",
+      "2022-10-14T00:00:00Z"
     ],
     "activities": [
       {
@@ -2081,10 +2082,10 @@
         "start_time": "2022-01-16 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 105,
+        "participate": 109,
         "participants_format": "100+ Booked",
         "discount": 0,
-        "review_total": 1,
+        "review_total": 2,
         "image_url_host": "https://res.klook.com/image/upload/activities/rmxhdztdrjjw5iuujqnz.jpg",
         "icon": null,
         "icons": null,
@@ -2258,7 +2259,7 @@
         "start_time": "2022-01-18 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 36,
+        "participate": 38,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 1,
@@ -3189,7 +3190,7 @@
         "start_time": "2022-01-15 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 25,
+        "participate": 29,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3242,7 +3243,7 @@
         "instance": 1,
         "image_url": "",
         "video_url": "",
-        "score": 4.1,
+        "score": 4.3,
         "currency": "SGD",
         "market_price": "16.20",
         "sell_price": "16.20",
@@ -3255,13 +3256,13 @@
         "start_time": "2022-01-15 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 12871,
+        "participate": 12905,
         "participants_format": "10K+ Booked",
         "discount": 0,
         "card_tags": {
           "bestseller": "Bestseller"
         },
-        "review_total": 27,
+        "review_total": 31,
         "image_url_host": "https://res.klook.com/image/upload/activities/cht39nhyne6yuwklhw8r.jpg",
         "icon": null,
         "icons": null,
@@ -3321,8 +3322,8 @@
         "start_time": "2022-01-15 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 195,
-        "participants_format": "100+ Booked",
+        "participate": 200,
+        "participants_format": "200+ Booked",
         "discount": 0,
         "card_tags": {
           "deals_discount": "19% OFF"
@@ -3451,7 +3452,7 @@
         "start_time": "2022-01-16 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 148,
+        "participate": 150,
         "participants_format": "100+ Booked",
         "discount": 0,
         "card_tags": {
@@ -3494,7 +3495,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 842,
+    "total": 841,
     "price": {
       "from": "0",
       "to": "519"
