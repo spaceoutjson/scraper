@@ -320,7 +320,6 @@
     "start_time": [
       "2021-12-18T00:00:00Z",
       "2021-12-19T00:00:00Z",
-      "2022-01-14T00:00:00Z",
       "2022-01-15T00:00:00Z",
       "2022-01-16T00:00:00Z",
       "2022-01-17T00:00:00Z",
@@ -593,7 +592,8 @@
       "2022-10-11T00:00:00Z",
       "2022-10-12T00:00:00Z",
       "2022-10-13T00:00:00Z",
-      "2022-10-14T00:00:00Z"
+      "2022-10-14T00:00:00Z",
+      "2022-10-15T00:00:00Z"
     ],
     "activities": [
       {
@@ -1619,7 +1619,7 @@
         "start_time": "2022-01-17 11:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 2,
+        "participate": 4,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -2082,7 +2082,7 @@
         "start_time": "2022-01-17 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 109,
+        "participate": 111,
         "participants_format": "100+ Booked",
         "discount": 0,
         "review_total": 2,
@@ -3243,7 +3243,7 @@
         "instance": 1,
         "image_url": "",
         "video_url": "",
-        "score": 4.3,
+        "score": 4.1,
         "currency": "SGD",
         "market_price": "16.20",
         "sell_price": "16.20",
@@ -3256,13 +3256,13 @@
         "start_time": "2022-01-16 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 12905,
+        "participate": 12956,
         "participants_format": "10K+ Booked",
         "discount": 0,
         "card_tags": {
           "bestseller": "Bestseller"
         },
-        "review_total": 31,
+        "review_total": 33,
         "image_url_host": "https://res.klook.com/image/upload/activities/cht39nhyne6yuwklhw8r.jpg",
         "icon": null,
         "icons": null,
@@ -3322,7 +3322,7 @@
         "start_time": "2022-01-16 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 200,
+        "participate": 203,
         "participants_format": "200+ Booked",
         "discount": 0,
         "card_tags": {
