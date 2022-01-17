@@ -320,8 +320,6 @@
     "start_time": [
       "2021-12-18T00:00:00Z",
       "2021-12-19T00:00:00Z",
-      "2022-01-16T00:00:00Z",
-      "2022-01-17T00:00:00Z",
       "2022-01-18T00:00:00Z",
       "2022-01-19T00:00:00Z",
       "2022-01-20T00:00:00Z",
@@ -593,7 +591,8 @@
       "2022-10-13T00:00:00Z",
       "2022-10-14T00:00:00Z",
       "2022-10-15T00:00:00Z",
-      "2022-10-16T00:00:00Z"
+      "2022-10-16T00:00:00Z",
+      "2022-10-17T00:00:00Z"
     ],
     "activities": [
       {
@@ -2069,7 +2068,7 @@
         "instance": 1,
         "image_url": "",
         "video_url": "",
-        "score": 4,
+        "score": 4.5,
         "currency": "SGD",
         "market_price": "72.79",
         "sell_price": "72.79",
@@ -2085,7 +2084,7 @@
         "participate": 113,
         "participants_format": "100+ Booked",
         "discount": 0,
-        "review_total": 2,
+        "review_total": 4,
         "image_url_host": "https://res.klook.com/image/upload/activities/rmxhdztdrjjw5iuujqnz.jpg",
         "icon": null,
         "icons": null,
@@ -2431,7 +2430,7 @@
         "card_tags": {
           "deals_discount": "33% OFF"
         },
-        "review_total": 1,
+        "review_total": 2,
         "image_url_host": "https://res.klook.com/image/upload/activities/i3gpbn9k2rujaknsyq4h.jpg",
         "icon": null,
         "icons": null,
@@ -3256,7 +3255,7 @@
         "start_time": "2022-01-18 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 12999,
+        "participate": 13033,
         "participants_format": "10K+ Booked",
         "discount": 0,
         "card_tags": {
@@ -3495,7 +3494,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 839,
+    "total": 834,
     "price": {
       "from": "0",
       "to": "520"
