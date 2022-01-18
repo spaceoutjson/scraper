@@ -220,12 +220,6 @@
             "children": null
           },
           {
-            "id": 62,
-            "name": "Concerts",
-            "enable": true,
-            "children": null
-          },
-          {
             "id": 63,
             "name": "Shows",
             "enable": true,
@@ -318,9 +312,6 @@
       }
     ],
     "start_time": [
-      "2021-12-18T00:00:00Z",
-      "2021-12-19T00:00:00Z",
-      "2022-01-18T00:00:00Z",
       "2022-01-19T00:00:00Z",
       "2022-01-20T00:00:00Z",
       "2022-01-21T00:00:00Z",
@@ -592,7 +583,8 @@
       "2022-10-14T00:00:00Z",
       "2022-10-15T00:00:00Z",
       "2022-10-16T00:00:00Z",
-      "2022-10-17T00:00:00Z"
+      "2022-10-17T00:00:00Z",
+      "2022-10-18T00:00:00Z"
     ],
     "activities": [
       {
@@ -1550,7 +1542,7 @@
         "start_time": "2022-01-20 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 1,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -1781,7 +1773,7 @@
         "start_time": "2022-01-22 15:30:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 2,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -2134,7 +2126,7 @@
         "start_time": "2022-01-20 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 113,
+        "participate": 114,
         "participants_format": "100+ Booked",
         "discount": 0,
         "review_total": 4,
@@ -3242,7 +3234,7 @@
         "start_time": "2022-01-19 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 31,
+        "participate": 32,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3295,7 +3287,7 @@
         "instance": 1,
         "image_url": "",
         "video_url": "",
-        "score": 4.1,
+        "score": 4.2,
         "currency": "SGD",
         "market_price": "16.20",
         "sell_price": "16.20",
@@ -3308,13 +3300,13 @@
         "start_time": "2022-01-19 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 13033,
+        "participate": 13063,
         "participants_format": "10K+ Booked",
         "discount": 0,
         "card_tags": {
           "bestseller": "Bestseller"
         },
-        "review_total": 34,
+        "review_total": 37,
         "image_url_host": "https://res.klook.com/image/upload/activities/cht39nhyne6yuwklhw8r.jpg",
         "icon": null,
         "icons": null,
@@ -3481,7 +3473,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 837,
+    "total": 836,
     "price": {
       "from": "0",
       "to": "520"
