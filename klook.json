@@ -224,6 +224,18 @@
             "name": "Shows",
             "enable": true,
             "children": null
+          },
+          {
+            "id": 145,
+            "name": "Pop-up",
+            "enable": true,
+            "children": null
+          },
+          {
+            "id": 146,
+            "name": "Seminar",
+            "enable": true,
+            "children": null
           }
         ]
       },
