@@ -312,7 +312,6 @@
       }
     ],
     "start_time": [
-      "2022-01-19T00:00:00Z",
       "2022-01-20T00:00:00Z",
       "2022-01-21T00:00:00Z",
       "2022-01-22T00:00:00Z",
@@ -584,7 +583,8 @@
       "2022-10-15T00:00:00Z",
       "2022-10-16T00:00:00Z",
       "2022-10-17T00:00:00Z",
-      "2022-10-18T00:00:00Z"
+      "2022-10-18T00:00:00Z",
+      "2022-10-19T00:00:00Z"
     ],
     "activities": [
       {
@@ -1608,7 +1608,7 @@
         "start_time": "2022-01-21 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 5,
+        "participate": 8,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -3300,7 +3300,7 @@
         "start_time": "2022-01-20 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 13063,
+        "participate": 13099,
         "participants_format": "10K+ Booked",
         "discount": 0,
         "card_tags": {
@@ -3366,7 +3366,7 @@
         "start_time": "2022-01-20 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 204,
+        "participate": 206,
         "participants_format": "200+ Booked",
         "discount": 0,
         "card_tags": {
@@ -3473,7 +3473,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 839,
+    "total": 837,
     "price": {
       "from": "0",
       "to": "519"
