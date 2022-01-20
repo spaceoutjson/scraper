@@ -600,6 +600,72 @@
     ],
     "activities": [
       {
+        "id": 67189,
+        "template_id": 3,
+        "title": "The DRx Medispa",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "350.00",
+        "sell_price": "95.00",
+        "from_price": "95.00",
+        "to_price": "105.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2022-01-22 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "deals_discount": "73% OFF"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/mec3gugholh62vnv7xrj.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.301688,103.838007",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 419,
+        "package_id": 0,
+        "tags": [
+          {
+            "key": "deals_discount",
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "73% OFF"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/67189-drx-clinic-treatments-singapore/",
+        "deep_link": "https://www.klook.com/en-US/activity/67189-drx-clinic-treatments-singapore/",
+        "vertical_type": 100,
+        "vertical_id": 67189,
+        "custom_tags": null,
+        "tag_ids": [
+          178
+        ],
+        "what_we_love": ""
+      },
+      {
         "id": 67260,
         "template_id": 3,
         "title": "Mountain Bicycle Rental by GoBike Singapore",
@@ -3417,75 +3483,9 @@
         "custom_tags": null,
         "tag_ids": [],
         "what_we_love": ""
-      },
-      {
-        "id": 65456,
-        "template_id": 1,
-        "title": "[Klook Exclusive] Adventure Pass - Bundle & Save",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "84.00",
-        "sell_price": "70.00",
-        "from_price": "70.00",
-        "to_price": "114.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2022-01-20 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 19,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "deals_discount": "17% OFF"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/xdsvkjzvcb0jvxqgdk7x.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.301527,103.836345",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 120,
-        "package_id": 0,
-        "tags": [
-          {
-            "key": "deals_discount",
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "17% OFF"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/65456-Singapore%20Adventure%20Pass/",
-        "deep_link": "https://www.klook.com/en-US/activity/65456-Singapore%20Adventure%20Pass/",
-        "vertical_type": 100,
-        "vertical_id": 65456,
-        "custom_tags": null,
-        "tag_ids": [
-          34
-        ],
-        "what_we_love": ""
       }
     ],
-    "total": 837,
+    "total": 838,
     "price": {
       "from": "0",
       "to": "519"
