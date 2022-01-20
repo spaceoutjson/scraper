@@ -600,6 +600,72 @@
     ],
     "activities": [
       {
+        "id": 67646,
+        "template_id": 3,
+        "title": "Scentopia Sentosa",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "125.00",
+        "sell_price": "62.50",
+        "from_price": "62.50",
+        "to_price": "62.50",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2022-03-15 11:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "deals_discount": "50% OFF"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/zrxojdqojyvupswjhtvn.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.254442,103.813996",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 124,
+        "package_id": 0,
+        "tags": [
+          {
+            "key": "deals_discount",
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "50% OFF"
+          }
+        ],
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/67646-scentopia-sentosa-singapore/",
+        "deep_link": "https://www.klook.com/en-US/activity/67646-scentopia-sentosa-singapore/",
+        "vertical_type": 100,
+        "vertical_id": 67646,
+        "custom_tags": null,
+        "tag_ids": [
+          8
+        ],
+        "what_we_love": ""
+      },
+      {
         "id": 66568,
         "template_id": 3,
         "title": "BearyFun Gym Kids Gymnastics Class in Singapore",
@@ -3419,75 +3485,9 @@
           29
         ],
         "what_we_love": ""
-      },
-      {
-        "id": 65992,
-        "template_id": 1,
-        "title": "SkyHelix Sentosa Singapore",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 4.2,
-        "currency": "SGD",
-        "market_price": "16.20",
-        "sell_price": "16.20",
-        "from_price": "16.20",
-        "to_price": "16.20",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2022-01-20 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 13099,
-        "participants_format": "10K+ Booked",
-        "discount": 0,
-        "card_tags": {
-          "bestseller": "Bestseller"
-        },
-        "review_total": 37,
-        "image_url_host": "https://res.klook.com/image/upload/activities/cht39nhyne6yuwklhw8r.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.255094,103.817597",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 521,
-        "package_id": 0,
-        "tags": [
-          {
-            "key": "bestseller",
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "Bestseller"
-          }
-        ],
-        "need_hide_review": false,
-        "deeplink": "https://www.klook.com/en-US/activity/65992-skyhelix-sentosa-singapore-tickets/",
-        "deep_link": "https://www.klook.com/en-US/activity/65992-skyhelix-sentosa-singapore-tickets/",
-        "vertical_type": 100,
-        "vertical_id": 65992,
-        "custom_tags": null,
-        "tag_ids": [
-          250
-        ],
-        "what_we_love": ""
       }
     ],
-    "total": 842,
+    "total": 843,
     "price": {
       "from": "0",
       "to": "519"
