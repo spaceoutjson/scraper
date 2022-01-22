@@ -324,7 +324,6 @@
       }
     ],
     "start_time": [
-      "2022-01-21T00:00:00Z",
       "2022-01-22T00:00:00Z",
       "2022-01-23T00:00:00Z",
       "2022-01-24T00:00:00Z",
@@ -597,7 +596,8 @@
       "2022-10-18T00:00:00Z",
       "2022-10-19T00:00:00Z",
       "2022-10-20T00:00:00Z",
-      "2022-10-21T00:00:00Z"
+      "2022-10-21T00:00:00Z",
+      "2022-10-22T00:00:00Z"
     ],
     "activities": [
       {
@@ -2551,7 +2551,7 @@
         "instance": 1,
         "image_url": "",
         "video_url": "",
-        "score": 4.5,
+        "score": 4.6,
         "currency": "SGD",
         "market_price": "72.79",
         "sell_price": "72.79",
@@ -2567,7 +2567,7 @@
         "participate": 123,
         "participants_format": "100+ Booked",
         "discount": 0,
-        "review_total": 4,
+        "review_total": 5,
         "image_url_host": "https://res.klook.com/image/upload/activities/rmxhdztdrjjw5iuujqnz.jpg",
         "icon": null,
         "icons": null,
@@ -3460,7 +3460,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 853,
+    "total": 852,
     "price": {
       "from": "0",
       "to": "519"
