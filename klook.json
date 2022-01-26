@@ -606,6 +606,61 @@
     ],
     "activities": [
       {
+        "id": 67847,
+        "template_id": 1,
+        "title": "[Klook Exclusive] The Sharul & Kumar Show",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "68.00",
+        "sell_price": "70.00",
+        "from_price": "70.00",
+        "to_price": "70.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2022-03-08 20:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 2,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/iqr9lhsiawj9ncduk4eu.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.291384,103.841773",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 480,
+        "package_id": 0,
+        "tags": null,
+        "need_hide_review": true,
+        "deeplink": "https://www.klook.com/en-US/activity/67847-the-sharul-and-kumar-show/",
+        "deep_link": "https://www.klook.com/en-US/activity/67847-the-sharul-and-kumar-show/",
+        "vertical_type": 100,
+        "vertical_id": 67847,
+        "custom_tags": null,
+        "tag_ids": [
+          33
+        ],
+        "what_we_love": ""
+      },
+      {
         "id": 67790,
         "template_id": 4,
         "title": "Tablescape Restaurant and Bar at Grand Park City Hall",
@@ -3391,75 +3446,9 @@
           186
         ],
         "what_we_love": ""
-      },
-      {
-        "id": 64208,
-        "template_id": 3,
-        "title": "Craft Clay Sushi Earring Workshop",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 0,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "72.00",
-        "sell_price": "42.19",
-        "from_price": "42.19",
-        "to_price": "42.19",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2022-01-28 11:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 0,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "deals_discount": "41% OFF"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/juqi8dr7o3rmfnprrvwn.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.443283,103.829575",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 124,
-        "package_id": 0,
-        "tags": [
-          {
-            "key": "deals_discount",
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "41% OFF"
-          }
-        ],
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/64208-craft-clay-sushi-earring-workshop/",
-        "deep_link": "https://www.klook.com/en-US/activity/64208-craft-clay-sushi-earring-workshop/",
-        "vertical_type": 100,
-        "vertical_id": 64208,
-        "custom_tags": null,
-        "tag_ids": [
-          169
-        ],
-        "what_we_love": ""
       }
     ],
-    "total": 862,
+    "total": 863,
     "price": {
       "from": "0",
       "to": "519"
