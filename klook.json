@@ -1309,7 +1309,7 @@
       {
         "id": 67955,
         "template_id": 1,
-        "title": "Universal Studios Singapore Tickets (for SRV rebooking)",
+        "title": "Universal Studios Singapore / Duo-Park packages with SEAA or ACW (for SRV rebooking)",
         "subtitle": "",
         "url_seo": "",
         "city_id": 6,
@@ -1322,15 +1322,15 @@
         "market_price": "68.00",
         "sell_price": "68.00",
         "from_price": "68.00",
-        "to_price": "68.00",
+        "to_price": "248.00",
         "spec_price": {
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-02-01 00:00:00",
+        "start_time": "2022-01-28 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 10,
+        "participate": 11,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
