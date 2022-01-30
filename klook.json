@@ -214,12 +214,6 @@
             "children": null
           },
           {
-            "id": 61,
-            "name": "Marathon & Run",
-            "enable": true,
-            "children": null
-          },
-          {
             "id": 62,
             "name": "Concerts",
             "enable": true,
@@ -336,7 +330,6 @@
       }
     ],
     "start_time": [
-      "2022-01-30T00:00:00Z",
       "2022-01-31T00:00:00Z",
       "2022-02-01T00:00:00Z",
       "2022-02-02T00:00:00Z",
@@ -608,7 +601,8 @@
       "2022-10-26T00:00:00Z",
       "2022-10-27T00:00:00Z",
       "2022-10-28T00:00:00Z",
-      "2022-10-29T00:00:00Z"
+      "2022-10-29T00:00:00Z",
+      "2022-10-30T00:00:00Z"
     ],
     "activities": [
       {
@@ -1317,10 +1311,10 @@
         "video_url": "",
         "score": 0,
         "currency": "SGD",
-        "market_price": "6.65",
-        "sell_price": "6.65",
-        "from_price": "6.65",
-        "to_price": "6.65",
+        "market_price": "6.6",
+        "sell_price": "6.6",
+        "from_price": "6.6",
+        "to_price": "6.6",
         "spec_price": {
           "type": 0,
           "desc": ""
@@ -1436,7 +1430,7 @@
         "start_time": "2022-02-01 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 17,
+        "participate": 36,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -1492,8 +1486,8 @@
         "start_time": "2022-03-08 20:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 267,
-        "participants_format": "200+ Booked",
+        "participate": 320,
+        "participants_format": "300+ Booked",
         "discount": 0,
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/dpgpx5js1dsjkkk8xmqg.jpg",
@@ -1882,7 +1876,7 @@
         "start_time": "2022-01-31 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 4,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -3007,7 +3001,7 @@
         "start_time": "2022-02-02 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 6,
+        "participate": 7,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3073,7 +3067,7 @@
         "start_time": "2022-02-01 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 22,
+        "participate": 29,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -3293,7 +3287,7 @@
         "start_time": "2022-03-01 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 1981,
+        "participate": 1982,
         "participants_format": "1K+ Booked",
         "discount": 0,
         "review_total": 0,
@@ -3380,7 +3374,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 881,
+    "total": 877,
     "price": {
       "from": "0",
       "to": "522"
