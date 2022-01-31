@@ -330,7 +330,6 @@
       }
     ],
     "start_time": [
-      "2022-01-31T00:00:00Z",
       "2022-02-01T00:00:00Z",
       "2022-02-02T00:00:00Z",
       "2022-02-03T00:00:00Z",
@@ -602,7 +601,8 @@
       "2022-10-27T00:00:00Z",
       "2022-10-28T00:00:00Z",
       "2022-10-29T00:00:00Z",
-      "2022-10-30T00:00:00Z"
+      "2022-10-30T00:00:00Z",
+      "2022-10-31T00:00:00Z"
     ],
     "activities": [
       {
@@ -1430,7 +1430,7 @@
         "start_time": "2022-02-01 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 36,
+        "participate": 39,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -1486,7 +1486,7 @@
         "start_time": "2022-03-08 20:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 320,
+        "participate": 368,
         "participants_format": "300+ Booked",
         "discount": 0,
         "review_total": 0,
@@ -3001,7 +3001,7 @@
         "start_time": "2022-02-02 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 7,
+        "participate": 8,
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
@@ -3067,7 +3067,7 @@
         "start_time": "2022-02-02 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 29,
+        "participate": 33,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -3374,7 +3374,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 878,
+    "total": 876,
     "price": {
       "from": "0",
       "to": "521"
