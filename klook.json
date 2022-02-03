@@ -607,6 +607,72 @@
     ],
     "activities": [
       {
+        "id": 68208,
+        "template_id": 4,
+        "title": "(Alfresco Pet-Friendly) Hotel Indigo Garden at Hotel Indigo Katong",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "50.00",
+        "sell_price": "45.00",
+        "from_price": "45.00",
+        "to_price": "90.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2022-02-03 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "deals_discount": "10% OFF"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/hdimati5gmwwinfz5hh7.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.305095,103.904295",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 236,
+        "package_id": 0,
+        "tags": [
+          {
+            "key": "deals_discount",
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "10% OFF"
+          }
+        ],
+        "need_hide_review": false,
+        "deeplink": "https://www.klook.com/en-US/activity/68208-hotel-indigo-garden-hotel-indigo-singapore-katong/",
+        "deep_link": "https://www.klook.com/en-US/activity/68208-hotel-indigo-garden-hotel-indigo-singapore-katong/",
+        "vertical_type": 106,
+        "vertical_id": 68208,
+        "custom_tags": null,
+        "tag_ids": [
+          41
+        ],
+        "what_we_love": ""
+      },
+      {
         "id": 67004,
         "template_id": 3,
         "title": "Reiki Healing and Chakra Balancing in Singapore",
@@ -3320,64 +3386,9 @@
           250
         ],
         "what_we_love": ""
-      },
-      {
-        "id": 66552,
-        "template_id": 3,
-        "title": "Cutloop Studio Tufting Workshop in Singapore ",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 0,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "158.00",
-        "sell_price": "158.00",
-        "from_price": "158.00",
-        "to_price": "188.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2022-02-05 09:30:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 6,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/ebtgtws7tjarykjdohe6.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.279914,103.841669",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 124,
-        "package_id": 0,
-        "tags": null,
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/66552-cutloop-studio-tufting-workshop/",
-        "deep_link": "https://www.klook.com/en-US/activity/66552-cutloop-studio-tufting-workshop/",
-        "vertical_type": 100,
-        "vertical_id": 66552,
-        "custom_tags": null,
-        "tag_ids": [
-          23
-        ],
-        "what_we_love": ""
       }
     ],
-    "total": 878,
+    "total": 879,
     "price": {
       "from": "0",
       "to": "519"
