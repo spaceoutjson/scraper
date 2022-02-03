@@ -3388,7 +3388,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 878,
+    "total": 879,
     "price": {
       "from": "0",
       "to": "519"
@@ -3578,6 +3578,11 @@
           {
             "id": 54,
             "name": "Survival Skills",
+            "disable": false
+          },
+          {
+            "id": 59,
+            "name": "K-Pop & K-Drama",
             "disable": false
           },
           {
