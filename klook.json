@@ -330,7 +330,6 @@
       }
     ],
     "start_time": [
-      "2022-02-05T00:00:00Z",
       "2022-02-06T00:00:00Z",
       "2022-02-07T00:00:00Z",
       "2022-02-08T00:00:00Z",
@@ -602,7 +601,8 @@
       "2022-11-01T00:00:00Z",
       "2022-11-02T00:00:00Z",
       "2022-11-03T00:00:00Z",
-      "2022-11-04T00:00:00Z"
+      "2022-11-04T00:00:00Z",
+      "2022-11-05T00:00:00Z"
     ],
     "activities": [
       {
@@ -629,7 +629,7 @@
         "start_time": "2022-02-06 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 6,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -1432,10 +1432,10 @@
         "video_url": "",
         "score": 0,
         "currency": "SGD",
-        "market_price": "6.55",
-        "sell_price": "6.55",
-        "from_price": "6.55",
-        "to_price": "6.55",
+        "market_price": "6.59",
+        "sell_price": "6.59",
+        "from_price": "6.59",
+        "to_price": "6.59",
         "spec_price": {
           "type": 0,
           "desc": ""
@@ -1551,7 +1551,7 @@
         "start_time": "2022-02-06 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 59,
+        "participate": 60,
         "participants_format": "50+ Booked",
         "discount": 0,
         "review_total": 0,
@@ -1607,8 +1607,8 @@
         "start_time": "2022-03-08 20:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 467,
-        "participants_format": "400+ Booked",
+        "participate": 522,
+        "participants_format": "500+ Booked",
         "discount": 0,
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/dpgpx5js1dsjkkk8xmqg.jpg",
@@ -2409,7 +2409,7 @@
         "start_time": "2022-02-13 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 3,
+        "participate": 6,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -2519,7 +2519,7 @@
         "start_time": "2022-02-13 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 2,
+        "participate": 4,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -3387,7 +3387,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 877,
+    "total": 874,
     "price": {
       "from": "0",
       "to": "519"
