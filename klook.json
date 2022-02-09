@@ -632,7 +632,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-02-12 00:00:00",
+        "start_time": "2022-02-13 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -687,7 +687,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-02-12 09:00:00",
+        "start_time": "2022-02-13 09:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -896,12 +896,12 @@
         "market_price": "40.00",
         "sell_price": "40.00",
         "from_price": "40.00",
-        "to_price": "110.00",
+        "to_price": "40.00",
         "spec_price": {
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-02-12 00:00:00",
+        "start_time": "2022-02-17 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -956,7 +956,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-02-13 00:00:00",
+        "start_time": "2022-02-14 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2075,7 +2075,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-02-09 00:00:00",
+        "start_time": "2022-02-10 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2141,7 +2141,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-02-13 00:00:00",
+        "start_time": "2022-02-14 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 1,
@@ -2459,7 +2459,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-02-11 00:00:00",
+        "start_time": "2022-02-12 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2514,7 +2514,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-02-10 00:00:00",
+        "start_time": "2022-02-11 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 2,
@@ -3106,7 +3106,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-02-11 12:00:00",
+        "start_time": "2022-02-12 12:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3161,7 +3161,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-02-24 00:00:00",
+        "start_time": "2022-02-25 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -3259,10 +3259,10 @@
         "video_url": "",
         "score": 0,
         "currency": "SGD",
-        "market_price": "110.35",
-        "sell_price": "110.35",
-        "from_price": "110.35",
-        "to_price": "376.69",
+        "market_price": "110.05",
+        "sell_price": "110.05",
+        "from_price": "110.05",
+        "to_price": "375.75",
         "spec_price": {
           "type": 0,
           "desc": ""
@@ -3305,7 +3305,7 @@
     "total": 899,
     "price": {
       "from": "0",
-      "to": "518"
+      "to": "517"
     },
     "stat": null,
     "template_tag_mapping": [
