@@ -673,7 +673,8 @@
       "2022-11-15T00:00:00Z",
       "2022-11-16T00:00:00Z",
       "2022-11-17T00:00:00Z",
-      "2022-11-18T00:00:00Z"
+      "2022-11-18T00:00:00Z",
+      "2022-11-19T00:00:00Z"
     ],
     "activities": [
       {
@@ -1601,7 +1602,7 @@
         "start_time": "2022-02-20 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 1,
+        "participate": 2,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -2343,7 +2344,7 @@
         "start_time": "2022-02-21 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 0,
+        "participate": 1,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -3329,7 +3330,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 996,
+    "total": 995,
     "price": {
       "from": "0",
       "to": "518"
