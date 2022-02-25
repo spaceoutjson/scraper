@@ -679,7 +679,8 @@
       "2022-11-21T00:00:00Z",
       "2022-11-22T00:00:00Z",
       "2022-11-23T00:00:00Z",
-      "2022-11-24T00:00:00Z"
+      "2022-11-24T00:00:00Z",
+      "2022-11-25T00:00:00Z"
     ],
     "activities": [
       {
@@ -999,6 +1000,59 @@
         "tag_ids": [
           61
         ],
+        "what_we_love": ""
+      },
+      {
+        "id": 101003940,
+        "template_id": 100,
+        "title": "Disability Arts: Critical Conversations between South Korea and Singapore",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 0,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "0",
+        "sell_price": "0",
+        "from_price": "",
+        "to_price": "",
+        "spec_price": {
+          "type": 3,
+          "desc": "Free"
+        },
+        "start_time": "2022-03-05 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/v1645798322/events_admin/f4nqimj6nc8izihvjyle.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "0,0",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 460,
+        "package_id": 0,
+        "tags": null,
+        "need_hide_review": false,
+        "deeplink": "https://www.klook.com/en-US/event-detail/101003940-2022-disability-arts",
+        "deep_link": "https://www.klook.com/en-US/event-detail/101003940-2022-disability-arts",
+        "vertical_type": 101,
+        "vertical_id": 101003940,
+        "custom_tags": null,
+        "tag_ids": [],
         "what_we_love": ""
       },
       {
@@ -2019,61 +2073,6 @@
         "vertical_id": 101003826,
         "custom_tags": null,
         "tag_ids": [],
-        "what_we_love": ""
-      },
-      {
-        "id": 68609,
-        "template_id": 1,
-        "title": "Giveaway - SkyHelix Sentosa Singapore ticket x 4 pairs",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 0,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "",
-        "sell_price": "",
-        "from_price": "",
-        "to_price": "",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "",
-        "sold_out": true,
-        "published": true,
-        "participate": 86,
-        "participants_format": "50+ Booked",
-        "discount": 0,
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/jf7ahmoowrh3r6dboa2c.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.254966,103.81765",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 521,
-        "package_id": 0,
-        "tags": null,
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/68609-win-skyhelix-sentosa-singapore-ticket/",
-        "deep_link": "https://www.klook.com/en-US/activity/68609-win-skyhelix-sentosa-singapore-ticket/",
-        "vertical_type": 100,
-        "vertical_id": 68609,
-        "custom_tags": null,
-        "tag_ids": [
-          250
-        ],
         "what_we_love": ""
       },
       {
@@ -3402,7 +3401,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1014,
+    "total": 1009,
     "price": {
       "from": "0",
       "to": "521"
