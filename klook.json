@@ -208,50 +208,14 @@
         "enable": true,
         "children": [
           {
-            "id": 59,
-            "name": "Conventions & exhibitions",
-            "enable": true,
-            "children": null
-          },
-          {
-            "id": 60,
-            "name": "Festivals & carninvals",
-            "enable": true,
-            "children": null
-          },
-          {
             "id": 62,
             "name": "Concerts",
             "enable": true,
             "children": null
           },
           {
-            "id": 63,
-            "name": "Shows",
-            "enable": true,
-            "children": null
-          },
-          {
             "id": 141,
             "name": "Online event",
-            "enable": true,
-            "children": null
-          },
-          {
-            "id": 143,
-            "name": "Movie",
-            "enable": true,
-            "children": null
-          },
-          {
-            "id": 145,
-            "name": "Pop-up",
-            "enable": true,
-            "children": null
-          },
-          {
-            "id": 146,
-            "name": "Seminar",
             "enable": true,
             "children": null
           }
