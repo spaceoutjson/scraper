@@ -3756,20 +3756,6 @@
       },
       {
         "template": {
-          "id": 20,
-          "name": "Insurance",
-          "disable": false
-        },
-        "tags": [
-          {
-            "id": 189,
-            "name": "Travel Insurance",
-            "disable": false
-          }
-        ]
-      },
-      {
-        "template": {
           "id": 14,
           "name": "Hotel Voucher",
           "disable": false
@@ -3783,6 +3769,20 @@
           {
             "id": 174,
             "name": "Staycation",
+            "disable": false
+          }
+        ]
+      },
+      {
+        "template": {
+          "id": 20,
+          "name": "Insurance",
+          "disable": false
+        },
+        "tags": [
+          {
+            "id": 189,
+            "name": "Travel Insurance",
             "disable": false
           }
         ]
