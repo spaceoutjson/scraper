@@ -1748,7 +1748,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-04 00:00:00",
+        "start_time": "2022-03-05 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2819,7 +2819,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-03 00:00:00",
+        "start_time": "2022-03-04 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2885,7 +2885,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-03 00:00:00",
+        "start_time": "2022-03-04 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 0,
@@ -2933,8 +2933,8 @@
         "score": 0,
         "currency": "SGD",
         "market_price": "28.00",
-        "sell_price": "25.20",
-        "from_price": "25.20",
+        "sell_price": "28.00",
+        "from_price": "28.00",
         "to_price": "28.00",
         "spec_price": {
           "type": 0,
@@ -2946,9 +2946,6 @@
         "participate": 4,
         "participants_format": "New Activity",
         "discount": 0,
-        "card_tags": {
-          "deals_discount": "10% OFF"
-        },
         "review_total": 0,
         "image_url_host": "https://res.klook.com/image/upload/activities/nnnjwdxmzfenrmqlkkig.jpg",
         "icon": null,
@@ -2965,15 +2962,7 @@
         "real_lang": "",
         "leaf_category": 482,
         "package_id": 0,
-        "tags": [
-          {
-            "key": "deals_discount",
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "10% OFF"
-          }
-        ],
+        "tags": null,
         "need_hide_review": true,
         "deeplink": "https://www.klook.com/en-US/activity/68635-creative-bao-workshop/",
         "deep_link": "https://www.klook.com/en-US/activity/68635-creative-bao-workshop/",
@@ -3006,7 +2995,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-04 00:00:00",
+        "start_time": "2022-03-05 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 2,
@@ -3072,7 +3061,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-04 00:00:00",
+        "start_time": "2022-03-05 00:00:00",
         "sold_out": false,
         "published": true,
         "participate": 1,
