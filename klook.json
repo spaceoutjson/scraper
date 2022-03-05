@@ -653,7 +653,8 @@
       "2022-12-01T00:00:00Z",
       "2022-12-02T00:00:00Z",
       "2022-12-03T00:00:00Z",
-      "2022-12-04T00:00:00Z"
+      "2022-12-04T00:00:00Z",
+      "2022-12-05T00:00:00Z"
     ],
     "activities": [
       {
@@ -1929,7 +1930,7 @@
         "start_time": "2022-03-06 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 25,
+        "participate": 27,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -3172,7 +3173,7 @@
         "start_time": "2022-03-06 00:00:00",
         "sold_out": false,
         "published": true,
-        "participate": 4,
+        "participate": 5,
         "participants_format": "New Activity",
         "discount": 0,
         "review_total": 0,
@@ -3402,7 +3403,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1077,
+    "total": 1074,
     "price": {
       "from": "0",
       "to": "523"
