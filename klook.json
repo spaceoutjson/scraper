@@ -659,6 +659,70 @@
     ],
     "activities": [
       {
+        "id": 69622,
+        "template_id": 103,
+        "title": "[Klook Exclusive] Singapore Multi Attractions Pass - Bundle & Save!",
+        "subtitle": "",
+        "url_seo": "",
+        "city_id": 6,
+        "city_name": "",
+        "instance": 1,
+        "image_url": "",
+        "video_url": "",
+        "score": 0,
+        "currency": "SGD",
+        "market_price": "55.00",
+        "sell_price": "41.00",
+        "from_price": "41.00",
+        "to_price": "144.00",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2022-03-08 00:00:00",
+        "sold_out": false,
+        "published": true,
+        "participate": 0,
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "deals_discount": "25% OFF"
+        },
+        "review_total": 0,
+        "image_url_host": "https://res.klook.com/image/upload/activities/mqt5pt32q6gmkutkhzdx.jpg",
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "latlng": "1.352083,103.819836",
+        "activity_type": "",
+        "ysim_info": null,
+        "country_id": 15,
+        "country_name": "Singapore",
+        "sales_channels": 0,
+        "is_srv_activity": false,
+        "detail_hotel": null,
+        "real_lang": "",
+        "leaf_category": 528,
+        "package_id": 0,
+        "tags": [
+          {
+            "key": "deals_discount",
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "25% OFF"
+          }
+        ],
+        "need_hide_review": false,
+        "deeplink": "https://www.klook.com/en-US/activity/69622-singapore-multi-attractions-pass/",
+        "deep_link": "https://www.klook.com/en-US/activity/69622-singapore-multi-attractions-pass/",
+        "vertical_type": 100,
+        "vertical_id": 69622,
+        "custom_tags": null,
+        "tag_ids": [],
+        "what_we_love": ""
+      },
+      {
         "id": 69523,
         "template_id": 4,
         "title": "SOCIEATY at One Farrer Hotel",
@@ -3336,75 +3400,9 @@
           38
         ],
         "what_we_love": ""
-      },
-      {
-        "id": 68739,
-        "template_id": 4,
-        "title": "Hei Sushi in Singapore",
-        "subtitle": "",
-        "url_seo": "",
-        "city_id": 6,
-        "city_name": "",
-        "instance": 1,
-        "image_url": "",
-        "video_url": "",
-        "score": 0,
-        "currency": "SGD",
-        "market_price": "50.00",
-        "sell_price": "45.00",
-        "from_price": "45.00",
-        "to_price": "45.00",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2022-03-08 00:00:00",
-        "sold_out": false,
-        "published": true,
-        "participate": 2,
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {
-          "deals_discount": "10% OFF"
-        },
-        "review_total": 0,
-        "image_url_host": "https://res.klook.com/image/upload/activities/ja7hs2tkruowigpaxjma.jpg",
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "latlng": "1.334973,103.889439",
-        "activity_type": "",
-        "ysim_info": null,
-        "country_id": 15,
-        "country_name": "Singapore",
-        "sales_channels": 0,
-        "is_srv_activity": false,
-        "detail_hotel": null,
-        "real_lang": "",
-        "leaf_category": 487,
-        "package_id": 0,
-        "tags": [
-          {
-            "key": "deals_discount",
-            "background_color_left": "#FF5722",
-            "background_color_right": "#FF5722",
-            "text_color": "#FFFFFF",
-            "text": "10% OFF"
-          }
-        ],
-        "need_hide_review": false,
-        "deeplink": "https://www.klook.com/en-US/activity/68739-hei-sushi-singapore/",
-        "deep_link": "https://www.klook.com/en-US/activity/68739-hei-sushi-singapore/",
-        "vertical_type": 106,
-        "vertical_id": 68739,
-        "custom_tags": null,
-        "tag_ids": [
-          183
-        ],
-        "what_we_love": ""
       }
     ],
-    "total": 1075,
+    "total": 1073,
     "price": {
       "from": "0",
       "to": "523"
