@@ -655,7 +655,8 @@
       "2022-12-03T00:00:00Z",
       "2022-12-04T00:00:00Z",
       "2022-12-05T00:00:00Z",
-      "2022-12-06T00:00:00Z"
+      "2022-12-06T00:00:00Z",
+      "2022-12-07T00:00:00Z"
     ],
     "activities": [
       {
@@ -2461,7 +2462,7 @@
       {
         "id": 69250,
         "instance": 1,
-        "participate": 40,
+        "participate": 50,
         "url_seo": "",
         "video_url": "",
         "score": 0,
@@ -2503,7 +2504,7 @@
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
-        "participants_format": "New Activity",
+        "participants_format": "50+ Booked",
         "discount": 0,
         "card_tags": {},
         "tags": null,
