@@ -645,7 +645,8 @@
       "2022-12-06T00:00:00Z",
       "2022-12-07T00:00:00Z",
       "2022-12-08T00:00:00Z",
-      "2022-12-09T00:00:00Z"
+      "2022-12-09T00:00:00Z",
+      "2022-12-10T00:00:00Z"
     ],
     "activities": [
       {
@@ -1603,7 +1604,7 @@
       {
         "id": 69622,
         "instance": 1,
-        "participate": 5,
+        "participate": 7,
         "url_seo": "",
         "video_url": "",
         "score": 0,
@@ -1895,7 +1896,7 @@
       {
         "id": 69752,
         "instance": 1,
-        "participate": 3,
+        "participate": 5,
         "url_seo": "",
         "video_url": "",
         "score": 0,
@@ -3253,7 +3254,7 @@
       {
         "id": 69250,
         "instance": 1,
-        "participate": 73,
+        "participate": 134,
         "url_seo": "",
         "video_url": "",
         "score": 0,
@@ -3295,7 +3296,7 @@
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
-        "participants_format": "50+ Booked",
+        "participants_format": "100+ Booked",
         "discount": 0,
         "card_tags": {},
         "tags": null,
@@ -3965,7 +3966,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1086,
+    "total": 1085,
     "price": {
       "from": "0",
       "to": "522"
@@ -4076,6 +4077,11 @@
           {
             "id": 151,
             "name": "Winery & Distillery Tours",
+            "disable": false
+          },
+          {
+            "id": 156,
+            "name": "Around Ba Na Hills",
             "disable": false
           },
           {
