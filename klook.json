@@ -647,7 +647,8 @@
       "2022-12-08T00:00:00Z",
       "2022-12-09T00:00:00Z",
       "2022-12-10T00:00:00Z",
-      "2022-12-11T00:00:00Z"
+      "2022-12-11T00:00:00Z",
+      "2022-12-12T00:00:00Z"
     ],
     "activities": [
       {
@@ -2543,7 +2544,7 @@
       {
         "id": 69799,
         "instance": 1,
-        "participate": 0,
+        "participate": 2,
         "url_seo": "",
         "video_url": "",
         "score": 0,
@@ -2609,7 +2610,7 @@
       {
         "id": 69752,
         "instance": 1,
-        "participate": 6,
+        "participate": 19,
         "url_seo": "",
         "video_url": "",
         "score": 0,
@@ -3965,7 +3966,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1094,
+    "total": 1090,
     "price": {
       "from": "0",
       "to": "517"
