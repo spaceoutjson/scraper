@@ -651,23 +651,7 @@
       "2022-12-12T00:00:00Z",
       "2022-12-13T00:00:00Z",
       "2022-12-14T00:00:00Z",
-      "2022-12-15T00:00:00Z",
-      "2022-12-16T00:00:00Z",
-      "2022-12-17T00:00:00Z",
-      "2022-12-18T00:00:00Z",
-      "2022-12-19T00:00:00Z",
-      "2022-12-20T00:00:00Z",
-      "2022-12-21T00:00:00Z",
-      "2022-12-22T00:00:00Z",
-      "2022-12-23T00:00:00Z",
-      "2022-12-24T00:00:00Z",
-      "2022-12-25T00:00:00Z",
-      "2022-12-26T00:00:00Z",
-      "2022-12-27T00:00:00Z",
-      "2022-12-28T00:00:00Z",
-      "2022-12-29T00:00:00Z",
-      "2022-12-30T00:00:00Z",
-      "2022-12-31T00:00:00Z"
+      "2022-12-15T00:00:00Z"
     ],
     "activities": [
       {
@@ -1563,10 +1547,10 @@
         "viewable_platform": 0,
         "currency": "SGD",
         "package_id": 0,
-        "market_price": "2.59",
-        "sell_price": "2.59",
-        "from_price": "2.59",
-        "to_price": "15.15",
+        "market_price": "2.65",
+        "sell_price": "2.65",
+        "from_price": "2.65",
+        "to_price": "15.35",
         "spec_price": {
           "type": 0,
           "desc": ""
@@ -2685,7 +2669,7 @@
       {
         "id": 69622,
         "instance": 1,
-        "participate": 10,
+        "participate": 13,
         "url_seo": "",
         "video_url": "",
         "score": 0,
@@ -2911,12 +2895,12 @@
       {
         "id": 69799,
         "instance": 1,
-        "participate": 2,
+        "participate": 4,
         "url_seo": "",
         "video_url": "",
-        "score": 0,
+        "score": 1,
         "published": true,
-        "review_total": 0,
+        "review_total": 1,
         "title": "Royal Palm at Orchid Country Club",
         "subtitle": "",
         "date_description": "",
@@ -4013,7 +3997,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1088,
+    "total": 1081,
     "price": {
       "from": "0",
       "to": "524"
