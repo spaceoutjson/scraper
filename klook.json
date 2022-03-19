@@ -766,7 +766,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-20 00:00:00",
+        "start_time": "2022-03-21 00:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
@@ -896,7 +896,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-20 00:00:00",
+        "start_time": "2022-03-21 00:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
@@ -1282,7 +1282,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-21 00:00:00",
+        "start_time": "2022-03-22 00:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
@@ -1358,7 +1358,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-21 12:00:00",
+        "start_time": "2022-03-22 12:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
@@ -1434,7 +1434,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-20 00:00:00",
+        "start_time": "2022-03-21 00:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
@@ -1500,7 +1500,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-19 00:00:00",
+        "start_time": "2022-03-20 00:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
@@ -1576,7 +1576,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-23 00:00:00",
+        "start_time": "2022-03-24 00:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
@@ -2282,7 +2282,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-19 00:00:00",
+        "start_time": "2022-03-20 00:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
@@ -2484,7 +2484,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-23 13:30:00",
+        "start_time": "2022-03-24 13:30:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
@@ -3154,7 +3154,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-20 00:00:00",
+        "start_time": "2022-03-21 00:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
@@ -3304,7 +3304,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-20 00:00:00",
+        "start_time": "2022-03-21 00:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
@@ -3370,16 +3370,16 @@
         "viewable_platform": 0,
         "currency": "SGD",
         "package_id": 0,
-        "market_price": "72.39",
-        "sell_price": "50.00",
-        "from_price": "50.00",
-        "to_price": "50.00",
+        "market_price": "",
+        "sell_price": "",
+        "from_price": "",
+        "to_price": "",
         "spec_price": {
           "type": 0,
           "desc": ""
         },
         "start_time": "2022-03-20 00:00:00",
-        "sold_out": false,
+        "sold_out": true,
         "package_count": 0,
         "hot_state": "",
         "participants_format": "New Activity",
@@ -3454,7 +3454,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-20 00:00:00",
+        "start_time": "2022-03-21 00:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
@@ -3530,7 +3530,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-20 00:00:00",
+        "start_time": "2022-03-21 00:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
@@ -3596,7 +3596,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-20 00:00:00",
+        "start_time": "2022-03-21 00:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
@@ -4009,7 +4009,7 @@
     "total": 1071,
     "price": {
       "from": "0",
-      "to": "521"
+      "to": "520"
     },
     "stat": null,
     "template_tag_mapping": [
