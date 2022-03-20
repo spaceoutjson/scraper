@@ -655,13 +655,14 @@
       "2022-12-16T00:00:00Z",
       "2022-12-17T00:00:00Z",
       "2022-12-18T00:00:00Z",
-      "2022-12-19T00:00:00Z"
+      "2022-12-19T00:00:00Z",
+      "2022-12-20T00:00:00Z"
     ],
     "activities": [
       {
         "id": 70235,
         "instance": 1,
-        "participate": 3,
+        "participate": 4,
         "url_seo": "",
         "video_url": "",
         "score": 0,
@@ -2219,10 +2220,10 @@
         "viewable_platform": 0,
         "currency": "SGD",
         "package_id": 0,
-        "market_price": "2.6",
-        "sell_price": "2.6",
-        "from_price": "2.6",
-        "to_price": "15.29",
+        "market_price": "2.59",
+        "sell_price": "2.59",
+        "from_price": "2.59",
+        "to_price": "15.25",
         "spec_price": {
           "type": 0,
           "desc": ""
@@ -2521,7 +2522,7 @@
       {
         "id": 69371,
         "instance": 1,
-        "participate": 3,
+        "participate": 6,
         "url_seo": "",
         "video_url": "",
         "score": 0,
@@ -3209,7 +3210,7 @@
       {
         "id": 69622,
         "instance": 1,
-        "participate": 38,
+        "participate": 40,
         "url_seo": "",
         "video_url": "",
         "score": 0,
@@ -4001,7 +4002,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1063,
+    "total": 1055,
     "price": {
       "from": "0",
       "to": "520"
