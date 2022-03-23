@@ -806,7 +806,7 @@
       {
         "id": 70278,
         "instance": 1,
-        "participate": 0,
+        "participate": 1,
         "url_seo": "",
         "video_url": "",
         "score": 0,
@@ -839,7 +839,7 @@
         "market_price": "89.00",
         "sell_price": "86.00",
         "from_price": "86.00",
-        "to_price": "172.00",
+        "to_price": "255.00",
         "spec_price": {
           "type": 0,
           "desc": ""
