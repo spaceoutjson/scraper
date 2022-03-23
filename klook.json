@@ -658,7 +658,8 @@
       "2022-12-19T00:00:00Z",
       "2022-12-20T00:00:00Z",
       "2022-12-21T00:00:00Z",
-      "2022-12-22T00:00:00Z"
+      "2022-12-22T00:00:00Z",
+      "2022-12-23T00:00:00Z"
     ],
     "activities": [
       {
@@ -1206,7 +1207,7 @@
       {
         "id": 69428,
         "instance": 1,
-        "participate": 15,
+        "participate": 18,
         "url_seo": "",
         "video_url": "",
         "score": 0,
@@ -2558,9 +2559,9 @@
         "viewable_platform": 0,
         "currency": "SGD",
         "package_id": 0,
-        "market_price": "2.59",
-        "sell_price": "2.59",
-        "from_price": "2.59",
+        "market_price": "2.6",
+        "sell_price": "2.6",
+        "from_price": "2.6",
         "to_price": "15.25",
         "spec_price": {
           "type": 0,
@@ -2860,7 +2861,7 @@
       {
         "id": 69371,
         "instance": 1,
-        "participate": 6,
+        "participate": 11,
         "url_seo": "",
         "video_url": "",
         "score": 0,
@@ -3548,7 +3549,7 @@
       {
         "id": 69622,
         "instance": 1,
-        "participate": 52,
+        "participate": 62,
         "url_seo": "",
         "video_url": "",
         "score": 0,
@@ -3611,8 +3612,8 @@
         "is_nsw_activity": false,
         "detail_hotel": null,
         "need_hide_review": false,
-        "deeplink": "https://www.klook.com/en-US/activity/69622-singapore-multi-attractions-pass/",
-        "deep_link": "https://www.klook.com/en-US/activity/69622-singapore-multi-attractions-pass/",
+        "deeplink": "https://www.klook.com/en-US/activity/69622-singapore-attractions-pass/",
+        "deep_link": "https://www.klook.com/en-US/activity/69622-singapore-attractions-pass/",
         "vertical_type": 100,
         "vertical_id": 69622,
         "custom_tags": null,
@@ -3622,7 +3623,7 @@
       {
         "id": 69720,
         "instance": 1,
-        "participate": 3,
+        "participate": 4,
         "url_seo": "",
         "video_url": "",
         "score": 0,
@@ -4020,7 +4021,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 1028,
+    "total": 991,
     "price": {
       "from": "0",
       "to": "521"
