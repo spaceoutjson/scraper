@@ -659,7 +659,8 @@
       "2022-12-20T00:00:00Z",
       "2022-12-21T00:00:00Z",
       "2022-12-22T00:00:00Z",
-      "2022-12-23T00:00:00Z"
+      "2022-12-23T00:00:00Z",
+      "2022-12-24T00:00:00Z"
     ],
     "activities": [
       {
@@ -729,7 +730,7 @@
       {
         "id": 70558,
         "instance": 1,
-        "participate": 1,
+        "participate": 5,
         "url_seo": "",
         "video_url": "",
         "score": 0,
@@ -1401,7 +1402,7 @@
       {
         "id": 69428,
         "instance": 1,
-        "participate": 18,
+        "participate": 33,
         "url_seo": "",
         "video_url": "",
         "score": 0,
@@ -2756,7 +2757,7 @@
         "market_price": "2.6",
         "sell_price": "2.6",
         "from_price": "2.6",
-        "to_price": "15.25",
+        "to_price": "15.29",
         "spec_price": {
           "type": 0,
           "desc": ""
@@ -3809,12 +3810,12 @@
       {
         "id": 69622,
         "instance": 1,
-        "participate": 62,
+        "participate": 64,
         "url_seo": "",
         "video_url": "",
-        "score": 0,
+        "score": 5,
         "published": true,
-        "review_total": 0,
+        "review_total": 1,
         "title": "[Klook Exclusive] Singapore Multi Attractions Pass - Bundle & Save!",
         "subtitle": "",
         "date_description": "",
@@ -3883,7 +3884,7 @@
       {
         "id": 69720,
         "instance": 1,
-        "participate": 4,
+        "participate": 6,
         "url_seo": "",
         "video_url": "",
         "score": 0,
@@ -3959,7 +3960,7 @@
       {
         "id": 69799,
         "instance": 1,
-        "participate": 4,
+        "participate": 5,
         "url_seo": "",
         "video_url": "",
         "score": 1,
@@ -4023,7 +4024,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 996,
+    "total": 979,
     "price": {
       "from": "0",
       "to": "521"
