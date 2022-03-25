@@ -927,15 +927,15 @@
         "viewable_platform": 0,
         "currency": "SGD",
         "package_id": 0,
-        "market_price": "428.00",
-        "sell_price": "428.00",
-        "from_price": "428.00",
-        "to_price": "5230.19",
+        "market_price": "214.00",
+        "sell_price": "214.00",
+        "from_price": "214.00",
+        "to_price": "4481.19",
         "spec_price": {
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-27 00:00:00",
+        "start_time": "2022-03-28 09:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
@@ -961,7 +961,7 @@
       {
         "id": 70558,
         "instance": 1,
-        "participate": 5,
+        "participate": 7,
         "url_seo": "",
         "video_url": "",
         "score": 0,
@@ -3325,7 +3325,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-26 18:00:00",
+        "start_time": "2022-03-27 18:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
@@ -3401,7 +3401,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-25 12:00:00",
+        "start_time": "2022-03-26 12:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
