@@ -673,7 +673,8 @@
       "2022-12-21T00:00:00Z",
       "2022-12-22T00:00:00Z",
       "2022-12-23T00:00:00Z",
-      "2022-12-24T00:00:00Z"
+      "2022-12-24T00:00:00Z",
+      "2022-12-25T00:00:00Z"
     ],
     "activities": [
       {
@@ -1233,7 +1234,7 @@
       {
         "id": 70278,
         "instance": 1,
-        "participate": 1,
+        "participate": 4,
         "url_seo": "",
         "video_url": "",
         "score": 0,
@@ -3363,7 +3364,7 @@
       {
         "id": 68596,
         "instance": 1,
-        "participate": 1,
+        "participate": 3,
         "url_seo": "",
         "video_url": "",
         "score": 0,
@@ -3965,31 +3966,31 @@
         "what_we_love": ""
       },
       {
-        "id": 69537,
+        "id": 69622,
         "instance": 1,
-        "participate": 8,
+        "participate": 73,
         "url_seo": "",
         "video_url": "",
-        "score": 0,
+        "score": 5,
         "published": true,
-        "review_total": 0,
-        "title": "Jesmonite Marble Jar and Candle Making Experience",
+        "review_total": 1,
+        "title": "[Klook Exclusive] Singapore Multi Attractions Pass - Bundle & Save!",
         "subtitle": "",
         "date_description": "",
-        "template_id": 3,
+        "template_id": 103,
         "sub_category": 0,
-        "leaf_category": 124,
+        "leaf_category": 528,
         "country_id": 15,
         "country_code": "",
         "city_id": 6,
         "city_name": "",
-        "latlng": "1.350197,103.841136",
+        "latlng": "1.352083,103.819836",
         "first_publish_time": "",
         "display_package_card": 0,
         "image_url": "",
         "country_name": "Singapore",
         "activity_type": "",
-        "image_url_host": "https://res.klook.com/image/upload/activities/v877c5ucux8dild14mjw.jpg",
+        "image_url_host": "https://res.klook.com/image/upload/activities/svkru9densfq6frg3x8h.jpg",
         "published_language": null,
         "real_lang": "",
         "language_publish_status": 0,
@@ -3997,22 +3998,22 @@
         "viewable_platform": 0,
         "currency": "SGD",
         "package_id": 0,
-        "market_price": "",
-        "sell_price": "",
-        "from_price": "",
-        "to_price": "",
+        "market_price": "55.00",
+        "sell_price": "41.00",
+        "from_price": "41.00",
+        "to_price": "144.00",
         "spec_price": {
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-26 00:00:00",
-        "sold_out": true,
+        "start_time": "2022-03-27 00:00:00",
+        "sold_out": false,
         "package_count": 0,
         "hot_state": "",
-        "participants_format": "New Activity",
+        "participants_format": "50+ Booked",
         "discount": 0,
         "card_tags": {
-          "deals_discount": "15% OFF"
+          "deals_discount": "25% OFF"
         },
         "tags": [
           {
@@ -4020,7 +4021,7 @@
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
-            "text": "15% OFF"
+            "text": "25% OFF"
           }
         ],
         "icon": null,
@@ -4029,17 +4030,17 @@
         "is_srv_activity": false,
         "is_nsw_activity": false,
         "detail_hotel": null,
-        "need_hide_review": true,
-        "deeplink": "https://www.klook.com/en-US/activity/69537-jesmonite-marble-jar-candle-making-experience/",
-        "deep_link": "https://www.klook.com/en-US/activity/69537-jesmonite-marble-jar-candle-making-experience/",
+        "need_hide_review": false,
+        "deeplink": "https://www.klook.com/en-US/activity/69622-singapore-attractions-pass/",
+        "deep_link": "https://www.klook.com/en-US/activity/69622-singapore-attractions-pass/",
         "vertical_type": 100,
-        "vertical_id": 69537,
+        "vertical_id": 69622,
         "custom_tags": null,
         "tag_ids": [],
         "what_we_love": ""
       }
     ],
-    "total": 984,
+    "total": 960,
     "price": {
       "from": "0",
       "to": "521"
@@ -4333,11 +4334,6 @@
           {
             "id": 165,
             "name": "Private Airport Transfers",
-            "disable": false
-          },
-          {
-            "id": 166,
-            "name": "Public & Shared Airport Transfers",
             "disable": false
           },
           {
