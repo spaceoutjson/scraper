@@ -675,7 +675,8 @@
       "2022-12-23T00:00:00Z",
       "2022-12-24T00:00:00Z",
       "2022-12-25T00:00:00Z",
-      "2022-12-26T00:00:00Z"
+      "2022-12-26T00:00:00Z",
+      "2022-12-27T00:00:00Z"
     ],
     "activities": [
       {
@@ -963,7 +964,7 @@
       {
         "id": 70558,
         "instance": 1,
-        "participate": 11,
+        "participate": 13,
         "url_seo": "",
         "video_url": "",
         "score": 0,
@@ -1163,72 +1164,6 @@
         "custom_tags": null,
         "tag_ids": [
           36
-        ],
-        "what_we_love": ""
-      },
-      {
-        "id": 70439,
-        "instance": 1,
-        "participate": 0,
-        "url_seo": "",
-        "video_url": "",
-        "score": 0,
-        "published": true,
-        "review_total": 0,
-        "title": "Totally Spice by Chengdu Bowl and HUE Restaurant",
-        "subtitle": "",
-        "date_description": "",
-        "template_id": 4,
-        "sub_category": 0,
-        "leaf_category": 487,
-        "country_id": 15,
-        "country_code": "",
-        "city_id": 6,
-        "city_name": "",
-        "latlng": "1.311175,103.859768",
-        "first_publish_time": "",
-        "display_package_card": 0,
-        "image_url": "",
-        "country_name": "Singapore",
-        "activity_type": "",
-        "image_url_host": "https://res.klook.com/image/upload/activities/wyzhniiapqcx0hmdkrza.jpg",
-        "published_language": null,
-        "real_lang": "",
-        "language_publish_status": 0,
-        "language_once_published": false,
-        "viewable_platform": 0,
-        "currency": "SGD",
-        "package_id": 0,
-        "market_price": "",
-        "sell_price": "",
-        "from_price": "",
-        "to_price": "",
-        "spec_price": {
-          "type": 0,
-          "desc": ""
-        },
-        "start_time": "2022-03-28 00:00:00",
-        "sold_out": true,
-        "package_count": 0,
-        "hot_state": "",
-        "participants_format": "New Activity",
-        "discount": 0,
-        "card_tags": {},
-        "tags": null,
-        "icon": null,
-        "icons": null,
-        "min_trip": 0,
-        "is_srv_activity": false,
-        "is_nsw_activity": false,
-        "detail_hotel": null,
-        "need_hide_review": false,
-        "deeplink": "https://www.klook.com/en-US/activity/70439-chengdu-bowl-hue-restaurant/",
-        "deep_link": "https://www.klook.com/en-US/activity/70439-chengdu-bowl-hue-restaurant/",
-        "vertical_type": 106,
-        "vertical_id": 70439,
-        "custom_tags": null,
-        "tag_ids": [
-          187
         ],
         "what_we_love": ""
       },
@@ -1635,7 +1570,7 @@
       {
         "id": 69428,
         "instance": 1,
-        "participate": 37,
+        "participate": 45,
         "url_seo": "",
         "video_url": "",
         "score": 0,
@@ -2990,7 +2925,7 @@
         "market_price": "2.6",
         "sell_price": "2.6",
         "from_price": "2.6",
-        "to_price": "15.25",
+        "to_price": "15.29",
         "spec_price": {
           "type": 0,
           "desc": ""
@@ -3289,7 +3224,7 @@
       {
         "id": 69371,
         "instance": 1,
-        "participate": 11,
+        "participate": 16,
         "url_seo": "",
         "video_url": "",
         "score": 0,
@@ -3969,7 +3904,7 @@
       {
         "id": 69622,
         "instance": 1,
-        "participate": 87,
+        "participate": 91,
         "url_seo": "",
         "video_url": "",
         "score": 5,
@@ -4039,9 +3974,85 @@
         "custom_tags": null,
         "tag_ids": [],
         "what_we_love": ""
+      },
+      {
+        "id": 69720,
+        "instance": 1,
+        "participate": 7,
+        "url_seo": "",
+        "video_url": "",
+        "score": 0,
+        "published": true,
+        "review_total": 0,
+        "title": "Royal Palm Meat and Dine at Village Hotel Bugis",
+        "subtitle": "",
+        "date_description": "",
+        "template_id": 4,
+        "sub_category": 0,
+        "leaf_category": 236,
+        "country_id": 15,
+        "country_code": "",
+        "city_id": 6,
+        "city_name": "",
+        "latlng": "1.302352,103.857864",
+        "first_publish_time": "",
+        "display_package_card": 0,
+        "image_url": "",
+        "country_name": "Singapore",
+        "activity_type": "",
+        "image_url_host": "https://res.klook.com/image/upload/activities/iu7z1tjygoog0ilvopgb.jpg",
+        "published_language": null,
+        "real_lang": "",
+        "language_publish_status": 0,
+        "language_once_published": false,
+        "viewable_platform": 0,
+        "currency": "SGD",
+        "package_id": 0,
+        "market_price": "159.85",
+        "sell_price": "79.95",
+        "from_price": "79.95",
+        "to_price": "171.75",
+        "spec_price": {
+          "type": 0,
+          "desc": ""
+        },
+        "start_time": "2022-03-29 00:00:00",
+        "sold_out": false,
+        "package_count": 0,
+        "hot_state": "",
+        "participants_format": "New Activity",
+        "discount": 0,
+        "card_tags": {
+          "deals_discount": "50% OFF"
+        },
+        "tags": [
+          {
+            "key": "deals_discount",
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "50% OFF"
+          }
+        ],
+        "icon": null,
+        "icons": null,
+        "min_trip": 0,
+        "is_srv_activity": false,
+        "is_nsw_activity": false,
+        "detail_hotel": null,
+        "need_hide_review": false,
+        "deeplink": "https://www.klook.com/en-US/activity/69720-royal-palm-meat-dine-village-hotel-bugis/",
+        "deep_link": "https://www.klook.com/en-US/activity/69720-royal-palm-meat-dine-village-hotel-bugis/",
+        "vertical_type": 106,
+        "vertical_id": 69720,
+        "custom_tags": null,
+        "tag_ids": [
+          186
+        ],
+        "what_we_love": ""
       }
     ],
-    "total": 943,
+    "total": 922,
     "price": {
       "from": "0",
       "to": "521"
@@ -4112,11 +4123,6 @@
           {
             "id": 48,
             "name": "Guided Food Tours",
-            "disable": false
-          },
-          {
-            "id": 72,
-            "name": "Cherry Blossom",
             "disable": false
           },
           {
