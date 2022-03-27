@@ -795,7 +795,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-04-03 00:00:00",
+        "start_time": "2022-04-04 00:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
@@ -861,7 +861,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-28 00:00:00",
+        "start_time": "2022-03-29 00:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
@@ -1199,16 +1199,16 @@
         "viewable_platform": 0,
         "currency": "SGD",
         "package_id": 0,
-        "market_price": "16.80",
-        "sell_price": "16.80",
-        "from_price": "16.80",
-        "to_price": "16.80",
+        "market_price": "",
+        "sell_price": "",
+        "from_price": "",
+        "to_price": "",
         "spec_price": {
           "type": 0,
           "desc": ""
         },
         "start_time": "2022-03-28 00:00:00",
-        "sold_out": false,
+        "sold_out": true,
         "package_count": 0,
         "hot_state": "",
         "participants_format": "New Activity",
@@ -1273,7 +1273,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-28 00:00:00",
+        "start_time": "2022-03-29 00:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
@@ -1337,7 +1337,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-27 00:00:00",
+        "start_time": "2022-03-28 00:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
@@ -1543,7 +1543,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-28 00:00:00",
+        "start_time": "2022-03-29 00:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
@@ -1673,7 +1673,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-28 00:00:00",
+        "start_time": "2022-03-29 00:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
@@ -2059,7 +2059,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-29 00:00:00",
+        "start_time": "2022-03-30 00:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
@@ -2135,7 +2135,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-29 12:00:00",
+        "start_time": "2022-03-30 12:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
@@ -2211,7 +2211,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-28 00:00:00",
+        "start_time": "2022-03-29 00:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
@@ -2277,7 +2277,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-27 00:00:00",
+        "start_time": "2022-03-28 00:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
@@ -2353,7 +2353,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-31 00:00:00",
+        "start_time": "2022-04-01 00:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
@@ -3059,7 +3059,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-27 00:00:00",
+        "start_time": "2022-03-28 00:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
@@ -3261,7 +3261,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-31 13:30:00",
+        "start_time": "2022-04-01 13:30:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
@@ -3543,7 +3543,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-30 10:00:00",
+        "start_time": "2022-04-01 10:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
@@ -3931,7 +3931,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-28 00:00:00",
+        "start_time": "2022-03-29 00:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
@@ -4007,7 +4007,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-28 00:00:00",
+        "start_time": "2022-03-29 00:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
