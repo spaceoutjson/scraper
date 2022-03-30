@@ -678,7 +678,8 @@
       "2022-12-26T00:00:00Z",
       "2022-12-27T00:00:00Z",
       "2022-12-28T00:00:00Z",
-      "2022-12-29T00:00:00Z"
+      "2022-12-29T00:00:00Z",
+      "2022-12-30T00:00:00Z"
     ],
     "activities": [
       {
@@ -3210,7 +3211,7 @@
       {
         "id": 70361,
         "instance": 1,
-        "participate": 0,
+        "participate": 1,
         "url_seo": "",
         "video_url": "",
         "score": 0,
@@ -3556,7 +3557,7 @@
       {
         "id": 70278,
         "instance": 1,
-        "participate": 12,
+        "participate": 16,
         "url_seo": "",
         "video_url": "",
         "score": 0,
@@ -3620,7 +3621,7 @@
       {
         "id": 70279,
         "instance": 1,
-        "participate": 20,
+        "participate": 27,
         "url_seo": "",
         "video_url": "",
         "score": 0,
@@ -3954,7 +3955,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 899,
+    "total": 873,
     "price": {
       "from": "0",
       "to": "519"
@@ -4048,18 +4049,8 @@
             "disable": false
           },
           {
-            "id": 142,
-            "name": "Autumn Adventures",
-            "disable": false
-          },
-          {
             "id": 143,
             "name": "Winter Tours",
-            "disable": false
-          },
-          {
-            "id": 151,
-            "name": "Winery & Distillery Tours",
             "disable": false
           },
           {
