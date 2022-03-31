@@ -723,7 +723,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-04-01 00:00:00",
+        "start_time": "2022-04-02 00:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
@@ -1301,7 +1301,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-31 00:00:00",
+        "start_time": "2022-04-01 00:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
@@ -1367,7 +1367,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-03-31 00:00:00",
+        "start_time": "2022-04-01 00:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
@@ -3609,7 +3609,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-04-02 00:00:00",
+        "start_time": "2022-04-03 00:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
@@ -3754,21 +3754,31 @@
         "currency": "SGD",
         "package_id": 0,
         "market_price": "792.00",
-        "sell_price": "784.00",
-        "from_price": "784.00",
+        "sell_price": "705.60",
+        "from_price": "705.60",
         "to_price": "784.00",
         "spec_price": {
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-04-07 00:00:00",
+        "start_time": "2022-04-08 00:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
         "participants_format": "New Activity",
         "discount": 0,
-        "card_tags": {},
-        "tags": null,
+        "card_tags": {
+          "deals_discount": "11% OFF"
+        },
+        "tags": [
+          {
+            "key": "deals_discount",
+            "background_color_left": "#FF5722",
+            "background_color_right": "#FF5722",
+            "text_color": "#FFFFFF",
+            "text": "11% OFF"
+          }
+        ],
         "icon": null,
         "icons": null,
         "min_trip": 0,
@@ -3827,7 +3837,7 @@
           "type": 0,
           "desc": ""
         },
-        "start_time": "2022-04-01 00:00:00",
+        "start_time": "2022-04-02 00:00:00",
         "sold_out": false,
         "package_count": 0,
         "hot_state": "",
@@ -3927,7 +3937,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 897,
+    "total": 899,
     "price": {
       "from": "0",
       "to": "519"
