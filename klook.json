@@ -4021,7 +4021,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 923,
+    "total": 926,
     "price": {
       "from": "0",
       "to": "522"
@@ -4107,6 +4107,11 @@
           {
             "id": 108,
             "name": "Overnight Tours & Experiences",
+            "disable": false
+          },
+          {
+            "id": 140,
+            "name": "Summer Fun",
             "disable": false
           },
           {
