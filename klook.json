@@ -2225,9 +2225,9 @@
         "viewable_platform": 0,
         "currency": "SGD",
         "package_id": 0,
-        "market_price": "130.00",
-        "sell_price": "79.00",
-        "from_price": "79.00",
+        "market_price": "65.00",
+        "sell_price": "39.00",
+        "from_price": "39.00",
         "to_price": "159.00",
         "spec_price": {
           "type": 0,
@@ -2240,7 +2240,7 @@
         "participants_format": "New Activity",
         "discount": 0,
         "card_tags": {
-          "deals_discount": "39% OFF"
+          "deals_discount": "40% OFF"
         },
         "tags": [
           {
@@ -2248,7 +2248,7 @@
             "background_color_left": "#FF5722",
             "background_color_right": "#FF5722",
             "text_color": "#FFFFFF",
-            "text": "39% OFF"
+            "text": "40% OFF"
           }
         ],
         "icon": null,
@@ -4015,7 +4015,7 @@
         "what_we_love": ""
       }
     ],
-    "total": 928,
+    "total": 929,
     "price": {
       "from": "0",
       "to": "523"
