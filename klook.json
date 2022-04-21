@@ -222,19 +222,6 @@
         ]
       },
       {
-        "id": 102,
-        "name": "Airport transfer",
-        "enable": true,
-        "children": [
-          {
-            "id": 46,
-            "name": "Private airport transfers",
-            "enable": true,
-            "children": null
-          }
-        ]
-      },
-      {
         "id": 39,
         "name": "Buses & ferries",
         "enable": true,
@@ -278,6 +265,19 @@
         "name": "Scooter & motorbike rentals",
         "enable": true,
         "children": null
+      },
+      {
+        "id": 102,
+        "name": "Airport transfer",
+        "enable": true,
+        "children": [
+          {
+            "id": 46,
+            "name": "Private airport transfers",
+            "enable": true,
+            "children": null
+          }
+        ]
       },
       {
         "id": 55,
