@@ -977,6 +977,34 @@
   "vertical_type": 100
 }
 {
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/gsnkg6biqgmvfsinns9x.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/67439-singapore-playgrounds-pass/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 65.99",
+    "market_price": "S$ 81.20",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "promotion_tag": null,
+  "review": null,
+  "seo": {
+    "title": " [Klook Exclusive] Playgrounds Pass - Bundle & Save!",
+    "url": "https://www.klook.com/en-US/activity/67439-singapore-playgrounds-pass/"
+  },
+  "sold_out": false,
+  "title": " [Klook Exclusive] Playgrounds Pass - Bundle & Save!",
+  "vertical_id": 67439,
+  "vertical_type": 100
+}
+{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/mzta7dvdllr5uukq4xbb.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/118-trick-eye-museum-singapore/",
   "general_tag": [
@@ -1050,38 +1078,5 @@
   "sold_out": false,
   "title": "The Live Turtle and Tortoise Museum",
   "vertical_id": 45952,
-  "vertical_type": 100
-}
-{
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/mmo7ed2cgspiuksqfwu7.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/69406-night-stay-hotel-choice-attraction-voucher/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 129.00",
-    "market_price": "S$ 163.00",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.5",
-    "number": "(8)",
-    "booked": "New Activity",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "1 Night Stay at V Hotel Lavender + Choice of 1 Attraction / F&B for 2 pax",
-    "url": "https://www.klook.com/en-US/activity/69406-night-stay-hotel-choice-attraction-voucher/"
-  },
-  "sold_out": false,
-  "title": "1 Night Stay at V Hotel Lavender + Choice of 1 Attraction / F&B for 2 pax",
-  "vertical_id": 69406,
   "vertical_type": 100
 }
