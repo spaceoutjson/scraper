@@ -465,9 +465,9 @@
     }
   ],
   "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 92.00",
-    "market_price": "S$ 103.00",
+    "selling_price_format": "{selling_price}",
+    "selling_price": "Sold out",
+    "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -482,7 +482,7 @@
     "title": "[Klook Exclusive] Singapore Wildlife Attractions Pass - Bundle & Save!",
     "url": "https://www.klook.com/en-US/activity/70278-singapore-wildlife-pass/"
   },
-  "sold_out": false,
+  "sold_out": true,
   "title": "[Klook Exclusive] Singapore Wildlife Attractions Pass - Bundle & Save!",
   "vertical_id": 70278,
   "vertical_type": 100
