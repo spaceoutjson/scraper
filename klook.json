@@ -61,7 +61,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(31,026)",
+    "number": "(31,038)",
     "booked": "900K+ booked",
     "dot": " • "
   },
@@ -99,7 +99,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.8",
-    "number": "(42,731)",
+    "number": "(42,753)",
     "booked": "1M+ booked",
     "dot": " • "
   },
@@ -136,8 +136,8 @@
   },
   "promotion_tag": null,
   "review": {
-    "star": "★ 4.9",
-    "number": "(87)",
+    "star": "★ 4.8",
+    "number": "(93)",
     "booked": "4K+ booked",
     "dot": " • "
   },
@@ -148,6 +148,44 @@
   "sold_out": false,
   "title": "[Klook Exclusive] Singapore Multi Attractions Pass - Bundle & Save!",
   "vertical_id": 69622,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/fx0vijknanmogfzc9dvu.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/120-adventure-cove-waterpark-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#E9F8F1",
+      "text_color": "#16AA77",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 32.00",
+    "market_price": "S$ 38.00",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.6",
+    "number": "(6,713)",
+    "booked": "200K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Adventure Cove Waterpark™ One-Day Ticket",
+    "url": "https://www.klook.com/en-US/activity/120-adventure-cove-waterpark-singapore/"
+  },
+  "sold_out": false,
+  "title": "Adventure Cove Waterpark™ One-Day Ticket",
+  "vertical_id": 120,
   "vertical_type": 100
 }
 {
@@ -175,7 +213,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(14,976)",
+    "number": "(14,985)",
     "booked": "600K+ booked",
     "dot": " • "
   },
@@ -213,7 +251,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.8",
-    "number": "(28,685)",
+    "number": "(28,701)",
     "booked": "600K+ booked",
     "dot": " • "
   },
@@ -224,44 +262,6 @@
   "sold_out": false,
   "title": "Sentosa Luge Ticket: Skyline Luge & Skyride",
   "vertical_id": 132,
-  "vertical_type": 100
-}
-{
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/fx0vijknanmogfzc9dvu.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/120-adventure-cove-waterpark-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 32.00",
-    "market_price": "S$ 38.00",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.6",
-    "number": "(6,709)",
-    "booked": "200K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Adventure Cove Waterpark™ One-Day Ticket",
-    "url": "https://www.klook.com/en-US/activity/120-adventure-cove-waterpark-singapore/"
-  },
-  "sold_out": false,
-  "title": "Adventure Cove Waterpark™ One-Day Ticket",
-  "vertical_id": 120,
   "vertical_type": 100
 }
 {
@@ -289,7 +289,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.4",
-    "number": "(6,843)",
+    "number": "(6,846)",
     "booked": "200K+ booked",
     "dot": " • "
   },
@@ -327,7 +327,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(19,310)",
+    "number": "(19,315)",
     "booked": "400K+ booked",
     "dot": " • "
   },
@@ -365,7 +365,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(7,579)",
+    "number": "(7,584)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -403,7 +403,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(9,939)",
+    "number": "(9,945)",
     "booked": "200K+ booked",
     "dot": " • "
   },
@@ -414,6 +414,44 @@
   "sold_out": false,
   "title": "ArtScience Museum at Marina Bay Sands Ticket",
   "vertical_id": 2501,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/qrvaw1k7ua72kg8gsfc7.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/4534-singapore-flyer/",
+  "general_tag": [
+    {
+      "bg_color": "#E9F8F1",
+      "text_color": "#16AA77",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 33.00",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.6",
+    "number": "(6,762)",
+    "booked": "200K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Singapore Flyer Tickets",
+    "url": "https://www.klook.com/en-US/activity/4534-singapore-flyer/"
+  },
+  "sold_out": false,
+  "title": "Singapore Flyer Tickets",
+  "vertical_id": 4534,
   "vertical_type": 100
 }
 {
@@ -488,44 +526,6 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/qrvaw1k7ua72kg8gsfc7.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/4534-singapore-flyer/",
-  "general_tag": [
-    {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 33.00",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.6",
-    "number": "(6,756)",
-    "booked": "200K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Singapore Flyer Tickets",
-    "url": "https://www.klook.com/en-US/activity/4534-singapore-flyer/"
-  },
-  "sold_out": false,
-  "title": "Singapore Flyer Tickets",
-  "vertical_id": 4534,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/gszlvwet2rgdeq6njhg8.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/9610-wild-wild-wet-ticket-singapore/",
   "general_tag": [
@@ -550,7 +550,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(2,932)",
+    "number": "(2,933)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -588,7 +588,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(4,578)",
+    "number": "(4,579)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -664,7 +664,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(5,903)",
+    "number": "(5,909)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -702,7 +702,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(3,845)",
+    "number": "(3,850)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -740,7 +740,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.2",
-    "number": "(2,807)",
+    "number": "(2,808)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -778,7 +778,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.1",
-    "number": "(1,665)",
+    "number": "(1,667)",
     "booked": "40K+ booked",
     "dot": " • "
   },
@@ -816,7 +816,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(1,608)",
+    "number": "(1,611)",
     "booked": "40K+ booked",
     "dot": " • "
   },
@@ -901,44 +901,6 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/im1a5qriee4a58dhhtay.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/65992-skyhelix-sentosa-singapore-tickets/",
-  "general_tag": [
-    {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 13.50",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.5",
-    "number": "(278)",
-    "booked": "10K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "SkyHelix Sentosa Singapore",
-    "url": "https://www.klook.com/en-US/activity/65992-skyhelix-sentosa-singapore-tickets/"
-  },
-  "sold_out": false,
-  "title": "SkyHelix Sentosa Singapore",
-  "vertical_id": 65992,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/9382849d-Wings-of-Time.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/135-wings-of-time-singapore/",
   "general_tag": [
@@ -963,7 +925,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(5,604)",
+    "number": "(5,609)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -974,6 +936,44 @@
   "sold_out": false,
   "title": "Wings of Time Show Ticket in Singapore",
   "vertical_id": 135,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/im1a5qriee4a58dhhtay.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/65992-skyhelix-sentosa-singapore-tickets/",
+  "general_tag": [
+    {
+      "bg_color": "#E9F8F1",
+      "text_color": "#16AA77",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 13.50",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.5",
+    "number": "(281)",
+    "booked": "10K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "SkyHelix Sentosa Singapore",
+    "url": "https://www.klook.com/en-US/activity/65992-skyhelix-sentosa-singapore-tickets/"
+  },
+  "sold_out": false,
+  "title": "SkyHelix Sentosa Singapore",
+  "vertical_id": 65992,
   "vertical_type": 100
 }
 {
@@ -1077,7 +1077,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(1,501)",
+    "number": "(1,502)",
     "booked": "40K+ booked",
     "dot": " • "
   },
