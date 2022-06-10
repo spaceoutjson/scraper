@@ -128,7 +128,7 @@
     }
   ],
   "price": {
-    "selling_price_format": "{selling_price}",
+    "selling_price_format": "From {price}",
     "selling_price": "S$ 10.00",
     "market_price": "S$ 12.00",
     "market_price_no_strike": false,
@@ -358,7 +358,7 @@
   "price": {
     "selling_price_format": "From {price}",
     "selling_price": "S$ 18.00",
-    "market_price": "S$ 26.00",
+    "market_price": "S$ 19.00",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -396,7 +396,7 @@
   "price": {
     "selling_price_format": "From {price}",
     "selling_price": "S$ 18.00",
-    "market_price": "S$ 26.00",
+    "market_price": "S$ 19.00",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -884,8 +884,8 @@
   ],
   "price": {
     "selling_price_format": "{selling_price}",
-    "selling_price": "Sold out",
-    "market_price": "",
+    "selling_price": "S$ 16.20",
+    "market_price": "S$ 18.00",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -900,7 +900,7 @@
     "title": "Wings of Time Show Ticket in Singapore",
     "url": "https://www.klook.com/en-US/activity/135-wings-of-time-singapore/"
   },
-  "sold_out": true,
+  "sold_out": false,
   "title": "Wings of Time Show Ticket in Singapore",
   "vertical_id": 135,
   "vertical_type": 100
