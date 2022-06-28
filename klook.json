@@ -716,39 +716,6 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/y0haubspoq5ji4psx52p.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/70278-singapore-wildlife-pass/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 110.00",
-    "market_price": "S$ 129.00",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.7",
-    "number": "(22)",
-    "booked": "1K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "[Klook Exclusive] Singapore Wildlife Attractions Pass - Bundle & Save!",
-    "url": "https://www.klook.com/en-US/activity/70278-singapore-wildlife-pass/"
-  },
-  "sold_out": false,
-  "title": "[Klook Exclusive] Singapore Wildlife Attractions Pass - Bundle & Save!",
-  "vertical_id": 70278,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/8343cee4-Sentosa-4D-Adventureland.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/136-sentosa-4d-adventureland-singapore/",
   "general_tag": [
@@ -784,6 +751,39 @@
   "sold_out": false,
   "title": "Sentosa 4D Adventureland",
   "vertical_id": 136,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/y0haubspoq5ji4psx52p.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/70278-singapore-wildlife-pass/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 110.00",
+    "market_price": "S$ 129.00",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.7",
+    "number": "(22)",
+    "booked": "1K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "[Klook Exclusive] Singapore Wildlife Attractions Pass - Bundle & Save!",
+    "url": "https://www.klook.com/en-US/activity/70278-singapore-wildlife-pass/"
+  },
+  "sold_out": false,
+  "title": "[Klook Exclusive] Singapore Wildlife Attractions Pass - Bundle & Save!",
+  "vertical_id": 70278,
   "vertical_type": 100
 }
 {
