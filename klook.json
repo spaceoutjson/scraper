@@ -129,7 +129,7 @@
   ],
   "price": {
     "selling_price_format": "{selling_price}",
-    "selling_price": "Sold out",
+    "selling_price": "S$ 20.00",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -145,7 +145,7 @@
     "title": "Gardens by the Bay Ticket Singapore",
     "url": "https://www.klook.com/en-US/activity/127-gardens-by-the-bay-singapore/"
   },
-  "sold_out": true,
+  "sold_out": false,
   "title": "Gardens by the Bay Ticket Singapore",
   "vertical_id": 127,
   "vertical_type": 100
