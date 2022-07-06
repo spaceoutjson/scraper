@@ -1057,6 +1057,11 @@
   "deep_link": "https://www.klook.com/en-US/activity/1256-national-gallery-singapore/",
   "general_tag": [
     {
+      "bg_color": "#E9F8F1",
+      "text_color": "#16AA77",
+      "text": "Bestseller"
+    },
+    {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
       "text": "Instant confirmation"
