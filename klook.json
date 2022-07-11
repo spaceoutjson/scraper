@@ -23,7 +23,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.8",
-    "number": "(87,630)",
+    "number": "(87,667)",
     "booked": "2M+ booked",
     "dot": " • "
   },
@@ -61,7 +61,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(326)",
+    "number": "(334)",
     "booked": "10K+ booked",
     "dot": " • "
   },
@@ -99,7 +99,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(31,448)",
+    "number": "(31,467)",
     "booked": "900K+ booked",
     "dot": " • "
   },
@@ -137,7 +137,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.8",
-    "number": "(43,286)",
+    "number": "(43,308)",
     "booked": "1M+ booked",
     "dot": " • "
   },
@@ -175,7 +175,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.8",
-    "number": "(29,010)",
+    "number": "(29,023)",
     "booked": "600K+ booked",
     "dot": " • "
   },
@@ -213,7 +213,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(15,115)",
+    "number": "(15,120)",
     "booked": "600K+ booked",
     "dot": " • "
   },
@@ -231,6 +231,11 @@
   "deep_link": "https://www.klook.com/en-US/activity/3928-singapore-night-safari-singapore/",
   "general_tag": [
     {
+      "bg_color": "#E9F8F1",
+      "text_color": "#16AA77",
+      "text": "Bestseller"
+    },
+    {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
       "text": "Instant confirmation"
@@ -246,7 +251,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.4",
-    "number": "(6,959)",
+    "number": "(6,962)",
     "booked": "200K+ booked",
     "dot": " • "
   },
@@ -284,7 +289,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(6,871)",
+    "number": "(6,877)",
     "booked": "200K+ booked",
     "dot": " • "
   },
@@ -322,7 +327,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(6,949)",
+    "number": "(6,958)",
     "booked": "200K+ booked",
     "dot": " • "
   },
@@ -352,15 +357,15 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 18",
-    "market_price": "",
+    "selling_price": "S$ 23",
+    "market_price": "S$ 26",
     "market_price_no_strike": false,
     "discount_tag": null
   },
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(7,696)",
+    "number": "(7,701)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -398,7 +403,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(10,172)",
+    "number": "(10,182)",
     "booked": "200K+ booked",
     "dot": " • "
   },
@@ -436,7 +441,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(19,516)",
+    "number": "(19,521)",
     "booked": "400K+ booked",
     "dot": " • "
   },
@@ -474,7 +479,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(8,251)",
+    "number": "(8,255)",
     "booked": "200K+ booked",
     "dot": " • "
   },
@@ -492,6 +497,11 @@
   "deep_link": "https://www.klook.com/en-US/activity/1347-science-centre-singapore-omni-theatre-movie-singapore/",
   "general_tag": [
     {
+      "bg_color": "#E9F8F1",
+      "text_color": "#16AA77",
+      "text": "Bestseller"
+    },
+    {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
       "text": "Instant confirmation"
@@ -507,7 +517,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(4,666)",
+    "number": "(4,671)",
     "booked": "200K+ booked",
     "dot": " • "
   },
@@ -545,7 +555,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(3,900)",
+    "number": "(3,902)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -583,7 +593,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(3,026)",
+    "number": "(3,034)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -616,7 +626,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(18)",
+    "number": "(20)",
     "booked": "50+ booked",
     "dot": " • "
   },
@@ -725,7 +735,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(6,066)",
+    "number": "(6,070)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -781,6 +791,11 @@
   "deep_link": "https://www.klook.com/en-US/activity/1348-snow-play-session-in-snow-city-singapore/",
   "general_tag": [
     {
+      "bg_color": "#E9F8F1",
+      "text_color": "#16AA77",
+      "text": "Bestseller"
+    },
+    {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
       "text": "Instant confirmation"
@@ -796,7 +811,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.2",
-    "number": "(2,906)",
+    "number": "(2,907)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -834,7 +849,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(1,668)",
+    "number": "(1,670)",
     "booked": "50K+ booked",
     "dot": " • "
   },
@@ -872,7 +887,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(5,660)",
+    "number": "(5,662)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -948,7 +963,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(6,947)",
+    "number": "(6,950)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -986,7 +1001,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.5",
-    "number": "(2,750)",
+    "number": "(2,751)",
     "booked": "60K+ booked",
     "dot": " • "
   },
@@ -1004,11 +1019,6 @@
   "deep_link": "https://www.klook.com/en-US/activity/1256-national-gallery-singapore/",
   "general_tag": [
     {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
-    {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
       "text": "Instant confirmation"
@@ -1024,7 +1034,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(1,540)",
+    "number": "(1,541)",
     "booked": "40K+ booked",
     "dot": " • "
   },
@@ -1062,7 +1072,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(1,718)",
+    "number": "(1,720)",
     "booked": "60K+ booked",
     "dot": " • "
   },
