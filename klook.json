@@ -1019,6 +1019,11 @@
   "deep_link": "https://www.klook.com/en-US/activity/1256-national-gallery-singapore/",
   "general_tag": [
     {
+      "bg_color": "#E9F8F1",
+      "text_color": "#16AA77",
+      "text": "Bestseller"
+    },
+    {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
       "text": "Instant confirmation"
@@ -1048,8 +1053,8 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/eaf826cd-National-Museum-of-Singapore.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/1199-national-museum-singapore/",
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/ftpacwbx76u0tidbmzkq.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/1256-national-gallery-singapore/",
   "general_tag": [
     {
       "bg_color": "#E9F8F1",
@@ -1064,7 +1069,7 @@
   ],
   "price": {
     "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 12.15",
+    "selling_price": "S$ 8.3",
     "market_price": "S$ 15",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -1072,16 +1077,16 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(1,720)",
-    "booked": "60K+ booked",
+    "number": "(1,541)",
+    "booked": "40K+ booked",
     "dot": " • "
   },
   "seo": {
-    "title": "National Museum of Singapore",
-    "url": "https://www.klook.com/en-US/activity/1199-national-museum-singapore/"
+    "title": "National Gallery Singapore",
+    "url": "https://www.klook.com/en-US/activity/1256-national-gallery-singapore/"
   },
   "sold_out": false,
-  "title": "National Museum of Singapore",
-  "vertical_id": 1199,
+  "title": "National Gallery Singapore",
+  "vertical_id": 1256,
   "vertical_type": 100
 }
