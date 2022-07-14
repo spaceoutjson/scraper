@@ -23,45 +23,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.8",
-    "number": "(87,706)",
-    "booked": "2M+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Universal Studios Singapore Tickets",
-    "url": "https://www.klook.com/en-US/activity/117-universal-studios-singapore/"
-  },
-  "sold_out": false,
-  "title": "Universal Studios Singapore Tickets",
-  "vertical_id": 117,
-  "vertical_type": 100
-}
-{
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/cu03bbz7ruql19erhzsa.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/117-universal-studios-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 68.00",
-    "market_price": "S$ 81.00",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.8",
-    "number": "(87,706)",
+    "number": "(87,740)",
     "booked": "2M+ booked",
     "dot": " • "
   },
@@ -99,7 +61,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(353)",
+    "number": "(369)",
     "booked": "10K+ booked",
     "dot": " • "
   },
@@ -110,6 +72,44 @@
   "sold_out": false,
   "title": "Klook Pass Singapore",
   "vertical_id": 69622,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/wdqvtdzn1a3gqlb8ngbx.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/127-gardens-by-the-bay-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#E9F8F1",
+      "text_color": "#16AA77",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 10.05",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.8",
+    "number": "(43,363)",
+    "booked": "1M+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Gardens by the Bay Ticket Singapore",
+    "url": "https://www.klook.com/en-US/activity/127-gardens-by-the-bay-singapore/"
+  },
+  "sold_out": false,
+  "title": "Gardens by the Bay Ticket Singapore",
+  "vertical_id": 127,
   "vertical_type": 100
 }
 {
@@ -137,7 +137,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(31,489)",
+    "number": "(31,501)",
     "booked": "900K+ booked",
     "dot": " • "
   },
@@ -148,44 +148,6 @@
   "sold_out": false,
   "title": "S.E.A. Aquarium™ One-Day Ticket",
   "vertical_id": 119,
-  "vertical_type": 100
-}
-{
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/wdqvtdzn1a3gqlb8ngbx.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/127-gardens-by-the-bay-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 10.05",
-    "market_price": "S$ 12.00",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.8",
-    "number": "(43,349)",
-    "booked": "1M+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Gardens by the Bay Ticket Singapore",
-    "url": "https://www.klook.com/en-US/activity/127-gardens-by-the-bay-singapore/"
-  },
-  "sold_out": false,
-  "title": "Gardens by the Bay Ticket Singapore",
-  "vertical_id": 127,
   "vertical_type": 100
 }
 {
@@ -213,7 +175,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.8",
-    "number": "(29,036)",
+    "number": "(29,044)",
     "booked": "600K+ booked",
     "dot": " • "
   },
@@ -251,7 +213,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(15,127)",
+    "number": "(15,131)",
     "booked": "600K+ booked",
     "dot": " • "
   },
@@ -289,7 +251,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.4",
-    "number": "(6,966)",
+    "number": "(6,975)",
     "booked": "200K+ booked",
     "dot": " • "
   },
@@ -327,7 +289,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(6,881)",
+    "number": "(6,886)",
     "booked": "200K+ booked",
     "dot": " • "
   },
@@ -365,7 +327,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(6,968)",
+    "number": "(6,971)",
     "booked": "200K+ booked",
     "dot": " • "
   },
@@ -403,7 +365,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(10,194)",
+    "number": "(10,205)",
     "booked": "200K+ booked",
     "dot": " • "
   },
@@ -441,7 +403,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(7,706)",
+    "number": "(7,709)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -479,7 +441,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(19,531)",
+    "number": "(19,537)",
     "booked": "400K+ booked",
     "dot": " • "
   },
@@ -517,7 +479,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(8,263)",
+    "number": "(8,264)",
     "booked": "200K+ booked",
     "dot": " • "
   },
@@ -555,7 +517,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(4,677)",
+    "number": "(4,678)",
     "booked": "200K+ booked",
     "dot": " • "
   },
@@ -593,7 +555,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(3,904)",
+    "number": "(3,905)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -631,7 +593,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(3,036)",
+    "number": "(3,037)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -702,7 +664,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(5,706)",
+    "number": "(5,708)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -740,7 +702,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(6,080)",
+    "number": "(6,084)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -773,7 +735,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(20)",
+    "number": "(22)",
     "booked": "50+ booked",
     "dot": " • "
   },
@@ -811,7 +773,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.2",
-    "number": "(1,712)",
+    "number": "(1,713)",
     "booked": "40K+ booked",
     "dot": " • "
   },
@@ -822,6 +784,44 @@
   "sold_out": false,
   "title": "Sentosa 4D Adventureland",
   "vertical_id": 136,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/9382849d-Wings-of-Time.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/135-wings-of-time-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#E9F8F1",
+      "text_color": "#16AA77",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "{selling_price}",
+    "selling_price": "S$ 16.20",
+    "market_price": "S$ 18.00",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.7",
+    "number": "(5,663)",
+    "booked": "100K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Wings of Time Show Ticket in Singapore",
+    "url": "https://www.klook.com/en-US/activity/135-wings-of-time-singapore/"
+  },
+  "sold_out": false,
+  "title": "Wings of Time Show Ticket in Singapore",
+  "vertical_id": 135,
   "vertical_type": 100
 }
 {
@@ -887,7 +887,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(1,673)",
+    "number": "(1,674)",
     "booked": "50K+ booked",
     "dot": " • "
   },
@@ -898,44 +898,6 @@
   "sold_out": false,
   "title": "HydroDash Singapore Admission",
   "vertical_id": 51613,
-  "vertical_type": 100
-}
-{
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/9382849d-Wings-of-Time.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/135-wings-of-time-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 16.20",
-    "market_price": "S$ 18.00",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.7",
-    "number": "(5,663)",
-    "booked": "100K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Wings of Time Show Ticket in Singapore",
-    "url": "https://www.klook.com/en-US/activity/135-wings-of-time-singapore/"
-  },
-  "sold_out": false,
-  "title": "Wings of Time Show Ticket in Singapore",
-  "vertical_id": 135,
   "vertical_type": 100
 }
 {
@@ -1001,7 +963,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(6,953)",
+    "number": "(6,954)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -1039,7 +1001,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(1,720)",
+    "number": "(1,721)",
     "booked": "60K+ booked",
     "dot": " • "
   },
@@ -1077,7 +1039,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(1,541)",
+    "number": "(1,542)",
     "booked": "40K+ booked",
     "dot": " • "
   },
@@ -1088,5 +1050,43 @@
   "sold_out": false,
   "title": "National Gallery Singapore",
   "vertical_id": 1256,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/est6rrpjbdxohqjfngra.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/118-trick-eye-museum-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#E9F8F1",
+      "text_color": "#16AA77",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "{selling_price}",
+    "selling_price": "S$ 27.00",
+    "market_price": "S$ 32.00",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.5",
+    "number": "(2,752)",
+    "booked": "60K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Trick Eye Museum @ Southside",
+    "url": "https://www.klook.com/en-US/activity/118-trick-eye-museum-singapore/"
+  },
+  "sold_out": false,
+  "title": "Trick Eye Museum @ Southside",
+  "vertical_id": 118,
   "vertical_type": 100
 }
