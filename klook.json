@@ -863,6 +863,44 @@
   "vertical_type": 100
 }
 {
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/efa25b08-Singapore-Flyer-Dinner.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/143-singapore-flyer-dinner-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#E9F8F1",
+      "text_color": "#16AA77",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "24-hour confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 175.99",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.5",
+    "number": "(218)",
+    "booked": "3K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Singapore Flyer Sky Dining",
+    "url": "https://www.klook.com/en-US/activity/143-singapore-flyer-dinner-singapore/"
+  },
+  "sold_out": false,
+  "title": "Singapore Flyer Sky Dining",
+  "vertical_id": 143,
+  "vertical_type": 100
+}
+{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/n7xbv9bcfcwy2any44ga.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/1348-snow-play-session-in-snow-city-singapore/",
   "general_tag": [
@@ -1050,43 +1088,5 @@
   "sold_out": false,
   "title": "National Gallery Singapore",
   "vertical_id": 1256,
-  "vertical_type": 100
-}
-{
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/cgb8xyyv7hzeqsagiglu.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/1182-madame-tussauds-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 60.00",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.7",
-    "number": "(6,959)",
-    "booked": "100K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Madame Tussauds Singapore Ticket",
-    "url": "https://www.klook.com/en-US/activity/1182-madame-tussauds-singapore/"
-  },
-  "sold_out": false,
-  "title": "Madame Tussauds Singapore Ticket",
-  "vertical_id": 1182,
   "vertical_type": 100
 }
