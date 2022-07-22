@@ -129,8 +129,8 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 10.00",
-    "market_price": "S$ 10.05",
+    "selling_price": "S$ 10.05",
+    "market_price": "S$ 12.00",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -395,8 +395,8 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 22.00",
-    "market_price": "S$ 23.00",
+    "selling_price": "S$ 23.00",
+    "market_price": "S$ 26.00",
     "market_price_no_strike": false,
     "discount_tag": null
   },
