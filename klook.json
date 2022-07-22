@@ -23,7 +23,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.8",
-    "number": "(87,917)",
+    "number": "(87,946)",
     "booked": "2M+ booked",
     "dot": " • "
   },
@@ -61,7 +61,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(451)",
+    "number": "(464)",
     "booked": "10K+ booked",
     "dot": " • "
   },
@@ -99,7 +99,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(31,594)",
+    "number": "(31,601)",
     "booked": "900K+ booked",
     "dot": " • "
   },
@@ -137,7 +137,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.8",
-    "number": "(43,479)",
+    "number": "(43,494)",
     "booked": "1M+ booked",
     "dot": " • "
   },
@@ -148,44 +148,6 @@
   "sold_out": false,
   "title": "Gardens by the Bay Ticket Singapore",
   "vertical_id": 127,
-  "vertical_type": 100
-}
-{
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/qjyjdw5kxmelz0ssuuyl.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/141-singapore-zoo-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 45.60",
-    "market_price": "S$ 48.00",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.7",
-    "number": "(15,153)",
-    "booked": "600K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Singapore Zoo Tickets",
-    "url": "https://www.klook.com/en-US/activity/141-singapore-zoo-singapore/"
-  },
-  "sold_out": false,
-  "title": "Singapore Zoo Tickets",
-  "vertical_id": 141,
   "vertical_type": 100
 }
 {
@@ -213,7 +175,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.8",
-    "number": "(29,099)",
+    "number": "(29,104)",
     "booked": "600K+ booked",
     "dot": " • "
   },
@@ -224,6 +186,44 @@
   "sold_out": false,
   "title": "Skyline Luge Singapore: Skyline Luge & Skyride",
   "vertical_id": 132,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/qjyjdw5kxmelz0ssuuyl.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/141-singapore-zoo-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#E9F8F1",
+      "text_color": "#16AA77",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 45.60",
+    "market_price": "S$ 48.00",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.7",
+    "number": "(15,161)",
+    "booked": "600K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Singapore Zoo Tickets",
+    "url": "https://www.klook.com/en-US/activity/141-singapore-zoo-singapore/"
+  },
+  "sold_out": false,
+  "title": "Singapore Zoo Tickets",
+  "vertical_id": 141,
   "vertical_type": 100
 }
 {
@@ -289,7 +289,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(6,996)",
+    "number": "(7,002)",
     "booked": "200K+ booked",
     "dot": " • "
   },
@@ -327,7 +327,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(10,248)",
+    "number": "(10,255)",
     "booked": "200K+ booked",
     "dot": " • "
   },
@@ -365,7 +365,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(6,909)",
+    "number": "(6,911)",
     "booked": "200K+ booked",
     "dot": " • "
   },
@@ -395,8 +395,8 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 20.00",
-    "market_price": "S$ 23.00",
+    "selling_price": "S$ 23.00",
+    "market_price": "S$ 26.00",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -441,7 +441,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(19,566)",
+    "number": "(19,571)",
     "booked": "400K+ booked",
     "dot": " • "
   },
@@ -479,7 +479,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(8,282)",
+    "number": "(8,283)",
     "booked": "200K+ booked",
     "dot": " • "
   },
@@ -512,7 +512,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(31)",
+    "number": "(32)",
     "booked": "1K+ booked",
     "dot": " • "
   },
@@ -550,7 +550,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(4,690)",
+    "number": "(4,692)",
     "booked": "200K+ booked",
     "dot": " • "
   },
@@ -588,7 +588,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(3,917)",
+    "number": "(3,918)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -626,7 +626,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(5,715)",
+    "number": "(5,717)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -664,7 +664,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(3,049)",
+    "number": "(3,050)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -702,7 +702,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(6,110)",
+    "number": "(6,115)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -740,7 +740,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(5,682)",
+    "number": "(5,684)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -751,6 +751,82 @@
   "sold_out": false,
   "title": "Wings of Time Show Ticket in Singapore",
   "vertical_id": 135,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/tlaiutyd9fbrz6l6jka3.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/30305-singapore-zoo-night-safari-river-rainforest-lumina-park-hopper-pass/",
+  "general_tag": [
+    {
+      "bg_color": "#E9F8F1",
+      "text_color": "#16AA77",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "{selling_price}",
+    "selling_price": "S$ 78.00",
+    "market_price": "S$ 88.00",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.7",
+    "number": "(1,318)",
+    "booked": "30K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Mandai Wildlife Reserves: 2-in-1 Singapore Zoo & River Wonders",
+    "url": "https://www.klook.com/en-US/activity/30305-singapore-zoo-night-safari-river-rainforest-lumina-park-hopper-pass/"
+  },
+  "sold_out": false,
+  "title": "Mandai Wildlife Reserves: 2-in-1 Singapore Zoo & River Wonders",
+  "vertical_id": 30305,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/efa25b08-Singapore-Flyer-Dinner.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/143-singapore-flyer-dinner-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#E9F8F1",
+      "text_color": "#16AA77",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "24-hour confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 175.99",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.5",
+    "number": "(218)",
+    "booked": "3K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Singapore Flyer Sky Dining",
+    "url": "https://www.klook.com/en-US/activity/143-singapore-flyer-dinner-singapore/"
+  },
+  "sold_out": false,
+  "title": "Singapore Flyer Sky Dining",
+  "vertical_id": 143,
   "vertical_type": 100
 }
 {
@@ -811,7 +887,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.2",
-    "number": "(2,925)",
+    "number": "(2,927)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -822,82 +898,6 @@
   "sold_out": false,
   "title": "Snow City Singapore",
   "vertical_id": 1348,
-  "vertical_type": 100
-}
-{
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/efa25b08-Singapore-Flyer-Dinner.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/143-singapore-flyer-dinner-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "24-hour confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 175.99",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.5",
-    "number": "(218)",
-    "booked": "3K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Singapore Flyer Sky Dining",
-    "url": "https://www.klook.com/en-US/activity/143-singapore-flyer-dinner-singapore/"
-  },
-  "sold_out": false,
-  "title": "Singapore Flyer Sky Dining",
-  "vertical_id": 143,
-  "vertical_type": 100
-}
-{
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/tlaiutyd9fbrz6l6jka3.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/30305-singapore-zoo-night-safari-river-rainforest-lumina-park-hopper-pass/",
-  "general_tag": [
-    {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 78.00",
-    "market_price": "S$ 88.00",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.7",
-    "number": "(1,318)",
-    "booked": "30K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Mandai Wildlife Reserves: 2-in-1 Singapore Zoo & River Wonders",
-    "url": "https://www.klook.com/en-US/activity/30305-singapore-zoo-night-safari-river-rainforest-lumina-park-hopper-pass/"
-  },
-  "sold_out": false,
-  "title": "Mandai Wildlife Reserves: 2-in-1 Singapore Zoo & River Wonders",
-  "vertical_id": 30305,
   "vertical_type": 100
 }
 {
@@ -1001,7 +1001,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(1,548)",
+    "number": "(1,551)",
     "booked": "40K+ booked",
     "dot": " • "
   },
@@ -1012,6 +1012,44 @@
   "sold_out": false,
   "title": "National Gallery Singapore",
   "vertical_id": 1256,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/cgb8xyyv7hzeqsagiglu.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/1182-madame-tussauds-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#E9F8F1",
+      "text_color": "#16AA77",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "{selling_price}",
+    "selling_price": "S$ 60.00",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.7",
+    "number": "(6,961)",
+    "booked": "100K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Madame Tussauds Singapore Ticket",
+    "url": "https://www.klook.com/en-US/activity/1182-madame-tussauds-singapore/"
+  },
+  "sold_out": false,
+  "title": "Madame Tussauds Singapore Ticket",
+  "vertical_id": 1182,
   "vertical_type": 100
 }
 {
@@ -1050,43 +1088,5 @@
   "sold_out": false,
   "title": "HydroDash Singapore Admission",
   "vertical_id": 51613,
-  "vertical_type": 100
-}
-{
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/cgb8xyyv7hzeqsagiglu.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/1182-madame-tussauds-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 60.00",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.7",
-    "number": "(6,959)",
-    "booked": "100K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Madame Tussauds Singapore Ticket",
-    "url": "https://www.klook.com/en-US/activity/1182-madame-tussauds-singapore/"
-  },
-  "sold_out": false,
-  "title": "Madame Tussauds Singapore Ticket",
-  "vertical_id": 1182,
   "vertical_type": 100
 }
