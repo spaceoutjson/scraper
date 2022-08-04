@@ -15,8 +15,8 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 68.00",
-    "market_price": "S$ 81.00",
+    "selling_price": "S$ 68",
+    "market_price": "S$ 81",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -53,8 +53,8 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 55.00",
-    "market_price": "S$ 103.00",
+    "selling_price": "S$ 55",
+    "market_price": "S$ 103",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -91,7 +91,7 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 20.00",
+    "selling_price": "S$ 20",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -129,8 +129,8 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 10.00",
-    "market_price": "S$ 12.00",
+    "selling_price": "S$ 10",
+    "market_price": "S$ 12",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -168,7 +168,7 @@
   "price": {
     "selling_price_format": "From {price}",
     "selling_price": "S$ 52.25",
-    "market_price": "S$ 55.00",
+    "market_price": "S$ 55",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -205,8 +205,8 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 45.60",
-    "market_price": "S$ 48.00",
+    "selling_price": "S$ 45.6",
+    "market_price": "S$ 48",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -243,8 +243,8 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 27.00",
-    "market_price": "S$ 30.00",
+    "selling_price": "S$ 27",
+    "market_price": "S$ 30",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -281,7 +281,7 @@
   ],
   "price": {
     "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 18.00",
+    "selling_price": "S$ 18",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -319,7 +319,7 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 33.00",
+    "selling_price": "S$ 33",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -357,8 +357,8 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 32.00",
-    "market_price": "S$ 38.00",
+    "selling_price": "S$ 32",
+    "market_price": "S$ 38",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -395,8 +395,8 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 23.00",
-    "market_price": "S$ 26.00",
+    "selling_price": "S$ 23",
+    "market_price": "S$ 26",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -433,8 +433,8 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 28.00",
-    "market_price": "S$ 35.00",
+    "selling_price": "S$ 28",
+    "market_price": "S$ 35",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -471,7 +471,7 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 20.00",
+    "selling_price": "S$ 20",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -504,8 +504,8 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 110.00",
-    "market_price": "S$ 129.00",
+    "selling_price": "S$ 110",
+    "market_price": "S$ 129",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -542,7 +542,7 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 40.00",
+    "selling_price": "S$ 40",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -580,8 +580,8 @@
   ],
   "price": {
     "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 78.00",
-    "market_price": "S$ 88.00",
+    "selling_price": "S$ 78",
+    "market_price": "S$ 88",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -618,8 +618,8 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 4.50",
-    "market_price": "S$ 5.00",
+    "selling_price": "S$ 4.5",
+    "market_price": "S$ 5",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -644,11 +644,6 @@
   "deep_link": "https://www.klook.com/en-US/activity/1347-science-centre-singapore-omni-theatre-movie-singapore/",
   "general_tag": [
     {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
-    {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
       "text": "Instant confirmation"
@@ -656,8 +651,8 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 9.60",
-    "market_price": "S$ 12.00",
+    "selling_price": "S$ 9.6",
+    "market_price": "S$ 12",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -694,8 +689,8 @@
   ],
   "price": {
     "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 16.20",
-    "market_price": "S$ 18.00",
+    "selling_price": "S$ 16.2",
+    "market_price": "S$ 18",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -732,7 +727,7 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 36.10",
+    "selling_price": "S$ 36.1",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -770,7 +765,7 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 26.00",
+    "selling_price": "S$ 26",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -847,7 +842,7 @@
   "price": {
     "selling_price_format": "{selling_price}",
     "selling_price": "S$ 12.65",
-    "market_price": "S$ 15.00",
+    "market_price": "S$ 15",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -884,8 +879,8 @@
   ],
   "price": {
     "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 8.30",
-    "market_price": "S$ 15.00",
+    "selling_price": "S$ 8.3",
+    "market_price": "S$ 15",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -910,11 +905,6 @@
   "deep_link": "https://www.klook.com/en-US/activity/1348-snow-play-session-in-snow-city-singapore/",
   "general_tag": [
     {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
-    {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
       "text": "Instant confirmation"
@@ -922,8 +912,8 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 12.00",
-    "market_price": "S$ 16.00",
+    "selling_price": "S$ 12",
+    "market_price": "S$ 16",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -960,8 +950,8 @@
   ],
   "price": {
     "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 87.50",
-    "market_price": "S$ 100.00",
+    "selling_price": "S$ 87.5",
+    "market_price": "S$ 100",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -998,8 +988,8 @@
   ],
   "price": {
     "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 23.00",
-    "market_price": "S$ 29.90",
+    "selling_price": "S$ 23",
+    "market_price": "S$ 29.9",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -1036,8 +1026,8 @@
   ],
   "price": {
     "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 57.00",
-    "market_price": "S$ 60.00",
+    "selling_price": "S$ 57",
+    "market_price": "S$ 60",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -1074,7 +1064,7 @@
   ],
   "price": {
     "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 20.00",
+    "selling_price": "S$ 20",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
