@@ -23,7 +23,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.8",
-    "number": "(88,284)",
+    "number": "(88,303)",
     "booked": "2M+ booked",
     "dot": " • "
   },
@@ -61,7 +61,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(657)",
+    "number": "(682)",
     "booked": "20K+ booked",
     "dot": " • "
   },
@@ -99,7 +99,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(31,757)",
+    "number": "(31,765)",
     "booked": "900K+ booked",
     "dot": " • "
   },
@@ -137,7 +137,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.8",
-    "number": "(43,713)",
+    "number": "(43,726)",
     "booked": "1M+ booked",
     "dot": " • "
   },
@@ -175,7 +175,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.4",
-    "number": "(7,026)",
+    "number": "(7,030)",
     "booked": "200K+ booked",
     "dot": " • "
   },
@@ -213,7 +213,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(15,215)",
+    "number": "(15,219)",
     "booked": "600K+ booked",
     "dot": " • "
   },
@@ -251,7 +251,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.8",
-    "number": "(29,216)",
+    "number": "(29,224)",
     "booked": "600K+ booked",
     "dot": " • "
   },
@@ -289,7 +289,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(10,352)",
+    "number": "(10,357)",
     "booked": "200K+ booked",
     "dot": " • "
   },
@@ -327,7 +327,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(7,074)",
+    "number": "(7,083)",
     "booked": "200K+ booked",
     "dot": " • "
   },
@@ -365,7 +365,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(7,758)",
+    "number": "(7,762)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -403,7 +403,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(6,947)",
+    "number": "(6,950)",
     "booked": "200K+ booked",
     "dot": " • "
   },
@@ -441,7 +441,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(19,642)",
+    "number": "(19,647)",
     "booked": "400K+ booked",
     "dot": " • "
   },
@@ -479,7 +479,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(8,322)",
+    "number": "(8,323)",
     "booked": "200K+ booked",
     "dot": " • "
   },
@@ -550,7 +550,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(1,328)",
+    "number": "(1,330)",
     "booked": "30K+ booked",
     "dot": " • "
   },
@@ -626,7 +626,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(6,166)",
+    "number": "(6,170)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -664,7 +664,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(5,725)",
+    "number": "(5,726)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -702,7 +702,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(4,719)",
+    "number": "(4,724)",
     "booked": "200K+ booked",
     "dot": " • "
   },
@@ -778,7 +778,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(3,076)",
+    "number": "(3,077)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -854,7 +854,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(1,759)",
+    "number": "(1,763)",
     "booked": "60K+ booked",
     "dot": " • "
   },
@@ -892,7 +892,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(1,579)",
+    "number": "(1,581)",
     "booked": "40K+ booked",
     "dot": " • "
   },
@@ -903,44 +903,6 @@
   "sold_out": false,
   "title": "National Gallery Singapore",
   "vertical_id": 1256,
-  "vertical_type": 100
-}
-{
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/gnsix176cr5jbbkvyrao.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/144-cable-car-dinner-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "24-hour confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 87.50",
-    "market_price": "S$ 100.00",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.4",
-    "number": "(947)",
-    "booked": "10K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Cable Car Dining Singapore",
-    "url": "https://www.klook.com/en-US/activity/144-cable-car-dinner-singapore/"
-  },
-  "sold_out": false,
-  "title": "Cable Car Dining Singapore",
-  "vertical_id": 144,
   "vertical_type": 100
 }
 {
@@ -979,6 +941,44 @@
   "sold_out": false,
   "title": "Snow City Singapore",
   "vertical_id": 1348,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/gnsix176cr5jbbkvyrao.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/144-cable-car-dinner-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#E9F8F1",
+      "text_color": "#16AA77",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "24-hour confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "{selling_price}",
+    "selling_price": "S$ 87.50",
+    "market_price": "S$ 100.00",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.4",
+    "number": "(947)",
+    "booked": "10K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Cable Car Dining Singapore",
+    "url": "https://www.klook.com/en-US/activity/144-cable-car-dinner-singapore/"
+  },
+  "sold_out": false,
+  "title": "Cable Car Dining Singapore",
+  "vertical_id": 144,
   "vertical_type": 100
 }
 {
@@ -1044,7 +1044,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(6,981)",
+    "number": "(6,982)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -1082,7 +1082,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(397)",
+    "number": "(400)",
     "booked": "10K+ booked",
     "dot": " • "
   },
