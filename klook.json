@@ -167,8 +167,8 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 52.25",
-    "market_price": "S$ 55.00",
+    "selling_price": "S$ 55.00",
+    "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -542,8 +542,8 @@
   ],
   "price": {
     "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 78.00",
-    "market_price": "S$ 88.00",
+    "selling_price": "Sold out",
+    "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -558,7 +558,7 @@
     "title": "Mandai Wildlife Reserves: 2-in-1 Singapore Zoo & River Wonders",
     "url": "https://www.klook.com/en-US/activity/30305-singapore-zoo-night-safari-river-rainforest-lumina-park-hopper-pass/"
   },
-  "sold_out": false,
+  "sold_out": true,
   "title": "Mandai Wildlife Reserves: 2-in-1 Singapore Zoo & River Wonders",
   "vertical_id": 30305,
   "vertical_type": 100
@@ -732,7 +732,7 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 36.10",
+    "selling_price": "S$ 38.00",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
