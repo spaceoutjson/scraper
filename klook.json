@@ -3,11 +3,6 @@
   "deep_link": "https://www.klook.com/en-US/activity/117-universal-studios-singapore/",
   "general_tag": [
     {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
-    {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
       "text": "Instant confirmation"
@@ -23,7 +18,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.8",
-    "number": "(88,409)",
+    "number": "(88,429)",
     "booked": "2M+ booked",
     "dot": " • "
   },
@@ -94,7 +89,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(31,806)",
+    "number": "(31,815)",
     "booked": "1M+ booked",
     "dot": " • "
   },
@@ -112,11 +107,6 @@
   "deep_link": "https://www.klook.com/en-US/activity/127-gardens-by-the-bay-singapore/",
   "general_tag": [
     {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
-    {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
       "text": "Instant confirmation"
@@ -132,7 +122,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.8",
-    "number": "(43,823)",
+    "number": "(43,832)",
     "booked": "1M+ booked",
     "dot": " • "
   },
@@ -157,8 +147,8 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 52.25",
-    "market_price": "S$ 55.00",
+    "selling_price": "S$ 55.00",
+    "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -182,11 +172,6 @@
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/dsmgjmen77jm1isndwch.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/141-singapore-zoo-singapore/",
   "general_tag": [
-    {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
@@ -221,11 +206,6 @@
   "deep_link": "https://www.klook.com/en-US/activity/132-skyline-luge-singapore/",
   "general_tag": [
     {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
-    {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
       "text": "Instant confirmation"
@@ -241,7 +221,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.8",
-    "number": "(29,262)",
+    "number": "(29,263)",
     "booked": "600K+ booked",
     "dot": " • "
   },
@@ -259,11 +239,6 @@
   "deep_link": "https://www.klook.com/en-US/activity/2501-marina-bay-sands-artscience-museum-singapore/",
   "general_tag": [
     {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
-    {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
       "text": "Instant confirmation"
@@ -279,7 +254,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(10,387)",
+    "number": "(10,388)",
     "booked": "200K+ booked",
     "dot": " • "
   },
@@ -297,11 +272,6 @@
   "deep_link": "https://www.klook.com/en-US/activity/4534-singapore-flyer/",
   "general_tag": [
     {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
-    {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
       "text": "Instant confirmation"
@@ -317,7 +287,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(7,110)",
+    "number": "(7,113)",
     "booked": "200K+ booked",
     "dot": " • "
   },
@@ -350,7 +320,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(6,957)",
+    "number": "(6,960)",
     "booked": "200K+ booked",
     "dot": " • "
   },
@@ -368,11 +338,6 @@
   "deep_link": "https://www.klook.com/en-US/activity/10552-marina-bay-sands-skypark-observation-deck-admission-ticket-singapore/",
   "general_tag": [
     {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
-    {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
       "text": "Instant confirmation"
@@ -388,7 +353,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(7,772)",
+    "number": "(7,773)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -406,11 +371,6 @@
   "deep_link": "https://www.klook.com/en-US/activity/130-faber-peak-cable-car-singapore/",
   "general_tag": [
     {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
-    {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
       "text": "Instant confirmation"
@@ -426,7 +386,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(19,666)",
+    "number": "(19,669)",
     "booked": "400K+ booked",
     "dot": " • "
   },
@@ -443,11 +403,6 @@
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/onutyfvfg38koe1l7vrg.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/124-river-wonders-singapore-tickets/",
   "general_tag": [
-    {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
@@ -530,7 +485,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(1,334)",
+    "number": "(1,338)",
     "booked": "30K+ booked",
     "dot": " • "
   },
@@ -548,11 +503,6 @@
   "deep_link": "https://www.klook.com/en-US/activity/135-wings-of-time-singapore/",
   "general_tag": [
     {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
-    {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
       "text": "Instant confirmation"
@@ -568,7 +518,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(5,737)",
+    "number": "(5,738)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -585,11 +535,6 @@
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/iaeecewmzenaoe2psu15.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/2121-sentosa-fun-pass-singapore/",
   "general_tag": [
-    {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
@@ -624,11 +569,6 @@
   "deep_link": "https://www.klook.com/en-US/activity/1347-science-centre-singapore-omni-theatre-movie-singapore/",
   "general_tag": [
     {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
-    {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
       "text": "Instant confirmation"
@@ -644,7 +584,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(4,734)",
+    "number": "(4,738)",
     "booked": "200K+ booked",
     "dot": " • "
   },
@@ -662,11 +602,6 @@
   "deep_link": "https://www.klook.com/en-US/activity/25872-jewel-changi-airport-attractions-ticket-singapore/",
   "general_tag": [
     {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
-    {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
       "text": "Instant confirmation"
@@ -682,7 +617,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(6,190)",
+    "number": "(6,194)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -700,11 +635,6 @@
   "deep_link": "https://www.klook.com/en-US/activity/123-jurong-bird-park-singapore/",
   "general_tag": [
     {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
-    {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
       "text": "Instant confirmation"
@@ -712,7 +642,7 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 36.10",
+    "selling_price": "S$ 38.00",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -720,7 +650,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(3,935)",
+    "number": "(3,937)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -738,11 +668,6 @@
   "deep_link": "https://www.klook.com/en-US/activity/9610-wild-wild-wet-ticket-singapore/",
   "general_tag": [
     {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
-    {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
       "text": "Instant confirmation"
@@ -758,7 +683,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(3,087)",
+    "number": "(3,088)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -814,11 +739,6 @@
   "deep_link": "https://www.klook.com/en-US/activity/1199-national-museum-singapore/",
   "general_tag": [
     {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
-    {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
       "text": "Instant confirmation"
@@ -834,7 +754,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(1,770)",
+    "number": "(1,773)",
     "booked": "60K+ booked",
     "dot": " • "
   },
@@ -851,11 +771,6 @@
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/gnsix176cr5jbbkvyrao.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/144-cable-car-dinner-singapore/",
   "general_tag": [
-    {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
@@ -890,11 +805,6 @@
   "deep_link": "https://www.klook.com/en-US/activity/1256-national-gallery-singapore/",
   "general_tag": [
     {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
-    {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
       "text": "Instant confirmation"
@@ -910,7 +820,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(1,592)",
+    "number": "(1,595)",
     "booked": "40K+ booked",
     "dot": " • "
   },
@@ -928,11 +838,6 @@
   "deep_link": "https://www.klook.com/en-US/activity/1348-snow-play-session-in-snow-city-singapore/",
   "general_tag": [
     {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
-    {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
       "text": "Instant confirmation"
@@ -948,7 +853,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.2",
-    "number": "(2,962)",
+    "number": "(2,964)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -965,11 +870,6 @@
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/8343cee4-Sentosa-4D-Adventureland.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/136-sentosa-4d-adventureland-singapore/",
   "general_tag": [
-    {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
@@ -1004,11 +904,6 @@
   "deep_link": "https://www.klook.com/en-US/activity/1182-madame-tussauds-singapore/",
   "general_tag": [
     {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
-    {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
       "text": "Instant confirmation"
@@ -1024,7 +919,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(6,988)",
+    "number": "(6,989)",
     "booked": "100K+ booked",
     "dot": " • "
   },
