@@ -150,11 +150,6 @@
   "deep_link": "https://www.klook.com/en-US/activity/3928-singapore-night-safari-singapore/",
   "general_tag": [
     {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
-    {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
       "text": "Instant confirmation"
@@ -162,8 +157,8 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 52.25",
-    "market_price": "S$ 55.00",
+    "selling_price": "S$ 55.00",
+    "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -520,11 +515,6 @@
   "deep_link": "https://www.klook.com/en-US/activity/30305-singapore-zoo-night-safari-river-rainforest-lumina-park-hopper-pass/",
   "general_tag": [
     {
-      "bg_color": "#E9F8F1",
-      "text_color": "#16AA77",
-      "text": "Bestseller"
-    },
-    {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
       "text": "Instant confirmation"
@@ -722,7 +712,7 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 36.10",
+    "selling_price": "S$ 38.00",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
