@@ -788,7 +788,7 @@
   ],
   "price": {
     "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 175.99",
+    "selling_price": "Sold out",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -804,7 +804,7 @@
     "title": "Singapore Flyer Sky Dining",
     "url": "https://www.klook.com/en-US/activity/143-singapore-flyer-dinner-singapore/"
   },
-  "sold_out": false,
+  "sold_out": true,
   "title": "Singapore Flyer Sky Dining",
   "vertical_id": 143,
   "vertical_type": 100
