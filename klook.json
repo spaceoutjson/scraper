@@ -51,7 +51,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(779)",
+    "number": "(797)",
     "booked": "20K+ booked",
     "dot": " • "
   },
@@ -117,7 +117,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.8",
-    "number": "(43,832)",
+    "number": "(43,849)",
     "booked": "1M+ booked",
     "dot": " • "
   },
@@ -142,8 +142,8 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 52.25",
-    "market_price": "S$ 55.00",
+    "selling_price": "S$ 55.00",
+    "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -381,7 +381,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(19,669)",
+    "number": "(19,678)",
     "booked": "400K+ booked",
     "dot": " • "
   },
@@ -637,7 +637,7 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 36.10",
+    "selling_price": "S$ 38.00",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
