@@ -51,7 +51,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(797)",
+    "number": "(819)",
     "booked": "20K+ booked",
     "dot": " • "
   },
@@ -142,8 +142,8 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 55.00",
-    "market_price": "",
+    "selling_price": "S$ 52.25",
+    "market_price": "S$ 55.00",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -175,8 +175,8 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 48.00",
-    "market_price": "",
+    "selling_price": "S$ 45.60",
+    "market_price": "S$ 48.00",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -230,39 +230,6 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/iks4fd6ddgkouwf4pkf2.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/4534-singapore-flyer/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 33.00",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.6",
-    "number": "(7,129)",
-    "booked": "200K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Singapore Flyer Tickets",
-    "url": "https://www.klook.com/en-US/activity/4534-singapore-flyer/"
-  },
-  "sold_out": false,
-  "title": "Singapore Flyer Tickets",
-  "vertical_id": 4534,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/hn0x3xjtb6y1wxdhwvsi.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/2501-marina-bay-sands-artscience-museum-singapore/",
   "general_tag": [
@@ -293,6 +260,39 @@
   "sold_out": false,
   "title": "ArtScience Museum at Marina Bay Sands Ticket",
   "vertical_id": 2501,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/iks4fd6ddgkouwf4pkf2.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/4534-singapore-flyer/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 33.00",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.6",
+    "number": "(7,129)",
+    "booked": "200K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Singapore Flyer Tickets",
+    "url": "https://www.klook.com/en-US/activity/4534-singapore-flyer/"
+  },
+  "sold_out": false,
+  "title": "Singapore Flyer Tickets",
+  "vertical_id": 4534,
   "vertical_type": 100
 }
 {
@@ -637,7 +637,7 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 38.00",
+    "selling_price": "S$ 36.10",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -909,7 +909,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(413)",
+    "number": "(415)",
     "booked": "10K+ booked",
     "dot": " • "
   },
