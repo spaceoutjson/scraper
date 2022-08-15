@@ -142,8 +142,8 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 55.00",
-    "market_price": "",
+    "selling_price": "S$ 52.25",
+    "market_price": "S$ 55.00",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -175,8 +175,8 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 48.00",
-    "market_price": "",
+    "selling_price": "S$ 45.60",
+    "market_price": "S$ 48.00",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -230,39 +230,6 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/hn0x3xjtb6y1wxdhwvsi.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/2501-marina-bay-sands-artscience-museum-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 18.00",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.7",
-    "number": "(10,408)",
-    "booked": "200K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "ArtScience Museum at Marina Bay Sands Ticket",
-    "url": "https://www.klook.com/en-US/activity/2501-marina-bay-sands-artscience-museum-singapore/"
-  },
-  "sold_out": false,
-  "title": "ArtScience Museum at Marina Bay Sands Ticket",
-  "vertical_id": 2501,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/iks4fd6ddgkouwf4pkf2.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/4534-singapore-flyer/",
   "general_tag": [
@@ -293,6 +260,39 @@
   "sold_out": false,
   "title": "Singapore Flyer Tickets",
   "vertical_id": 4534,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/hn0x3xjtb6y1wxdhwvsi.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/2501-marina-bay-sands-artscience-museum-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "{selling_price}",
+    "selling_price": "S$ 18.00",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.7",
+    "number": "(10,408)",
+    "booked": "200K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "ArtScience Museum at Marina Bay Sands Ticket",
+    "url": "https://www.klook.com/en-US/activity/2501-marina-bay-sands-artscience-museum-singapore/"
+  },
+  "sold_out": false,
+  "title": "ArtScience Museum at Marina Bay Sands Ticket",
+  "vertical_id": 2501,
   "vertical_type": 100
 }
 {
@@ -637,7 +637,7 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 38.00",
+    "selling_price": "S$ 36.10",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -692,39 +692,6 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/gonic17qofflz9okgp5s.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/143-singapore-flyer-dinner-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "24-hour confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 175.99",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.5",
-    "number": "(219)",
-    "booked": "3K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Singapore Flyer Sky Dining",
-    "url": "https://www.klook.com/en-US/activity/143-singapore-flyer-dinner-singapore/"
-  },
-  "sold_out": false,
-  "title": "Singapore Flyer Sky Dining",
-  "vertical_id": 143,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/gnsix176cr5jbbkvyrao.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/144-cable-car-dinner-singapore/",
   "general_tag": [
@@ -755,6 +722,39 @@
   "sold_out": false,
   "title": "Cable Car Dining Singapore",
   "vertical_id": 144,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/gonic17qofflz9okgp5s.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/143-singapore-flyer-dinner-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "24-hour confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "{selling_price}",
+    "selling_price": "S$ 175.99",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.5",
+    "number": "(219)",
+    "booked": "3K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Singapore Flyer Sky Dining",
+    "url": "https://www.klook.com/en-US/activity/143-singapore-flyer-dinner-singapore/"
+  },
+  "sold_out": false,
+  "title": "Singapore Flyer Sky Dining",
+  "vertical_id": 143,
   "vertical_type": 100
 }
 {
@@ -824,39 +824,6 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/n7xbv9bcfcwy2any44ga.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/1348-snow-play-session-in-snow-city-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 12.00",
-    "market_price": "S$ 16.00",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.2",
-    "number": "(2,968)",
-    "booked": "100K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Snow City Singapore",
-    "url": "https://www.klook.com/en-US/activity/1348-snow-play-session-in-snow-city-singapore/"
-  },
-  "sold_out": false,
-  "title": "Snow City Singapore",
-  "vertical_id": 1348,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/8343cee4-Sentosa-4D-Adventureland.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/136-sentosa-4d-adventureland-singapore/",
   "general_tag": [
@@ -887,6 +854,39 @@
   "sold_out": false,
   "title": "Sentosa 4D Adventureland",
   "vertical_id": 136,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/n7xbv9bcfcwy2any44ga.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/1348-snow-play-session-in-snow-city-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 12.00",
+    "market_price": "S$ 16.00",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.2",
+    "number": "(2,968)",
+    "booked": "100K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Snow City Singapore",
+    "url": "https://www.klook.com/en-US/activity/1348-snow-play-session-in-snow-city-singapore/"
+  },
+  "sold_out": false,
+  "title": "Snow City Singapore",
+  "vertical_id": 1348,
   "vertical_type": 100
 }
 {
@@ -942,7 +942,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(415)",
+    "number": "(416)",
     "booked": "10K+ booked",
     "dot": " • "
   },
