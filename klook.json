@@ -692,6 +692,39 @@
   "vertical_type": 100
 }
 {
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/gonic17qofflz9okgp5s.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/143-singapore-flyer-dinner-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "24-hour confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "{selling_price}",
+    "selling_price": "S$ 175.99",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.5",
+    "number": "(219)",
+    "booked": "3K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Singapore Flyer Sky Dining",
+    "url": "https://www.klook.com/en-US/activity/143-singapore-flyer-dinner-singapore/"
+  },
+  "sold_out": false,
+  "title": "Singapore Flyer Sky Dining",
+  "vertical_id": 143,
+  "vertical_type": 100
+}
+{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/gnsix176cr5jbbkvyrao.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/144-cable-car-dinner-singapore/",
   "general_tag": [
@@ -920,38 +953,5 @@
   "sold_out": false,
   "title": "SkyHelix Sentosa Singapore",
   "vertical_id": 65992,
-  "vertical_type": 100
-}
-{
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/xsbej00i5glikqv2wcdu.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/51613-1-hour-hydrodash-admission-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 20.00",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.7",
-    "number": "(1,724)",
-    "booked": "50K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "HydroDash Singapore Admission",
-    "url": "https://www.klook.com/en-US/activity/51613-1-hour-hydrodash-admission-singapore/"
-  },
-  "sold_out": false,
-  "title": "HydroDash Singapore Admission",
-  "vertical_id": 51613,
   "vertical_type": 100
 }
