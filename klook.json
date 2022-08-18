@@ -5,13 +5,23 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
     "selling_price_format": "From {price}",
     "selling_price": "S$ 68.00",
-    "market_price": "S$ 81.00",
+    "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -38,13 +48,23 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
     "selling_price_format": "From {price}",
     "selling_price": "S$ 55.00",
-    "market_price": "S$ 103.00",
+    "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -71,7 +91,17 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for tomorrow"
     }
   ],
   "price": {
@@ -104,13 +134,23 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
     "selling_price_format": "From {price}",
     "selling_price": "S$ 10.00",
-    "market_price": "S$ 12.00",
+    "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -137,13 +177,23 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 55.00",
-    "market_price": "",
+    "selling_price": "S$ 52.25",
+    "market_price": "S$ 55.00",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -170,7 +220,17 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
@@ -203,7 +263,17 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
@@ -236,7 +306,17 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
@@ -266,6 +346,11 @@
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/iks4fd6ddgkouwf4pkf2.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/4534-singapore-flyer/",
   "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
@@ -302,7 +387,17 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
@@ -335,7 +430,17 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for tomorrow"
     }
   ],
   "price": {
@@ -368,7 +473,17 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
@@ -401,7 +516,17 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
@@ -435,12 +560,17 @@
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for tomorrow"
     }
   ],
   "price": {
     "selling_price_format": "From {price}",
     "selling_price": "S$ 110.00",
-    "market_price": "S$ 129.00",
+    "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -467,7 +597,17 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
@@ -500,7 +640,17 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
@@ -533,7 +683,17 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
@@ -566,7 +726,17 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
@@ -599,7 +769,17 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
@@ -632,12 +812,22 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 38.00",
+    "selling_price": "S$ 36.10",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -665,7 +855,17 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for tomorrow"
     }
   ],
   "price": {
@@ -698,7 +898,7 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
-      "text": "24-hour confirmation"
+      "text": "Bestseller"
     }
   ],
   "price": {
@@ -728,6 +928,16 @@
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/eaf826cd-National-Museum-of-Singapore.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/1199-national-museum-singapore/",
   "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Easy refund"
+    },
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
@@ -764,7 +974,7 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
-      "text": "24-hour confirmation"
+      "text": "Bestseller"
     }
   ],
   "price": {
@@ -794,6 +1004,16 @@
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/ftpacwbx76u0tidbmzkq.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/1256-national-gallery-singapore/",
   "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Easy refund"
+    },
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
@@ -830,13 +1050,23 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
     "selling_price_format": "{selling_price}",
     "selling_price": "S$ 23.00",
-    "market_price": "S$ 29.90",
+    "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -863,7 +1093,17 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
@@ -893,6 +1133,16 @@
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/cgb8xyyv7hzeqsagiglu.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/1182-madame-tussauds-singapore/",
   "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Easy refund"
+    },
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
@@ -929,7 +1179,17 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
