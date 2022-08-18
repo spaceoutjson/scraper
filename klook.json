@@ -192,8 +192,8 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 55.00",
-    "market_price": "",
+    "selling_price": "S$ 52.25",
+    "market_price": "S$ 55.00",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -343,44 +343,6 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/iks4fd6ddgkouwf4pkf2.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/4534-singapore-flyer/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 33.00",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.6",
-    "number": "(7,151)",
-    "booked": "200K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Singapore Flyer Tickets",
-    "url": "https://www.klook.com/en-US/activity/4534-singapore-flyer/"
-  },
-  "sold_out": false,
-  "title": "Singapore Flyer Tickets",
-  "vertical_id": 4534,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/sdlood2rymimaznvt7yf.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/10552-marina-bay-sands-skypark-observation-deck-admission-ticket-singapore/",
   "general_tag": [
@@ -421,6 +383,44 @@
   "sold_out": false,
   "title": "Marina Bay Sands Skypark Observation Deck or Sampan Ride",
   "vertical_id": 10552,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/iks4fd6ddgkouwf4pkf2.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/4534-singapore-flyer/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 33.00",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.6",
+    "number": "(7,151)",
+    "booked": "200K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Singapore Flyer Tickets",
+    "url": "https://www.klook.com/en-US/activity/4534-singapore-flyer/"
+  },
+  "sold_out": false,
+  "title": "Singapore Flyer Tickets",
+  "vertical_id": 4534,
   "vertical_type": 100
 }
 {
@@ -784,7 +784,7 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 38.00",
+    "selling_price": "S$ 36.10",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -1001,49 +1001,6 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/8343cee4-Sentosa-4D-Adventureland.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/136-sentosa-4d-adventureland-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Book now for today"
-    }
-  ],
-  "price": {
-    "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 23.00",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.2",
-    "number": "(1,731)",
-    "booked": "40K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Sentosa 4D Adventureland",
-    "url": "https://www.klook.com/en-US/activity/136-sentosa-4d-adventureland-singapore/"
-  },
-  "sold_out": false,
-  "title": "Sentosa 4D Adventureland",
-  "vertical_id": 136,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/n7xbv9bcfcwy2any44ga.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/1348-snow-play-session-in-snow-city-singapore/",
   "general_tag": [
@@ -1084,6 +1041,49 @@
   "sold_out": false,
   "title": "Snow City Singapore",
   "vertical_id": 1348,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/8343cee4-Sentosa-4D-Adventureland.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/136-sentosa-4d-adventureland-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
+    }
+  ],
+  "price": {
+    "selling_price_format": "{selling_price}",
+    "selling_price": "S$ 23.00",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.2",
+    "number": "(1,731)",
+    "booked": "40K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Sentosa 4D Adventureland",
+    "url": "https://www.klook.com/en-US/activity/136-sentosa-4d-adventureland-singapore/"
+  },
+  "sold_out": false,
+  "title": "Sentosa 4D Adventureland",
+  "vertical_id": 136,
   "vertical_type": 100
 }
 {
