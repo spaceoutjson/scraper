@@ -71,7 +71,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(1,129)",
+    "number": "(1,141)",
     "booked": "30K+ booked",
     "dot": " • "
   },
@@ -806,6 +806,34 @@
   "vertical_type": 100
 }
 {
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/xczaxxsdhs78o3cdkybl.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/76323-the-doraemon-exhibition-singapore-2022/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "{selling_price}",
+    "selling_price": "S$ 30.00",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "promotion_tag": null,
+  "review": null,
+  "seo": {
+    "title": "THE Doraemon Exhibition Singapore 2022",
+    "url": "https://www.klook.com/en-US/activity/76323-the-doraemon-exhibition-singapore-2022/"
+  },
+  "sold_out": false,
+  "title": "THE Doraemon Exhibition Singapore 2022",
+  "vertical_id": 76323,
+  "vertical_type": 100
+}
+{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/usqsbup3ljen6l25mxuo.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/9610-wild-wild-wet-ticket-singapore/",
   "general_tag": [
@@ -1175,43 +1203,5 @@
   "sold_out": false,
   "title": "HydroDash Singapore Admission",
   "vertical_id": 51613,
-  "vertical_type": 100
-}
-{
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/hkqhggpnmbuy94ij0ps6.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/72760-singapore-resorts-world-sentosa-pass/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Book now for today"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 37.70",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 5.0",
-    "number": "(1)",
-    "booked": "100+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Resorts World Sentosa (Singapore) Pass",
-    "url": "https://www.klook.com/en-US/activity/72760-singapore-resorts-world-sentosa-pass/"
-  },
-  "sold_out": false,
-  "title": "Resorts World Sentosa (Singapore) Pass",
-  "vertical_id": 72760,
   "vertical_type": 100
 }
