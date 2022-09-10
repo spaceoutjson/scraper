@@ -71,7 +71,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(1,214)",
+    "number": "(1,225)",
     "booked": "30K+ booked",
     "dot": " • "
   },
@@ -257,49 +257,6 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/sdlood2rymimaznvt7yf.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/10552-marina-bay-sands-skypark-observation-deck-admission-ticket-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Book now for today"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 23.00",
-    "market_price": "S$ 26.00",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.7",
-    "number": "(7,843)",
-    "booked": "100K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Marina Bay Sands Skypark Observation Deck or Sampan Ride",
-    "url": "https://www.klook.com/en-US/activity/10552-marina-bay-sands-skypark-observation-deck-admission-ticket-singapore/"
-  },
-  "sold_out": false,
-  "title": "Marina Bay Sands Skypark Observation Deck or Sampan Ride",
-  "vertical_id": 10552,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/miqmpfbmi5bcsmcp1ohd.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/132-skyline-luge-singapore/",
   "general_tag": [
@@ -340,6 +297,49 @@
   "sold_out": false,
   "title": "Skyline Luge Singapore: Skyline Luge & Skyride",
   "vertical_id": 132,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/sdlood2rymimaznvt7yf.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/10552-marina-bay-sands-skypark-observation-deck-admission-ticket-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 23.00",
+    "market_price": "S$ 26.00",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.7",
+    "number": "(7,843)",
+    "booked": "100K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Marina Bay Sands Skypark Observation Deck or Sampan Ride",
+    "url": "https://www.klook.com/en-US/activity/10552-marina-bay-sands-skypark-observation-deck-admission-ticket-singapore/"
+  },
+  "sold_out": false,
+  "title": "Marina Bay Sands Skypark Observation Deck or Sampan Ride",
+  "vertical_id": 10552,
   "vertical_type": 100
 }
 {
@@ -515,6 +515,44 @@
   "vertical_type": 100
 }
 {
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/uk2z54l034sl3gejaaz9.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/5877-universal-studios-singapore-halloween-horror-nights-ticket/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 68.00",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.7",
+    "number": "(1,427)",
+    "booked": "20K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Universal Studios Singapore™ Halloween Horror Nights™ Ticket",
+    "url": "https://www.klook.com/en-US/activity/5877-universal-studios-singapore-halloween-horror-nights-ticket/"
+  },
+  "sold_out": false,
+  "title": "Universal Studios Singapore™ Halloween Horror Nights™ Ticket",
+  "vertical_id": 5877,
+  "vertical_type": 100
+}
+{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/xczaxxsdhs78o3cdkybl.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/76323-the-doraemon-exhibition-singapore-2022/",
   "general_tag": [
@@ -561,8 +599,8 @@
   },
   "promotion_tag": null,
   "review": {
-    "star": "★ 4.4",
-    "number": "(52)",
+    "star": "★ 4.5",
+    "number": "(55)",
     "booked": "2K+ booked",
     "dot": " • "
   },
@@ -616,44 +654,6 @@
   "sold_out": false,
   "title": "River Wonders Singapore Ticket",
   "vertical_id": 124,
-  "vertical_type": 100
-}
-{
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/uk2z54l034sl3gejaaz9.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/5877-universal-studios-singapore-halloween-horror-nights-ticket/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 68.00",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.7",
-    "number": "(1,427)",
-    "booked": "20K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Universal Studios Singapore™ Halloween Horror Nights™ Ticket",
-    "url": "https://www.klook.com/en-US/activity/5877-universal-studios-singapore-halloween-horror-nights-ticket/"
-  },
-  "sold_out": false,
-  "title": "Universal Studios Singapore™ Halloween Horror Nights™ Ticket",
-  "vertical_id": 5877,
   "vertical_type": 100
 }
 {
@@ -915,49 +915,6 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/eaf826cd-National-Museum-of-Singapore.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/1199-national-museum-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Easy refund"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 12.50",
-    "market_price": "S$ 15.00",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.7",
-    "number": "(1,803)",
-    "booked": "60K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "National Museum of Singapore",
-    "url": "https://www.klook.com/en-US/activity/1199-national-museum-singapore/"
-  },
-  "sold_out": false,
-  "title": "National Museum of Singapore",
-  "vertical_id": 1199,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/n7xbv9bcfcwy2any44ga.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/1348-snow-play-session-in-snow-city-singapore/",
   "general_tag": [
@@ -998,6 +955,49 @@
   "sold_out": false,
   "title": "Snow City Singapore",
   "vertical_id": 1348,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/eaf826cd-National-Museum-of-Singapore.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/1199-national-museum-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Easy refund"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "{selling_price}",
+    "selling_price": "S$ 12.50",
+    "market_price": "S$ 15.00",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.7",
+    "number": "(1,803)",
+    "booked": "60K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "National Museum of Singapore",
+    "url": "https://www.klook.com/en-US/activity/1199-national-museum-singapore/"
+  },
+  "sold_out": false,
+  "title": "National Museum of Singapore",
+  "vertical_id": 1199,
   "vertical_type": 100
 }
 {
