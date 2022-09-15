@@ -875,8 +875,8 @@
   ],
   "price": {
     "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 26.00",
-    "market_price": "S$ 32.00",
+    "selling_price": "Sold out",
+    "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -891,7 +891,7 @@
     "title": "Trick Eye Museum @ Southside",
     "url": "https://www.klook.com/en-US/activity/118-trick-eye-museum-singapore/"
   },
-  "sold_out": false,
+  "sold_out": true,
   "title": "Trick Eye Museum @ Southside",
   "vertical_id": 118,
   "vertical_type": 100
@@ -1090,7 +1090,7 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 65.00",
+    "selling_price": "S$ 66.19",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
