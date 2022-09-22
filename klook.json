@@ -21,14 +21,14 @@
   "price": {
     "selling_price_format": "From {price}",
     "selling_price": "S$ 69.39",
-    "market_price": "S$ 82.95",
+    "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
   },
   "promotion_tag": null,
   "review": {
     "star": "★ 4.8",
-    "number": "(89,404)",
+    "number": "(89,432)",
     "booked": "2M+ booked",
     "dot": " • "
   },
@@ -114,7 +114,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.8",
-    "number": "(44,517)",
+    "number": "(44,529)",
     "booked": "1M+ booked",
     "dot": " • "
   },
@@ -157,7 +157,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(32,242)",
+    "number": "(32,248)",
     "booked": "1M+ booked",
     "dot": " • "
   },
@@ -200,7 +200,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.4",
-    "number": "(7,150)",
+    "number": "(7,155)",
     "booked": "200K+ booked",
     "dot": " • "
   },
@@ -243,7 +243,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(15,365)",
+    "number": "(15,368)",
     "booked": "600K+ booked",
     "dot": " • "
   },
@@ -286,7 +286,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(7,864)",
+    "number": "(7,866)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -367,7 +367,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.8",
-    "number": "(29,517)",
+    "number": "(29,523)",
     "booked": "600K+ booked",
     "dot": " • "
   },
@@ -410,7 +410,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(10,620)",
+    "number": "(10,631)",
     "booked": "200K+ booked",
     "dot": " • "
   },
@@ -453,7 +453,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(19,873)",
+    "number": "(19,879)",
     "booked": "400K+ booked",
     "dot": " • "
   },
@@ -496,7 +496,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(7,050)",
+    "number": "(7,051)",
     "booked": "200K+ booked",
     "dot": " • "
   },
@@ -539,7 +539,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(7,288)",
+    "number": "(7,290)",
     "booked": "200K+ booked",
     "dot": " • "
   },
@@ -643,7 +643,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(4,816)",
+    "number": "(4,817)",
     "booked": "200K+ booked",
     "dot": " • "
   },
@@ -686,7 +686,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(8,417)",
+    "number": "(8,418)",
     "booked": "200K+ booked",
     "dot": " • "
   },
@@ -729,7 +729,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(5,872)",
+    "number": "(5,876)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -772,7 +772,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(5,781)",
+    "number": "(5,784)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -815,7 +815,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(6,366)",
+    "number": "(6,367)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -858,7 +858,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(3,971)",
+    "number": "(3,972)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -901,7 +901,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(3,159)",
+    "number": "(3,160)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -944,7 +944,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(1,363)",
+    "number": "(1,364)",
     "booked": "30K+ booked",
     "dot": " • "
   },
@@ -1020,7 +1020,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(1,817)",
+    "number": "(1,819)",
     "booked": "60K+ booked",
     "dot": " • "
   },
