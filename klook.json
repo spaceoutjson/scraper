@@ -20,6 +20,7 @@
     "market_price_no_strike": false,
     "discount_tag": null
   },
+  "price_tag_list": [],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.8",
@@ -63,6 +64,26 @@
     "market_price_no_strike": false,
     "discount_tag": null
   },
+  "price_tag_list": [
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Klook exclusive",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    },
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Best Price Guarantee",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    }
+  ],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
@@ -106,6 +127,17 @@
     "market_price_no_strike": false,
     "discount_tag": null
   },
+  "price_tag_list": [
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Save 15%",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    }
+  ],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.8",
@@ -149,6 +181,7 @@
     "market_price_no_strike": false,
     "discount_tag": null
   },
+  "price_tag_list": [],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
@@ -192,6 +225,7 @@
     "market_price_no_strike": false,
     "discount_tag": null
   },
+  "price_tag_list": [],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.4",
@@ -235,6 +269,7 @@
     "market_price_no_strike": false,
     "discount_tag": null
   },
+  "price_tag_list": [],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
@@ -273,6 +308,7 @@
     "market_price_no_strike": false,
     "discount_tag": null
   },
+  "price_tag_list": [],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
@@ -316,6 +352,7 @@
     "market_price_no_strike": false,
     "discount_tag": null
   },
+  "price_tag_list": [],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
@@ -359,6 +396,7 @@
     "market_price_no_strike": false,
     "discount_tag": null
   },
+  "price_tag_list": [],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.8",
@@ -402,6 +440,7 @@
     "market_price_no_strike": false,
     "discount_tag": null
   },
+  "price_tag_list": [],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
@@ -445,6 +484,7 @@
     "market_price_no_strike": false,
     "discount_tag": null
   },
+  "price_tag_list": [],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
@@ -488,6 +528,7 @@
     "market_price_no_strike": false,
     "discount_tag": null
   },
+  "price_tag_list": [],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
@@ -531,6 +572,7 @@
     "market_price_no_strike": false,
     "discount_tag": null
   },
+  "price_tag_list": [],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
@@ -564,6 +606,17 @@
     "market_price_no_strike": false,
     "discount_tag": null
   },
+  "price_tag_list": [
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Best Price Guarantee",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    }
+  ],
   "promotion_tag": null,
   "review": null,
   "seo": {
@@ -592,6 +645,17 @@
     "market_price_no_strike": false,
     "discount_tag": null
   },
+  "price_tag_list": [
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Klook exclusive",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    }
+  ],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.5",
@@ -635,6 +699,7 @@
     "market_price_no_strike": false,
     "discount_tag": null
   },
+  "price_tag_list": [],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
@@ -678,6 +743,7 @@
     "market_price_no_strike": false,
     "discount_tag": null
   },
+  "price_tag_list": [],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
@@ -721,6 +787,7 @@
     "market_price_no_strike": false,
     "discount_tag": null
   },
+  "price_tag_list": [],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
@@ -764,6 +831,7 @@
     "market_price_no_strike": false,
     "discount_tag": null
   },
+  "price_tag_list": [],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
@@ -802,6 +870,7 @@
     "market_price_no_strike": false,
     "discount_tag": null
   },
+  "price_tag_list": [],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
@@ -845,6 +914,7 @@
     "market_price_no_strike": false,
     "discount_tag": null
   },
+  "price_tag_list": [],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
@@ -883,6 +953,7 @@
     "market_price_no_strike": false,
     "discount_tag": null
   },
+  "price_tag_list": [],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
@@ -926,6 +997,7 @@
     "market_price_no_strike": false,
     "discount_tag": null
   },
+  "price_tag_list": [],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
@@ -959,6 +1031,7 @@
     "market_price_no_strike": false,
     "discount_tag": null
   },
+  "price_tag_list": [],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.4",
@@ -992,6 +1065,7 @@
     "market_price_no_strike": false,
     "discount_tag": null
   },
+  "price_tag_list": [],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.4",
@@ -1035,6 +1109,17 @@
     "market_price_no_strike": false,
     "discount_tag": null
   },
+  "price_tag_list": [
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Best Price Guarantee",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    }
+  ],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.2",
@@ -1078,6 +1163,7 @@
     "market_price_no_strike": false,
     "discount_tag": null
   },
+  "price_tag_list": [],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
@@ -1121,6 +1207,7 @@
     "market_price_no_strike": false,
     "discount_tag": null
   },
+  "price_tag_list": [],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.2",
@@ -1164,6 +1251,7 @@
     "market_price_no_strike": false,
     "discount_tag": null
   },
+  "price_tag_list": [],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
