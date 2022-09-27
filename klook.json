@@ -507,9 +507,58 @@
   "vertical_type": 100
 }
 {
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/xtzrgvv5ypyuobx9uhty.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/74273-avatar-the-experience-gardens-by-the-bay-ticket-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "{selling_price}",
+    "selling_price": "S$ 35.00",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Best Price Guarantee",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    }
+  ],
+  "promotion_tag": null,
+  "review": null,
+  "seo": {
+    "title": "Avatar: The Experience at Gardens by the Bay",
+    "url": "https://www.klook.com/en-US/activity/74273-avatar-the-experience-gardens-by-the-bay-ticket-singapore/"
+  },
+  "sold_out": false,
+  "title": "Avatar: The Experience at Gardens by the Bay",
+  "vertical_id": 74273,
+  "vertical_type": 100
+}
+{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/t2cvzkaisyvjcgz52rlz.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/4534-singapore-flyer/",
   "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
@@ -1212,49 +1261,5 @@
   "sold_out": false,
   "title": "Snow City Singapore",
   "vertical_id": 1348,
-  "vertical_type": 100
-}
-{
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/ftpacwbx76u0tidbmzkq.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/1256-national-gallery-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Easy refund"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 8.30",
-    "market_price": "S$ 15.00",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.7",
-    "number": "(1,654)",
-    "booked": "40K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "National Gallery Singapore",
-    "url": "https://www.klook.com/en-US/activity/1256-national-gallery-singapore/"
-  },
-  "sold_out": false,
-  "title": "National Gallery Singapore",
-  "vertical_id": 1256,
   "vertical_type": 100
 }
