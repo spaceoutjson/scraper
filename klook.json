@@ -87,7 +87,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(1,520)",
+    "number": "(1,535)",
     "booked": "40K+ booked",
     "dot": " • "
   },
@@ -669,7 +669,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.5",
-    "number": "(69)",
+    "number": "(70)",
     "booked": "2K+ booked",
     "dot": " • "
   },
@@ -680,6 +680,45 @@
   "sold_out": false,
   "title": "Klook Pass Singapore - Wildlife Attractions Pass",
   "vertical_id": 70278,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/jinsxxpbbihiloagwnnk.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/6080-universal-studios-halloween-express-pass-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 52.00",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.4",
+    "number": "(100)",
+    "booked": "3K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Universal Studios Singapore™ Halloween Horror Nights™ 10 - Express Pass",
+    "url": "https://www.klook.com/en-US/activity/6080-universal-studios-halloween-express-pass-singapore/"
+  },
+  "sold_out": false,
+  "title": "Universal Studios Singapore™ Halloween Horror Nights™ 10 - Express Pass",
+  "vertical_id": 6080,
   "vertical_type": 100
 }
 {
@@ -812,45 +851,6 @@
   "sold_out": false,
   "title": "River Wonders Singapore Ticket",
   "vertical_id": 124,
-  "vertical_type": 100
-}
-{
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/jinsxxpbbihiloagwnnk.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/6080-universal-studios-halloween-express-pass-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 52.00",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.4",
-    "number": "(100)",
-    "booked": "3K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Universal Studios Singapore™ Halloween Horror Nights™ 10 - Express Pass",
-    "url": "https://www.klook.com/en-US/activity/6080-universal-studios-halloween-express-pass-singapore/"
-  },
-  "sold_out": false,
-  "title": "Universal Studios Singapore™ Halloween Horror Nights™ 10 - Express Pass",
-  "vertical_id": 6080,
   "vertical_type": 100
 }
 {
@@ -1205,55 +1205,6 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/hkqhggpnmbuy94ij0ps6.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/72760-singapore-resorts-world-sentosa-pass/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Book now for today"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 37.70",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [
-    {
-      "background_color_left": "#FFF0E5",
-      "background_color_right": "#FFF0E5",
-      "text_color": "#FF5B00",
-      "text": "Klook exclusive",
-      "icon_src": "",
-      "key": "",
-      "type": ""
-    }
-  ],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.5",
-    "number": "(6)",
-    "booked": "300+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Resorts World Sentosa (Singapore) Pass",
-    "url": "https://www.klook.com/en-US/activity/72760-singapore-resorts-world-sentosa-pass/"
-  },
-  "sold_out": false,
-  "title": "Resorts World Sentosa (Singapore) Pass",
-  "vertical_id": 72760,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/ftpacwbx76u0tidbmzkq.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/1256-national-gallery-singapore/",
   "general_tag": [
@@ -1295,5 +1246,59 @@
   "sold_out": false,
   "title": "National Gallery Singapore",
   "vertical_id": 1256,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/cgb8xyyv7hzeqsagiglu.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/1182-madame-tussauds-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Easy refund"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "{selling_price}",
+    "selling_price": "S$ 59.00",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Save 6%",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    }
+  ],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.7",
+    "number": "(7,069)",
+    "booked": "100K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Madame Tussauds Singapore Ticket",
+    "url": "https://www.klook.com/en-US/activity/1182-madame-tussauds-singapore/"
+  },
+  "sold_out": false,
+  "title": "Madame Tussauds Singapore Ticket",
+  "vertical_id": 1182,
   "vertical_type": 100
 }
