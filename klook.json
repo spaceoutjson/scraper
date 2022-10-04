@@ -92,7 +92,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(1,551)",
+    "number": "(1,566)",
     "booked": "40K+ booked",
     "dot": " • "
   },
@@ -600,89 +600,6 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/xczaxxsdhs78o3cdkybl.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/76323-the-doraemon-exhibition-singapore-2022/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 30.00",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [
-    {
-      "background_color_left": "#FFF0E5",
-      "background_color_right": "#FFF0E5",
-      "text_color": "#FF5B00",
-      "text": "Best Price Guarantee",
-      "icon_src": "",
-      "key": "",
-      "type": ""
-    }
-  ],
-  "promotion_tag": null,
-  "review": null,
-  "seo": {
-    "title": "THE Doraemon Exhibition Singapore 2022",
-    "url": "https://www.klook.com/en-US/activity/76323-the-doraemon-exhibition-singapore-2022/"
-  },
-  "sold_out": false,
-  "title": "THE Doraemon Exhibition Singapore 2022",
-  "vertical_id": 76323,
-  "vertical_type": 100
-}
-{
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/y0haubspoq5ji4psx52p.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/70278-singapore-wildlife-pass/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 110.00",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [
-    {
-      "background_color_left": "#FFF0E5",
-      "background_color_right": "#FFF0E5",
-      "text_color": "#FF5B00",
-      "text": "Klook exclusive",
-      "icon_src": "",
-      "key": "",
-      "type": ""
-    }
-  ],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.5",
-    "number": "(70)",
-    "booked": "2K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Klook Pass Singapore - Wildlife Attractions Pass",
-    "url": "https://www.klook.com/en-US/activity/70278-singapore-wildlife-pass/"
-  },
-  "sold_out": false,
-  "title": "Klook Pass Singapore - Wildlife Attractions Pass",
-  "vertical_id": 70278,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/jinsxxpbbihiloagwnnk.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/6080-universal-studios-halloween-express-pass-singapore/",
   "general_tag": [
@@ -719,6 +636,50 @@
   "sold_out": false,
   "title": "Universal Studios Singapore™ Halloween Horror Nights™ 10 - Express Pass",
   "vertical_id": 6080,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/y0haubspoq5ji4psx52p.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/70278-singapore-wildlife-pass/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 110.00",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Klook exclusive",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    }
+  ],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.6",
+    "number": "(72)",
+    "booked": "2K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Klook Pass Singapore - Wildlife Attractions Pass",
+    "url": "https://www.klook.com/en-US/activity/70278-singapore-wildlife-pass/"
+  },
+  "sold_out": false,
+  "title": "Klook Pass Singapore - Wildlife Attractions Pass",
+  "vertical_id": 70278,
   "vertical_type": 100
 }
 {
@@ -895,6 +856,45 @@
   "sold_out": false,
   "title": "Sentosa Fun Pass™",
   "vertical_id": 2121,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/xczaxxsdhs78o3cdkybl.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/76323-the-doraemon-exhibition-singapore-2022/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "{selling_price}",
+    "selling_price": "S$ 30.00",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Best Price Guarantee",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    }
+  ],
+  "promotion_tag": null,
+  "review": null,
+  "seo": {
+    "title": "THE Doraemon Exhibition Singapore 2022",
+    "url": "https://www.klook.com/en-US/activity/76323-the-doraemon-exhibition-singapore-2022/"
+  },
+  "sold_out": false,
+  "title": "THE Doraemon Exhibition Singapore 2022",
+  "vertical_id": 76323,
   "vertical_type": 100
 }
 {
