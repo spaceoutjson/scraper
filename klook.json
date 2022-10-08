@@ -118,11 +118,6 @@
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
       "text": "Instant confirmation"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Book now for today"
     }
   ],
   "price": {
@@ -402,7 +397,7 @@
   "price": {
     "selling_price_format": "From {price}",
     "selling_price": "S$ 28.00",
-    "market_price": "S$ 35.00",
+    "market_price": "S$ 47.70",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -622,11 +617,6 @@
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
       "text": "Instant confirmation"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Book now for today"
     }
   ],
   "price": {
