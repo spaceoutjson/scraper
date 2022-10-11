@@ -1,4 +1,48 @@
 {
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/hhi52b6h9nyasqunb6v5.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/117-universal-studios-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for tomorrow"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 69.39",
+    "market_price": "S$ 82.95",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.8",
+    "number": "(89,922)",
+    "booked": "2M+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Universal Studios Singapore Tickets",
+    "url": "https://www.klook.com/en-US/activity/117-universal-studios-singapore/"
+  },
+  "sold_out": false,
+  "title": "Universal Studios Singapore Tickets",
+  "vertical_id": 117,
+  "vertical_type": 100
+}
+{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/sqc5y7k6ytviniiteksf.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/69622-singapore-attractions-pass/",
   "general_tag": [
@@ -98,6 +142,60 @@
   "sold_out": false,
   "title": "Universal Studios Singapore™ Halloween Horror Nights™ Ticket",
   "vertical_id": 5877,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/pav6xndcvmkrdnx3fxow.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/127-gardens-by-the-bay-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 10.00",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Save 15%",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    }
+  ],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.8",
+    "number": "(44,861)",
+    "booked": "1M+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Gardens by the Bay Ticket Singapore",
+    "url": "https://www.klook.com/en-US/activity/127-gardens-by-the-bay-singapore/"
+  },
+  "sold_out": false,
+  "title": "Gardens by the Bay Ticket Singapore",
+  "vertical_id": 127,
   "vertical_type": 100
 }
 {
@@ -1178,103 +1276,5 @@
   "sold_out": false,
   "title": "Changi Experience Studio Admission Ticket",
   "vertical_id": 24020,
-  "vertical_type": 100
-}
-{
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/v9eaqg8ci4ubjhny2dxy.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/45952-live-turtle-tortoise-museum-admission/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Easy refund"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 6.00",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [
-    {
-      "background_color_left": "#FFF0E5",
-      "background_color_right": "#FFF0E5",
-      "text_color": "#FF5B00",
-      "text": "Best Price Guarantee",
-      "icon_src": "",
-      "key": "",
-      "type": ""
-    }
-  ],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.6",
-    "number": "(514)",
-    "booked": "10K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "The Live Turtle and Tortoise Museum",
-    "url": "https://www.klook.com/en-US/activity/45952-live-turtle-tortoise-museum-admission/"
-  },
-  "sold_out": false,
-  "title": "The Live Turtle and Tortoise Museum",
-  "vertical_id": 45952,
-  "vertical_type": 100
-}
-{
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/ispdayc8rl6g01agh2kr.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/67439-singapore-playgrounds-pass/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 67.50",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [
-    {
-      "background_color_left": "#FFF0E5",
-      "background_color_right": "#FFF0E5",
-      "text_color": "#FF5B00",
-      "text": "Klook exclusive",
-      "icon_src": "",
-      "key": "",
-      "type": ""
-    }
-  ],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.5",
-    "number": "(20)",
-    "booked": "300+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": " [Klook Exclusive] Playgrounds Pass - Bundle & Save!",
-    "url": "https://www.klook.com/en-US/activity/67439-singapore-playgrounds-pass/"
-  },
-  "sold_out": false,
-  "title": " [Klook Exclusive] Playgrounds Pass - Bundle & Save!",
-  "vertical_id": 67439,
   "vertical_type": 100
 }
