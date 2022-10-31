@@ -900,7 +900,7 @@
   ],
   "price": {
     "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 82.00",
+    "selling_price": "Sold out",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -917,7 +917,7 @@
     "title": "Universal Studios Singapore™ Halloween Horror Nights™ 10 - Express Pass",
     "url": "https://www.klook.com/en-US/activity/6080-universal-studios-halloween-express-pass-singapore/"
   },
-  "sold_out": false,
+  "sold_out": true,
   "title": "Universal Studios Singapore™ Halloween Horror Nights™ 10 - Express Pass",
   "vertical_id": 6080,
   "vertical_type": 100
