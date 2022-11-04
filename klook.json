@@ -127,7 +127,7 @@
   ],
   "price": {
     "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 79.00",
+    "selling_price": "Sold out",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -144,7 +144,7 @@
     "title": "Universal Studios Singapore™ Halloween Horror Nights™ Ticket",
     "url": "https://www.klook.com/en-US/activity/5877-universal-studios-singapore-halloween-horror-nights-ticket/"
   },
-  "sold_out": false,
+  "sold_out": true,
   "title": "Universal Studios Singapore™ Halloween Horror Nights™ Ticket",
   "vertical_id": 5877,
   "vertical_type": 100
