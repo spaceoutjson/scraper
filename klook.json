@@ -782,50 +782,6 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/y0haubspoq5ji4psx52p.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/70278-singapore-wildlife-pass/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 110.00",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [
-    {
-      "background_color_left": "#FFF0E5",
-      "background_color_right": "#FFF0E5",
-      "text_color": "#FF5B00",
-      "text": "Klook exclusive",
-      "icon_src": "",
-      "key": "",
-      "type": ""
-    }
-  ],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.6",
-    "number": "(84)",
-    "booked": "3K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Klook Pass Singapore - Wildlife Attractions Pass",
-    "url": "https://www.klook.com/en-US/activity/70278-singapore-wildlife-pass/"
-  },
-  "sold_out": false,
-  "title": "Klook Pass Singapore - Wildlife Attractions Pass",
-  "vertical_id": 70278,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/uc3vb4gxo9fisg2xtynu.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/124-river-wonders-singapore-tickets/",
   "general_tag": [
@@ -1380,5 +1336,39 @@
   "sold_out": false,
   "title": "National Museum of Singapore",
   "vertical_id": 1199,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/gonic17qofflz9okgp5s.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/143-singapore-flyer-dinner-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    }
+  ],
+  "price": {
+    "selling_price_format": "{selling_price}",
+    "selling_price": "S$ 175.99",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.5",
+    "number": "(225)",
+    "booked": "3K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Singapore Flyer Sky Dining",
+    "url": "https://www.klook.com/en-US/activity/143-singapore-flyer-dinner-singapore/"
+  },
+  "sold_out": false,
+  "title": "Singapore Flyer Sky Dining",
+  "vertical_id": 143,
   "vertical_type": 100
 }
