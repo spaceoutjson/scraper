@@ -20,7 +20,7 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 77.00",
+    "selling_price": "S$ 68.00",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -288,9 +288,9 @@
     }
   ],
   "price": {
-    "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 34.65",
-    "market_price": "S$ 49.50",
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 31.00",
+    "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -386,9 +386,9 @@
     }
   ],
   "price": {
-    "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 33.60",
-    "market_price": "S$ 48.00",
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 45.00",
+    "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -647,7 +647,7 @@
   "review": {
     "star": "★ 4.4",
     "number": "(54)",
-    "booked": "8K+ booked",
+    "booked": "9K+ booked",
     "dot": " • "
   },
   "seo": {
@@ -856,9 +856,9 @@
     }
   ],
   "price": {
-    "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 28.00",
-    "market_price": "S$ 40.00",
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 40.00",
+    "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
   },
