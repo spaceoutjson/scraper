@@ -53,7 +53,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(2,094)",
+    "number": "(2,102)",
     "booked": "50K+ booked",
     "dot": " • "
   },
@@ -121,7 +121,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(212)",
+    "number": "(218)",
     "booked": "20K+ booked",
     "dot": " • "
   },
@@ -189,7 +189,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(213)",
+    "number": "(220)",
     "booked": "10K+ booked",
     "dot": " • "
   },
@@ -781,40 +781,6 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/nkva6qmymrl9l04qsvny.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/1182-madame-tussauds-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 59",
-    "market_price": "S$ 63",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.7",
-    "number": "(6,420)",
-    "booked": "100K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Madame Tussauds Singapore Ticket",
-    "url": "https://www.klook.com/en-US/activity/1182-madame-tussauds-singapore/"
-  },
-  "sold_out": false,
-  "title": "Madame Tussauds Singapore Ticket",
-  "vertical_id": 1182,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/8343cee4-Sentosa-4D-Adventureland.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/136-sentosa-4d-adventureland-singapore/",
   "general_tag": [
@@ -846,6 +812,40 @@
   "sold_out": false,
   "title": "Sentosa 4D Adventureland",
   "vertical_id": 136,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/nkva6qmymrl9l04qsvny.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/1182-madame-tussauds-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 59",
+    "market_price": "S$ 63",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.7",
+    "number": "(6,420)",
+    "booked": "100K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Madame Tussauds Singapore Ticket",
+    "url": "https://www.klook.com/en-US/activity/1182-madame-tussauds-singapore/"
+  },
+  "sold_out": false,
+  "title": "Madame Tussauds Singapore Ticket",
+  "vertical_id": 1182,
   "vertical_type": 100
 }
 {
@@ -917,40 +917,6 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/gnsix176cr5jbbkvyrao.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/144-cable-car-dinner-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "24-hour confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 87.5",
-    "market_price": "S$ 100",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.4",
-    "number": "(925)",
-    "booked": "10K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Cable Car Dining Singapore",
-    "url": "https://www.klook.com/en-US/activity/144-cable-car-dinner-singapore/"
-  },
-  "sold_out": false,
-  "title": "Cable Car Dining Singapore",
-  "vertical_id": 144,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/zlnlnvwhym800ymhosyu.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/9610-wild-wild-wet-ticket-singapore/",
   "general_tag": [
@@ -982,5 +948,39 @@
   "sold_out": false,
   "title": "Wild Wild Wet Admission Ticket",
   "vertical_id": 9610,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/gnsix176cr5jbbkvyrao.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/144-cable-car-dinner-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "24-hour confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "{selling_price}",
+    "selling_price": "S$ 87.5",
+    "market_price": "S$ 100",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.4",
+    "number": "(925)",
+    "booked": "10K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Cable Car Dining Singapore",
+    "url": "https://www.klook.com/en-US/activity/144-cable-car-dinner-singapore/"
+  },
+  "sold_out": false,
+  "title": "Cable Car Dining Singapore",
+  "vertical_id": 144,
   "vertical_type": 100
 }
