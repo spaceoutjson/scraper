@@ -905,8 +905,8 @@
   ],
   "price": {
     "selling_price_format": "{selling_price}",
-    "selling_price": "Sold out",
-    "market_price": "",
+    "selling_price": "S$ 78.00",
+    "market_price": "S$ 88.00",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -922,7 +922,7 @@
     "title": "Mandai Wildlife Reserves: 2-in-1 Singapore Zoo & River Wonders",
     "url": "https://www.klook.com/en-US/activity/30305-singapore-zoo-multi-parks-bundle/"
   },
-  "sold_out": true,
+  "sold_out": false,
   "title": "Mandai Wildlife Reserves: 2-in-1 Singapore Zoo & River Wonders",
   "vertical_id": 30305,
   "vertical_type": 100
@@ -1232,7 +1232,7 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 37.70",
+    "selling_price": "S$ 75.90",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
