@@ -5,13 +5,23 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 69.1",
-    "market_price": "S$ 81",
+    "selling_price": "S$ 69.10",
+    "market_price": "S$ 81.00",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -39,17 +49,41 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
     }
   ],
   "price": {
     "selling_price_format": "From {price}",
     "selling_price": "S$ 73.45",
-    "market_price": "S$ 139",
+    "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
   },
-  "price_tag_list": [],
+  "price_tag_list": [
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Klook exclusive",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    },
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Best Price Guarantee",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    }
+  ],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
@@ -73,17 +107,37 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 10",
-    "market_price": "S$ 12",
+    "selling_price": "S$ 10.00",
+    "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
   },
-  "price_tag_list": [],
+  "price_tag_list": [
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Save 6%",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    }
+  ],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.8",
@@ -107,21 +161,41 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 30",
+    "selling_price": "S$ 30.00",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
   },
-  "price_tag_list": [],
+  "price_tag_list": [
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Best Price Guarantee",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    }
+  ],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(218)",
+    "number": "(223)",
     "booked": "20K+ booked",
     "dot": " • "
   },
@@ -141,12 +215,22 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 20.4",
+    "selling_price": "S$ 20.40",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -175,21 +259,50 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 35",
+    "selling_price": "S$ 35.00",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
   },
-  "price_tag_list": [],
+  "price_tag_list": [
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Save 7%",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    },
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Best Price Guarantee",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    }
+  ],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(220)",
+    "number": "(229)",
     "booked": "10K+ booked",
     "dot": " • "
   },
@@ -209,13 +322,23 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 49.5",
-    "market_price": "S$ 55",
+    "selling_price_format": "{selling_price}",
+    "selling_price": "S$ 57.50",
+    "market_price": "S$ 59.50",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -243,17 +366,37 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 28",
-    "market_price": "S$ 35",
+    "selling_price": "S$ 28.00",
+    "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
   },
-  "price_tag_list": [],
+  "price_tag_list": [
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Save 12%",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    }
+  ],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
@@ -277,13 +420,23 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
-    "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 45.6",
-    "market_price": "S$ 48",
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 45.00",
+    "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -311,17 +464,37 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 23",
-    "market_price": "S$ 26",
+    "selling_price": "S$ 23.00",
+    "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
   },
-  "price_tag_list": [],
+  "price_tag_list": [
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Save 5%",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    }
+  ],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
@@ -345,13 +518,23 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
     "selling_price_format": "From {price}",
     "selling_price": "S$ 27.55",
-    "market_price": "S$ 30",
+    "market_price": "S$ 30.00",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -379,13 +562,23 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
     "selling_price_format": "From {price}",
     "selling_price": "S$ 4.09",
-    "market_price": "S$ 5",
+    "market_price": "S$ 5.00",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -413,12 +606,22 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
     "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 25",
+    "selling_price": "S$ 25.00",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -447,13 +650,23 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
     "selling_price_format": "From {price}",
     "selling_price": "S$ 31.99",
-    "market_price": "S$ 38",
+    "market_price": "S$ 38.00",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -481,13 +694,23 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 16.2",
-    "market_price": "S$ 18",
+    "selling_price": "S$ 16.20",
+    "market_price": "S$ 18.00",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -515,17 +738,37 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 6",
-    "market_price": "S$ 8",
+    "selling_price": "S$ 6.00",
+    "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
   },
-  "price_tag_list": [],
+  "price_tag_list": [
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Save 9%",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    }
+  ],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
@@ -549,13 +792,23 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 38",
-    "market_price": "S$ 40",
+    "selling_price": "S$ 40.00",
+    "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -583,12 +836,22 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 40",
+    "selling_price": "S$ 40.00",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -611,53 +874,29 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/tlaiutyd9fbrz6l6jka3.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/30305-singapore-zoo-multi-parks-bundle/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 78",
-    "market_price": "S$ 88",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.7",
-    "number": "(1,174)",
-    "booked": "30K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Mandai Wildlife Reserves: 2-in-1 Singapore Zoo & River Wonders",
-    "url": "https://www.klook.com/en-US/activity/30305-singapore-zoo-multi-parks-bundle/"
-  },
-  "sold_out": false,
-  "title": "Mandai Wildlife Reserves: 2-in-1 Singapore Zoo & River Wonders",
-  "vertical_id": 30305,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/j38vssafi6isqzpmkzj1.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/123-jurong-bird-park-singapore/",
   "general_tag": [
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
-    "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 10",
-    "market_price": "S$ 36.1",
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 38.00",
+    "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -679,6 +918,60 @@
   "vertical_type": 100
 }
 {
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/tlaiutyd9fbrz6l6jka3.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/30305-singapore-zoo-multi-parks-bundle/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
+    }
+  ],
+  "price": {
+    "selling_price_format": "{selling_price}",
+    "selling_price": "S$ 78.00",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Save 11%",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    }
+  ],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.7",
+    "number": "(1,174)",
+    "booked": "30K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Mandai Wildlife Reserves: 2-in-1 Singapore Zoo & River Wonders",
+    "url": "https://www.klook.com/en-US/activity/30305-singapore-zoo-multi-parks-bundle/"
+  },
+  "sold_out": false,
+  "title": "Mandai Wildlife Reserves: 2-in-1 Singapore Zoo & River Wonders",
+  "vertical_id": 30305,
+  "vertical_type": 100
+}
+{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/ukczeewakeg7yxcd64ve.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/70278-singapore-wildlife-pass/",
   "general_tag": [
@@ -691,11 +984,21 @@
   "price": {
     "selling_price_format": "From {price}",
     "selling_price": "S$ 94.99",
-    "market_price": "S$ 103",
+    "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
   },
-  "price_tag_list": [],
+  "price_tag_list": [
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Klook exclusive",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    }
+  ],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
@@ -719,13 +1022,23 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
     }
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 9.6",
-    "market_price": "S$ 12",
+    "selling_price": "S$ 9.60",
+    "market_price": "S$ 12.00",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -753,13 +1066,23 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Easy refund"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
     }
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 12.5",
-    "market_price": "S$ 15",
+    "selling_price": "S$ 12.50",
+    "market_price": "S$ 15.00",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -781,57 +1104,43 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/8343cee4-Sentosa-4D-Adventureland.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/136-sentosa-4d-adventureland-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 23",
-    "market_price": "S$ 29.9",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.2",
-    "number": "(1,659)",
-    "booked": "40K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Sentosa 4D Adventureland",
-    "url": "https://www.klook.com/en-US/activity/136-sentosa-4d-adventureland-singapore/"
-  },
-  "sold_out": false,
-  "title": "Sentosa 4D Adventureland",
-  "vertical_id": 136,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/nkva6qmymrl9l04qsvny.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/1182-madame-tussauds-singapore/",
   "general_tag": [
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Easy refund"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
       "text": "Instant confirmation"
     }
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 59",
-    "market_price": "S$ 63",
+    "selling_price": "S$ 59.00",
+    "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
   },
-  "price_tag_list": [],
+  "price_tag_list": [
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Save 6%",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    }
+  ],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
@@ -849,6 +1158,103 @@
   "vertical_type": 100
 }
 {
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/8343cee4-Sentosa-4D-Adventureland.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/136-sentosa-4d-adventureland-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 23.00",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Save 5%",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    },
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Best Price Guarantee",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    }
+  ],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.2",
+    "number": "(1,659)",
+    "booked": "40K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Sentosa 4D Adventureland",
+    "url": "https://www.klook.com/en-US/activity/136-sentosa-4d-adventureland-singapore/"
+  },
+  "sold_out": false,
+  "title": "Sentosa 4D Adventureland",
+  "vertical_id": 136,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/twood2gqf9skardhyrsp.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/78105-museum-ice-cream-singapore-admission/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 40.00",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [],
+  "promotion_tag": null,
+  "review": null,
+  "seo": {
+    "title": "Museum of Ice Cream Singapore",
+    "url": "https://www.klook.com/en-US/activity/78105-museum-ice-cream-singapore-admission/"
+  },
+  "sold_out": false,
+  "title": "Museum of Ice Cream Singapore",
+  "vertical_id": 78105,
+  "vertical_type": 100
+}
+{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/hkqhggpnmbuy94ij0ps6.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/72760-singapore-resorts-world-sentosa-pass/",
   "general_tag": [
@@ -860,12 +1266,22 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 69.7",
-    "market_price": "S$ 79",
+    "selling_price": "S$ 69.70",
+    "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
   },
-  "price_tag_list": [],
+  "price_tag_list": [
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Klook exclusive",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    }
+  ],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
@@ -883,13 +1299,62 @@
   "vertical_type": 100
 }
 {
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/zlnlnvwhym800ymhosyu.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/9610-wild-wild-wet-ticket-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for tomorrow"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 26.00",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.6",
+    "number": "(3,085)",
+    "booked": "100K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Wild Wild Wet Admission Ticket",
+    "url": "https://www.klook.com/en-US/activity/9610-wild-wild-wet-ticket-singapore/"
+  },
+  "sold_out": false,
+  "title": "Wild Wild Wet Admission Ticket",
+  "vertical_id": 9610,
+  "vertical_type": 100
+}
+{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/gonic17qofflz9okgp5s.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/143-singapore-flyer-dinner-singapore/",
   "general_tag": [
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
-      "text": "24-hour confirmation"
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for tomorrow"
     }
   ],
   "price": {
@@ -914,73 +1379,5 @@
   "sold_out": false,
   "title": "Singapore Flyer Sky Dining",
   "vertical_id": 143,
-  "vertical_type": 100
-}
-{
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/zlnlnvwhym800ymhosyu.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/9610-wild-wild-wet-ticket-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 26",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.6",
-    "number": "(3,085)",
-    "booked": "100K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Wild Wild Wet Admission Ticket",
-    "url": "https://www.klook.com/en-US/activity/9610-wild-wild-wet-ticket-singapore/"
-  },
-  "sold_out": false,
-  "title": "Wild Wild Wet Admission Ticket",
-  "vertical_id": 9610,
-  "vertical_type": 100
-}
-{
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/gnsix176cr5jbbkvyrao.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/144-cable-car-dinner-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "24-hour confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 87.5",
-    "market_price": "S$ 100",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.4",
-    "number": "(925)",
-    "booked": "10K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Cable Car Dining Singapore",
-    "url": "https://www.klook.com/en-US/activity/144-cable-car-dinner-singapore/"
-  },
-  "sold_out": false,
-  "title": "Cable Car Dining Singapore",
-  "vertical_id": 144,
   "vertical_type": 100
 }
