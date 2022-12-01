@@ -679,9 +679,9 @@
     }
   ],
   "price": {
-    "selling_price_format": "{selling_price}",
-    "selling_price": "Sold out",
-    "market_price": "",
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 31.99",
+    "market_price": "S$ 38.00",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -697,7 +697,7 @@
     "title": "Adventure Cove Waterpark™ One-Day Ticket",
     "url": "https://www.klook.com/en-US/activity/120-adventure-cove-waterpark-singapore/"
   },
-  "sold_out": true,
+  "sold_out": false,
   "title": "Adventure Cove Waterpark™ One-Day Ticket",
   "vertical_id": 120,
   "vertical_type": 100
