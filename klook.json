@@ -20,7 +20,7 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 78.55",
+    "selling_price": "S$ 77.00",
     "market_price": "S$ 91.00",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -64,7 +64,7 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 73.45",
+    "selling_price": "S$ 134.65",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -235,7 +235,7 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 20.40",
+    "selling_price": "S$ 20.00",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -529,7 +529,7 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 27.55",
+    "selling_price": "S$ 27.00",
     "market_price": "S$ 30.00",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -573,7 +573,7 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 4.09",
+    "selling_price": "S$ 4.00",
     "market_price": "S$ 5.00",
     "market_price_no_strike": false,
     "discount_tag": null
