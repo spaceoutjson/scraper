@@ -92,7 +92,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(2,291)",
+    "number": "(2,307)",
     "booked": "60K+ booked",
     "dot": " • "
   },
@@ -200,7 +200,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(358)",
+    "number": "(362)",
     "booked": "30K+ booked",
     "dot": " • "
   },
@@ -307,7 +307,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(302)",
+    "number": "(306)",
     "booked": "10K+ booked",
     "dot": " • "
   },
@@ -561,50 +561,6 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/hn0x3xjtb6y1wxdhwvsi.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/2501-marina-bay-sands-artscience-museum-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Book now for today"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 4.00",
-    "market_price": "S$ 5.00",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.7",
-    "number": "(10,810)",
-    "booked": "200K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "ArtScience Museum at Marina Bay Sands Ticket",
-    "url": "https://www.klook.com/en-US/activity/2501-marina-bay-sands-artscience-museum-singapore/"
-  },
-  "sold_out": false,
-  "title": "ArtScience Museum at Marina Bay Sands Ticket",
-  "vertical_id": 2501,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/t2cvzkaisyvjcgz52rlz.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/4534-singapore-flyer/",
   "general_tag": [
@@ -646,6 +602,50 @@
   "sold_out": false,
   "title": "Singapore Flyer Tickets",
   "vertical_id": 4534,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/hn0x3xjtb6y1wxdhwvsi.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/2501-marina-bay-sands-artscience-museum-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 4.00",
+    "market_price": "S$ 5.00",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.7",
+    "number": "(10,810)",
+    "booked": "200K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "ArtScience Museum at Marina Bay Sands Ticket",
+    "url": "https://www.klook.com/en-US/activity/2501-marina-bay-sands-artscience-museum-singapore/"
+  },
+  "sold_out": false,
+  "title": "ArtScience Museum at Marina Bay Sands Ticket",
+  "vertical_id": 2501,
   "vertical_type": 100
 }
 {
@@ -737,6 +737,50 @@
   "vertical_type": 100
 }
 {
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/v0tvh1igeso74r564evq.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/120-adventure-cove-waterpark-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 34.49",
+    "market_price": "S$ 39.95",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.7",
+    "number": "(6,696)",
+    "booked": "200K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Adventure Cove Waterpark™ One-Day Ticket",
+    "url": "https://www.klook.com/en-US/activity/120-adventure-cove-waterpark-singapore/"
+  },
+  "sold_out": false,
+  "title": "Adventure Cove Waterpark™ One-Day Ticket",
+  "vertical_id": 120,
+  "vertical_type": 100
+}
+{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/eo9xj5btye4qqrp3b7yr.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/25872-jewel-changi-airport-attractions-ticket-singapore/",
   "general_tag": [
@@ -788,50 +832,6 @@
   "sold_out": false,
   "title": "Jewel Changi Airport Attraction Tickets in Singapore",
   "vertical_id": 25872,
-  "vertical_type": 100
-}
-{
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/v0tvh1igeso74r564evq.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/120-adventure-cove-waterpark-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Book now for today"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 34.49",
-    "market_price": "S$ 39.95",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.7",
-    "number": "(6,696)",
-    "booked": "200K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Adventure Cove Waterpark™ One-Day Ticket",
-    "url": "https://www.klook.com/en-US/activity/120-adventure-cove-waterpark-singapore/"
-  },
-  "sold_out": false,
-  "title": "Adventure Cove Waterpark™ One-Day Ticket",
-  "vertical_id": 120,
   "vertical_type": 100
 }
 {
@@ -913,8 +913,8 @@
   ],
   "promotion_tag": null,
   "review": {
-    "star": "★ 4.2",
-    "number": "(19)",
+    "star": "★ 4.3",
+    "number": "(23)",
     "booked": "1K+ booked",
     "dot": " • "
   },
