@@ -92,7 +92,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(2,384)",
+    "number": "(2,395)",
     "booked": "60K+ booked",
     "dot": " • "
   },
@@ -200,7 +200,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.5",
-    "number": "(433)",
+    "number": "(443)",
     "booked": "40K+ booked",
     "dot": " • "
   },
@@ -298,7 +298,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(347)",
+    "number": "(352)",
     "booked": "20K+ booked",
     "dot": " • "
   },
@@ -532,50 +532,6 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/30870e7d-Singapore-Cable-Car-Skypass.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/130-faber-peak-cable-car-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Book now for today"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 28.00",
-    "market_price": "S$ 35.00",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.7",
-    "number": "(18,724)",
-    "booked": "500K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Singapore Cable Car Sky Pass",
-    "url": "https://www.klook.com/en-US/activity/130-faber-peak-cable-car-singapore/"
-  },
-  "sold_out": false,
-  "title": "Singapore Cable Car Sky Pass",
-  "vertical_id": 130,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/hn0x3xjtb6y1wxdhwvsi.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/2501-marina-bay-sands-artscience-museum-singapore/",
   "general_tag": [
@@ -617,6 +573,50 @@
   "sold_out": false,
   "title": "ArtScience Museum at Marina Bay Sands Ticket",
   "vertical_id": 2501,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/30870e7d-Singapore-Cable-Car-Skypass.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/130-faber-peak-cable-car-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 28.00",
+    "market_price": "S$ 35.00",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.7",
+    "number": "(18,724)",
+    "booked": "500K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Singapore Cable Car Sky Pass",
+    "url": "https://www.klook.com/en-US/activity/130-faber-peak-cable-car-singapore/"
+  },
+  "sold_out": false,
+  "title": "Singapore Cable Car Sky Pass",
+  "vertical_id": 130,
   "vertical_type": 100
 }
 {
@@ -1040,50 +1040,6 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/zlnlnvwhym800ymhosyu.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/9610-wild-wild-wet-ticket-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Book now for tomorrow"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 26.00",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.6",
-    "number": "(3,132)",
-    "booked": "100K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Wild Wild Wet Admission Ticket",
-    "url": "https://www.klook.com/en-US/activity/9610-wild-wild-wet-ticket-singapore/"
-  },
-  "sold_out": false,
-  "title": "Wild Wild Wet Admission Ticket",
-  "vertical_id": 9610,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/n7xbv9bcfcwy2any44ga.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/1348-snow-play-session-in-snow-city-singapore/",
   "general_tag": [
@@ -1125,6 +1081,50 @@
   "sold_out": false,
   "title": "Snow City Singapore",
   "vertical_id": 1348,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/zlnlnvwhym800ymhosyu.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/9610-wild-wild-wet-ticket-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for tomorrow"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 26.00",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.6",
+    "number": "(3,132)",
+    "booked": "100K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Wild Wild Wet Admission Ticket",
+    "url": "https://www.klook.com/en-US/activity/9610-wild-wild-wet-ticket-singapore/"
+  },
+  "sold_out": false,
+  "title": "Wild Wild Wet Admission Ticket",
+  "vertical_id": 9610,
   "vertical_type": 100
 }
 {
@@ -1201,8 +1201,8 @@
   ],
   "promotion_tag": null,
   "review": {
-    "star": "★ 4.5",
-    "number": "(93)",
+    "star": "★ 4.6",
+    "number": "(94)",
     "booked": "3K+ booked",
     "dot": " • "
   },
@@ -1250,6 +1250,50 @@
   "vertical_type": 100
 }
 {
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/hkqhggpnmbuy94ij0ps6.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/72760-singapore-resorts-world-sentosa-pass/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 69.70",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Klook exclusive",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    }
+  ],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.6",
+    "number": "(14)",
+    "booked": "900+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Resorts World Sentosa (Singapore) Pass",
+    "url": "https://www.klook.com/en-US/activity/72760-singapore-resorts-world-sentosa-pass/"
+  },
+  "sold_out": false,
+  "title": "Resorts World Sentosa (Singapore) Pass",
+  "vertical_id": 72760,
+  "vertical_type": 100
+}
+{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/ftpacwbx76u0tidbmzkq.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/1256-national-gallery-singapore/",
   "general_tag": [
@@ -1291,49 +1335,5 @@
   "sold_out": false,
   "title": "National Gallery Singapore",
   "vertical_id": 1256,
-  "vertical_type": 100
-}
-{
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/nkva6qmymrl9l04qsvny.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/1182-madame-tussauds-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Easy refund"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 35.00",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.7",
-    "number": "(6,461)",
-    "booked": "100K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Madame Tussauds Singapore Ticket",
-    "url": "https://www.klook.com/en-US/activity/1182-madame-tussauds-singapore/"
-  },
-  "sold_out": false,
-  "title": "Madame Tussauds Singapore Ticket",
-  "vertical_id": 1182,
   "vertical_type": 100
 }
