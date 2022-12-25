@@ -92,7 +92,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(2,422)",
+    "number": "(2,429)",
     "booked": "70K+ booked",
     "dot": " • "
   },
@@ -244,7 +244,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(488)",
+    "number": "(504)",
     "booked": "40K+ booked",
     "dot": " • "
   },
@@ -298,7 +298,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(375)",
+    "number": "(384)",
     "booked": "20K+ booked",
     "dot": " • "
   },
@@ -309,50 +309,6 @@
   "sold_out": false,
   "title": "Avatar: The Experience at Gardens by the Bay",
   "vertical_id": 74273,
-  "vertical_type": 100
-}
-{
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/vagmzurszkx3t1b7u1re.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/3928-singapore-night-safari-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Book now for today"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 21.00",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.4",
-    "number": "(6,553)",
-    "booked": "300K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Night Safari Singapore Ticket With Tram Ride",
-    "url": "https://www.klook.com/en-US/activity/3928-singapore-night-safari-singapore/"
-  },
-  "sold_out": false,
-  "title": "Night Safari Singapore Ticket With Tram Ride",
-  "vertical_id": 3928,
   "vertical_type": 100
 }
 {
@@ -397,6 +353,50 @@
   "sold_out": false,
   "title": "Singapore Zoo Tickets",
   "vertical_id": 141,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/vagmzurszkx3t1b7u1re.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/3928-singapore-night-safari-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 21.00",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.4",
+    "number": "(6,553)",
+    "booked": "300K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Night Safari Singapore Ticket With Tram Ride",
+    "url": "https://www.klook.com/en-US/activity/3928-singapore-night-safari-singapore/"
+  },
+  "sold_out": false,
+  "title": "Night Safari Singapore Ticket With Tram Ride",
+  "vertical_id": 3928,
   "vertical_type": 100
 }
 {
@@ -841,7 +841,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.2",
-    "number": "(34)",
+    "number": "(38)",
     "booked": "1K+ booked",
     "dot": " • "
   },
@@ -1260,50 +1260,6 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/xsbej00i5glikqv2wcdu.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/51613-1-hour-hydrodash-admission-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Book now for today"
-    }
-  ],
-  "price": {
-    "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 20.00",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.7",
-    "number": "(1,792)",
-    "booked": "50K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "HydroDash Singapore Admission",
-    "url": "https://www.klook.com/en-US/activity/51613-1-hour-hydrodash-admission-singapore/"
-  },
-  "sold_out": false,
-  "title": "HydroDash Singapore Admission",
-  "vertical_id": 51613,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/gdtmu2at2bafaploctu1.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/143-singapore-flyer-dinner-singapore/",
   "general_tag": [
@@ -1335,5 +1291,49 @@
   "sold_out": false,
   "title": "Singapore Flyer Sky Dining",
   "vertical_id": 143,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/xsbej00i5glikqv2wcdu.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/51613-1-hour-hydrodash-admission-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
+    }
+  ],
+  "price": {
+    "selling_price_format": "{selling_price}",
+    "selling_price": "S$ 20.00",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.7",
+    "number": "(1,793)",
+    "booked": "50K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "HydroDash Singapore Admission",
+    "url": "https://www.klook.com/en-US/activity/51613-1-hour-hydrodash-admission-singapore/"
+  },
+  "sold_out": false,
+  "title": "HydroDash Singapore Admission",
+  "vertical_id": 51613,
   "vertical_type": 100
 }
