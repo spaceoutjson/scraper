@@ -235,6 +235,15 @@
       "background_color_left": "#FFF0E5",
       "background_color_right": "#FFF0E5",
       "text_color": "#FF5B00",
+      "text": "Lunar New Year Sale",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    },
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
       "text": "Best Price Guarantee",
       "icon_src": "",
       "key": "",
@@ -470,7 +479,17 @@
     "market_price_no_strike": false,
     "discount_tag": null
   },
-  "price_tag_list": [],
+  "price_tag_list": [
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Lunar New Year Sale",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    }
+  ],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
@@ -554,11 +573,21 @@
   "price": {
     "selling_price_format": "From {price}",
     "selling_price": "S$ 28.00",
-    "market_price": "S$ 35.00",
+    "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
   },
-  "price_tag_list": [],
+  "price_tag_list": [
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Lunar New Year Sale",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    }
+  ],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
@@ -603,6 +632,15 @@
     "discount_tag": null
   },
   "price_tag_list": [
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Lunar New Year Sale",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    },
     {
       "background_color_left": "#FFF0E5",
       "background_color_right": "#FFF0E5",
