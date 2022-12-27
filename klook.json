@@ -63,8 +63,8 @@
     }
   ],
   "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 73.45",
+    "selling_price_format": "{selling_price}",
+    "selling_price": "Sold out",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -100,7 +100,7 @@
     "title": "Klook Pass Singapore",
     "url": "https://www.klook.com/en-US/activity/69622-singapore-attractions-pass/"
   },
-  "sold_out": false,
+  "sold_out": true,
   "title": "Klook Pass Singapore",
   "vertical_id": 69622,
   "vertical_type": 100
