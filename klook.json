@@ -92,7 +92,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(2,466)",
+    "number": "(2,475)",
     "booked": "70K+ booked",
     "dot": " • "
   },
@@ -243,7 +243,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
-    "number": "(543)",
+    "number": "(557)",
     "booked": "50K+ booked",
     "dot": " • "
   },
@@ -297,7 +297,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(425)",
+    "number": "(437)",
     "booked": "20K+ booked",
     "dot": " • "
   },
@@ -903,7 +903,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.2",
-    "number": "(45)",
+    "number": "(48)",
     "booked": "2K+ booked",
     "dot": " • "
   },
@@ -1283,47 +1283,52 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/xsbej00i5glikqv2wcdu.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/51613-1-hour-hydrodash-admission-singapore/",
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/hkqhggpnmbuy94ij0ps6.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/72760-singapore-resorts-world-sentosa-pass/",
   "general_tag": [
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
-      "text": "Bestseller"
+      "text": "Easy refund"
     },
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
       "text": "Instant confirmation"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Book now for today"
     }
   ],
   "price": {
-    "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 20.00",
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 69.70",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
   },
-  "price_tag_list": [],
+  "price_tag_list": [
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Klook exclusive",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    }
+  ],
   "promotion_tag": null,
   "review": {
-    "star": "★ 4.7",
-    "number": "(1,802)",
-    "booked": "50K+ booked",
+    "star": "★ 4.6",
+    "number": "(14)",
+    "booked": "1K+ booked",
     "dot": " • "
   },
   "seo": {
-    "title": "HydroDash Singapore Admission",
-    "url": "https://www.klook.com/en-US/activity/51613-1-hour-hydrodash-admission-singapore/"
+    "title": "Resorts World Sentosa (Singapore) Pass",
+    "url": "https://www.klook.com/en-US/activity/72760-singapore-resorts-world-sentosa-pass/"
   },
   "sold_out": false,
-  "title": "HydroDash Singapore Admission",
-  "vertical_id": 51613,
+  "title": "Resorts World Sentosa (Singapore) Pass",
+  "vertical_id": 72760,
   "vertical_type": 100
 }
 {
