@@ -10,13 +10,18 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
-      "text": "Book now for today"
+      "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for tomorrow"
     }
   ],
   "price": {
     "selling_price_format": "{selling_price}",
-    "selling_price": "Sold out",
-    "market_price": "",
+    "selling_price": "S$ 80.00",
+    "market_price": "S$ 82.00",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -32,7 +37,7 @@
     "title": "Universal Studios Singapore Tickets",
     "url": "https://www.klook.com/en-US/activity/117-universal-studios-singapore/"
   },
-  "sold_out": true,
+  "sold_out": false,
   "title": "Universal Studios Singapore Tickets",
   "vertical_id": 117,
   "vertical_type": 100
