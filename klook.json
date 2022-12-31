@@ -10,11 +10,6 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
-      "text": "Instant confirmation"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
       "text": "Book now for today"
     }
   ],
@@ -161,17 +156,12 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
-      "text": "Instant confirmation"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
       "text": "Book now for today"
     }
   ],
   "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 41.00",
+    "selling_price_format": "{selling_price}",
+    "selling_price": "On sale soon",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -703,18 +693,13 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
-      "text": "Instant confirmation"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
       "text": "Book now for today"
     }
   ],
   "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 34.49",
-    "market_price": "S$ 39.95",
+    "selling_price_format": "{selling_price}",
+    "selling_price": "On sale soon",
+    "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
   },
