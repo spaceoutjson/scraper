@@ -15,7 +15,7 @@
   ],
   "price": {
     "selling_price_format": "{selling_price}",
-    "selling_price": "On sale soon",
+    "selling_price": "Sold out",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -32,7 +32,7 @@
     "title": "Universal Studios Singapore Tickets",
     "url": "https://www.klook.com/en-US/activity/117-universal-studios-singapore/"
   },
-  "sold_out": false,
+  "sold_out": true,
   "title": "Universal Studios Singapore Tickets",
   "vertical_id": 117,
   "vertical_type": 100
