@@ -821,7 +821,7 @@
   ],
   "price": {
     "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 38.00",
+    "selling_price": "Sold out",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -838,7 +838,7 @@
     "title": "Jurong Bird Park Admission Ticket",
     "url": "https://www.klook.com/en-US/activity/123-jurong-bird-park-singapore/"
   },
-  "sold_out": false,
+  "sold_out": true,
   "title": "Jurong Bird Park Admission Ticket",
   "vertical_id": 123,
   "vertical_type": 100
