@@ -1260,7 +1260,7 @@
     }
   ],
   "price": {
-    "selling_price_format": "{selling_price}",
+    "selling_price_format": "From {price}",
     "selling_price": "S$ 87.50",
     "market_price": "S$ 100.00",
     "market_price_no_strike": false,
