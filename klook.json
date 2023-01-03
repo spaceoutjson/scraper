@@ -527,9 +527,9 @@
     }
   ],
   "price": {
-    "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 12.00",
-    "market_price": "S$ 13.00",
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 23.00",
+    "market_price": "S$ 26.00",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -1333,7 +1333,7 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/ftpacwbx76u0tidbmzkq.jpg",
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/p2mavybwmzh5x85hdyje.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/1256-national-gallery-singapore/",
   "general_tag": [
     {
