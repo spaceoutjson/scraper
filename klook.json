@@ -644,7 +644,7 @@
       "background_color_left": "#FFF0E5",
       "background_color_right": "#FFF0E5",
       "text_color": "#FF5B00",
-      "text": "Save 8%",
+      "text": "Save 16%",
       "icon_src": "",
       "key": "",
       "type": ""
@@ -1231,7 +1231,7 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
-      "text": "Book now for tomorrow"
+      "text": "Book now for today"
     }
   ],
   "price": {
@@ -1354,11 +1354,6 @@
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
       "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Book now for tomorrow"
     }
   ],
   "price": {
