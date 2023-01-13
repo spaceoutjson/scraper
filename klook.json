@@ -1,48 +1,4 @@
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/b6mrkvpviz41ryjnxmre.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/117-universal-studios-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Book now for today"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 80.00",
-    "market_price": "S$ 82.00",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.8",
-    "number": "(81,966)",
-    "booked": "2M+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Universal Studios Singapore Ticket",
-    "url": "https://www.klook.com/en-US/activity/117-universal-studios-singapore/"
-  },
-  "sold_out": false,
-  "title": "Universal Studios Singapore Ticket",
-  "vertical_id": 117,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/sqc5y7k6ytviniiteksf.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/69622-singapore-attractions-pass/",
   "general_tag": [
@@ -361,69 +317,6 @@
   "sold_out": false,
   "title": "Night Safari Singapore Ticket With Tram Ride",
   "vertical_id": 3928,
-  "vertical_type": 100
-}
-{
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/xtzrgvv5ypyuobx9uhty.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/74273-avatar-the-experience-gardens-by-the-bay-ticket-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Book now for today"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 35.00",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [
-    {
-      "background_color_left": "#FFF0E5",
-      "background_color_right": "#FFF0E5",
-      "text_color": "#FF5B00",
-      "text": "Save 7%",
-      "icon_src": "",
-      "key": "",
-      "type": ""
-    },
-    {
-      "background_color_left": "#FFF0E5",
-      "background_color_right": "#FFF0E5",
-      "text_color": "#FF5B00",
-      "text": "Best Price Guarantee",
-      "icon_src": "",
-      "key": "",
-      "type": ""
-    }
-  ],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.7",
-    "number": "(492)",
-    "booked": "20K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Avatar: The Experience at Gardens by the Bay",
-    "url": "https://www.klook.com/en-US/activity/74273-avatar-the-experience-gardens-by-the-bay-ticket-singapore/"
-  },
-  "sold_out": false,
-  "title": "Avatar: The Experience at Gardens by the Bay",
-  "vertical_id": 74273,
   "vertical_type": 100
 }
 {
@@ -1407,5 +1300,88 @@
   "sold_out": false,
   "title": "Madame Tussauds Singapore Ticket",
   "vertical_id": 1182,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/iul9fn5ercbzfqjuicas.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/143-singapore-flyer-dinner-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for tomorrow"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 355.25",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.5",
+    "number": "(224)",
+    "booked": "3K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Singapore Flyer Sky Dining",
+    "url": "https://www.klook.com/en-US/activity/143-singapore-flyer-dinner-singapore/"
+  },
+  "sold_out": false,
+  "title": "Singapore Flyer Sky Dining",
+  "vertical_id": 143,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/xsbej00i5glikqv2wcdu.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/51613-1-hour-hydrodash-admission-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
+    }
+  ],
+  "price": {
+    "selling_price_format": "{selling_price}",
+    "selling_price": "S$ 20.00",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.7",
+    "number": "(1,812)",
+    "booked": "50K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "HydroDash Singapore Admission",
+    "url": "https://www.klook.com/en-US/activity/51613-1-hour-hydrodash-admission-singapore/"
+  },
+  "sold_out": false,
+  "title": "HydroDash Singapore Admission",
+  "vertical_id": 51613,
   "vertical_type": 100
 }
