@@ -204,50 +204,6 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/dsmgjmen77jm1isndwch.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/141-singapore-zoo-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Book now for today"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 45.00",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.7",
-    "number": "(13,475)",
-    "booked": "600K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Singapore Zoo Tickets",
-    "url": "https://www.klook.com/en-US/activity/141-singapore-zoo-singapore/"
-  },
-  "sold_out": false,
-  "title": "Singapore Zoo Tickets",
-  "vertical_id": 141,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/vagmzurszkx3t1b7u1re.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/3928-singapore-night-safari-singapore/",
   "general_tag": [
@@ -289,6 +245,50 @@
   "sold_out": false,
   "title": "Night Safari Singapore Ticket With Tram Ride",
   "vertical_id": 3928,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/dsmgjmen77jm1isndwch.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/141-singapore-zoo-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 45.00",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.7",
+    "number": "(13,475)",
+    "booked": "600K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Singapore Zoo Tickets",
+    "url": "https://www.klook.com/en-US/activity/141-singapore-zoo-singapore/"
+  },
+  "sold_out": false,
+  "title": "Singapore Zoo Tickets",
+  "vertical_id": 141,
   "vertical_type": 100
 }
 {
