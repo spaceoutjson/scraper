@@ -394,7 +394,7 @@
   ],
   "price": {
     "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 35.00",
+    "selling_price": "Sold out",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -430,7 +430,7 @@
     "title": "Avatar: The Experience at Gardens by the Bay",
     "url": "https://www.klook.com/en-US/activity/74273-avatar-the-experience-gardens-by-the-bay-ticket-singapore/"
   },
-  "sold_out": false,
+  "sold_out": true,
   "title": "Avatar: The Experience at Gardens by the Bay",
   "vertical_id": 74273,
   "vertical_type": 100
