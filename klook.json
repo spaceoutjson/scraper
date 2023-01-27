@@ -204,50 +204,6 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/vagmzurszkx3t1b7u1re.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/3928-singapore-night-safari-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Book now for today"
-    }
-  ],
-  "price": {
-    "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 57.50",
-    "market_price": "S$ 59.50",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.5",
-    "number": "(6,695)",
-    "booked": "300K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Night Safari Singapore Ticket With Tram Ride",
-    "url": "https://www.klook.com/en-US/activity/3928-singapore-night-safari-singapore/"
-  },
-  "sold_out": false,
-  "title": "Night Safari Singapore Ticket With Tram Ride",
-  "vertical_id": 3928,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/c6z37s6eow424wppau8h.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/76323-the-doraemon-exhibition-singapore-2022/",
   "general_tag": [
@@ -326,6 +282,50 @@
   "sold_out": false,
   "title": "THE Doraemon Exhibition Singapore 2022 Ticket",
   "vertical_id": 76323,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/vagmzurszkx3t1b7u1re.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/3928-singapore-night-safari-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
+    }
+  ],
+  "price": {
+    "selling_price_format": "{selling_price}",
+    "selling_price": "S$ 57.50",
+    "market_price": "S$ 59.50",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.5",
+    "number": "(6,695)",
+    "booked": "300K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Night Safari Singapore Ticket With Tram Ride",
+    "url": "https://www.klook.com/en-US/activity/3928-singapore-night-safari-singapore/"
+  },
+  "sold_out": false,
+  "title": "Night Safari Singapore Ticket With Tram Ride",
+  "vertical_id": 3928,
   "vertical_type": 100
 }
 {
@@ -1150,60 +1150,6 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/8343cee4-Sentosa-4D-Adventureland.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/136-sentosa-4d-adventureland-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Book now for today"
-    }
-  ],
-  "price": {
-    "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 23.00",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [
-    {
-      "background_color_left": "#FFF0E5",
-      "background_color_right": "#FFF0E5",
-      "text_color": "#FF5B00",
-      "text": "Best Price Guarantee",
-      "icon_src": "",
-      "key": "",
-      "type": ""
-    }
-  ],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.2",
-    "number": "(1,712)",
-    "booked": "40K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Sentosa 4D Adventureland Ticket",
-    "url": "https://www.klook.com/en-US/activity/136-sentosa-4d-adventureland-singapore/"
-  },
-  "sold_out": false,
-  "title": "Sentosa 4D Adventureland Ticket",
-  "vertical_id": 136,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/ukczeewakeg7yxcd64ve.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/70278-singapore-wildlife-pass/",
   "general_tag": [
@@ -1255,6 +1201,60 @@
   "sold_out": false,
   "title": "Klook Pass Singapore - Mandai Pass",
   "vertical_id": 70278,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/8343cee4-Sentosa-4D-Adventureland.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/136-sentosa-4d-adventureland-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
+    }
+  ],
+  "price": {
+    "selling_price_format": "{selling_price}",
+    "selling_price": "S$ 23.00",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Best Price Guarantee",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    }
+  ],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.2",
+    "number": "(1,712)",
+    "booked": "40K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Sentosa 4D Adventureland Ticket",
+    "url": "https://www.klook.com/en-US/activity/136-sentosa-4d-adventureland-singapore/"
+  },
+  "sold_out": false,
+  "title": "Sentosa 4D Adventureland Ticket",
+  "vertical_id": 136,
   "vertical_type": 100
 }
 {
