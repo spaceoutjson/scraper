@@ -225,7 +225,7 @@
   ],
   "price": {
     "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 30.00",
+    "selling_price": "Sold out",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -261,7 +261,7 @@
     "title": "THE Doraemon Exhibition Singapore 2022 Ticket",
     "url": "https://www.klook.com/en-US/activity/76323-the-doraemon-exhibition-singapore-2022/"
   },
-  "sold_out": false,
+  "sold_out": true,
   "title": "THE Doraemon Exhibition Singapore 2022 Ticket",
   "vertical_id": 76323,
   "vertical_type": 100
