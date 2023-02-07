@@ -523,17 +523,7 @@
     "market_price_no_strike": false,
     "discount_tag": null
   },
-  "price_tag_list": [
-    {
-      "background_color_left": "#FFF0E5",
-      "background_color_right": "#FFF0E5",
-      "text_color": "#FF5B00",
-      "text": "Lunar New Year Sale",
-      "icon_src": "",
-      "key": "",
-      "type": ""
-    }
-  ],
+  "price_tag_list": [],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
@@ -578,15 +568,6 @@
     "discount_tag": null
   },
   "price_tag_list": [
-    {
-      "background_color_left": "#FFF0E5",
-      "background_color_right": "#FFF0E5",
-      "text_color": "#FF5B00",
-      "text": "Lunar New Year Sale",
-      "icon_src": "",
-      "key": "",
-      "type": ""
-    },
     {
       "background_color_left": "#FFF0E5",
       "background_color_right": "#FFF0E5",
