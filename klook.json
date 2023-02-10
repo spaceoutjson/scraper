@@ -224,7 +224,7 @@
     }
   ],
   "price": {
-    "selling_price_format": "{selling_price}",
+    "selling_price_format": "From {price}",
     "selling_price": "S$ 57.50",
     "market_price": "S$ 59.50",
     "market_price_no_strike": false,
@@ -850,7 +850,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.4",
-    "number": "(86)",
+    "number": "(87)",
     "booked": "3K+ booked",
     "dot": " • "
   },
