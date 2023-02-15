@@ -399,50 +399,6 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/sdlood2rymimaznvt7yf.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/10552-marina-bay-sands-skypark-observation-deck-admission-ticket-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Book now for today"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 23.00",
-    "market_price": "S$ 26.00",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.7",
-    "number": "(7,109)",
-    "booked": "200K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Marina Bay Sands Skypark Observation Deck or Sampan Ride Ticket",
-    "url": "https://www.klook.com/en-US/activity/10552-marina-bay-sands-skypark-observation-deck-admission-ticket-singapore/"
-  },
-  "sold_out": false,
-  "title": "Marina Bay Sands Skypark Observation Deck or Sampan Ride Ticket",
-  "vertical_id": 10552,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/miqmpfbmi5bcsmcp1ohd.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/132-skyline-luge-singapore/",
   "general_tag": [
@@ -494,50 +450,6 @@
   "sold_out": false,
   "title": "Skyline Luge Singapore Ticket",
   "vertical_id": 132,
-  "vertical_type": 100
-}
-{
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/t2cvzkaisyvjcgz52rlz.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/4534-singapore-flyer/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Book now for today"
-    }
-  ],
-  "price": {
-    "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 25.00",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.6",
-    "number": "(6,753)",
-    "booked": "300K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Singapore Flyer Ticket",
-    "url": "https://www.klook.com/en-US/activity/4534-singapore-flyer/"
-  },
-  "sold_out": false,
-  "title": "Singapore Flyer Ticket",
-  "vertical_id": 4534,
   "vertical_type": 100
 }
 {
@@ -1350,5 +1262,98 @@
   "sold_out": false,
   "title": "Lee Kong Chian Natural History Museum Ticket in Singapore",
   "vertical_id": 1680,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/ubcwqrrepeqijz4ckk93.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/118-trick-eye-museum-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for tomorrow"
+    }
+  ],
+  "price": {
+    "selling_price_format": "{selling_price}",
+    "selling_price": "S$ 26.00",
+    "market_price": "S$ 32.00",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.5",
+    "number": "(2,611)",
+    "booked": "70K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Trick Eye Museum Ticket at Southside Sentosa in Singapore",
+    "url": "https://www.klook.com/en-US/activity/118-trick-eye-museum-singapore/"
+  },
+  "sold_out": false,
+  "title": "Trick Eye Museum Ticket at Southside Sentosa in Singapore",
+  "vertical_id": 118,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/hkqhggpnmbuy94ij0ps6.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/72760-singapore-resorts-world-sentosa-pass/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Easy refund"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 77.00",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Klook exclusive",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    }
+  ],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.7",
+    "number": "(16)",
+    "booked": "1K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Resorts World Sentosa (Singapore) Pass",
+    "url": "https://www.klook.com/en-US/activity/72760-singapore-resorts-world-sentosa-pass/"
+  },
+  "sold_out": false,
+  "title": "Resorts World Sentosa (Singapore) Pass",
+  "vertical_id": 72760,
   "vertical_type": 100
 }
