@@ -20,7 +20,7 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 61.00",
+    "selling_price": "S$ 82.00",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -823,6 +823,11 @@
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/gws01p7muttlvt2ufci1.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/78105-museum-ice-cream-singapore-admission/",
   "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
