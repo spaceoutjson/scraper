@@ -399,6 +399,50 @@
   "vertical_type": 100
 }
 {
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/sdlood2rymimaznvt7yf.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/10552-marina-bay-sands-skypark-observation-deck-admission-ticket-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 23.00",
+    "market_price": "S$ 26.00",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.7",
+    "number": "(7,109)",
+    "booked": "200K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Marina Bay Sands Skypark Observation Deck or Sampan Ride Ticket",
+    "url": "https://www.klook.com/en-US/activity/10552-marina-bay-sands-skypark-observation-deck-admission-ticket-singapore/"
+  },
+  "sold_out": false,
+  "title": "Marina Bay Sands Skypark Observation Deck or Sampan Ride Ticket",
+  "vertical_id": 10552,
+  "vertical_type": 100
+}
+{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/miqmpfbmi5bcsmcp1ohd.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/132-skyline-luge-singapore/",
   "general_tag": [
@@ -450,6 +494,50 @@
   "sold_out": false,
   "title": "Skyline Luge Singapore Ticket",
   "vertical_id": 132,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/t2cvzkaisyvjcgz52rlz.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/4534-singapore-flyer/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
+    }
+  ],
+  "price": {
+    "selling_price_format": "{selling_price}",
+    "selling_price": "S$ 25.00",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.6",
+    "number": "(6,753)",
+    "booked": "300K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Singapore Flyer Ticket",
+    "url": "https://www.klook.com/en-US/activity/4534-singapore-flyer/"
+  },
+  "sold_out": false,
+  "title": "Singapore Flyer Ticket",
+  "vertical_id": 4534,
   "vertical_type": 100
 }
 {
@@ -688,6 +776,69 @@
   "vertical_type": 100
 }
 {
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/qzg7ieqtlnryerljnqwb.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/31617-kiztopia-ticket-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Easy refund"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "{selling_price}",
+    "selling_price": "S$ 39.80",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Exclusive price",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    },
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Best Price Guarantee",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    }
+  ],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.8",
+    "number": "(2,334)",
+    "booked": "50K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Kiztopia Ticket in Singapore (Marina Square)",
+    "url": "https://www.klook.com/en-US/activity/31617-kiztopia-ticket-singapore/"
+  },
+  "sold_out": false,
+  "title": "Kiztopia Ticket in Singapore (Marina Square)",
+  "vertical_id": 31617,
+  "vertical_type": 100
+}
+{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/kwgld34z6cnevll4jqkv.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/1347-science-centre-singapore-omni-theatre-movie-singapore/",
   "general_tag": [
@@ -900,6 +1051,50 @@
   "sold_out": false,
   "title": "Singapore Flyer Sky Dining",
   "vertical_id": 143,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/i29635qjyzdwryaee4at.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/29902-superpark-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for tomorrow"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 20.25",
+    "market_price": "S$ 22.90",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.8",
+    "number": "(1,018)",
+    "booked": "20K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "SuperPark Ticket in Singapore",
+    "url": "https://www.klook.com/en-US/activity/29902-superpark-singapore/"
+  },
+  "sold_out": false,
+  "title": "SuperPark Ticket in Singapore",
+  "vertical_id": 29902,
   "vertical_type": 100
 }
 {
@@ -1174,186 +1369,5 @@
   "sold_out": false,
   "title": "Wild Wild Wet Ticket in Singapore",
   "vertical_id": 9610,
-  "vertical_type": 100
-}
-{
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/n7xbv9bcfcwy2any44ga.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/1348-snow-play-session-in-snow-city-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Book now for today"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 12.00",
-    "market_price": "S$ 16.00",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.2",
-    "number": "(3,080)",
-    "booked": "100K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Snow City Singapore Ticket",
-    "url": "https://www.klook.com/en-US/activity/1348-snow-play-session-in-snow-city-singapore/"
-  },
-  "sold_out": false,
-  "title": "Snow City Singapore Ticket",
-  "vertical_id": 1348,
-  "vertical_type": 100
-}
-{
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/f3ea2f87-Lee-Kong-Chian-Natural-History-Museum.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/1680-lee-kong-chian-natural-history-museum-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Easy refund"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 16.00",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.7",
-    "number": "(964)",
-    "booked": "20K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Lee Kong Chian Natural History Museum Ticket in Singapore",
-    "url": "https://www.klook.com/en-US/activity/1680-lee-kong-chian-natural-history-museum-singapore/"
-  },
-  "sold_out": false,
-  "title": "Lee Kong Chian Natural History Museum Ticket in Singapore",
-  "vertical_id": 1680,
-  "vertical_type": 100
-}
-{
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/ubcwqrrepeqijz4ckk93.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/118-trick-eye-museum-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Book now for tomorrow"
-    }
-  ],
-  "price": {
-    "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 26.00",
-    "market_price": "S$ 32.00",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.5",
-    "number": "(2,611)",
-    "booked": "70K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Trick Eye Museum Ticket at Southside Sentosa in Singapore",
-    "url": "https://www.klook.com/en-US/activity/118-trick-eye-museum-singapore/"
-  },
-  "sold_out": false,
-  "title": "Trick Eye Museum Ticket at Southside Sentosa in Singapore",
-  "vertical_id": 118,
-  "vertical_type": 100
-}
-{
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/hkqhggpnmbuy94ij0ps6.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/72760-singapore-resorts-world-sentosa-pass/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Easy refund"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 77.00",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [
-    {
-      "background_color_left": "#FFF0E5",
-      "background_color_right": "#FFF0E5",
-      "text_color": "#FF5B00",
-      "text": "Klook exclusive",
-      "icon_src": "",
-      "key": "",
-      "type": ""
-    }
-  ],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.7",
-    "number": "(16)",
-    "booked": "1K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Resorts World Sentosa (Singapore) Pass",
-    "url": "https://www.klook.com/en-US/activity/72760-singapore-resorts-world-sentosa-pass/"
-  },
-  "sold_out": false,
-  "title": "Resorts World Sentosa (Singapore) Pass",
-  "vertical_id": 72760,
   "vertical_type": 100
 }
