@@ -14,8 +14,8 @@
     }
   ],
   "price": {
-    "selling_price_format": "{selling_price}",
-    "selling_price": "Sold out",
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 82.00",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -32,7 +32,7 @@
     "title": "Universal Studios Singapore Ticket",
     "url": "https://www.klook.com/en-US/activity/117-universal-studios-singapore/"
   },
-  "sold_out": true,
+  "sold_out": false,
   "title": "Universal Studios Singapore Ticket",
   "vertical_id": 117,
   "vertical_type": 100
@@ -170,8 +170,8 @@
     }
   ],
   "price": {
-    "selling_price_format": "{selling_price}",
-    "selling_price": "Sold out",
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 21.00",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -188,7 +188,7 @@
     "title": "S.E.A. Aquarium Ticket Sentosa, Singapore",
     "url": "https://www.klook.com/en-US/activity/119-sea-aquarium-singapore/"
   },
-  "sold_out": true,
+  "sold_out": false,
   "title": "S.E.A. Aquarium Ticket Sentosa, Singapore",
   "vertical_id": 119,
   "vertical_type": 100
@@ -748,8 +748,8 @@
   ],
   "price": {
     "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 39.00",
-    "market_price": "",
+    "selling_price": "S$ 37.00",
+    "market_price": "S$ 39.00",
     "market_price_no_strike": false,
     "discount_tag": null
   },
