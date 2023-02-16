@@ -181,7 +181,7 @@
   ],
   "price": {
     "selling_price_format": "{selling_price}",
-    "selling_price": "S$ 41.00",
+    "selling_price": "Sold out",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -198,7 +198,7 @@
     "title": "S.E.A. Aquarium Ticket Sentosa, Singapore",
     "url": "https://www.klook.com/en-US/activity/119-sea-aquarium-singapore/"
   },
-  "sold_out": false,
+  "sold_out": true,
   "title": "S.E.A. Aquarium Ticket Sentosa, Singapore",
   "vertical_id": 119,
   "vertical_type": 100
