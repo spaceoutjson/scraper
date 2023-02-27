@@ -1020,40 +1020,6 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/iul9fn5ercbzfqjuicas.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/143-singapore-flyer-dinner-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Bestseller"
-    }
-  ],
-  "price": {
-    "selling_price_format": "{selling_price}",
-    "selling_price": "Sold out",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.5",
-    "number": "(229)",
-    "booked": "4K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Singapore Flyer Sky Dining",
-    "url": "https://www.klook.com/en-US/activity/143-singapore-flyer-dinner-singapore/"
-  },
-  "sold_out": true,
-  "title": "Singapore Flyer Sky Dining",
-  "vertical_id": 143,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/i29635qjyzdwryaee4at.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/29902-superpark-singapore/",
   "general_tag": [
@@ -1095,6 +1061,40 @@
   "sold_out": false,
   "title": "SuperPark Ticket in Singapore",
   "vertical_id": 29902,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/iul9fn5ercbzfqjuicas.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/143-singapore-flyer-dinner-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    }
+  ],
+  "price": {
+    "selling_price_format": "{selling_price}",
+    "selling_price": "Sold out",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.5",
+    "number": "(229)",
+    "booked": "4K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Singapore Flyer Sky Dining",
+    "url": "https://www.klook.com/en-US/activity/143-singapore-flyer-dinner-singapore/"
+  },
+  "sold_out": true,
+  "title": "Singapore Flyer Sky Dining",
+  "vertical_id": 143,
   "vertical_type": 100
 }
 {
