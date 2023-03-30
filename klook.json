@@ -777,7 +777,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.5",
-    "number": "(139)",
+    "number": "(140)",
     "booked": "8K+ booked",
     "dot": " • "
   },
@@ -1011,50 +1011,6 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/t2cvzkaisyvjcgz52rlz.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/4534-singapore-flyer/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Book now for today"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 25.00",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.6",
-    "number": "(6,919)",
-    "booked": "300K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Singapore Flyer Ticket",
-    "url": "https://www.klook.com/en-US/activity/4534-singapore-flyer/"
-  },
-  "sold_out": false,
-  "title": "Singapore Flyer Ticket",
-  "vertical_id": 4534,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/8343cee4-Sentosa-4D-Adventureland.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/136-sentosa-4d-adventureland-singapore/",
   "general_tag": [
@@ -1238,6 +1194,50 @@
   "sold_out": false,
   "title": "iFly Singapore",
   "vertical_id": 139,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/t2cvzkaisyvjcgz52rlz.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/4534-singapore-flyer/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 25.00",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.6",
+    "number": "(6,919)",
+    "booked": "300K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Singapore Flyer Ticket",
+    "url": "https://www.klook.com/en-US/activity/4534-singapore-flyer/"
+  },
+  "sold_out": false,
+  "title": "Singapore Flyer Ticket",
+  "vertical_id": 4534,
   "vertical_type": 100
 }
 {
