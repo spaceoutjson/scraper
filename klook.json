@@ -181,7 +181,7 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 21.00",
+    "selling_price": "S$ 25.00",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -1164,12 +1164,12 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
-      "text": "Instant confirmation"
+      "text": "English available"
     },
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
-      "text": "Book now for tomorrow"
+      "text": "Instant confirmation"
     }
   ],
   "price": {
