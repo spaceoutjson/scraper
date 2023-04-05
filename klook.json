@@ -665,7 +665,7 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
-      "text": "Book now for tomorrow"
+      "text": "Book now for today"
     }
   ],
   "price": {
@@ -803,6 +803,11 @@
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
       "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for tomorrow"
     }
   ],
   "price": {
