@@ -87,60 +87,6 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/miqmpfbmi5bcsmcp1ohd.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/132-skyline-luge-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Book now for today"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 28.20",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [
-    {
-      "background_color_left": "#FFF0E5",
-      "background_color_right": "#FFF0E5",
-      "text_color": "#FF5B00",
-      "text": "Save 9%",
-      "icon_src": "",
-      "key": "",
-      "type": ""
-    }
-  ],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.8",
-    "number": "(28,814)",
-    "booked": "600K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Skyline Luge Singapore Ticket",
-    "url": "https://www.klook.com/en-US/activity/132-skyline-luge-singapore/"
-  },
-  "sold_out": false,
-  "title": "Skyline Luge Singapore Ticket",
-  "vertical_id": 132,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/xtzrgvv5ypyuobx9uhty.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/74273-avatar-the-experience-gardens-by-the-bay-ticket-singapore/",
   "general_tag": [
@@ -537,50 +483,6 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/xiefiw1imjq4adlllc3z.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/1182-madame-tussauds-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Book now for tomorrow"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 26.40",
-    "market_price": "S$ 33.00",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.7",
-    "number": "(6,633)",
-    "booked": "100K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Madame Tussauds Singapore Ticket",
-    "url": "https://www.klook.com/en-US/activity/1182-madame-tussauds-singapore/"
-  },
-  "sold_out": false,
-  "title": "Madame Tussauds Singapore Ticket",
-  "vertical_id": 1182,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/zlnlnvwhym800ymhosyu.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/9610-wild-wild-wet-ticket-singapore/",
   "general_tag": [
@@ -778,8 +680,8 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 14.50",
-    "market_price": "S$ 15.00",
+    "selling_price": "S$ 15.00",
+    "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
   },
@@ -1331,5 +1233,103 @@
   "sold_out": false,
   "title": "Kiztopia Ticket in Singapore (Jurong)",
   "vertical_id": 71998,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/rk6dzsuipxexxsjglf7j.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/21427-tayo-station-ticket-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 31.00",
+    "market_price": "S$ 32.00",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.8",
+    "number": "(789)",
+    "booked": "10K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Tayo Station Ticket",
+    "url": "https://www.klook.com/en-US/activity/21427-tayo-station-ticket-singapore/"
+  },
+  "sold_out": false,
+  "title": "Tayo Station Ticket",
+  "vertical_id": 21427,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/ykljgidfohtsnpmxmd5q.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/32072-hi-roller-indoor-skating-ticket/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
+    }
+  ],
+  "price": {
+    "selling_price_format": "{selling_price}",
+    "selling_price": "S$ 16.00",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Best Price Guarantee",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    }
+  ],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.8",
+    "number": "(541)",
+    "booked": "10K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Hi Roller Indoor Skating Ticket",
+    "url": "https://www.klook.com/en-US/activity/32072-hi-roller-indoor-skating-ticket/"
+  },
+  "sold_out": false,
+  "title": "Hi Roller Indoor Skating Ticket",
+  "vertical_id": 32072,
   "vertical_type": 100
 }
