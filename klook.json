@@ -465,7 +465,7 @@
       "background_color_left": "#FFF0E5",
       "background_color_right": "#FFF0E5",
       "text_color": "#FF5B00",
-      "text": "Save 10%",
+      "text": "Save 6%",
       "icon_src": "",
       "key": "",
       "type": ""
@@ -514,17 +514,7 @@
     "market_price_no_strike": false,
     "discount_tag": null
   },
-  "price_tag_list": [
-    {
-      "background_color_left": "#FFF0E5",
-      "background_color_right": "#FFF0E5",
-      "text_color": "#FF5B00",
-      "text": "Save 7%",
-      "icon_src": "",
-      "key": "",
-      "type": ""
-    }
-  ],
+  "price_tag_list": [],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.6",
@@ -750,11 +740,6 @@
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
       "text": "Instant confirmation"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Book now for today"
     }
   ],
   "price": {
@@ -896,7 +881,7 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
-      "text": "Book now for today"
+      "text": "Book now for tomorrow"
     }
   ],
   "price": {
@@ -1154,7 +1139,7 @@
     {
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
-      "text": "Book now for tomorrow"
+      "text": "Skip the line"
     }
   ],
   "price": {
@@ -1277,11 +1262,6 @@
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
       "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Book now for tomorrow"
     }
   ],
   "price": {
