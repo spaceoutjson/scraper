@@ -684,50 +684,6 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/9382849d-Wings-of-Time.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/135-wings-of-time-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Book now for today"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 16.20",
-    "market_price": "S$ 18.00",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.7",
-    "number": "(8,893)",
-    "booked": "200K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Wings of Time Show Ticket in Singapore",
-    "url": "https://www.klook.com/en-US/activity/135-wings-of-time-singapore/"
-  },
-  "sold_out": false,
-  "title": "Wings of Time Show Ticket in Singapore",
-  "vertical_id": 135,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/gws01p7muttlvt2ufci1.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/78105-museum-ice-cream-singapore-admission/",
   "general_tag": [
@@ -1365,5 +1321,49 @@
   "sold_out": false,
   "title": "iFly Singapore",
   "vertical_id": 139,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/n7xbv9bcfcwy2any44ga.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/1348-snow-play-session-in-snow-city-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 12.00",
+    "market_price": "S$ 16.00",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.2",
+    "number": "(3,173)",
+    "booked": "100K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Snow City Singapore Ticket",
+    "url": "https://www.klook.com/en-US/activity/1348-snow-play-session-in-snow-city-singapore/"
+  },
+  "sold_out": false,
+  "title": "Snow City Singapore Ticket",
+  "vertical_id": 1348,
   "vertical_type": 100
 }
