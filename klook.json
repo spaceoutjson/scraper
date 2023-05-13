@@ -146,7 +146,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.8",
-    "number": "(44,864)",
+    "number": "(44,879)",
     "booked": "1M+ booked",
     "dot": " • "
   },
@@ -1053,6 +1053,11 @@
       "bg_color": "#F5F5F5",
       "text_color": "#757575",
       "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for tomorrow"
     }
   ],
   "price": {
