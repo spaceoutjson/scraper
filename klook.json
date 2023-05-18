@@ -20,7 +20,7 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 47.00",
+    "selling_price": "S$ 162.00",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -684,50 +684,6 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/rmtn1yzmufx2qhj7zntk.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/120-adventure-cove-waterpark-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Book now for tomorrow"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 32.00",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.7",
-    "number": "(6,978)",
-    "booked": "200K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Adventure Cove Waterpark Ticket in Singapore",
-    "url": "https://www.klook.com/en-US/activity/120-adventure-cove-waterpark-singapore/"
-  },
-  "sold_out": false,
-  "title": "Adventure Cove Waterpark Ticket in Singapore",
-  "vertical_id": 120,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/folbsh0595purvgdx5bn.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/123-bird-paradise-singapore/",
   "general_tag": [
@@ -769,6 +725,50 @@
   "sold_out": false,
   "title": "Bird Paradise Ticket in Singapore",
   "vertical_id": 123,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/rmtn1yzmufx2qhj7zntk.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/120-adventure-cove-waterpark-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for tomorrow"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 32.00",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.7",
+    "number": "(6,978)",
+    "booked": "200K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Adventure Cove Waterpark Ticket in Singapore",
+    "url": "https://www.klook.com/en-US/activity/120-adventure-cove-waterpark-singapore/"
+  },
+  "sold_out": false,
+  "title": "Adventure Cove Waterpark Ticket in Singapore",
+  "vertical_id": 120,
   "vertical_type": 100
 }
 {
