@@ -137,6 +137,15 @@
       "background_color_left": "#FFF0E5",
       "background_color_right": "#FFF0E5",
       "text_color": "#FF5B00",
+      "text": "Summer Campaign",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    },
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
       "text": "Save 6%",
       "icon_src": "",
       "key": "",
@@ -186,7 +195,17 @@
     "market_price_no_strike": false,
     "discount_tag": null
   },
-  "price_tag_list": [],
+  "price_tag_list": [
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Summer Campaign",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    }
+  ],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
@@ -813,7 +832,17 @@
     "market_price_no_strike": false,
     "discount_tag": null
   },
-  "price_tag_list": [],
+  "price_tag_list": [
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Summer Campaign",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    }
+  ],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
@@ -1048,11 +1077,21 @@
   "price": {
     "selling_price_format": "From {price}",
     "selling_price": "S$ 26.40",
-    "market_price": "S$ 33.00",
+    "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
   },
-  "price_tag_list": [],
+  "price_tag_list": [
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Summer Campaign",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    }
+  ],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
@@ -1243,11 +1282,21 @@
   "price": {
     "selling_price_format": "From {price}",
     "selling_price": "S$ 20.25",
-    "market_price": "S$ 22.90",
+    "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
   },
-  "price_tag_list": [],
+  "price_tag_list": [
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Summer Campaign",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    }
+  ],
   "promotion_tag": null,
   "review": {
     "star": "★ 4.8",
