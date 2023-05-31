@@ -48,7 +48,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(5,445)",
+    "number": "(5,464)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -635,7 +635,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(962)",
+    "number": "(966)",
     "booked": "40K+ booked",
     "dot": " • "
   },
@@ -949,7 +949,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.5",
-    "number": "(240)",
+    "number": "(241)",
     "booked": "10K+ booked",
     "dot": " • "
   },
@@ -1168,50 +1168,6 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/bqs3uzotzxdmfjb5bs81.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/1256-national-gallery-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Easy refund"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 14.00",
-    "market_price": "S$ 20.00",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.7",
-    "number": "(1,874)",
-    "booked": "60K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "National Gallery Singapore Ticket",
-    "url": "https://www.klook.com/en-US/activity/1256-national-gallery-singapore/"
-  },
-  "sold_out": false,
-  "title": "National Gallery Singapore Ticket",
-  "vertical_id": 1256,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/8343cee4-Sentosa-4D-Adventureland.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/136-sentosa-4d-adventureland-singapore/",
   "general_tag": [
@@ -1275,6 +1231,50 @@
   "vertical_type": 100
 }
 {
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/bqs3uzotzxdmfjb5bs81.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/1256-national-gallery-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Easy refund"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 14.00",
+    "market_price": "S$ 20.00",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.7",
+    "number": "(1,874)",
+    "booked": "60K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "National Gallery Singapore Ticket",
+    "url": "https://www.klook.com/en-US/activity/1256-national-gallery-singapore/"
+  },
+  "sold_out": false,
+  "title": "National Gallery Singapore Ticket",
+  "vertical_id": 1256,
+  "vertical_type": 100
+}
+{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/n7xbv9bcfcwy2any44ga.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/1348-snow-play-session-in-snow-city-singapore/",
   "general_tag": [
@@ -1316,50 +1316,6 @@
   "sold_out": false,
   "title": "Snow City Singapore Ticket",
   "vertical_id": 1348,
-  "vertical_type": 100
-}
-{
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/zlnlnvwhym800ymhosyu.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/9610-wild-wild-wet-ticket-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Book now for tomorrow"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 26.00",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.6",
-    "number": "(3,308)",
-    "booked": "100K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Wild Wild Wet Ticket in Singapore",
-    "url": "https://www.klook.com/en-US/activity/9610-wild-wild-wet-ticket-singapore/"
-  },
-  "sold_out": false,
-  "title": "Wild Wild Wet Ticket in Singapore",
-  "vertical_id": 9610,
   "vertical_type": 100
 }
 {
@@ -1414,6 +1370,50 @@
   "sold_out": false,
   "title": "iFly Singapore",
   "vertical_id": 139,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/zlnlnvwhym800ymhosyu.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/9610-wild-wild-wet-ticket-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for tomorrow"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 26.00",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.6",
+    "number": "(3,308)",
+    "booked": "100K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Wild Wild Wet Ticket in Singapore",
+    "url": "https://www.klook.com/en-US/activity/9610-wild-wild-wet-ticket-singapore/"
+  },
+  "sold_out": false,
+  "title": "Wild Wild Wet Ticket in Singapore",
+  "vertical_id": 9610,
   "vertical_type": 100
 }
 {
