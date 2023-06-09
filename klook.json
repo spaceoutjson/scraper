@@ -92,7 +92,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(5,621)",
+    "number": "(5,634)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -601,7 +601,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(997)",
+    "number": "(999)",
     "booked": "40K+ booked",
     "dot": " • "
   },
@@ -612,50 +612,6 @@
   "sold_out": false,
   "title": "Avatar: The Experience at Gardens by the Bay",
   "vertical_id": 74273,
-  "vertical_type": 100
-}
-{
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/c2gjn0qurbsh9rxkjjq1.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/124-river-wonders-singapore-tickets/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Book now for today"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 49.59",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.6",
-    "number": "(7,958)",
-    "booked": "300K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "River Wonders Singapore Ticket",
-    "url": "https://www.klook.com/en-US/activity/124-river-wonders-singapore-tickets/"
-  },
-  "sold_out": false,
-  "title": "River Wonders Singapore Ticket",
-  "vertical_id": 124,
   "vertical_type": 100
 }
 {
@@ -708,8 +664,8 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/e76dpwoxfumhoitwl0cc.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/135-wings-of-time-singapore/",
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/c2gjn0qurbsh9rxkjjq1.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/124-river-wonders-singapore-tickets/",
   "general_tag": [
     {
       "bg_color": "#F5F5F5",
@@ -729,36 +685,26 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 17.10",
+    "selling_price": "S$ 49.59",
     "market_price": "",
     "market_price_no_strike": false,
     "discount_tag": null
   },
-  "price_tag_list": [
-    {
-      "background_color_left": "#FFF0E5",
-      "background_color_right": "#FFF0E5",
-      "text_color": "#FF5B00",
-      "text": "Summer Campaign",
-      "icon_src": "",
-      "key": "",
-      "type": ""
-    }
-  ],
+  "price_tag_list": [],
   "promotion_tag": null,
   "review": {
-    "star": "★ 4.7",
-    "number": "(9,031)",
-    "booked": "200K+ booked",
+    "star": "★ 4.6",
+    "number": "(7,958)",
+    "booked": "300K+ booked",
     "dot": " • "
   },
   "seo": {
-    "title": "Wings of Time Show Ticket in Singapore",
-    "url": "https://www.klook.com/en-US/activity/135-wings-of-time-singapore/"
+    "title": "River Wonders Singapore Ticket",
+    "url": "https://www.klook.com/en-US/activity/124-river-wonders-singapore-tickets/"
   },
   "sold_out": false,
-  "title": "Wings of Time Show Ticket in Singapore",
-  "vertical_id": 135,
+  "title": "River Wonders Singapore Ticket",
+  "vertical_id": 124,
   "vertical_type": 100
 }
 {
@@ -813,6 +759,60 @@
   "sold_out": false,
   "title": "Klook Pass Singapore - Mandai Pass",
   "vertical_id": 70278,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/e76dpwoxfumhoitwl0cc.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/135-wings-of-time-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 17.10",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [
+    {
+      "background_color_left": "#FFF0E5",
+      "background_color_right": "#FFF0E5",
+      "text_color": "#FF5B00",
+      "text": "Summer Campaign",
+      "icon_src": "",
+      "key": "",
+      "type": ""
+    }
+  ],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.7",
+    "number": "(9,031)",
+    "booked": "200K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Wings of Time Show Ticket in Singapore",
+    "url": "https://www.klook.com/en-US/activity/135-wings-of-time-singapore/"
+  },
+  "sold_out": false,
+  "title": "Wings of Time Show Ticket in Singapore",
+  "vertical_id": 135,
   "vertical_type": 100
 }
 {
