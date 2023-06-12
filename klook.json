@@ -92,7 +92,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(5,670)",
+    "number": "(5,694)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -375,50 +375,6 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/sdlood2rymimaznvt7yf.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/10552-marina-bay-sands-skypark-observation-deck-admission-ticket-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Book now for today"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 27.00",
-    "market_price": "S$ 29.00",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.7",
-    "number": "(7,568)",
-    "booked": "200K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Marina Bay Sands Skypark Observation Deck or Sampan Ride Ticket",
-    "url": "https://www.klook.com/en-US/activity/10552-marina-bay-sands-skypark-observation-deck-admission-ticket-singapore/"
-  },
-  "sold_out": false,
-  "title": "Marina Bay Sands Skypark Observation Deck or Sampan Ride Ticket",
-  "vertical_id": 10552,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/mbo5sq0xb1gp6mv9hadv.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/123-bird-paradise-singapore/",
   "general_tag": [
@@ -460,6 +416,50 @@
   "sold_out": false,
   "title": "Bird Paradise Ticket in Singapore",
   "vertical_id": 123,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/sdlood2rymimaznvt7yf.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/10552-marina-bay-sands-skypark-observation-deck-admission-ticket-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Book now for today"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 27.00",
+    "market_price": "S$ 29.00",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.7",
+    "number": "(7,568)",
+    "booked": "200K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Marina Bay Sands Skypark Observation Deck or Sampan Ride Ticket",
+    "url": "https://www.klook.com/en-US/activity/10552-marina-bay-sands-skypark-observation-deck-admission-ticket-singapore/"
+  },
+  "sold_out": false,
+  "title": "Marina Bay Sands Skypark Observation Deck or Sampan Ride Ticket",
+  "vertical_id": 10552,
   "vertical_type": 100
 }
 {
@@ -601,7 +601,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(1,009)",
+    "number": "(1,011)",
     "booked": "40K+ booked",
     "dot": " • "
   },
@@ -612,45 +612,6 @@
   "sold_out": false,
   "title": "Avatar: The Experience at Gardens by the Bay",
   "vertical_id": 74273,
-  "vertical_type": 100
-}
-{
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/miqmpfbmi5bcsmcp1ohd.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/132-skyline-luge-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Bestseller"
-    },
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 34.00",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.8",
-    "number": "(29,148)",
-    "booked": "700K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Skyline Luge Singapore Ticket",
-    "url": "https://www.klook.com/en-US/activity/132-skyline-luge-singapore/"
-  },
-  "sold_out": false,
-  "title": "Skyline Luge Singapore Ticket",
-  "vertical_id": 132,
   "vertical_type": 100
 }
 {
@@ -698,6 +659,45 @@
   "vertical_type": 100
 }
 {
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/miqmpfbmi5bcsmcp1ohd.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/132-skyline-luge-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Bestseller"
+    },
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 34.00",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.8",
+    "number": "(29,148)",
+    "booked": "700K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Skyline Luge Singapore Ticket",
+    "url": "https://www.klook.com/en-US/activity/132-skyline-luge-singapore/"
+  },
+  "sold_out": false,
+  "title": "Skyline Luge Singapore Ticket",
+  "vertical_id": 132,
+  "vertical_type": 100
+}
+{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/ozbhishelhdfpp1q5rcy.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/70278-singapore-wildlife-pass/",
   "general_tag": [
@@ -738,7 +738,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(147)",
+    "number": "(148)",
     "booked": "5K+ booked",
     "dot": " • "
   },
@@ -890,7 +890,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.5",
-    "number": "(257)",
+    "number": "(259)",
     "booked": "10K+ booked",
     "dot": " • "
   },
