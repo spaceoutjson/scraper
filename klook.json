@@ -1042,7 +1042,7 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 76.50",
+    "selling_price": "S$ 81.00",
     "market_price": "S$ 90.00",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -1369,7 +1369,7 @@
 }
 {
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/xje5wyzzp9a0ipblgsqc.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/139-ifly-singapore-singapore/",
+  "deep_link": "https://www.klook.com/en-US/activity/139-ifly-singapore/",
   "general_tag": [
     {
       "bg_color": "#F5F5F5",
@@ -1414,7 +1414,7 @@
   },
   "seo": {
     "title": "iFly Singapore",
-    "url": "https://www.klook.com/en-US/activity/139-ifly-singapore-singapore/"
+    "url": "https://www.klook.com/en-US/activity/139-ifly-singapore/"
   },
   "sold_out": false,
   "title": "iFly Singapore",
