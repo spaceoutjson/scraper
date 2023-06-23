@@ -44,7 +44,7 @@
   ],
   "price": {
     "selling_price_format": "From {price}",
-    "selling_price": "S$ 81.65",
+    "selling_price": "S$ 85.7",
     "market_price": "S$ 139",
     "market_price_no_strike": false,
     "discount_tag": null
@@ -53,7 +53,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(5,862)",
+    "number": "(5,884)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -393,7 +393,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(1,036)",
+    "number": "(1,040)",
     "booked": "40K+ booked",
     "dot": " • "
   },
@@ -597,7 +597,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.5",
-    "number": "(274)",
+    "number": "(275)",
     "booked": "10K+ booked",
     "dot": " • "
   },
