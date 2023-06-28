@@ -53,7 +53,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(5,965)",
+    "number": "(5,989)",
     "booked": "100K+ booked",
     "dot": " • "
   },
@@ -325,7 +325,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(1,055)",
+    "number": "(1,058)",
     "booked": "40K+ booked",
     "dot": " • "
   },
@@ -631,7 +631,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.5",
-    "number": "(283)",
+    "number": "(289)",
     "booked": "10K+ booked",
     "dot": " • "
   },
@@ -665,7 +665,7 @@
   "promotion_tag": null,
   "review": {
     "star": "★ 4.7",
-    "number": "(157)",
+    "number": "(158)",
     "booked": "6K+ booked",
     "dot": " • "
   },
@@ -917,40 +917,6 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/cx2mitou0qrej8ztz0pj.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/51514-splashkidz-amaze-safra-punggol-admission/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 18",
-    "market_price": "",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.7",
-    "number": "(361)",
-    "booked": "20K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Splash@Kidz Amaze SAFRA Punggol Ticket in Singapore",
-    "url": "https://www.klook.com/en-US/activity/51514-splashkidz-amaze-safra-punggol-admission/"
-  },
-  "sold_out": false,
-  "title": "Splash@Kidz Amaze SAFRA Punggol Ticket in Singapore",
-  "vertical_id": 51514,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/bqs3uzotzxdmfjb5bs81.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/1256-national-gallery-singapore/",
   "general_tag": [
@@ -982,5 +948,39 @@
   "sold_out": false,
   "title": "National Gallery Singapore Ticket",
   "vertical_id": 1256,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/cx2mitou0qrej8ztz0pj.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/51514-splashkidz-amaze-safra-punggol-admission/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 18",
+    "market_price": "",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.7",
+    "number": "(361)",
+    "booked": "20K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Splash@Kidz Amaze SAFRA Punggol Ticket in Singapore",
+    "url": "https://www.klook.com/en-US/activity/51514-splashkidz-amaze-safra-punggol-admission/"
+  },
+  "sold_out": false,
+  "title": "Splash@Kidz Amaze SAFRA Punggol Ticket in Singapore",
+  "vertical_id": 51514,
   "vertical_type": 100
 }
