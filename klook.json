@@ -203,40 +203,6 @@
   "vertical_type": 100
 }
 {
-  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/ic8ug8bymgsexlfyr7kp.jpg",
-  "deep_link": "https://www.klook.com/en-US/activity/130-faber-peak-cable-car-singapore/",
-  "general_tag": [
-    {
-      "bg_color": "#F5F5F5",
-      "text_color": "#757575",
-      "text": "Instant confirmation"
-    }
-  ],
-  "price": {
-    "selling_price_format": "From {price}",
-    "selling_price": "S$ 14.2",
-    "market_price": "S$ 15",
-    "market_price_no_strike": false,
-    "discount_tag": null
-  },
-  "price_tag_list": [],
-  "promotion_tag": null,
-  "review": {
-    "star": "★ 4.7",
-    "number": "(19,847)",
-    "booked": "500K+ booked",
-    "dot": " • "
-  },
-  "seo": {
-    "title": "Singapore Cable Car Sky Pass",
-    "url": "https://www.klook.com/en-US/activity/130-faber-peak-cable-car-singapore/"
-  },
-  "sold_out": false,
-  "title": "Singapore Cable Car Sky Pass",
-  "vertical_id": 130,
-  "vertical_type": 100
-}
-{
   "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/hn0x3xjtb6y1wxdhwvsi.jpg",
   "deep_link": "https://www.klook.com/en-US/activity/2501-marina-bay-sands-artscience-museum-singapore/",
   "general_tag": [
@@ -268,6 +234,40 @@
   "sold_out": false,
   "title": "ArtScience Museum at Marina Bay Sands Ticket",
   "vertical_id": 2501,
+  "vertical_type": 100
+}
+{
+  "cover_url": "https://res.klook.com/image/upload/c_fill,w_420,h_260/activities/ic8ug8bymgsexlfyr7kp.jpg",
+  "deep_link": "https://www.klook.com/en-US/activity/130-faber-peak-cable-car-singapore/",
+  "general_tag": [
+    {
+      "bg_color": "#F5F5F5",
+      "text_color": "#757575",
+      "text": "Instant confirmation"
+    }
+  ],
+  "price": {
+    "selling_price_format": "From {price}",
+    "selling_price": "S$ 14.2",
+    "market_price": "S$ 15",
+    "market_price_no_strike": false,
+    "discount_tag": null
+  },
+  "price_tag_list": [],
+  "promotion_tag": null,
+  "review": {
+    "star": "★ 4.7",
+    "number": "(19,847)",
+    "booked": "500K+ booked",
+    "dot": " • "
+  },
+  "seo": {
+    "title": "Singapore Cable Car Sky Pass",
+    "url": "https://www.klook.com/en-US/activity/130-faber-peak-cable-car-singapore/"
+  },
+  "sold_out": false,
+  "title": "Singapore Cable Car Sky Pass",
+  "vertical_id": 130,
   "vertical_type": 100
 }
 {
